@@ -30,8 +30,10 @@ an original crewmember from 2001, and Paul Davis are the current crew
 foreman. In December 2014 the crew moved into a new operations building
 on BLM land in Pocatello.
 
-Superintendent:
-Randy Anderson 2001-Present
+ Superintendent | Year(s) 
+ :- | :- 
+ Randy Anderson | 2001-2020 
+ Kenney Bochniak | 2021-present 
 
 ...
 
@@ -39,7 +41,8 @@ Randy Anderson 2001-Present
 
 ...
 
-## Fulton
+## Fulton 
+![image](https://user-images.githubusercontent.com/8397034/191100031-820db6eb-a492-438c-a5e7-fbc083072d63.png)
 
 Contact Information: Fulton Hotshots
 
@@ -89,26 +92,17 @@ Although all the Hotshot Crews were being established around that time frame, Fu
 was a little ahead of its time in 1973. The year 2020 will mark 50 years from the time
 the Fulton Hotshots were established..
 
-CREW SUPERINTENDENTS
-
-Ed Masonheimer 1970 (June-August)
-
-William A. Sandborg, Jr. 1970 (August)-1982
-
-David R. Provencio, Jr. 1982 (Detail)
-
-James Smith 1983-1988
-
-Dan Kleinman 1989-1994
-
-Shelby Charley 1995-1996 (Detail)
-
-Luis Orozco 1997 (Detail)
-
-Ron Bollier 1998-2013
-
-Josh Acosta 2013 (Detail)
-
-Josh Acosta 2014-Present
+ Superintendent | Year(s) 
+ :- | :- 
+Ed Masonheimer | 1970 (June-August)
+William A. Sandborg, Jr. | 1970 (August)-1982
+David R. Provencio, Jr. | 1982 (Detail)
+James Smith | 1983-1988
+Dan Kleinman | 1989-1994
+Shelby Charley | 1995-1996 (Detail)
+Luis Orozco | 1997 (Detail)
+Ron Bollier | 1998-2013
+Josh Acosta | 2013 (Detail)
+Josh Acosta | 2014-Present
 
 ...
