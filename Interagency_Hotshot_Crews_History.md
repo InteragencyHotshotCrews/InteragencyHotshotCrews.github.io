@@ -12,11 +12,7 @@ August 2022
 
 ![](media/image2.png)
 
-**Alaska**
-
-**PutrtoRlco**
-
-**[ALASKA FIRE SERVICE HOTSHOTS]{.underline}**
+# Alaska 
 
 The first **Alaska Bureau of Land Management** seasonal fire crew was
 started by Anchorage District in 1974. Named the Anchorage Hotshots\*,
@@ -81,23 +77,56 @@ well and are proud of their achievements.
 \*Though the pre-1985 crews were referred to as "Hotshots", they
 actually met Category 2 (later Type2) standards.
 
-**[ALASKA FIRE SERVICE HOTSHOT SUPERINTENDENTS]{.underline}**
+## Chena
 
-**[Chena IHC]{.underline}**
+Year(s) | Superintendent
+:- | :-
+1985-1988 | Jon Larson 
+1989 | Steve Bumgarner
+1990-1993 | Skip Theisen
+1994 | Mike Powell
+1994 | Mike Theisen
+1995 | Skip Theisen
+1996-1998 | Mike Theisen
+1999 | Mike Theisen
+1999 | Shane McDonald
+2000 | Shane McDonald
+2001-2003 | Pat O’Brien
+2004-2007 | Jake Livingston
+2008-2013 | Chris Marabetta
+2014-2018 | Oded Shalom
+2019-Present | Iris Sager
 
-[ **Midnight Sun IHC**]{.underline}
+## Midnight Sun
 
-**[Denali IHC]{.underline}**
+Year(s) | Superintendent
+:- | :-
+1985 | David Lockwood
+1986-1988 | Jerry Soard
+1989-1991 | Dave Jandt
+1992 | Dave Jandt
+1992 | Dave Matier
+1993-1997 | Dave Matier
+1998 | Shane McDonald
+1999-2007 | Dave Matier
+2008 | Cory Swisher
+2009-2010 | Dave Matier
+2010-2014 | Jake Livingston
+2015-2017 | Chris Demers
+2018-2019 | Chase Maness
+2020-Present | Miles Bond
 
-![](media/image5.jpeg){width="4.407482502187227in"
-height="4.513079615048119in"}
+## Denali
 
-![](media/image6.jpeg){width="2.0643110236220474in"
-height="2.058332239720035in"}
+Year(s) | Superintendent
+:- | :-
+1998 | Larry Nolan
+1999 | Pat O’Brien
+2000-2004 | Lawrence Moses
+2005-2006 | Ray Crowe
+2007 | Steve Boatman
 
-![](media/image7.png){width="1.4256944444444444in"
-height="1.4965244969378828in"}Pioneer Peak IHC History
-
+## Pioneer Peak
 Pioneer Peak IHC is a State of Alaska DNR crew stationed in Palmer
 Alaska. The crew started in the 1980's as a call up emergency
 firefighting crew and were known as the Mat Su Ridge Runners.
@@ -124,15 +153,12 @@ Hotshot Crews before us.
 
 Sacrifice. Service. Old School.
 
-**[Superintendents:]{.underline}**
-
-![](media/image8.jpeg){width="2.124818460192476in"
-height="1.193649387576553in"}Jeff Ennenga - 2003-2006 (Pioneer Peak
-T2IA & Regional Type 1) Matt Jones -- 2007 (Type 1) 2008-2015 (IHC)
-
-Jon Glover -- 2016
-
-Kris Baumgartner -- 2017-Present
+Year(s) | Superintendent
+:- | :-
+2003-2006 | Jeff Ennenga (Pioneer Peak T2IA & Regional Type 1)
+2007-2015 | Matt Jones (2007 Type 1, 2008-2015 IHC)
+2016 | Jon Glover
+2017-Present | Kris Baumgartner
 
 ### ![](media/image9.jpeg)Great Basin
 
