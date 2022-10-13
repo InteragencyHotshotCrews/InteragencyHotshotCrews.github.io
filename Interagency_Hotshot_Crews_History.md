@@ -160,12 +160,10 @@ Year(s) | Superintendent
 2016 | Jon Glover
 2017-Present | Kris Baumgartner
 
-### ![](media/image9.jpeg)Great Basin
+# Great Basin
 
-**Puerto Rico**
-
-![](media/image11.png){width="1.65625in" height="1.65625in"}
-
+## Alta
+![]()
 The Alta Hotshots were officially certified as an Interagency Hotshot
 Crew on June 13^th^, 2014. Earning Type 1 status followed a four-year
 journey consisting of peer evaluations, an embedded review with an
@@ -217,22 +215,24 @@ of Forestry Fire and State Lands. Including the Alta Hotshots, it
 houses 2 Interagency Hotshot Crews, 2 Type 2 I.A Crews, and 2 Type 3
 Engines.
 
-**Alta IHC Superintendents Alta IHC Captains**
+Year(s) | Superintendent
+:- | :-
+2014-2018 | Wade Snyder
+2019-2021 | Jesse Trembly
+2022-Present | Tyler Carruth
 
-Wade Snyder: 2014 - 2018 Scott Nielson: 2014 - 2015
+Year(s) | Captain
+:- | :-
+2014-2015 | Scott Nielson
+2015-2018 | Jesse Trembley
+2019-Current | Austin Wilson
+2020-2021 | Tyler Carruth
 
-Jesse Trembly: 2019 - 2021 Jesse Trembley: 2015 - 2018
-
-Tyler Carruth: 2022 - Present Austin Wilson: 2019 - Current Tyler
-Carruth: 2020 - 2021
-
-######### Black Mountain Interagency Hotshot Crew 1989 -- Present
-
-![](media/image12.jpeg){width="1.5504932195975503in"
-height="1.0167705599300088in"}![](media/image13.jpeg){width="1.1198676727909012in"
-height="1.0171872265966755in"}
-
-1989-2005 2006-Present
+## Black Mountain
+Black Mountain Interagency Hotshot Crew 1989 -- Present
+1989-2005 | 2006-Present
+:-: | :-:
+![]() | ![]()
 
 The Black Mountain Interagency Hotshot Crew was established in 1988
 through the efforts of the Toiyabe National Forest's Fire Management
@@ -282,25 +282,28 @@ crew is co-located with the BLM Silver State Hotshot Crew.
 Matt Hoggard retired in January of 2016, having worked on Black
 Mountain since 1991.
 
-**Superintendents: Assistant Superintendents:**
+Year(s) | Superintendent
+:- | :-
+1989-2005 | Craig Workman
+2005-2015 | Matt Hoggard
+2016 | Matt Gill (detail)
+2016 | Jed Rudelbach (detail)
+2017-Present | Pamela Messal
 
-Craig Workman 1989-2005 Grace Newell 1989-1993
+Year(s) | Assistant Superintendent
+:- | :-
+1989-1993 | Grace Newell
+1989-1990 | Dale Shippelhoute
+1993-1994 | Jeff Bell
+1996-2005 | Matt Hoggard
+2005-2008 | Matt James
+2009-2013 | Doug Clark
+2015-present | Matt Gill
+2015-present | Jed Rudelbach
 
-Matt Hoggard 2005-2015 Dale Shippelhoute 1989-1990
-
-Matt Gill 2016 (detail) Jeff Bell 1993-1994
-
-Jed Rudelbach 2016 (detail) Matt Hoggard 1996-2005
-
-Pamela Messal 2017-Present Matt James 2005-2008
-
-Doug Clark 2009- 2013
-
-Matt Gill 2015-present Jed Rudelbach 2015-present
-
-![](media/image14.png){width="0.9934886264216973in"
-height="0.9762893700787402in"}**[Crew History:]{.underline}** Payette
-Hotshots, Payette IR, Boise IR, Boise Hotshots.
+## Boise 
+![]()
+**Crew History:** Payette Hotshots, Payette IR, Boise IR, Boise Hotshots.
 
 The crew was started on the Payette National Forest, Thorn Creek
 Ranger District in 1961 (one of the first Hotshot crews in the Forest
@@ -349,73 +352,44 @@ mission to provide quality work while striving to be proactive,
 productive members for the Incident Management Teams (IMT's) and other
 agencies they may work with.
 
-![](media/image15.jpeg){width="1.3048600174978127in"
-height="1.49999343832021in"}**[Crew Superintendents:
-Years:]{.underline}**
+Year(s) | Superintendent | Years
+:- | :- | :-: 
+1961 | Gary N. White | 1
+1962-1963 | Billings | 2   
+1964 | John (Tex) Stockman | 1 
+1965-1968 | Carl Rossell | 4
+1969 | Ron Dean | 1
+1970-1973 | Dave Kellogg | 4
+1974-1978 | Merrill Saleen | 5
+1979-1986 | Terry Leatherman | 8
+1987-1992 | Kole Berriochoa | 6
+1993 | Chris Simonson | 1
+1994-1996 | Kole Berriochoa | 2.5
+1996-1998 | Jim Cook | 2.5
+1999-2001 | Randy Skelton | 2.5
+2001-2011 | Matthew Ziegler | 10.5
+2011-Present | Deon Berner | 
 
-+------------------------------------+-----------------------------------+
-| Gary N. White -- 1961            | 1                               |
-+====================================+===================================+
-| Billings -- 1962 to 1963         | 2                               |
-+------------------------------------+-----------------------------------+
-| John (Tex) Stockman -- 1964      | 1                               |
-+------------------------------------+-----------------------------------+
-| Carl Rossell -- 1965 to 1968     | 4                               |
-+------------------------------------+-----------------------------------+
-| Ron Dean -- 1969                 | 1                               |
-+------------------------------------+-----------------------------------+
-| Dave Kellogg -- 1970 to 1973     | 4                               |
-+------------------------------------+-----------------------------------+
-| Merrill Saleen -- 1974 to 1978   | 5                               |
-+------------------------------------+-----------------------------------+
-| Terry Leatherman -- 1979 to 1986 | 8                               |
-+------------------------------------+-----------------------------------+
-| Kole Berriochoa -- 1987 to 1992  | 6                               |
-+------------------------------------+-----------------------------------+
-| Chris Simonson -- 1993           | 1                               |
-+------------------------------------+-----------------------------------+
-| Kole Berriochoa -- 1994 to 1996  | 2.5                             |
-+------------------------------------+-----------------------------------+
-| Jim Cook -- 1996 to 1998         | 2.5                             |
-+------------------------------------+-----------------------------------+
-| Randy Skelton -- 1999 to 2001    | 2.5                             |
-+------------------------------------+-----------------------------------+
-| Matthew Ziegler -- 2001 to 2011  | 10.5                            |
-+------------------------------------+-----------------------------------+
-| Deon Berner -- 2011 to Present   |                                   |
-+------------------------------------+-----------------------------------+
-|                                    | **Crew Logo's Over the Years:** |
-+------------------------------------+-----------------------------------+
+**Crew Logo's Over the Years:** 
+1970 | 1989-1992 | 1993-1996 | 1997-2001 | 2001-Present
+:-: | :-: | :-: | :-: | :-:
+![]() | ![]() | ![]() | ![]() | ![]()
 
-![](media/image16.jpeg){width="0.9104286964129484in"
-height="1.0908333333333333in"}![](media/image17.jpeg){width="1.0180993000874892in"
-height="1.049582239720035in"}![](media/image18.jpeg){width="1.2013768591426073in"
-height="1.2145833333333333in"}![](media/image14.png){width="1.1105511811023623in"
-height="1.0914577865266841in"}
-
-1989 to 1992 1993 to 1996 1997 to 2001 2001 to Present
-
+## Bonneville
 Bonneville Hotshots History 2001- Present
-
-![](media/image19.jpeg){width="2.2511712598425198in"
-height="1.8933333333333333in"}
-
 The Bonneville IHC was established in 2001 to help fulfill BLM\'s
 commitment to provide national fire suppression resources. The crew is
 based in Salt Lake City Utah, Salt Lake BLM Field Office. In 2001 the
 crew ran as a IHC(T) and received its certification in the Spring of
 2002.
 
-**Superintendents Past and Present**
+Year(s) | Superintendent
+:- | :-
+2001-2008 | Nathan Lancaster
+2008-2012 | Chris Kirby
+2012-Present | Pila Malolo
 
-Nathan Lancaster 2001 -- 2008
-
-Chris Kirby 2008 -- 2012
-
-Pila Malolo 2012 - Present
-
-![](media/image20.jpeg){width="1.3386132983377077in"
-height="1.5299989063867017in"}
+## Cedar City
 
 ***As Professional Wildland Firefighters we are dedicated to serving
 the U.S. Forest Service, our Cooperators and the Public while
@@ -478,50 +452,37 @@ characteristics of Duty, Respect and Integrity. A strong work ethic,
 commitment to the operation, and respect for Hotshot history and
 tradition are the pillars upon which this crew stands.
 
-+-----------------------------+-----------------------------+
-| **Superintendent**        | **Captain**               |
-+=============================+=============================+
-| Jon Lee 2001-2002         | Todd Wood 2001-2003       |
-+-----------------------------+-----------------------------+
-| Robert Barrett 2003-2005  | Brian Burbridge 2005-2010 |
-+-----------------------------+-----------------------------+
-| Ken Henson 2006-2009      | Joe Harris 2007-2008      |
-+-----------------------------+-----------------------------+
-| Brian Burbridge 2010-2015 | Tom Allbright 2009-2013   |
-+-----------------------------+-----------------------------+
-| Dave Harmon 2016-Detail   | Dave Harmon 2010-2015     |
-+-----------------------------+-----------------------------+
-| Dave Harmon 2017-Present  | Greg Fryer 2014           |
-+-----------------------------+-----------------------------+
-|                             | Ryan Baker 2015-Detail    |
-+-----------------------------+-----------------------------+
-|                             | Dustin Blair 2016-Detail  |
-+-----------------------------+-----------------------------+
-|                             | Dustin Blair 2017-Present |
-+-----------------------------+-----------------------------+
-|                             | John Hunt 2017-Detail     |
-+-----------------------------+-----------------------------+
-|                             | John Hunt 2018-Present    |
-+-----------------------------+-----------------------------+
+Year(s) | Superintendent
+:- | :-
+2001-2002 | Jon Lee
+2003-2005 | Robert Barrett
+2006-2009 | Ken Henson
+2010-2015 | Brian Burbridge
+2016 | Dave Harmon (detail)
+2017-Present | Dave Harmon
 
-+-----------------------------------+-----------------------------------+
-| ![](media/image21.jpeg){width=" | **2001-2002**                   |
-| 2.334498031496063in"              |                                   |
-| height="1.493228346456693in"}   |                                   |
-+===================================+===================================+
-| ![](media/image22.jpeg){width=" | **2003-2006**                   |
-| 2.343391294838145in"              |                                   |
-| height="1.9797911198600175in"}  |                                   |
-+-----------------------------------+-----------------------------------+
-| ![](media/image23.jpeg){width=" | **2007- PRESENT**               |
-| 1.8752744969378827in"             |                                   |
-| height="2.058332239720035in"}   |                                   |
-+-----------------------------------+-----------------------------------+
+Year(s) | Captain
+:- | :-
+2001-2003 | Todd Wood
+2004 | ?
+2005-2010 | Brian Burbridge
+2007-2008 | Joe Harris
+2009-2013 | Tom Allbright
+2010-2015 | Dave Harmon
+2014 | Greg Fryer
+2015 | Ryan Baker (detail)
+2016 | Dustin Blair (detail)
+2017-Present | Dustin Blair
+2017 | John Hunt (detail)
+2018-Present | John Hunt
 
+**2001-2002** | **2003-2006** | **2007- PRESENT**
+:-: | :-: | :-: 
+![]() | ![]() | ![]() 
 **PAST & PRESENT CREW LOGOS**
 
-![](media/image24.jpeg){width="1.508102580927384in"
-height="1.5445833333333334in"}
+## Idaho City
+![]()
 
 ***The Idaho City Hotshots will uphold the Forest Service mission of
 "Protecting the land and serving the people." Our vision is to
@@ -576,35 +537,27 @@ and is founded on the principles of hard work.
 Idaho City Hotshots receive nothing but exceptional support from
 District, Forest, Regional and National levels.
 
-**Superintendents**
+Year(s) | Superintendent
+:- | :-
+2001-2004 | Russ Long
+2005-Present | Brian Cardoza
 
-**Russ Long 2001 -- 2004**
+Year(s) | Captain
+:- | :-
+2001 | J. P. Zavalla 
+2002 | Pete Mason
+2002-2004 | Brian Cardoza
+2003-2005 | Albert Linch
+2005-2007 | Allyn Spanfellner
+2006-2009 | Steve Ramaekers
+2008-2020 | Randy Lamb
+2010-2016 | Anthony (TJ) Gholson
+2018-Present | Steven Traverso
+2020-Present | Brad Kitchens
 
-**Brian Cardoza 2005 -- Present**
-
-**Captains**
-
-**J. P. Zavalla 2001 Pete Mason 2002**
-
-**Brian Cardoza 2002 - 2004**
-
-**Albert Linch 2003 -- 2005**
-
-**Allyn Spanfellner 2005 -- 2007**
-
-**Steve Ramaekers 2006 -- 2009**
-
-**Randy Lamb 2008 - 2020**
-
-**Anthony (TJ) Gholson 2010 -- 2016 Steven Traverso 2018 -- Present
-Brad Kitchens 2020\--Present**
-
-**LOGAN INTERAGENCY HOTSHOT CREW WASATCH-CACHE NATIONAL FOREST, REGION
-FOUR**
-
-![](media/image25.jpeg){width="2.116153762029746in"
-height="1.6770833333333333in"}
-
+## Logan
+LOGAN INTERAGENCY HOTSHOT CREW WASATCH-CACHE NATIONAL FOREST, REGION FOUR
+![]()
 Since the creation of the Logan Forest Reserve in 1903, fire
 prevention and suppression has been an important emphasis on the Cache
 National Forest. Overgrazing and large, unchecked forest fires in the
@@ -747,53 +700,32 @@ performance, safety and professionalism as its core values. It is
 proud of its traditions and of its close working relationships with
 fellow Hotshot crews, overhead teams and fire managers.
 
-**Logan Crew Superintendents**
+Year(s) | Superintendent
+:- | :-
+**Logan USU Forestry Crew** |
+1973-1974 | Dee Sessions
+1975 | Bob Clancy
+**Logan I.R. Crew** |
+1976 | Bob Clancy
+1977 | Mike Jenkins
+1978 | Dan Fritz
+**Wasatch Hotshots (Kamas Ranger District)** |
+1980-1984 | J.D. Killick
+**Logan Interagency Hotshot Crew (Training Crew - Type II)** |
+1988-1989 | Scott Bushman
+**Logan Interagency Hotshot Crew** |
+1990-1998 | Scott Bushman
+1999 | Nathan Lancaster (Detailed)
+2000-2001 | Scott Bushman
+2002 | Robert Barrett (Detailed)
+2003-2006 | Scott Bushman
+2007-2009 | Kendal Wilson
+2010 | Roy Fetzer (Detailed)
+2011 | John Platt (Detailed)
+2012-Present | Roy Fetzer
 
-**Logan USU Forestry Crew**
-
-1973 to 1974 Dee Sessions
-
-1975 Bob Clancy
-
-**Logan I.R. Crew**
-
-1976 Bob Clancy
-
-1977 Mike Jenkins
-
-1978 Dan Fritz
-
-**Wasatch Hotshots (Kamas Ranger District)**
-
-1980 to 1984 J.D. Killick
-
-**Logan Interagency Hotshot Crew (Training Crew - Type II)**
-
-1988 to 1989 Scott Bushman
-
-**Logan Interagency Hotshot Crew**
-
-1990 to 1998 Scott Bushman
-
-1999 Nathan Lancaster (Detailed)
-
-2000 to 2001 Scott Bushman
-
-2002 Robert Barrett (Detailed)
-
-2003 to 2006 Scott Bushman
-
-2007 to 2009 Kendal Wilson
-
-2010 Roy Fetzer (Detailed)
-
-2011 John Platt (Detailed)
-
-2012 to Present Roy Fetzer
-
-![](media/image26.jpeg){width="1.7498195538057744in"
-height="1.74125in"}
-
+## Lone Peak
+![]()
 **The Lone Peak Hotshots:**
 
 The Lone Peak Hotshots are a nationally recognized Type 1 Interagency
@@ -838,39 +770,30 @@ members. The crew still resides at the Lone Peak Conservation Center
 in Draper, using the same facilities as the Flame-In-Go's did with
 many new upgrades.
 
-[Superintendents of Flame-in-go Hotshots:]{.underline} Tracy Dunford:
-1991-1994
+Superintendents of Flame-in-go Hotshots
+Year(s) | Superintendent
+:- | :-
+1991-1994 | Tracy Dunford
+1995-1999 | Gary Peck
+2000-2001 | Scott Bovey
 
-Gary Peck: 1995 - 1999
+Superintendents of the Lone Peak Hotshots
+Year(s) | Superintendent
+:- | :-
+2001-2004 | Scott Bovey
+2005 | Joel Butcher
+2006-2009 | Mathew Armantrout
+2010 | Donny Bennett
+2011-2016 | Kris Bruington
+2016-2018 | Darren O'Loughlin
+2018 | Ryan LaFontaine (Detailed)
+2019-present | Christian Berninger
 
-Scott Bovey: 2000 - 2001
-
-[Superintendents of the Lone Peak Hotshots:]{.underline} Scott Bovey:
-2001-2004
-
-Joel Butcher: 2005
-
-Mathew Armantrout: 2006 to 2009
-
-Donny Bennett: 2010
-
-Kris Bruington: 2011 to 2016
-
-Darren O'Loughlin: 2016 to 2018 [Ryan LaFontaine: 2018
-(Detailed)]{.underline} [Christian Berninger:
-2019-present]{.underline}
-
-**Deleted:** present
-
-**Formatted:** Font color: Text 1
-
+## Ruby Mountain
 **Ruby Mountain Interagency Hotshot Crew History, 2001 -- Present**
-
-![](media/image27.jpeg){width="1.8631135170603674in"
-height="1.8841655730533684in"}![](media/image28.png){width="1.7952974628171479in"
-height="1.9488538932633421in"}![](media/image29.png){width="1.9337270341207349in"
-height="1.8333333333333333in"}
-
+![]()
+![]()
+![]()
 Ruby Mountain IHC began as a Type 1 training-crew on May 21st, 2001,
 in response to the 2000 national fire plan initiative presented by
 President Bill Clinton. This initiative allowed for 20 hand crews to
@@ -898,32 +821,21 @@ received the From the Field for the Field award for its participation
 in the Wildland Fire Leadership Development Program's Leadership
 Campaign.
 
-Superintendents:
+Year(s) | Superintendent
+:- | :-
+2001-2004 | Shane McDonald
+2005-2006 | Rich Stiles
+2007-2008 | Spencer Gregory
+2009-2013 | Gabriel Donaldson
+2014-2016 | Craig Cunningham
+2016 | Troy Thomas
+2017-2018 | Jerry Drazinski
+2019 | Vacant
+2020-Present | Chase Maness
 
-+----------------------+----------------+
-| Shane McDonald:    | 2001 -- 2004 |
-+======================+================+
-| Rich Stiles:       | 2005 -- 2006 |
-+----------------------+----------------+
-| Spencer Gregory:   | 2007 -- 2008 |
-+----------------------+----------------+
-| Gabriel Donaldson: | 2009 -- 2013 |
-+----------------------+----------------+
-| Craig Cunningham:  | 2014 -- 2016 |
-+----------------------+----------------+
-| Troy Thomas        | 2016         |
-+----------------------+----------------+
-| Jerry Drazinski    | 2017-2018    |
-+----------------------+----------------+
-| Vacant             | 2019         |
-+----------------------+----------------+
-| Chase Maness       | 2020-Present |
-+----------------------+----------------+
-
-![](media/image30.jpeg){width="1.5312489063867016in"
-height="1.5729166666666667in"}**SAWTOOTH INTERAGENCY HOTSHOT CREW
-SAWTOOTH NATIONAL FOREST, REGION FOUR HISTORY OF THE SAWTOOTH
-HOTSHOTS**
+## Sawtooth
+![]()
+**SAWTOOTH INTERAGENCY HOTSHOT CREW SAWTOOTH NATIONAL FOREST, REGION FOUR HISTORY OF THE SAWTOOTH HOTSHOTS**
 
 In 1966 the Sawtooth National Forest established a 10-person fire crew
 that was stationed at the Featherville Brush Camp (an old CCC camp) on
@@ -1080,30 +992,25 @@ nationally standardized 10-person Crew Carrier vehicle arrived in
 2012.
 
 **Crew Supervision:**
+Year(s) | Superintendent
+:- | :-
+1967 | Bob Berg
+1968-1973 | Bill Williams
+1974-1977 | Randy Doman
+1978 | Joe Bongiovi (1/2 year)
+1978-1980 | Randy Doman (1/2 year)
+1981-1989 | Cole Johnson
+1990 | Mark Barbo (detail)
+1991-1995 | Andy Lang
+1996-2000 | Dennis Pratt
+2001-2006 | Tom Bates
+2007-2011 | Heath Cota
+2012-2019 | Mike Krupski
+2020-Present | Kyle West
 
-Bob Berg: 1967
-
-Bill Williams: 1968-1973
-
-Randy Doman: 1974-1977 Joe Bongiovi: 1978 (1/2 year)
-
-Randy Doman: 1978 (1/2 year) - 1980 Cole Johnson: 1981-1989
-
-Mark Barbo: 1990 (detail) Andy Lang: 1991-1995
-
-Dennis Pratt: 1996-2000
-
-Tom Bates: 2001- 2006
-
-Heath Cota: 2007- 2011
-
-Mike Krupski: 2012-2019 Kyle West: 2020 - Present
-
+## Silver State
 **SILVER STATE INTERAGENCY HOTSHOT CREW**
-
-![](media/image31.jpeg){width="0.9619838145231846in"
-height="1.1812489063867018in"}
-
+![]()
 [***[www.nv.blm.gov/carson/fire/sshs/sshs\_home.htm]{.underline}***](http://www.nv.blm.gov/carson/fire/sshs/sshs_home.htm)
 
 Silver State Hand Crew has been around since late 1960's mainly
@@ -1117,29 +1024,20 @@ consisting of Emergency Firefighters.
 
 Established in Carson City, NV where the crew continues to reside.
 
-+--------------------+----------------+-----------------+
-| Superintendents: | 1976-1977    | Dick Jackson  |
-+====================+================+=================+
-|                    | 1978         | Kelly Clark   |
-+--------------------+----------------+-----------------+
-|                    | 1979         | Tom Sullivan  |
-+--------------------+----------------+-----------------+
-|                    | 1980         | Mark Lathrop  |
-+--------------------+----------------+-----------------+
-|                    | 1981- 1989   | Steve Edgar   |
-+--------------------+----------------+-----------------+
-|                    | 1990- 1998   | James Ogilvie |
-+--------------------+----------------+-----------------+
-|                    | 1999- 2002   | Jerry Soard   |
-+--------------------+----------------+-----------------+
-|                    | 2003- 2006   | Nate Gogna    |
-+--------------------+----------------+-----------------+
-|                    | 2006-present | Kevin Kelly   |
-+--------------------+----------------+-----------------+
+Year(s) | Superintendent
+:- | :-
+1976-1977 | Dick Jackson
+1978 | Kelly Clark
+1979 | Tom Sullivan
+1980 | Mark Lathrop
+1981-1989 | Steve Edgar
+1990-1998 | James Ogilvie
+1999-2002 | Jerry Soard
+2003-2006 | Nate Gogna
+2006-present | Kevin Kelly
 
-![](media/image32.png){width="1.4729046369203849in"
-height="1.1273950131233597in"}
-
+## Snake River
+![]()
 ######### SNAKE RIVER IHC CREW HISTORY
 
 **Established 2001**
@@ -1157,9 +1055,10 @@ leadership roles. Kenney Bochniak, an original crewmember from 2001,
 and Paul Davis are the current crew foreman. In December 2014 the crew
 moved into a new operations building on BLM land in Pocatello.
 
-**Superintendent:**
-
-Randy Anderson 2001-2020 Kenny Bochniak 2021-present
+Year(s) | Superintendent
+:- | :-
+2001-2020 | Randy Anderson
+2021-present | Kenny Bochniak
 
 ### ![](media/image33.jpeg)North Ops
 
