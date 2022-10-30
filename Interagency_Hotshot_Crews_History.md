@@ -1060,12 +1060,10 @@ Year(s) | Superintendent
 2001-2020 | Randy Anderson
 2021-present | Kenny Bochniak
 
-### ![](media/image33.jpeg)North Ops
+# Northern California
 
-**PuutoRlco**
-
-![](media/image35.jpeg){width="3.349349300087489in"
-height="4.09375in"}
+## American River
+![]()
 
 The American River Hotshot are based on the Tahoe National Forests
 American River Ranger District. The American River Ranger District was
@@ -1076,23 +1074,14 @@ brush disposal crews to Type 2 and Type 2IA crews since the 60s. The
 goal of the American River Hotshots is to uphold the standards and
 traditions of the Hotshot Community.
 
-**[Superintendence]{.underline} [Captains]{.underline}**
+Year(s) | Superintendent
+:- | :-
+2005-2008 | Charlotte Wild Jordan 
+2008-2016 | Adam Leyba
+2016-Present | Matt Radtke
 
-Charlotte Wild Jordan 2005-2008 Adam Leyba 2005-2008
-
-Adam Leyba 2008-2016 Todd Like 2005-2007
-
-Matt Radtke 2016-Present Matt Holmstrom 2007-2013 Matthew Radtke
-2009-2016
-
-Terry Lim 2013-2016
-
-Chris McCandless 2016-2018
-
-Stephen Clifford 2017-2021 Nate Cowell 2019- present Jeff Radach 2022-
-present
-
-![](media/image36.jpeg){width="1.9566666666666668in" height="2.0in"}
+## Beckwourth
+![]()
 
 Prior to the 2001 MEL funding build‐up, the crew existed as two fuel
 modules. One was based at the Beckwourth Ranger District office in
@@ -1114,14 +1103,13 @@ certification pending an imbedded review, for the 2017 fire season. On
 September 22, 2017 the Beckwourth Handcrew re‐obtained Type 1 IHC
 status.
 
-[Superintendents]{.underline}
+Year(s) | Superintendent
+:- | :-
+2017‐Present | Mike Wintch
 
-Mike Wintch 2017 ‐ Present [Captains]{.underline}
-
-Aaron Knudson 2017 ‐ Present Chris Voelker 2017 ‐ Present
-
-![](media/image37.png){width="2.1100339020122485in"
-height="1.3983978565179354in"}**Diamond Mountain Hotshots**
+## Diamond Mountain
+![]()
+**Diamond Mountain Hotshots**
 
 **Agency: USDI Bureau of Land Mgmt Home Unit: Susanville, California**
 
@@ -1135,9 +1123,6 @@ Drive**
 **(530) 257-7601**
 
 **Established 1992**
-
-![](media/image38.jpeg){width="1.8405621172353457in"
-height="0.4166666666666667in"}
 
 The Diamond Mountain Interagency Hotshot Crew were born in the spring
 1992 under the guise of increasing the Bureau of Land Management's
@@ -1218,19 +1203,16 @@ This year we lost Jake Garate; he accepted the superintendent position
 of the Wolf Creek IHC. Garrett Dunn is the crew Foreman since April of
 2015.
 
-**Crew Superintendents**
+Year(s) | Superintendent
+:- | :-
+1992  | Mike Bowles
+1993-2001 | Kurt LaRue
+2001-2005 | Ed Merrill
+2006-2008 | Steve Shaw 
+2009-Present | Dan Varney
 
-**1992: Mike Bowles**
-
-**1993 - 2001: Kurt LaRue**
-
-**2001 - 2005: Ed Merrill**
-
-**2006 -- 2008: Steve Shaw 2009 -- Present: Dan Varney**
-
-![](media/image39.jpeg){width="1.3962226596675416in"
-height="1.4791666666666667in"}
-
+## Eldorado
+![]()
 **Eldorado Hotshots**
 
 **Agency: USDA Forest Service**
@@ -1247,9 +1229,6 @@ Eldorado Hotshots**
 **F: 530-644-4201**
 
 **Established 1981**
-
-![](media/image40.jpeg){width="1.8399245406824147in"
-height="0.4166666666666667in"}
 
 On May 19, 1981, Lynn Biddison, director of Aviation and Fire
 Management initiated the Eldorado Hotshots. Up until 1976, all four
@@ -1299,56 +1278,18 @@ Humphrey left the crew and Forest Service, to pursue a life outside
 the agency. It was at this time that Ben Strahan took over the crew,
 and he is currently the Superintendent of the Eldorado Hotshots.
 
-**Crew Superintendents**:
+Year(s) | Superintendent
+:- | :-
+1981 | Milt Clark
+1982-1988 | Barry Callenberger
+1989-1995 | Greg Keller
+1996-2010 | Mike Beckett
+2010-2015 | Will Harris
+2016-2019 | Aaron Humphrey
+2019-present | Ben Strahan
 
-Milt Clark, 1981
-
-Barry Callenberger, 1982 -1988
-
-Greg Keller, 1989 -1995
-
-Mike Beckett, 1996 -- 2010
-
-Will Harris, 2010 -- 2015
-
-Aaron Humphrey, 2016 -- 2019 Ben Strahan, 2019 -- present
-
-**Crew Captains:**
-
-Milt Clark, 1982
-
-Greg Keller, 1981 -- 1988
-
-Paul Musser, 1983 -- 1989
-
-Berni Bahro, 1989 -- 1983
-
-Lisa Fisher, 1991 -- 1996
-
-Jeff Robison, 1996
-
-John Colby, 1996 -- 1999
-
-Mike Cherry, 1996 -- 2001
-
-Mike Sandoval, 2001 -- 2006
-
-Will Harris, 2004 -- 2010
-
-Aaron Humphrey, 2007 -- 2015
-
-Nick Matheson, 2010 -- 2014
-
-Brad Stewart, 2014 -- 2015
-
-DJ McIlhargie, 2016 -- 2021
-
-Ben Strahan, 2016 -- 2019 Marc Ellsworth, 2019 -- present Matt
-Stanford, 2022 -- present
-
-![](media/image41.png){width="2.023947944006999in"
-height="1.8645833333333333in"}
-
+## Elk Mountain
+![]()
 The ***Elk Mountain Hotshots*** is hosted by the Upper Lake Ranger
 District on the Mendocino National Forest in Upper Lake, California.
 The crew was established in 2002 under the MEL build up in Region
@@ -1359,27 +1300,21 @@ forest the crew's official name is Crew 4.
 **In June 2009 a regional certification team came and certified the
 Crew becoming Elk Mountain Hotshots.**
 
-**Crew Superintendents:**
+Year(s) | Superintendent
+:- | :-
+2003-2004 | Grant Montgomery
+2005 | Jon Teutrine
+2006-2007 | Bret Murphy
+2008-2010 | Richard Tingle
+2011 | Donovan Lee
+2012-2014 | Cheveyo Munk
+2015 | Kyle Betty (detail)
+2016-Present | Reymundo Reyes
 
-Grant Montgomery 2003-2004
-
-Jon Teutrine 2005
-
-Bret Murphy 2006-2007
-
-Richard Tingle 2008-2010
-
-Donovan Lee 2011
-
-Cheveyo Munk 2012- 2014
-
-Kyle Betty (detail) 2015
-
-Reymundo Reyes 2016- Present
-
+## Feather River
 ######### Feather River Hotshots History 2003-Present
 
-![](media/image42.jpeg){width="1.3830905511811025in" height="1.295in"}
+![]()
 
 The Feather River hotshots were established April, 2003. In 2001 the
 Plumas National Forest got the funding for two additional twenty
@@ -1411,19 +1346,12 @@ year or two out. Management on the district played a critical role in
 keeping the crew when there was talk about two 10-persen crews on the
 forest in lieu of.
 
-+-------------------------------+----------------------+----------------+
-| **Crew Superintendents:**   | **Crew Captains:** |                |
-+===============================+======================+================+
-| Robert Daniels 2003-Present | Mark Davis         | 2003-Present |
-+-------------------------------+----------------------+----------------+
-|                               | Ray Torres         | 2005-2008    |
-+-------------------------------+----------------------+----------------+
-|                               | James Maynard      | 2009-Present |
-+-------------------------------+----------------------+----------------+
+Year(s) | Superintendent
+:- | :-
+2003-Present | Robert Daniels
 
-![](media/image43.png){width="2.4829800962379704in"
-height="2.4941666666666666in"}
-
+## Klamath
+![]()
 The Klamath Hotshots were established as part of the National Fire
 Plan in response to the devastating fires of 2000. The maximum
 efficiency level (MEL) for the Klamath National Forest called for the
@@ -1475,49 +1403,14 @@ equipped workout facility in a reclaimed building on the compound,
 pull-up bars and volleyball court are available to the crew for
 additional physical training.
 
-Superintendent: Andrew Zink 2019 -- Present
+Year(s) | Superintendent
+:- | :-
+2001-2019 | Johnny Clem
+2017 | Andy Zink  (Detailed)
+2018 | Kevin Smyth (Detailed)
+2019-Present | Andrew Zink
 
-Kevin Smyth 2018 (Detailed)
-
-Andy Zink 2017 (Detailed)
-
-Johnny Clem 2001 -- 2019
-
-+-------------+------------------------------+-------------------+
-| Captains: | Kyle Owensby Andy Thomkins | 2020 - Present  |
-|             |                            |                 |
-|             | Isaac Flattley             | 2019 (detail)   |
-|             |                              |                 |
-|             |                              | 2019 - Present  |
-+=============+==============================+===================+
-|             | Kevin Smyth                  | 2014 - Present  |
-+-------------+------------------------------+-------------------+
-|             | Andy Zink                  | 2013 - 2019     |
-|             |                            |                 |
-|             | Kevin Smyth                | 2013 (Detailed) |
-+-------------+------------------------------+-------------------+
-|             | Aaron Schuh                  | 2009 - 2013     |
-+-------------+------------------------------+-------------------+
-|             | Devin Parks                | 2009- 2013      |
-|             |                            |                 |
-|             | Terry Lim                  | 2010 (Detailed) |
-+-------------+------------------------------+-------------------+
-
-+---------------------+-----------------+
-| Victor Guitierrez | 2008 (Detailed) |
-+=====================+=================+
-| Brett Loomis      | 2007 - 2009   |
-+---------------------+-----------------+
-| Devin Parks       | 2007 (Detailed) |
-+---------------------+-----------------+
-| Aaron Schuh       | 2005 - 2007   |
-+---------------------+-----------------+
-| Scott English     | 2001 - 2004   |
-+---------------------+-----------------+
-| Asad Rahman       | 2001 - 2008   |
-+---------------------+-----------------+
-
-##### [Lassen Hotshots]{.underline}
+## Lassen
 
 **Agency**
 
@@ -1587,25 +1480,17 @@ The Lassen Hotshots are proud to be a part of the California Hotshot
 community. We continually strive for excellence and to uphold our
 interagency hotshot crew values.
 
-**[Superintendents]{.underline}**
-
-Don Wallace --1974 to 1977
-
-Joe Carvello -- 1977 to 1978
-
-Jim Jimenez -- 1980 to 2002 (retired in place) Stan Kubota -- 1997
-(detailed)
-
-John Bristow -- 2003 to 2006 Mike Sherman -- 2007 (detailed) Allen
-Schultze -- 2008 (detailed) Fred Brewster 2009 to 2014 Allen Schultze
-2015 -- to Present **[Captains]{.underline}**
-
-Former crew captains include: Joe Carvelho, Scott Vail, Rick Addy, Rod
-Vineyard, Tommy Tucker, Dave Sandbrook, Bob Edwards, George Schwerian,
-Bill Walker, Rocky Tow, Larry Vogan, Dave Ramirez, Kelley Jones, Bob
-Richardson, Paul Johnson, John Bristow, Chuck Lewis, Robert Moreno,
-Mike Sherman, Allen Schultze, Mike Klimek, Kyle Betty, Jason Bennett,
-Fernando Estrada (current), Brett Matthews (current).
+Year(s) | Superintendent
+:- | :-
+1974-1977 | Don Wallace
+1977-1978 | Joe Carvello
+1980-2002 | Jim Jimenez (retired in place)
+1997 | Stan Kubota (detailed)
+2003-2006 | John Bristow
+2007 | Mike Sherman (detailed)
+2008 | Allen Schultze (detailed)
+2009-2014 | Fred Brewster
+2015-Present | Allen Schultze
 
 **[Recruitment Information]{.underline}**
 
@@ -1626,11 +1511,12 @@ Captain 9-2: Fernando Estrada --
 
 **Also, visit Lassen Hotshots Facebook page.**
 
+## Mad River
 ***MAD RIVER HOTSHOTS***
 
 ***Crew History***
 
-![](media/image44.jpeg){width="1.3657841207349082in" height="1.375in"}
+![]()
 
 ***Established 2001***
 
@@ -1650,30 +1536,19 @@ Squad Leaders , four GS- 462-05 Lead Firefighters, and up to thirteen
 employees; comprised of temporary seasonal, detailers, and
 apprentices.
 
-+---------------------------------+------------------------+-----------------+
-| [Superintendents]{.underline} | [Captains]{.underline} |                 |
-+=================================+========================+=================+
-| Tim Diaz 2001-02              | Tim Diaz             | 2003          |
-+---------------------------------+------------------------+-----------------+
-| George Mason 2002-03          | Ernie Weber          | 2003          |
-+---------------------------------+------------------------+-----------------+
-| Ernie Weber 2003-09           | Johnny Martinez        | 2004-08       |
-+---------------------------------+------------------------+-----------------+
-| Don Perez 2009                | Terry Warlick        | 2006          |
-+---------------------------------+------------------------+-----------------+
-| Ernie Villa 2010              | Don Perez            | 2008          |
-+---------------------------------+------------------------+-----------------+
-| Tad Hair 2011-2022            | Tad Hair             | 2009-10       |
-+---------------------------------+------------------------+-----------------+
-| Erick Esquivel 2022-Present   | Adam Booth           | 2010-2017     |
-+---------------------------------+------------------------+-----------------+
-|                                 | Erick Esquivel       | 2011-2022     |
-+---------------------------------+------------------------+-----------------+
-|                                 | Josh Riggins         | 2020- Present |
-+---------------------------------+------------------------+-----------------+
+Year(s) | Superintendent
+:- | :-
+2001-2002 | Tim Diaz (acting)
+2002-2003 | George Mason
+2003-2005 | Ernie Weber (acting)
+2006-2009 | Ernie Weber
+2009 | Don Perez
+2010 | Ernie Villa
+2011-present | Tad Hair 
 
-![](media/image45.jpeg){width="2.075in"
-height="2.0749989063867016in"}**Mendocino Hotshots**
+## Mendocino
+![]()
+**Mendocino Hotshots**
 
 **Agency: USDA Forest Service**
 
@@ -1744,28 +1619,22 @@ Superintendent January of 2016.
 Ernest Ceccon detailed into the position for the second half of the
 2019 fire season and was hired into the permanent position in 2020.
 
-**CREW SUPERINTENDENTS**
+Year(s) | Superintendent
+:- | :-
+1974-1977 | Bob Moore
+1978-1978 | Rusty Witwer
+1980-1986 | Jerry Barney
+1987-1988 | Larry Edwards
+1988-1994 | Don Will
+1995-2000 | Bill Pierce
+2001-2006 | Daren Dalrymple
+2007-2015 | Jon Tishner
+2015-2019 | Chris Markey
+2020-Present | Ernest Ceccon
 
-**Bob Moore 1974-1977**
-
-**Rusty Witwer 1978-1978**
-
-**Jerry Barney 1980-1986**
-
-**Larry Edwards 1987-1988**
-
-**Don Will 1988-1994**
-
-**Bill Pierce 1995-2000**
-
-**Daren Dalrymple 2001-2006**
-
-**Jon Tishner 2007-2015**
-
-**Chris Markey 2015-2019 Ernest Ceccon 2020-Present**
-
-![](media/image46.jpeg){width="2.8465266841644796in"
-height="2.7513877952755905in"}**Modoc Hotshots**
+## Modoc
+![]()
+**Modoc Hotshots**
 
 **Agency: USDA Forest Service**
 
@@ -1855,14 +1724,14 @@ and that his son was dating Shackelton's great granddaughter.
 The crew consists of 9 full time positions, one Superintendent, two
 Foreman, two squad leaders and four senior firefighters.
 
+## Plumas
 **PLUMAS INTERAGENCY HOTSHOT CREW**
 
 HISTORY
 
 PLUMAS NATIONAL FOREST, REGION FIVE
 
-![](media/image47.jpeg){width="1.7334350393700788in"
-height="1.7133333333333334in"}
+![]()
 
 The Plumas National Forest staffed its first nationally recognized
 Hotshot Crew in July of 1974 and for two seasons would have it split
@@ -1907,13 +1776,6 @@ In July of 1988 **Kent Swartzlander** was named to Superintendent
 behind Hatcher with Dave Ross remaining as Foreman. Larry Vogan then
 moved on to the Lassen NF and his position would remain vacant until
 1989 when **Jon Lee** was hired to fill it. Kent would
-
-**PLUMAS INTERAGENCY HOTSHOT CREW**
-
-HISTORY
-
-PLUMAS NATIONAL FOREST, REGION FIVE
-
 hold the Superintendent position for 12 seasons, from 1988 until 1999,
 during which time the organization was expanded to include two
 permanent Squad Leaders and eventually a single permanent Senior
@@ -1958,18 +1820,17 @@ The current organization of the Plumas Hotshots is:
 
 2.  -- GS-8, PFT, Captains -- Joe McGinn, Steve Nicholson (Detail)
 
-<!-- --
-
 2.  -- GS-7, PFT, Squad Leaders -- Luke Pascucci, Jace Scheckla
 
 3.  -- GS-5, PFT, Senior Firefighters -- Jordan (Marv) Wade, Dylan
     Ewing, Marcus Sartin 12 --Crewmembers
 
-![](media/image48.jpeg){width="1.6319192913385827in" height="1.625in"}
+## Redding
+![]()
 
 **Historical Information**
 
-#####  Redding IHC
+Redding IHC
 
 Established 1967
 
@@ -2096,416 +1957,16 @@ If fully staffed, crew will consist of all the overhead above (Nine
 permanent positions) and sixteen detailers to fill out the 25
 personnel.
 
-+-------------+-------------+-------------+-------------+-------------+
-| **[Overhe |             |             |             |             |
-| ad          |             |             |             |             |
-| Roster    |             |             |             |             |
-| 1967-2021 |             |             |             |             |
-| ]{.underlin |             |             |             |             |
-| e}**        |             |             |             |             |
-+=============+=============+=============+=============+=============+
-|             |             |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| **[Superi |             |             |             |             |
-| ntendents]{ |             |             |             |             |
-| .underline} |             |             |             |             |
-| **          |             |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| **1967-19 | **1986-20 | **2002-20 | **2010-pr |             |
-| 86**        | 02**        | 10**        | esent**     |             |
-+-------------+-------------+-------------+-------------+-------------+
-| Charlie   | Craig     | Robert    | Dan       |             |
-| "No       | "Lanky"   | Holt      | Mallia    |             |
-| Slack"    | Lechleite |             |             |             |
-| Caldwell  | r           |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-|             |             |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| **[Captai |             |             |             |             |
-| ns]{.underl |             |             |             |             |
-| ine}**      |             |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| **1967**  | **1968**  | **1969**  | **1970**  | **1971**  |
-+-------------+-------------+-------------+-------------+-------------+
-| Dick      | Bob       | Jerry     | Chuck     | Mark      |
-| O'Connor  | Solari    | Luce      | Mook      | Linane    |
-+-------------+-------------+-------------+-------------+-------------+
-| Bill      | Larry     | Gary      | Doug      | Dennis    |
-| Young     | Thunborg  | Mangus    | Priddy    | Osterman  |
-+-------------+-------------+-------------+-------------+-------------+
-|             |             |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| **1972-19 | **1974**  | **1975-19 | **1978-19 | **1980-19 |
-| 73**        |             | 77**        | 79**        | 82**        |
-+-------------+-------------+-------------+-------------+-------------+
-| Charlie   | Ken       | Ken       | Jim       | Jim Smith |
-| Gripp     | Blonski   | Blonski   | Jimenez   |             |
-+-------------+-------------+-------------+-------------+-------------+
-| Ron       | Dennis    | Mike      | Craig     | Craig     |
-| Linebarge | Osterman  | Horney    | Lechleite | Lechleite |
-| r           |             |             | r           | r           |
-+-------------+-------------+-------------+-------------+-------------+
-|             |             |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| **1983-19 | **1986**  | **1987-19 | **1989**  | **1990-19 |
-| 85**        |             | 88**        |             | 93**        |
-+-------------+-------------+-------------+-------------+-------------+
-| Craig     | Jerry     | Beth      | Beth      | Beth      |
-| Lechleite | Herring   | Little    | Little    | Little    |
-| r           |             |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| Jerry     | Larry     | Jerry     | Jim Wills | Leslie    |
-| Herring   | Edwards   | Herring   |             | Edlund    |
-+-------------+-------------+-------------+-------------+-------------+
-|             |             |             | Andy      |             |
-|             |             |             | Goheen    |             |
-+-------------+-------------+-------------+-------------+-------------+
-|             |             |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| **1994**  | **1995**  | **1996-19 | **1998**  | **1999**  |
-|             |             | 97**        |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| Beth      | Leslie    | Johnny    | Johnny    | Johnny    |
-| Little    | Edlund    | Clem      | Clem      | Clem      |
-+-------------+-------------+-------------+-------------+-------------+
-| Leslie    | Don       | Don       | Don       | Don       |
-| Edlund    | Sterrett  | Sterrett  | Sterrett  | Sterrett  |
-+-------------+-------------+-------------+-------------+-------------+
-| Don       |             |             | Jerry     | Luis      |
-| Sterrett  |             |             | Spence    | Gomez     |
-+-------------+-------------+-------------+-------------+-------------+
-| Dave      |             |             |             |             |
-| McMenimen |             |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-|             |             |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| **2000**  | **2001**  | **2002**  | **2003**  | **2004**  |
-+-------------+-------------+-------------+-------------+-------------+
-| Johnny    | Don       | Don       | Patrick   | Patrick   |
-| Clem      | Sterrett  | Sterrett  | Lookabaug | Lookabaug |
-|             |             |             | h           | h           |
-+-------------+-------------+-------------+-------------+-------------+
-| Don       | Robert    | Robert    | Candice   | Candice   |
-| Sterrett  | Holt      | Holt      | Kutrosky  | Kutrosky  |
-+-------------+-------------+-------------+-------------+-------------+
-| Steve     | Steven    | Richard   |             | Karl      |
-| Franke    | Noverr    | Gonzales  |             | Johnson   |
-+-------------+-------------+-------------+-------------+-------------+
-|             | Debra     | Travis    |             |             |
-|             | Wright    | Will      |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-|             |             | Scott     |             |             |
-|             |             | English   |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-|             |             |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| **2005**  | **2006-20 | **2009**  | **2010**  | **2011-20 |
-|             | 08**        |             |             | 14**        |
-+-------------+-------------+-------------+-------------+-------------+
-| Candice   | John Wood | John Wood | Dan       | Patrick   |
-| Kutrosky  |             |             | Mallia    | Bell      |
-+-------------+-------------+-------------+-------------+-------------+
-| Dan       | Dan       | Dan       | Patrick   | Charles   |
-| Mallia    | Mallia    | Mallia    | Bell      | Barber    |
-+-------------+-------------+-------------+-------------+-------------+
-| John Wood |             | Patrick   | Dan       |             |
-|             |             | Bell      | Paulson   |             |
-+-------------+-------------+-------------+-------------+-------------+
-| Justin    |             |             | Robert    |             |
-| Jeude     |             |             | Reeves    |             |
-+-------------+-------------+-------------+-------------+-------------+
-|             |             |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
+Year(s) | Superintendent
+:- | :-
+1967-1986 | Charlie "No Slack" Caldwell
+1986-2002 | Craig "Lanky" Lechleite
+2002-2010 | Robert Holt
+2010-present | Dan Mallia
 
-+-------------+-------------+-------------+-------------+-------------+
-| **[Captai |             |             |             |             |
-| ns          |             |             |             |             |
-| (cont)]{. |             |             |             |             |
-| underline}* |             |             |             |             |
-| *           |             |             |             |             |
-+=============+=============+=============+=============+=============+
-| **2015**  | **2016**  | **2017-20 | **2019**  | **2020**  |
-|             |             | 18**        |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| Patrick   | Charles   | Teresa    | Chris     | Chris     |
-| Bell      | Barber    | Miller    | Graves    | Graves    |
-+-------------+-------------+-------------+-------------+-------------+
-| Charles   | Teresa    | Chris     | Tyler     | Tyler     |
-| Barber    | Miller    | Graves    | Harris    | Harris    |
-+-------------+-------------+-------------+-------------+-------------+
-| Teresa    | Chris     |             | Teresa    |             |
-| Miller    | Graves    |             | Miller    |             |
-+-------------+-------------+-------------+-------------+-------------+
-|             |             |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| **2021**  |             |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| Chris     |             |             |             |             |
-| Graves    |             |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| Evan      |             |             |             |             |
-| Arnold    |             |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-|             |             |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-|             |             |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| **[Squad  |             |             |             |             |
-| Leaders]{ |             |             |             |             |
-| .underline} |             |             |             |             |
-| **          |             |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| **2002**  | **2003-20 | **2012**  | **2013-20 | **2015**  |
-|             | 05**        |             | 14**        |             |
-+-------------+-------------+-------------+-------------+-------------+
-| Patrick   | Keren     | Lissey    | Teresa    | Teresa    |
-| Lookabaug | Christens | Lee       | Miller    | Miller    |
-| h           | en          |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| Ernie     | Michael   | Teresa    |             | Tyler     |
-| Weber     | Mooney    | Miller    |             | Harris    |
-+-------------+-------------+-------------+-------------+-------------+
-|             |             |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| **2016**  | **2017**  | **2018**  | **2019**  | **2020**  |
-+-------------+-------------+-------------+-------------+-------------+
-| Tyler     | Tyler     | Tyler     | Nick      | Evan      |
-| Harris    | Harris    | Harris    | Brewer    | Arnold    |
-+-------------+-------------+-------------+-------------+-------------+
-| Chris     | Jon       | Evan      | Isaac     | RJ        |
-| Flores    | McAmis    | Arnold    | Obst      | Reierson  |
-+-------------+-------------+-------------+-------------+-------------+
-|             |             |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| **2021**  |             |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| Evan      |             |             |             |             |
-| Arnold    |             |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| Michael   |             |             |             |             |
-| Cagle     |             |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| RJ        |             |             |             |             |
-| Reierson  |             |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-|             |             |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-|             |             |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| **[Senior |             |             |             |             |
-| Firefight |             |             |             |             |
-| ers]{.under |             |             |             |             |
-| line}**     |             |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| **2021**  |             |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| Michael   |             |             |             |             |
-| Cagle     |             |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| Dylan     |             |             |             |             |
-| Ferreira  |             |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-
-######### Crewmember Home Unit Representation
-
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| **REGIO | 1       | **REGIO | 24      | **REGIO | 3         |
-| N         |           | N         |           | N         |           |
-| 1**     |           | 5**     |           | 9**     |           |
-|         |           |         |           |         |           |
-| Lewis   |           | Angeles |           | Chequam |           |
-| and     |           | NF      |           | egon      |           |
-| Clark   |           |           |           | NF      |           |
-| NF      |           |           |           |           |           |
-+===========+===========+===========+===========+===========+===========+
-| Idaho   | 2       | Clevela | 18      | Chippew | 2         |
-| Panhand |           | nd        |           | a         |           |
-| le        |           | NF      |           | NF      |           |
-| NF      |           |           |           |           |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| Missoul | 1       | Eldorad | 23      | Hiawath | 4         |
-| a         |           | o         |           | a         |           |
-| Fire    |           | NF      |           | NF      |           |
-| Depot   |           |           |           |           |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| Flathea | 1       | Inyo NF | 29      | Hoosier | 1         |
-| d         |           |           |           | NF      |           |
-| NF      |           |           |           |           |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| Lolo NF | 1       | Klamath | 62      | Huron-M | 3         |
-|           |           | NF      |           | anistee   |           |
-|           |           |           |           | NF      |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| Clearwa | 1       | L.T.B.M | 17      | Ottawa  | 1         |
-| ter       |           | .U.       |           | NF      |           |
-| NF      |           |           |           |           |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-|           |           | Lassen  | 63      | Shawnee | 1         |
-|           |           | NF      |           | NF      |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| **REGIO |           | Los     | 60      | Superio | 2         |
-| N         |           | Padres  |           | r         |           |
-| 2**     |           | NF      |           | NF      |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| Arapaho | 1       | Mendoci | 30      | Mark    | 1         |
-| -Roosevel |           | no        |           | Twain   |           |
-| t         |           | NF      |           | NF      |           |
-| NF      |           |           |           |           |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| Pike-Sa | 1       | Modoc   | 25      | Wayne   | 4         |
-| n         |           | NF      |           | NF      |           |
-| Isabel  |           |           |           |           |           |
-| NF      |           |           |           |           |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| MBR NF  | 1       | Plumas  | 51      |           |           |
-|           |           | NF      |           |           |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| GMUG NF | 3       | San     | 16      | **BLM** |           |
-|           |           | Bernard |           |           |           |
-|           |           | ino       |           |           |           |
-|           |           | NF      |           |           |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| White   | 1       | Sequoia | 12      | Oregon  | 1         |
-| River   |           | NF      |           |           |           |
-| NF      |           |           |           |           |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| San     | 1       | Shasta  | 118     | NOD     | 6         |
-| Juan NF |           | Trinity |           |           |           |
-|           |           | NF      |           |           |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| Black   | 2       | Sierra  | 24      |           |           |
-| Hills   |           | NF      |           |           |           |
-| NF      |           |           |           |           |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-|           |           | Six     | 57      | **FWS** |           |
-|           |           | Rivers  |           |           |           |
-|           |           | NF      |           |           |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| **REGIO |           | Stanisl | 31      | Loxahat | 1         |
-| N         |           | aus       |           | chee      |           |
-| 3**     |           | NF      |           | NWR     |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| Apache- | 2       | Tahoe   | 49      | Merritt | 1         |
-| Sitgreave |           | NF      |           | Island  |           |
-| s         |           |           |           | NWR     |           |
-| NF      |           |           |           |           |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| Coconin | 3       |           |           | Caribbe | 1         |
-| o         |           |           |           | an        |           |
-| NF      |           |           |           | Islands |           |
-|           |           |           |           | NWR     |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| Coronad | 3       | **REGIO |           |           |           |
-| o         |           | N         |           |           |           |
-| NF      |           | 6**     |           |           |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| Cibola  | 5       | Deschut | 3       | **BIA** |           |
-| NF      |           | es        |           |           |           |
-|           |           | NF      |           |           |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| Kaibab  | 3       | Malheur | 3       | Redding | 1         |
-| NF      |           | NF      |           | Office  |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| Lincoln | 9       | Mt      | 1       | Sacrame | 1         |
-| NF      |           | Baker   |           | nto       |           |
-|           |           | NF      |           | Office  |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| Santa   | 4       | Mt Hood | 2       | Western | 1         |
-| Fe NF   |           | NF      |           | Nevada  |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| Tonto   | 5       | Rogue-  | 3       |           |           |
-| NF      |           | Siskiyo |           |           |           |
-|           |           | u         |           |           |           |
-|           |           | NF      |           |           |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-|           |           | Siuslaw | 2       | **NPS** |           |
-|           |           | NF      |           |           |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| **REGIO |           | Umatill | 1       | Joshua  | 1         |
-| N         |           | a         |           | Tree NM |           |
-| 4**     |           | NF      |           |           |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| Boise   | 1       | Umpqua  | 2       | Mammoth | 1         |
-| NF      |           | NF      |           | Caves   |           |
-|           |           |           |           | NP      |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| Humbold | 14      | Okanoga | 2       | Redwood | 1         |
-| t-Toiyabe |           | n-Wenatch |           | NP      |           |
-| NF      |           | ee        |           |           |           |
-|           |           | NF      |           |           |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| Payette | 4       | Willame | 1       | San     | 1         |
-| NF      |           | tte       |           | Antonio |           |
-|           |           | NF      |           | Mission |           |
-|           |           |           |           | s         |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| Salmon- | 1       | Fremont | 1       | Santa   | 1         |
-| Challis   |           | -Winema   |           | Monica  |           |
-| NF      |           | NF      |           | Mtns.   |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| Sawtoot | 1       |           |           | Sequoia | 1         |
-| h         |           |           |           | /Kings    |           |
-| NF      |           |           |           | NP      |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| Bridger | 1       | **REGIO | 1       | Whiskey | 2         |
-| -Teton    |           | N         |           | town      |           |
-| NF      |           | 8**     |           | NRA     |           |
-|           |           |         |           |           |           |
-|           |           | Alabama |           |           |           |
-|           |           | NF      |           |           |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| **REGIO |           | Chattah | 1       | **OTHER |           |
-| N         |           | oochee    |           | **        |           |
-| 10**    |           | NF      |           |           |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| Tongass | 1       | Daniel  | 1       | Greenvi | 1         |
-| NF      |           | Boone   |           | lle       |           |
-|           |           | NF      |           | Rancher |           |
-|           |           |           |           | ia        |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-|           |           | Desoto  | 3       | Hoopa   | 15      |
-|           |           | NF      |           | Fire    |           |
-|           |           |           |           | Dept.   |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-|           |           | Natahal | 1       | Austral | 2         |
-|           |           | a         |           | ia        |           |
-|           |           | NF      |           |           |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-|           |           | Ouachit | 1       | East    | 1         |
-|           |           | a         |           | Bay     |           |
-|           |           | NF      |           | Regiona |           |
-|           |           |           |           | l         |           |
-|           |           |           |           | Parks   |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-|           |           | Savanna | 1       | North   | 3         |
-|           |           | h         |           | Lake    |           |
-|           |           | River   |           | Tahoe   |           |
-|           |           | Site    |           | FPD     |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-|           |           | Sumter  | 1       | Orange  | 1         |
-|           |           | NF      |           | County  |           |
-|           |           |           |           | Fire    |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-|           |           | Tallade | 1       | Shasta  | 11      |
-|           |           | ga        |           | College |           |
-|           |           | N.F.    |           | Fire    |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-|           |           | Tombigb | 1       | SITPA   | 1         |
-|           |           | ee        |           |           |           |
-|           |           | NF      |           |           |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-|           |           |           |           | Tahoe-D | 1         |
-|           |           |           |           | ouglas    |           |
-|           |           |           |           | Fire    |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-|           |           |           |           | Lake    | 1         |
-|           |           |           |           | Superio |           |
-|           |           |           |           | r         |           |
-|           |           |           |           | College |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-
-![](media/image49.jpeg){width="2.076388888888889in"
-height="2.076388888888889in"}**Agency:** US Forest Service
+## Salmon River
+![]()
+**Agency:** US Forest Service
 
 **Home Unit:** Klamath National Forest
 
@@ -2555,193 +2016,18 @@ IHC is relatively new in terms of Hotshot legacies, the program
 continues to strive to become an essential part of the National
 Interagency Hotshot program.
 
-###### Superintendents
-
-James "Jimmy" Allen 2001-2009 William "Big Bill" Robinson 2010-2019
-Kelsey Lofdahl 2020-Present
-
-**2001**
-
-**2002**
-
-######  Captains
-
-**2003**
-
-**2004**
-
-![](media/image50.jpeg){width="6.498611111111111in"
-height="6.498611111111111in"}Jimmy Allen Grant Montgomery
-
-**2005**
-
-Bill Robinson Seth Pindell
-
-**2009**
-
-Bill Robinson Will Johnson
-
-**2013**
-
-Isaac Flattley Brad Rafeedy
-
-**2017**
-
-Brad Rafeedy Kelsey Lofdahl
-
-Bill Robinson Jon Jones
-
-**2006**
-
-Bill Robinson Seth Pindell
-
-**2010**
-
-Isaac Flattley Will Johnson
-
-**2014**
-
-Isaac Flattley Brad Rafeedy
-
-**2018**
-
-Kelsey Lofdahl Brad Rafeedy (Detail)
-
-Keoki Correa
-
-(Inaugural Season)
-
-Bill Robinson Jon Jones
-
-**2007**
-
-Bill Robinson Seth Pindell
-
-**2011**
-
-Isaac Flattley Brad Rafeedy
-
-**2015**
-
-Isaac Flattley Brad Rafeedy
-
-**2019**
-
-Keoki Correa Kelsey Lofdahl
-
-Bill Robinson
-
-**2008**
-
-Bill Robinson Will Johnson
-
-**2012**
-
-Isaac Flattley Brad Rafeedy
-
-**2016**
-
-Brad Rafeedy Kelsey Lofdahl
-
-**2020**
-
-Keoki Correa Cody Stacher
-
-###### Squad Leaders
-
-![](media/image50.jpeg){width="6.498611111111111in"
-height="6.498611111111111in"}**2001**
-
-Bill Robinson Mark Thomas
-
-**2005**
-
-Allen Schultze Bill Schroeder
-
-**2009**
-
-Jerry Padilla Scott Wickham
-
-**2013**
-
-Nick Stacher Billy Smith
-
-**2017**
-
-Patrick Grimes Billy Smith
-
-**2002**
-
-Bill Schroeder Jimmy Lymen
-
-**2006**
-
-Brad Rafeedy Allen Schultze
-
-**2010**
-
-Jerry Padilla Billy Smith
-
-**2014**
-
-Nick Stacher Billy Smith
-
-**2018**
-
-Billy Smith Patrick Grimes
-
-**2003**
-
-Bill Schroeder Allen Schultze
-
-**2007**
-
-Brad Rafeedy Allen Schultze
-
-**2011**
-
-Jerry Padilla Jermey Hallinan (Detail)
-
-Billy Smith
-
-**2015**
-
-Nick Stacher Billy Smith
-
-**2019**
-
-Jered Fletes Patrick Grimes
-
-**2004**
-
-Allen Schultze Bill Schroeder Mike Swietzer
-
-**2008**
-
-Jerry Padilla Nate Stevens (Detail)
-
-Scott Wickham
-
-**2012**
-
-Jerry Padilla Billy Smith
-
-**2016**
-
-Billy Smith Nick Stacher (Detail)
-
-Kyle Mikolajczyk
-
-**2020**
-
-Jered Fletes Patrick Grimes
-
+Year(s) | Superintendent
+:- | :-
+2001-2009 | James "Jimmy" Allen
+2010-2019 | William "Big Bill" Robinson
+2020-Present | Kelsey Lofdahl
+
+## Shasta Lake
 ######### SHASTA LAKE IHC
 
 Shasta-Trinity National Forest, Region 5
 
-![](media/image51.jpeg){width="2.329461942257218in"
-height="1.9637489063867017in"}
+![]()
 
 The Shasta Lake Hotshots were established in 2006 on the
 Shasta-Trinity National Forest in Lakehead California by crew
@@ -2797,19 +2083,19 @@ and education. Frequenting community events and staying involved in
 programs that help inform and educate the public on the importance
 fire safety and preparedness.
 
-**Superintendents:**
+Year(s) | Superintendent
+:- | :-
+2006-2010 | Jeff Michels
+2011 | Jerry Spence (Detail)
+2012-2015 | Donovan Lee
+2016 | Anthony Herbert (Detail)
+2016-2018 | Charles Barber
+2019 | Currently vacant
+2020 | Ron Graves/Joe Bogdan (Details)
+2021-Present | Joe Bogdan
 
-Jeff Michels 2006-2010 Jerry Spence (Detail) 2011 Donovan Lee
-2012-2015
-
-Anthony Herbert (Detail) 2016 Charles Barber 2016-2018
-
-Currently vacant 2019
-
-Ron Graves/Joe Bogdan (Details) 2020 Joe Bogdan 2021-Present
-
-![](media/image52.jpeg){width="1.6052471566054243in"
-height="1.2075in"}
+## Smith River
+![]()
 
 Smith River IHC began with the MEL build up in 2001 as SRF-NRA-Crew-1.
 This ten person IA and Fuels Crew was located just inland from
@@ -2842,59 +2128,18 @@ Our motto is a quote from Rudyard Kipling,
 "The strength of the wolf is in the pack, the strength of the pack is
 in the wolf."
 
-[Year's]{.underline} [Superintendent's]{.underline}
-[Year's]{.underline} [Captain's]{.underline}
+Year(s) | Superintendent
+:- | :-
+2001-2002 | Rick Young 
+2003-2004 | Sunbear Vierra
+2005-2006 | Scott Kizzar
+2006-2012 | Glen Tingley
+2013-2015 | Tim Memmer
+2016- | Douglas Denlinger
 
-+--------+--------+--------+--------+--------+--------+--------+--------+
-| 2001 |        | Rick | 2001 |        | John |        |        |
-| -2002  |        | Youn | -2002  |        | Maxw |        |        |
-|        |        | g      |        |        | ell    |        |        |
-+========+========+========+========+========+========+========+========+
-| 2003 |        | Sunb | 2002   |        | Sunb |        |        |
-| -2004  |        | ear    |        |        | ear    |        |        |
-|        |        | Vier |        |        | Vier |        |        |
-|        |        | ra     |        |        | ra     |        |        |
-+--------+--------+--------+--------+--------+--------+--------+--------+
-| 2005 |        | Scot | 2003   |        |        |        |        |
-| -2006  |        | t      |        |        |        |        |        |
-|        |        | Kizz |        |        |        |        |        |
-|        |        | ar     |        |        |        |        |        |
-+--------+--------+--------+--------+--------+--------+--------+--------+
-| 2006 |        | Glen | 2006   |        | Mark |        |        |
-| -2012  |        | Ting |        |        | Brow |        |        |
-|        |        | ley    |        |        | n      |        |        |
-+--------+--------+--------+--------+--------+--------+--------+--------+
-| 2013 |        | Tim  | 2006 |        | Al   |        |        |
-| -2015  |        | Memm | -2007  |        | Goug |        |        |
-|        |        | er     |        |        | hnour  |        |        |
-+--------+--------+--------+--------+--------+--------+--------+--------+
-| 2016 |        | Doug | 2007 |        | Tim  |        |        |
-| -      |        | las    | -2013  |        | Memm |        |        |
-|        |        | Denl |        |        | er     |        |        |
-|        |        | inger  |        |        |        |        |        |
-+--------+--------+--------+--------+--------+--------+--------+--------+
-|        |        |        |        | 2009 |        | Chri |        |
-|        |        |        |        | -2013  |        | s      |        |
-|        |        |        |        |        |        | Bras |        |
-|        |        |        |        |        |        | hears  |        |
-+--------+--------+--------+--------+--------+--------+--------+--------+
-|        |        |        |        | 2013 |        | Doug |        |
-|        |        |        |        | -2015  |        | Denl |        |
-|        |        |        |        |        |        | inger  |        |
-+--------+--------+--------+--------+--------+--------+--------+--------+
-|        |        |        |        | 2014 |        | Jere |        |
-|        |        |        |        | -      |        | miah   |        |
-|        |        |        |        |        |        | Mend |        |
-|        |        |        |        |        |        | es     |        |
-+--------+--------+--------+--------+--------+--------+--------+--------+
-|        |        |        |        | 2017 |        | Thom |        |
-|        |        |        |        | -      |        | as     |        |
-|        |        |        |        |        |        | Hawk |        |
-|        |        |        |        |        |        | ins    |        |
-+--------+--------+--------+--------+--------+--------+--------+--------+
-
-![](media/image53.jpeg){width="2.375in"
-height="2.2715266841644794in"}**Tahoe Hotshots**
+## Tahoe
+![]()
+**Tahoe Hotshots**
 
 **Agency: USDA Forest Service Home Unit: Tahoe National Forest- Yuba
 River Ranger District**
@@ -2966,53 +2211,26 @@ The Tahoe Hotshots, wearing the crest and colors of our past, continue
 to bring a safe, skilled, and productive resource to the fireline or
 the project.
 
-**Crew foremen include:** John King, 1971; Rusty Witwer, 1971,
-1976-77; Bob Moore, 1972; Bob Jennings, 1973-75; Bruce Edmonson,
-!973-75; Mike Abe, 1976-77; Steve Raymer, 1978-79; Vic Richards, 1978;
-Craig Workman, 1979-83; Don Will, 1980-84; Mike Campbell, 1984-93; Jim
+Year(s) | Superintendent
+:- | :-
+Hobart Inmate Crew |
+1961-1970 | Les Bagby, Lynn Orr, Chuck Welch, Orv Houghan
+Hobart Crew |
+1971 | Bob Riley
+1972 | Don Huber
+Hobart Hotshots |
+1973-1975 | John King
+1975-1976 | Kris Kristofers
+1977-1978 | Dave Fields
+1979-1985 | Rusty Witwer
+Tahoe Hotshots
+1986-1995 | Rusty Witwer
+1996-December 28, 2012 | Rick Cowell (retired in place)
+2013-2016 | Eric Rice
+2017-Present | Daniel Guerrero
 
-Wills, 1985-86; Rick Cowell, 1987-95; Pete Koerber, 1994-
-
-2000; Robert Bertolina, 1996-97; Richard Gonzalez, 1998; Todd White,
-1999-2011; Bobby Hubby, 2001; Luis Gomez, 2002-2005; Brad Moschetti,
-2011-2013; Eric Rice, 2006-
-
-2012; Daniel Guerrero 2015-2016; Kevin Mecham 2017.
-
-Ernie Ceccon, 2013-2019: Mark Longshore 2020
-
-Chris McCandless 2019- Present; Toby Greenberg 2021- Present
-
-**Crew Superintendents**
-
-Hobart Inmate Crew
-
-**Les Bagby, Lynn Orr, Chuck Welch, Orv Houghan 1961-1970**
-
-**Hobart Crew**
-
-**Bob Riley 1971 Don Huber 1972**
-
-**Hobart Hotshots**
-
-**John King 1973-1975**
-
-**Kris Kristofers 1975-1976**
-
-**Dave Fields 1977-1978**
-
-**Rusty Witwer 1979-1985**
-
-**Tahoe Hotshots**
-
-**Rusty Witwer 1986-1995**
-
-**Rick Cowell 1996 - December 28, 2012 (retired in place) Eric Rice
-2013 -- 2016**
-
-**Daniel Guerrero 2017 - Present**
-
-![](media/image55.jpeg){width="2.768161636045494in" height="1.925in"}
+## Tallac
+![]()
 
 Est. 2001 Certified. 2014
 
@@ -3079,27 +2297,17 @@ responding to fires and all risk incidents throughout the Lake Tahoe
 Basin and the Nation. We are proud to uphold the tradition and legacy
 of the hotshot community.
 
-**Superintendents** Kyle Betty 2016-Present Aaron Grove 2009-2015
+Year(s) | Superintendent
+:- | :-
+2001-2003 | Steve Burns
+2004 | Mike Ierien
+2005-2008 | Steve Franke
+2009-2015 | Aaron Grove
+2016-Present | Kyle Betty
 
-Steve Franke 2005-2008
-
-Mike Ierien 2004
-
-Steve Burns 2001-2003
-
-**Captains**
-
-Charlie Jones 2016-Present Elsa Gaule 2019-Present John Chester
-2006-2019
-
-Bill Sanders 2008-2014
-
-Aaron Grove 2005-2007
-
-Mike Ierien 2003
-
-![](media/image56.jpeg){width="1.6270833333333334in"
-height="1.627082239720035in"}**Agency: USDA Forest Service**
+## Trinity
+![]()
+**Agency: USDA Forest Service**
 
 **Home Unit: Shasta-Trinity NF, Yolla Bolla Ranger District Contact
 Information:**
@@ -3215,38 +2423,18 @@ standards of the IHC program through hard work, perseverance, and an
 all-around good attitude. We adhere to the core values of Duty,
 Respect, Integrity, and Discipline.
 
-**Crew Superintendents**
+Year(s) | Superintendent
+:- | :-
+2005-2015 | Justin Jeude
+2009 Stew Richter (Detailed)
+2016-2017 | Aaron Utterback
+2018 | Ron Graves (Detailed)
+2018 | Richie Reposa (Detailed)
+2019-2020 | Richie Reposa
+2021-Present | Tristan Dias
 
-Justin Jeude-2005-2015 Stew Richter- 2009 (Detailed) Aaron Utterback-
-2016-2017 Ron Graves-2018 (Detailed)
-
-Richie Reposa- 2018 (Detailed) Tristan Dias-2021-Present
-
-Richie Reposa-2019-2020
-
-**Crew Captains**
-
-Doug Powell 11B-2006-2008 Kris Kochar 11A- 2007- 2008
-
-John Chester 11A-2005-2007 Aaron Utterback 11B- 2009-2013
-
-Dylan Reeves 11A - 2009 (Detailed) Brad Schuette 11A - 2010 (Detailed)
-
-Robert Reeves 11A - 2011- 2015 Richie Reposa 11B - 2014-2018 Ron
-Graves 11A - 2017-2018 Tristan Dias 11B - 2019-2020
-
-Keegan Guillory 11A (Detailed) 2021 Jason Ballard 11B -- 2021 -
-Present
-
-Richie Reposa 11B - 2013/2014 (detailed) Ron Graves 11A - 2016
-(Detailed)
-
-Tristan Dias 11B - 2018 (Detailed) John Castaneda 11A - 2019
-(Detailed) Jon Richert 11A (Detailed) 2020 Keegan Guillory 11A -- 2022
-- Present
-
-![](media/image57.jpeg){width="1.4286515748031496in"
-height="1.420832239720035in"}
+## Ukonom
+![]()
 
 USDA Forest Service - Six Rivers National Forest Lower Trinity Ranger
 District
@@ -3327,36 +2515,13 @@ be first ones up and the last ones off the hill each day.
 [Ukonom is currently operating as a T2IA due to a squad leader
 vacancy.]{.underline}
 
-*[Captains]{.underline}*
-
-John P. Cataldo 2003-2006 Randall E. Nulph 2003 -- 2009
-
-Keith R. Smith 2007 --2010
-
-Dale A. Mendes 2011 --2013
-
-Robert McConnell Jr. 2011 -- 2013
-
-Donald C. Perez 2010, 2014
-
-Henry Meyer 2015
-
-Thomas Hawkins 2014 -- 2016
-
-Joel J. Berg 2016 -- 2018
-
-Matthew Manago 2017 -- 2019 Brendon Banwell 2018 -- Present Michael
-Peters 2020 - Present
-
-*[Superintendents]{.underline}*
-
-John W. Gibbons 2003 -2006
-
-John P. Cataldo 2007 -- 2010
-
-Keith R. Smith 2011 -- 2016 Nathan Nelms - 2017
-
-Joel J. Berg 2018 - Present
+Year(s) | Superintendent
+:- | :-
+2003-2006 | John W. Gibbons
+2007-2010 | John P. Cataldo
+2011-2016 | Keith R. Smith
+2017 | Nathan Nelms
+2018-Present | Joel J. Berg
 
 ![](media/image58.jpeg)Northern Rockies
 ---------------------------------------
