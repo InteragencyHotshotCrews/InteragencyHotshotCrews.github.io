@@ -2523,15 +2523,13 @@ Year(s) | Superintendent
 2017 | Nathan Nelms
 2018-Present | Joel J. Berg
 
-![](media/image58.jpeg)Northern Rockies
----------------------------------------
+# Northern Rockies
 
-**Puerto Rico**
+## Bear Paw
 
 **Chippewa -- Cree Tribe Natural Resources / Forestry**
 
-![](media/image60.jpeg){width="1.9911056430446195in"
-height="2.1333333333333333in"}
+![]()
 
 **Bear Paw Fire Crew**
 
@@ -2612,11 +2610,18 @@ structure has reverted back to the traditional three squad
 configuration. Juan Gamble was selected as the new Assistant
 Superintendent in December of 2006.
 
+Year(s) | Superintendent
+:- | :-
+2000-2006 | Mike Lamere
+2006 | Earl Old Chief
+2006-present | Wilbur Nagel
+
 *"The strength of the crew is in the individual, and the strength of
 the individual is in the crew"*
 
 **-Bear Paw IHC Mission Statement**
 
+## Bison
 **Arrowhead 3 (Bison, Alpine) Interagency Hotshot Crews**
 
 In May of 1981, the National Park Service (NPS) established its
@@ -2669,9 +2674,9 @@ height="9.038333333333334in"}
 front of the Lower Falls and installing it at their Canyon quarters.
 (Photos provided by Mike Holmes.)
 
-![](media/image64.jpeg){width="2.358319116360455in"
-height="2.0099431321084866in"}![](media/image65.jpeg){width="2.114068241469816in"
-height="2.0784700349956253in"}**Bitterroot Hotshots**
+## Bitterroot
+![]()
+![]()
 
 USFS
 
@@ -2712,42 +2717,28 @@ Steve Barringer 1990 design.
 In 2013 the Bitterroot Hotshots celebrated a proud 50 years of
 service, and we look forward to the next 50 years.
 
-+--------------------------------------+----------------+
-| Dean Lundberg                        | 1963         |
-+======================================+================+
-| Vern Swanson                         | 1964         |
-+--------------------------------------+----------------+
-| Lou Romero                         | 1965         |
-+--------------------------------------+----------------+
-| Jim Crockett                       | 1966-1970    |
-+--------------------------------------+----------------+
-| John Maupin                        | 1971-1972    |
-+--------------------------------------+----------------+
-| Rodney Lay                         | 1973-1975    |
-+--------------------------------------+----------------+
-| Ken Huekel                         | 1976         |
-+--------------------------------------+----------------+
-| Don Rummel                         | 1977         |
-+--------------------------------------+----------------+
-| Buck Latapie                       | 1978-1983    |
-+--------------------------------------+----------------+
-| Don Ray                            | 1984         |
-+--------------------------------------+----------------+
-| Bill Miller                        | 1985-1993    |
-+--------------------------------------+----------------+
-| Joe Thompson\*                       | 1990         |
-+--------------------------------------+----------------+
-| Steve Rawlings                       | 1994-2000    |
-+--------------------------------------+----------------+
-| Rory Laws                          | 2001-2006    |
-+--------------------------------------+----------------+
-| Matt Gibson\*                      | 2007         |
-+--------------------------------------+----------------+
-| Jay Wood                           | 2008-present |
-+--------------------------------------+----------------+
-| \*denotes Detailed Superintendents |                |
-+--------------------------------------+----------------+
+Year(s) | Superintendent
+:- | :-
+1963 | Dean Lundberg
+1964 | Vern Swanson
+1965 | Lou Romero
+1966-1970 | Jim Crockett
+1971-1972 | John Maupin
+1973-1975 | Rodney Lay
+1976 | Ken Huekel
+1977 | Don Rummel
+1978-1983 | Buck Latapie
+1984 | Don Ray
+1985-1993 | Bill Miller
+1990 | Joe Thompson\*
+1994-2000 | Steve Rawlings
+2001-2006 | Rory Laws
+2007 | Matt Gibson\*
+2008-present | Jay Wood
 
+\*denotes Detailed Superintendents |                |
+
+## Chief Mountain
 ![](media/image66.jpeg){width="2.5903083989501314in"
 height="2.0513877952755903in"}*CHIEF MOUNTAIN HOTSHOTS*
 
@@ -2803,71 +2794,17 @@ currently has 2 documentary films completed.
 Past & Present Superintendents, Assistant Superintendents and Squad
 leaders
 
-[Superintendents:]{.underline}
+Year(s) | Superintendent
+:- | :-
+1988-1990 | Bruce McDonald
+1991-1992 | Glen Still Smoking
+1993-1994 | John Murray
+1995-1996 | Tom Evans
+1997 | Steve Murray
+1998-Present | Lyle St. Goddard
 
-+-----------------------------------+-----------------------------------+
-| Bruce McDonald                  | 1988 -1990                      |
-+===================================+===================================+
-| Glen Still Smoking              | 1991 -- 1992                    |
-+-----------------------------------+-----------------------------------+
-| John Murray                     | 1993 -- 1994                    |
-+-----------------------------------+-----------------------------------+
-| Tom Evans                       | 1995 -- 1996                    |
-+-----------------------------------+-----------------------------------+
-| Steve Murray                    | 1997                            |
-+-----------------------------------+-----------------------------------+
-| Lyle St. Goddard                | 1998 -- Present                 |
-+-----------------------------------+-----------------------------------+
-| [Assistant                      | 1988-1990                       |
-| Superintendents:]{.underline}   |                                   |
-| Glen Still Smoking              |                                   |
-+-----------------------------------+-----------------------------------+
-| Steve Murray                    | 1991 -- 1995                    |
-+-----------------------------------+-----------------------------------+
-| Lyle St. Goddard                | 1996 -- 1997                    |
-+-----------------------------------+-----------------------------------+
-| Carl Crawford                   | 1998 -- 2000                    |
-+-----------------------------------+-----------------------------------+
-| Eli Still Smoking               | 2001 -- 2013                    |
-+-----------------------------------+-----------------------------------+
-| Jovon Fisher                    | 2014 - Present                  |
-+-----------------------------------+-----------------------------------+
-| [Squad Bosses]{.underline}      | 1988 - 1990                     |
-| Steve Murray                    |                                   |
-+-----------------------------------+-----------------------------------+
-| Gerald Trombley                 | 1988 - 1994                     |
-+-----------------------------------+-----------------------------------+
-| Earl Old Chief                  | 1991-1994/2001-2005             |
-+-----------------------------------+-----------------------------------+
-| Matt Webber                     | 1988 - 1992                     |
-+-----------------------------------+-----------------------------------+
-| Alan Vielle                     | 1993 - 2010                     |
-+-----------------------------------+-----------------------------------+
-| Lyle St. Goddard                | 1994 -- 1996                    |
-+-----------------------------------+-----------------------------------+
-| Eli Still Smoking               | 1995 - 2000                     |
-+-----------------------------------+-----------------------------------+
-| Steve Bullshoe                  | 1995 -- 2000                    |
-+-----------------------------------+-----------------------------------+
-| Herman Burke                    | 2001 -- 2003                    |
-+-----------------------------------+-----------------------------------+
-| Clinton Dusty Bull              | 2004 -- 2013                    |
-+-----------------------------------+-----------------------------------+
-| John Grand Champ                | 2006                            |
-+-----------------------------------+-----------------------------------+
-| Jovon Fisher                    | 2007 - 2013                     |
-+-----------------------------------+-----------------------------------+
-| Duane Kemmer                    | 2010 - 2012                     |
-+-----------------------------------+-----------------------------------+
-| Maurice St. Goddard             | 2013 -- Present                 |
-+-----------------------------------+-----------------------------------+
-| Donald Gallagher                | 2013 - Present                  |
-+-----------------------------------+-----------------------------------+
-| John Gallagher Horn             | 2014 -- 2016                    |
-+-----------------------------------+-----------------------------------+
-
-![](media/image67.png){width="2.086551837270341in"
-height="1.352707786526684in"}
+## Flathead
+![]()
 
 ![](media/image68.jpeg){width="1.671984908136483in"
 height="4.655168416447944in"}he 1966 Flathead Interregional Fire
@@ -2896,10 +2833,22 @@ beginnings. The current superintendent, crew, and many former members
 were in attendance including former superintendents Bruce McAtee, Paul
 Linse, Don Rees, and Harvey Carr.
 
-**Flathead Hotshots Superintendents**
+Year(s) | Superintendent
+:- | :-
+1966 | Bruce Pyles
+1967 | Fred Andres
+1968 | Byron Sangunsky
+1969-1976 | Al Squires
+1977-1986 | Bruce McAtee
+1987-1998 | Paul Linse
+1999-2002 | Don Rees
+2003-2011 | Harvey Carr
+2012-2015 | Tyler Anderson
+2016-present | Shawn Borgen
 
 *June 10th, 1966*
 
+## Helena
 HELENA HOTSHOTS 1971 -
 
 2009
@@ -2989,37 +2938,27 @@ rescue operations, law enforcement assistance, fire training,
 Hurricanes Hugo, Andrew and Georges, wilderness fire management and
 prescribed burning.
 
-[CREW BOSS/SUPERINTENDENT]{.underline}
-
-1971 - 1973 Mike Collins
-
-1974 - 1975 Tom Patten
-
-1976 - 1979 Mike Pelia
-
-1980 - 1982 Larry Cole
-
-1983 - 1988 Dave Larsen
-
-1988 Gary Sullivan (acting)
-
-1989-2001 Larry Edwards
-
-2002-2005 Rocky Gilbert
-
-2006- Kenny Spint (detail)
-
-2007- present Fred Thompson
+Year(s) | Superintendent
+:- | :-
+1971-1973 | Mike Collins
+1974-1975 | Tom Patten
+1976-1979 | Mike Pelia
+1980-1982 | Larry Cole
+1983-1988 | Dave Larsen
+1988 | Gary Sullivan (acting)
+1989-2001 | Larry Edwards
+2002-2005 | Rocky Gilbert
+2006 | Kenny Spint (detail)
+2007-present | Fred Thompson
 
 ![](media/image69.png){width="1.0504571303587051in"
 height="1.0398950131233595in"}
 
 Opera Non Verba
 
-![http://www.fs.fed.us/ipnf/ihc/ipf-logo.jpg](media/image70.jpeg){width="1.7460804899387576in"
-height="1.9891666666666667in"}
-![](media/image71.jpeg){width="2.2444433508311463in"
-height="1.993332239720035in"}
+## Idaho Panhandle
+![]()
+![]()
 
 **IDAHO PANHANDLE INTERAGENCY HOTSHOT CREW HISTORY 1967-PRESENT**
 
@@ -3078,39 +3017,24 @@ is that we are positively making a difference in the fire world and
 like I constantly remind my crew, "Everyday is a Holiday, and every
 meal is a banquet when you are an Idaho Panhandle Hotshot."
 
-**History of Superintendents**
-
-+--------------------+------------------+-----------------------+
-| **Name**         | **Years**      | **Crew Name**       |
-+====================+==================+=======================+
-| Chris Smith      | 2009 - Present | Idaho Panhandle IHC |
-+--------------------+------------------+-----------------------+
-| Terry Zufelt     | 2004 - 2008    | Idaho Panhandle IHC |
-+--------------------+------------------+-----------------------+
-| Louis Hartjes    | 2001 - 2003    | Idaho Panhandle IHC |
-+--------------------+------------------+-----------------------+
-| Rory Laws        | 2000 - 2000    | St. Joe IHC         |
-+--------------------+------------------+-----------------------+
-| Lynn Bornitz     | 1999 - 2000    | St. Joe IHC         |
-+--------------------+------------------+-----------------------+
-| B Hadley Hawkins | 1999 - 1999    | St. Joe IHC         |
-+--------------------+------------------+-----------------------+
-| Lynn Bornitz     | 1995 - 1998    | St. Joe IHC         |
-+--------------------+------------------+-----------------------+
-| Jim O\'Dell      | 1988 - 1994    | St. Joe IHC         |
-+--------------------+------------------+-----------------------+
-| John Myhre       | 1980 - 1987    | St. Joe IHC         |
-+--------------------+------------------+-----------------------+
-| Dean Berger      | 1976 - 1979    | St. Joe IHC         |
-+--------------------+------------------+-----------------------+
-| Jim Preston      | 1975 - 1975    | St. Joe IHC         |
-+--------------------+------------------+-----------------------+
-| Dennis Johnson   | 1972 - 1973    | St. Joe IHC         |
-+--------------------+------------------+-----------------------+
-| Mike Cyrus       | 1970 - 1971    | St. Joe IHC         |
-+--------------------+------------------+-----------------------+
-| Dale Jarrell     | 1967 - 1969    | St. Joe IHC         |
-+--------------------+------------------+-----------------------+
+Year(s) | Superintendent
+:- | :-
+St. Joe IHC | 
+1967-1969 | Dale Jarrell
+1970-1971 | Mike Cyrus
+1972-1973 | Dennis Johnson
+1975-1975 | Jim Preston
+1976-1979 | Dean Berger
+1980-1987 | John Myhre
+1988-1994 | Jim O\'Dell
+1995-1998 | Lynn Bornitz
+1999-1999 | B Hadley Hawkins
+1999-2000 | Lynn Bornitz
+2000-2000 | Rory Laws
+Idaho Panhandle IHC | 
+2001-2003 | Louis Hartjes
+2004-2008 | Terry Zufelt
+2009-Present | Chris Smith
 
 The crew logos that are attached above have been on the back of our
 shirt for a long time. The history of the logo is uncertain. Many
@@ -3123,11 +3047,11 @@ tree with a lightening bolt hitting it.
 
 The picture above shows how it looks today.
 
+# Lewis & Clark
 **Lewis & Clark Hotshots...History 2001-Present**
 
-![](media/image72.jpeg){width="2.129494750656168in"
-height="1.84375in"}![](media/image73.png){width="1.8965299650043745in"
-height="1.8958333333333333in"}
+![]()
+![]()
 
 Original Logo Current Logo
 
@@ -3168,32 +3092,17 @@ with the two-foreman system), three 13/13 Squad Bosses (one operating
 as a Saw Boss), six 13/13 Senior Firefighters, and 10-12 seasonal
 employees.
 
-**Superintendents Past and Present**
+Year(s) | Superintendent
+:- | :-
+2001-2004 | Chris Theisen
+2004-2010 | Mike Noel
+2011 | Tyler J. Anderson (Farm)
+2012-2018 | Matt Holmstrom (detail)
+2019-Present | William Knudsen
 
-Chris Theisen 2001 - 2004
+## Lolo
 
-Mike Noel 2004 -- 2010
-
-Tyler J. Anderson (Farm) 2011 (detail) Matt Holmstrom 2012 -- 2018
-
-William Knudsen 2019-Present
-
-**Asst. Superintendents Past and Present**
-
-Fred Thompson 2001
-
-Mike Noel/Jen Harris 2002-2004
-
-Christopher Smith 2005-2008
-
-Alex Brooks (detailed) 2009
-
-William Knudsen 2010-2018
-
-Nick Wydra 2019-Present
-
-![](media/image74.png){width="2.7685061242344706in"
-height="1.7622911198600175in"}
+![]()
 
 **Lolo Interagency Hotshots Lolo National Forest Missoula, Montana**
 
@@ -3262,43 +3171,29 @@ Superintendent.
 2016 -- Firefighter Justin Beebe lost his life while battling the
 Strawberry Fire, GBNP, Nevada
 
-**Crew Leadership (Superintendents)**
-
-1961 Ron Stoleson
-
-1962 Lyle Brown
-
-1963 Jay Penney
-
-1964 -- 1973 George Bissonette
-
-1974 Neil Ramberg
-
-1975 Neil Ramberg/Kevin Brown 1976 - 1981 Mike Cyrus
-
-1982 Jerry Benson
-
-1983 - 1984 Don Feser
-
-1985 Roger Christopher
-
-1986 Don Feser
-
-1987 Steve Betlach
-
-1988 Greg Power
-
-1989 Margaret Doherty
-
-1990 -- 2010 Steve Karkanen
-
-1994 Marshal Brown (Detail)
-
-2000 Holly Maloney (Detail)
-
-2010 Tim Laroche (Detail) 2011 -- 2017 Tim LaRoche
-
-2018 Shawn Faiella (Detail) 2019 -- Present Shawn Faiella
+Year(s) | Superintendent
+:- | :-
+1961 | Ron Stoleson
+1962 | Lyle Brown
+1963 | Jay Penney
+1964-1973 | George Bissonette
+1974 | Neil Ramberg
+1975 | Neil Ramberg/Kevin Brown
+1976-1981 | Mike Cyrus
+1982 | Jerry Benson
+1983-1984 | Don Feser
+1985 | Roger Christopher
+1986 | Don Feser
+1987 | Steve Betlach
+1988 | Greg Power
+1989 | Margaret Doherty
+1990-2010 | Steve Karkanen
+1994 | Marshal Brown (Detail)
+2000 | Holly Maloney (Detail)
+2010 | Tim Laroche (Detail)
+2011-2017 | Tim LaRoche
+2018 | Shawn Faiella (Detail)
+2019-Present | Shawn Faiella
 
 ### ![](media/image75.png)Northwest
 
