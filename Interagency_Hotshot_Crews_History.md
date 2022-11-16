@@ -2526,10 +2526,9 @@ Year(s) | Superintendent
 # Northern Rockies
 
 ## Bear Paw
+![](nrcc/nrcc_bear_paw.png)
 
 **Chippewa -- Cree Tribe Natural Resources / Forestry**
-
-![]()
 
 **Bear Paw Fire Crew**
 
@@ -2622,6 +2621,8 @@ the individual is in the crew"*
 **-Bear Paw IHC Mission Statement**
 
 ## Bison
+![](nrcc/nrcc_bison.png)
+
 **Arrowhead 3 (Bison, Alpine) Interagency Hotshot Crews**
 
 In May of 1981, the National Park Service (NPS) established its
@@ -2675,8 +2676,7 @@ front of the Lower Falls and installing it at their Canyon quarters.
 (Photos provided by Mike Holmes.)
 
 ## Bitterroot
-![]()
-![]()
+![](nrcc/nrcc_bitterroot.png)
 
 USFS
 
@@ -2730,17 +2730,18 @@ Year(s) | Superintendent
 1978-1983 | Buck Latapie
 1984 | Don Ray
 1985-1993 | Bill Miller
-1990 | Joe Thompson\*
+1990 | Joe Thompson*
 1994-2000 | Steve Rawlings
 2001-2006 | Rory Laws
-2007 | Matt Gibson\*
+2007 | Matt Gibson*
 2008-present | Jay Wood
 
-\*denotes Detailed Superintendents |                |
+\* denotes Detailed
 
 ## Chief Mountain
-![](media/image66.jpeg){width="2.5903083989501314in"
-height="2.0513877952755903in"}*CHIEF MOUNTAIN HOTSHOTS*
+![](nrcc/nrcc_chief_mountain.png)
+
+*CHIEF MOUNTAIN HOTSHOTS*
 
 AGENCY: BLACKFEET TRIBE
 
@@ -2779,20 +2780,10 @@ more openly. The performance and demand for Chief Mountain skyrocketed
 to where the program was recognized by name. The Chief Mountain
 Hotshot program received an award for outstanding safety performance
 during the 1999 fire season for zero lost accidents and zero
-
-**Squad Bosses**
-
-**David Burdeau 2016 -- Present**
-
-***"PRESERVING THE PAST WHILE BUILDING THE FUTURE"***
-
 reportable vehicle accidents by the US Forest Service and Northern
 Rockies Coordinating Group. The Chief Mountain Interagency Hotshot
 Crew has been recognized by several film production companies and
 currently has 2 documentary films completed.
-
-Past & Present Superintendents, Assistant Superintendents and Squad
-leaders
 
 Year(s) | Superintendent
 :- | :-
@@ -2803,11 +2794,12 @@ Year(s) | Superintendent
 1997 | Steve Murray
 1998-Present | Lyle St. Goddard
 
-## Flathead
-![]()
+***"PRESERVING THE PAST WHILE BUILDING THE FUTURE"***
 
-![](media/image68.jpeg){width="1.671984908136483in"
-height="4.655168416447944in"}he 1966 Flathead Interregional Fire
+## Flathead
+![](nrcc/nrcc_flathead.png)
+
+The 1966 Flathead Interregional Fire
 Suppression crew began its inaugural season in mid-June at the Big
 Creek Ranger Station, 35 miles north of Kalispell, Montana and just
 outside Glacier National Park. Big Creek served the crew
@@ -2846,12 +2838,10 @@ Year(s) | Superintendent
 2012-2015 | Tyler Anderson
 2016-present | Shawn Borgen
 
-*June 10th, 1966*
-
 ## Helena
-HELENA HOTSHOTS 1971 -
+![](nrcc/nrcc_helena.png)
 
-2009
+HELENA HOTSHOTS 1971-2009
 
 A Brief Crew History
 
@@ -2951,14 +2941,10 @@ Year(s) | Superintendent
 2006 | Kenny Spint (detail)
 2007-present | Fred Thompson
 
-![](media/image69.png){width="1.0504571303587051in"
-height="1.0398950131233595in"}
-
 Opera Non Verba
 
 ## Idaho Panhandle
-![]()
-![]()
+![](nrcc/nrcc_idaho_panhandle.png)
 
 **IDAHO PANHANDLE INTERAGENCY HOTSHOT CREW HISTORY 1967-PRESENT**
 
@@ -3017,6 +3003,17 @@ is that we are positively making a difference in the fire world and
 like I constantly remind my crew, "Everyday is a Holiday, and every
 meal is a banquet when you are an Idaho Panhandle Hotshot."
 
+The crew logos that are attached above have been on the back of our
+shirt for a long time. The history of the logo is uncertain. Many
+times during our travel we have been approached by the public sector
+requesting one of our shirts. After a brief explanation what it means
+to be an Interagency Hotshot Crew the answer is always the same: You
+must be a member to receive a shirt. The other logo is on the front of
+our shirt and has changed a few times. Until 2002 the logo included a
+tree with a lightening bolt hitting it.
+
+The picture above shows how it looks today.
+
 Year(s) | Superintendent
 :- | :-
 St. Joe IHC | 
@@ -3036,24 +3033,10 @@ Idaho Panhandle IHC |
 2004-2008 | Terry Zufelt
 2009-Present | Chris Smith
 
-The crew logos that are attached above have been on the back of our
-shirt for a long time. The history of the logo is uncertain. Many
-times during our travel we have been approached by the public sector
-requesting one of our shirts. After a brief explanation what it means
-to be an Interagency Hotshot Crew the answer is always the same: You
-must be a member to receive a shirt. The other logo is on the front of
-our shirt and has changed a few times. Until 2002 the logo included a
-tree with a lightening bolt hitting it.
+## Lewis & Clark
+![](nrcc/nrcc_lewis_and_clark.png)
 
-The picture above shows how it looks today.
-
-# Lewis & Clark
 **Lewis & Clark Hotshots...History 2001-Present**
-
-![]()
-![]()
-
-Original Logo Current Logo
 
 The Lewis & Clark Interagency Hotshot Crew has a rather short history;
 being one of several IHC's developed nationwide in 2001. After a
@@ -3101,8 +3084,7 @@ Year(s) | Superintendent
 2019-Present | William Knudsen
 
 ## Lolo
-
-![]()
+![](nrcc/nrcc_lolo.png)
 
 **Lolo Interagency Hotshots Lolo National Forest Missoula, Montana**
 
