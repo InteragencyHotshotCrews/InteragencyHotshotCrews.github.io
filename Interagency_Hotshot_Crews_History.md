@@ -3177,12 +3177,10 @@ Year(s) | Superintendent
 2018 | Shawn Faiella (Detail)
 2019-Present | Shawn Faiella
 
-### ![](media/image75.png)Northwest
+# Northwest
 
-**Puerto Rico**
-
-![](media/image77.jpeg){width="2.0895734908136485in"
-height="2.2604166666666665in"}
+## Baker River
+![]()
 
 Baker River Hotshots Est. 1976
 
@@ -3206,32 +3204,27 @@ hotshot crew accomplishes a variety of project assignments such as
 prescribed burning, building and maintaining trails and performing
 building maintenance.
 
-**[Superintendents:]{.underline}**
+Year(s) | Superintendent
+:- | :-
+1976-1979 | Joe King
+1980-1984 | Gary McMillen
+1985 | Jim Westman
+1986 | Andy Gay (Parker)
+1987-1990 | Ken Paul
+1991-1993 | Otis Allen
+1994-1998 | Steve Cross
+1999-2003 | Anthony Engel
+2004-2011 | Kurt Ranta
+2012 | Rob Poyner
+2013-2020 | Kurt Ranta
+2021 | Gary Chicks
 
-**1976-79: Joe King**
+![]()
 
-**1980-84: Gary McMillen**
-
-**1985: Jim Westman 1986: Andy Gay (Parker) 1987-90: Ken Paul**
-
-**1991-93: Otis Allen**
-
-**1994-98: Steve Cross**
-
-**1999-03: Anthony Engel**
-
-**2004-11,13-2020: Kurt Ranta**
-
-**2012: Rob Poyner**
-
-**2021: Gary Chicks**
-
-![](media/image78.jpeg){width="5.542000218722659in"
-height="3.740624453193351in"}
-
+## Entiat
 **Entiat Interagency Hotshot Crew History**
 
-![](media/image79.jpeg)
+![]()
 
 **Crew History**
 
@@ -3267,53 +3260,30 @@ dispatch center manager for the Wenatchee dispatch.
 When the crew reached IR status in 1966, Chuck Wolf was the foreman
 that led them there. Chuck's strong leadership style served
 
-**Crew Superintendents**
+Year(s) | Superintendent
+:- | :-
+1966-1967 |  Charles Wolf
+1968 | Ed Harlan
+1969 | Joe Marchbanks
+1970-1971 | Vern Gray
+1972-1973 | Lester Domingos
+1974 | Dave Spies
+1975 | Mike Cammack
+1976-1979 | George Marcott
+1980-1985 | Lonnie Williams
+1986 | Tar Lesmeister
+1987 | Matt Dahlgreen
+1988-1991 | Tom Fogata
+1992-1993 | Gabe Jasso
+1994 | Russ Truman
+1995-1997 | Gabe Jasso
+1998-2006 | Marshall Brown
+2007 | Kyle Cannon
+2008-2013 | Jeff Dimke
+2014-2015 | Matt Kennedy
+2016-2019 | Rob Poyner
+2020-Present | Dan Pickard
 
-+-------------------+-----------------+
-| **Name**        | **Years**     |
-+===================+=================+
-| Charles Wolf    | 1966-1967     |
-+-------------------+-----------------+
-| Ed Harlan       | 1968          |
-+-------------------+-----------------+
-| Joe Marchbanks  | 1969          |
-+-------------------+-----------------+
-| Vern Gray       | 1970-1971     |
-+-------------------+-----------------+
-| Lester Domingos | 1972-1973     |
-+-------------------+-----------------+
-| Dave Spies      | 1974          |
-+-------------------+-----------------+
-| Mike Cammack    | 1975          |
-+-------------------+-----------------+
-| George Marcott  | 1976-1979     |
-+-------------------+-----------------+
-| Lonnie Williams | 1980-1985     |
-+-------------------+-----------------+
-| Tar Lesmeister  | 1986          |
-+-------------------+-----------------+
-| Matt Dahlgreen  | 1987          |
-+-------------------+-----------------+
-| Tom Fogata      | 1988-1991     |
-+-------------------+-----------------+
-| Gabe Jasso      | 1992-1993     |
-+-------------------+-----------------+
-| Russ Truman     | 1994          |
-+-------------------+-----------------+
-| Gabe Jasso      | 1995-1997     |
-+-------------------+-----------------+
-| Marshall Brown  | 1998-2006     |
-+-------------------+-----------------+
-| Kyle Cannon     | 2007          |
-+-------------------+-----------------+
-| Jeff Dimke      | 2008-2013     |
-+-------------------+-----------------+
-| Matt Kennedy    | 2014-2015     |
-+-------------------+-----------------+
-| Rob Poyner      | 2016-2019     |
-+-------------------+-----------------+
-| Dan Pickard     | 2020- Present |
-+-------------------+-----------------+
 
 the crew well in the first few years as they began to build their
 reputation throughout the west. Later, Chuck became the FMO of the
@@ -3400,7 +3370,8 @@ Entiat, WA 98822 or phone
 
 \(509) 784-1016
 
-![](media/image82.jpeg)La Grande Interagency Hotshot Crew
+## La Grande
+![]()
 
 La Grande's roots come from the Wallowa Whitman Inter Regional Crew
 based out of Sled Springs Guard Station in 1967. Under the guidance of
@@ -3423,42 +3394,25 @@ performing our jobs safely and effectively with a positive attitude.
 We take pride in the service we provide and strive for excellence in
 our performance.
 
-+-----------------------------+------------------------------+
-| **Superintendents**       | **Foreman**                |
-+=============================+==============================+
-| 1967-1972 Rayford Gillory | 1988-1989 Steve Dickenson  |
-+-----------------------------+------------------------------+
-| Thomas Turner1973-1976    | 1990-1991 Jenny Reinheardt |
-+-----------------------------+------------------------------+
-| 1977-1978 John Pino       | 1992 John Gale             |
-+-----------------------------+------------------------------+
-| 1979-1980 John Allendorf  | 1993-94 Mark Shelton       |
-+-----------------------------+------------------------------+
-| 1981 Randy Knight         | 1995-1997 John Gale        |
-+-----------------------------+------------------------------+
-| 1983-1989 Steve Morefield | 1998-2002 Willy Crippen    |
-+-----------------------------+------------------------------+
-| 1990 Steve Dickinson      | 2003-2008 Brian Bush       |
-+-----------------------------+------------------------------+
+Year(s) | Superintendent
+:- | :-
+1967-1972 | Rayford Gillory
+1973-1976 | Thomas Turner 
+1977-1978 | John Pino
+1979-1980 | John Allendorf
+1981 | Randy Knight
+1983-1989 | Steve Morefield
+1990 | Steve Dickinson
+1991-1999 | Jay Rasmussen
+2000-2002 | John Gale
+2003-2009 | Willy Crippen
+2009-2012 | Brian Bush
+2013-Present | Josh Diacetis
 
-+------------------------------+---------------------------------+
-| 1991- 1999 Jay Rasmussen   | 2009-2012 Josh Diacetis       |
-+==============================+=================================+
-| 2000-2002 John Gale        | 2014-Present Toby Chamberlain |
-+------------------------------+---------------------------------+
-| 2003-2009 Willy Crippen    |                                 |
-+------------------------------+---------------------------------+
-| 2009-2012 Brian Bush       |                                 |
-+------------------------------+---------------------------------+
-| 2013-Present Josh Diacetis |                                 |
-+------------------------------+---------------------------------+
-|                              |                                 |
-+------------------------------+---------------------------------+
-
+## Prineville
 PRINEVILLE HOTSHOT HISTORY 1980 TO PRESENT
 
-![](media/image84.jpeg){width="4.137919947506561in"
-height="4.268957786526684in"}
+![]()
 
 The brain child of John Maupin, Fire Staff on the Ochoco Nation
 Forest, the "Prineville Interagency Hotshot" crew name came into
@@ -3562,32 +3516,21 @@ have a superintendent, assistant superintendent, three squad leaders
 and five senior fire fighters, all permanent members of the crew and
 12 1039 temporary employees.
 
-**Crew Superintendents:**
+Year(s) | Superintendent
+:- | :-
+1980-1986 | Wade Burleson
+1986-1987 | Darrell Schulte
+1988-1995 | Tom Shepard
+1996-1997 | Andy Lang
+1997-2009 | Lance Honda
+2009-2014 | James Osborne
+2014-2019 | Eric Miller
+2020-Present | Brendan O'Reilly
 
-+-------------------+-----------+
-| Wade Burleson   | 1980-1986 |
-+===================+===========+
-| Darrell Schulte | 1986-1987 |
-+-------------------+-----------+
-| Tom Shepard     | 1988-1995 |
-+-------------------+-----------+
-| Andy Lang       | 1996-1997 |
-+-------------------+-----------+
-
-+--------------------+----------------+
-| Lance Honda      | 1997-2009    |
-+====================+================+
-| James Osborne    | 2009-2014    |
-+--------------------+----------------+
-| Eric Miller      | 2014-2019    |
-+--------------------+----------------+
-| Brendan O'Reilly | 2020-Present |
-+--------------------+----------------+
-
+## Redmond
 **REDMOND IHC HISTORY**
 
-![](media/image85.jpeg){width="2.2343733595800526in"
-height="1.3999989063867018in"}
+![]()
 
 The Redmond Hotshot Crew, located in Redmond Oregon, is housed at the
 Redmond Air Center and supported by the Pacific Northwest Training
@@ -3626,45 +3569,30 @@ collaboration into the future.
 The crew is primarily focused on leadership development and team
 building.
 
-**[Superintendents Past and Present]{.underline}**
+Year(s) | Superintendent
+:- | :-
+1960-1968 | Carl Rader
+1968-1972 | Wayne Linville
+1972-1974 | Byron Bonney
+1975 | Dave Brown
+1976-1979 | Richard Kreger
+1980 | Dave Craycroft
+1981-1986 | Tim Sexton
+1987-1993 | Andy Parker
+1994 | Steve Dickenson
+1995-1996 | Andy Parker
+1996 | Lance Honda
+1997-1999 | John Holcomb
+2000-2002 | Doug Johnson
+2003-2005 | Deb Blais
+2006-2011 | Mike Muehlbauer
+2012 | Chris Buhrig(detail)
+2013-2017 | Neil Austin
+2017 | James Pursell (detail)
+2018-2022 | Gabe Mason
 
-Carl Rader 1960-1968
-
-Wayne Linville 1968-1972
-
-Byron Bonney 1972-1974
-
-Dave Brown 1975
-
-Richard Kreger 1976-1979
-
-Dave Craycroft 1980
-
-Tim Sexton 1981-1986
-
-Andy Parker 1987-1993
-
-Steve Dickenson 1994
-
-Andy Parker 1995-1996
-
-Lance Honda 1996
-
-John Holcomb 1997-1999
-
-Doug Johnson 2000-2002
-
-Deb Blais 2003-2005
-
-Mike Muehlbauer 2006-2011
-
-Chris Buhrig(detail) 2012
-
-Neil Austin 2013-2017
-
-James Pursell (detail) 2017 Gabe Mason 2018-2022
-
-######### ![](media/image86.jpeg){width="1.8666666666666667in" height="1.8641568241469817in"}ROGUE RIVER IHC
+## Rogue River
+![]()
 
 USDA Forest Service
 
@@ -3707,27 +3635,17 @@ McLoughlin, the most prominent feature on the district.
 
 *Figure 1 Original logo*
 
-**Superintendents:**
-
-Randy Lehman 2001 -- 2011
-
-Aaron Schuh 2012 -- Present
-
-**Captains**:
-
-Scott Hall KC Koogler- Current
-
-Vince Grace Kevin Smyth - Current Jeff Dimke
-
-Mike McGirr Mark Brown Tom Merritt Jeremy Delack Devin Parks Larry
-Kazakoff Lucas Mayfield Michael Ingman
+Year(s) | Superintendent
+:- | :-
+2001-2011 | Randy Lehman
+2012-Present | Aaron Schuh
 
 Link to the Rogue River IHC Website;
 [[https://w](http://www.fs.usda.gov/detail/rogue-)ww.fs.[usda.](http://www.fs.usda.gov/detail/rogue-)g[ov/detai](http://www.fs.usda.gov/detail/rogue-)l[/rogue-](http://www.fs.usda.gov/detail/rogue-)]{.underline}
 [siskiyou/fire/?cid=fseprd998715]{.underline}
 
-![](media/image88.jpeg){width="2.2484569116360453in"
-height="1.9012489063867017in"}
+## Union
+![]()
 
 **Union Interagency Hotshot Crew Wallowa--Whitman National Forest,
 Region 6**
@@ -3782,22 +3700,16 @@ crew logo was changed in 1988 to feature the head of a Goshawk (an
 aggressive forest bird of prey) in a circle with the crew name printed
 around the outside.
 
-**Crew Superintendents**:
+Year(s) | Superintendent
+:- | :-
+1980-1987 | Greg Vergari
+1988-1995 | Tom Wordell
+1996-2006 | Dan Fiorito
+2007-2016 | Jody Prummer
+2017-Present | Eric Jorgensen
 
-+------------------+------------------+
-| Greg Vergari   | (1980-1987)    |
-+==================+==================+
-| Tom Wordell    | (1988-1995)    |
-+------------------+------------------+
-| Dan Fiorito    | (1996-2006)    |
-+------------------+------------------+
-| Jody Prummer   | (2007-2016)    |
-+------------------+------------------+
-| Eric Jorgensen | (2017-Present) |
-+------------------+------------------+
-
-![](media/image90.jpeg){width="1.274060586176728in"
-height="0.9106681977252843in"}**VALE BLM DISTRICT, REGION SIX**
+## Vale
+![]()
 
 In 1997 the BLM established the Vale Hotshots. The Vale District is
 located in Eastern Oregon and was chosen to host the Vale IHC because
@@ -3837,13 +3749,15 @@ Suppression. (Alaska, Washington, Oregon, California, Nevada, Utah,
 Arizona, New Mexico, Colorado, Wyoming, Montana, Idaho, South Dakota,
 Florida, and Canada.)
 
-**Crew Superintendents** Rick Roach -- 1997-2002 Bart Yeager --
-2003-2018 Glenn Heitz - 2019-Presemt
+Year(s) | Superintendent
+:- | :-
+1997-2002 | Rick Roach
+2003-2018 | Bart Yeager
+2019-Presemt | Glenn Heitz
 
-![](media/image91.jpeg){width="1.8433103674540683in"
-height="1.7066666666666668in"}
-![](media/image92.jpeg){width="2.3624978127734035in"
-height="1.652603893263342in"}
+## Warm Springs
+![]()
+![]()
 
 **THE WARM SPRINGS INTER-AGENCY HOT**
 
@@ -3929,50 +3843,15 @@ community school district]{.smallcaps}**
 
 **FUNCTIONS.**
 
-[***[ Crew Superintendent Past And
-Present]{.smallcaps}***]{.underline}**:**
+Year(s) | Superintendent
+:- | :-
+1984-1987 | Michael Gomez
+1988-2003 | Luther Clements
+2004-2008 | Tony Holliday Sr.
+2009-Present | Gary Sampson Jr.
 
--   **[Gary Sampson Jr.]{.smallcaps}**
-
-**2009- PRESENT**
-
-**TONY HOLLIDAY SR. 2004 -- 2008**
-
--   **LUTHER CLEMENTS 1988 -- 2003**
-
--   **MICHAEL GOMEZ 1984 -- 1987**
-
-***[[Assistants Superintendents]{.underline}]{.smallcaps}***
-
-*[Renso Rodriguez 2010-Present]{.smallcaps}*
-
-*[William Wilson 2009]{.smallcaps}*
-
-*[Gary Sampson 2007-2008]{.smallcaps}*
-
-*[Jabbar Davis 2006]{.smallcaps}*
-
-*[Edmund Francis 2004-2005]{.smallcaps}*
-
-*[Tony Holliday 1998-2003]{.smallcaps}*
-
-*[Eric Powers]{.smallcaps}*
-
-*1995-1997*
-
-*[Trey Leonard]{.smallcaps}*
-
-*1991-1994*
-
-*VERNON TIAS 1988-1990*
-
-*[Luther Clements]{.smallcaps}*
-
-*1984-1987*
-
-![](media/image93.jpeg){width="2.507917760279965in"
-height="2.471353893263342in"}
-
+## Winema
+![]()
 **Winema Interagency Hotshot Crew**
 
 **Region 6, Fremont-Winema National Forest, Klamath Falls, Oregon**
@@ -4054,36 +3933,34 @@ that is 22 permanent and 8 seasonal employees through 2024.
 
 -   2013 returned to using the Taz logo on blue shirts.
 
-**Winema Interagency Hotshot Crew Crew Supervision History**
+Year(s) | Superintendent
+:- | :-
+1962-1965 | Pete Gregory
+1966 | Edward Graham
+1967-1968 | Darrel Hawkins
+1969 | Bob Foster
+1970-1971 | Roy Skelton
+1972 | Richard Bonney
+1973-1974 | Dale Alter
+1975 | Don Bailey
+1976 | Mike Monahan
+1977-1978 | John Funderberg
+1979 | John (Woody) Haas
+1980-1983 | Gene Rogers
+1984-1985 | Andy Gay (Parker)
+1986 | Lonnie Williams
+1987 | Larry Decker
+1988-1991 | Dale Cuyler
+1992-2000 | Randy Lehman
+2001-2002 | James Hampton
+2003 | Neil Austin
+2004-2006 | James Hampton
+2007- 2012 | Neil Austin
+2013-2019 | David G. Lilly
+2020-Present | Karl Krauter
 
-+---------------------+-----------+---------------------+----------------+
-| Pete Gregory      | 1962-65 | Andy Gay (Parker) | 1984-85      |
-+=====================+===========+=====================+================+
-| Edward Graham     | 1966    | Lonnie Williams   | 1986         |
-+---------------------+-----------+---------------------+----------------+
-| Darrel Hawkins    | 1967-68 | Larry Decker      | 1987         |
-+---------------------+-----------+---------------------+----------------+
-| Bob Foster        | 1969    | Dale Cuyler       | 1988-91      |
-+---------------------+-----------+---------------------+----------------+
-| Roy Skelton       | 1970-71 | Randy Lehman      | 1992-2000    |
-+---------------------+-----------+---------------------+----------------+
-| Richard Bonney    | 1972    | James Hampton     | 2001-2002    |
-+---------------------+-----------+---------------------+----------------+
-| Dale Alter        | 1973-74 | Neil Austin       | 2003         |
-+---------------------+-----------+---------------------+----------------+
-| Don Bailey        | 1975    | James Hampton     | 2004-2006    |
-+---------------------+-----------+---------------------+----------------+
-| Mike Monahan      | 1976    | Neil Austin       | 2007- 2012   |
-+---------------------+-----------+---------------------+----------------+
-| John Funderberg   | 1977-78 | David G. Lilly    | 2013-2019    |
-+---------------------+-----------+---------------------+----------------+
-| John (Woody) Haas | 1979    | Karl Krauter      | 2020-Present |
-+---------------------+-----------+---------------------+----------------+
-| Gene Rogers       | 1980-83 |                     |                |
-+---------------------+-----------+---------------------+----------------+
-
-![](media/image94.png){width="2.165564304461942in"
-height="2.2022911198600177in"}
+## Wolf Creek
+![]()
 
 Wolf Creek Interagency Hotshot Crew
 
@@ -4160,18 +4037,20 @@ The crew colors were bright orange from 1976 until 2005 then changed
 to black briefly. In 2008 the crew adopted the burnt orange as their
 color with the newer logo.
 
-**Superintendents**
+Year(s) | Superintendent
+:- | :-
+1976-1996 | Richard Aguilar
+1997-2001 | Chris Theison
+2002 | Chris Chiverton (acting)
+2003 | Alan Andrews (Detail)
+2004-2005 | Clyde Johnson
+2006-2006 | Adam Veale
+2007 | Ken Gregor (Detail)
+2008-2014 | Eric Miller
+2014 | Dean Whitney (Detail) 
+2014-Present | Jake Garate
 
-**1976-1996 Richard Aguilar**
-
-**1997-2001 Chris Theison 2002 Chris Chiverton (acting) 2003 Alan
-Andrews (Detail) 2004-2005 Clyde Johnson**
-
-**2006-2006 Adam Veale 2007-Ken Gregor (Detail) 2008-2014 Eric
-Miller**
-
-**2014-Dean Whitney (Detail) 2014-Present Jake Garate**
-
+## Zigzag
 ######### Zigzag Hotshots History and Heritage
 
 From the Early 1960s to Today
@@ -4241,29 +4120,18 @@ become its fifth superintendent in four decades.
 While the world might change, the Zigzag Interagency Hotshot Crew
 remains constant: same location, same traditions, and always tough!
 
-+-----------------------------------------------+----------------+
-| **Zigzag Superintendents Past and Present** |                |
-+===============================================+================+
-| Don Vandenberg                                | Early 1960s  |
-+-----------------------------------------------+----------------+
-| Lee Englesby                                  | 1975         |
-+-----------------------------------------------+----------------+
-| Bill Erickson                                 | 1976         |
-+-----------------------------------------------+----------------+
-| Roddy Baumann                                 | 1977-78      |
-+-----------------------------------------------+----------------+
-| Paul Gleason                                  | 1979-1990    |
-+-----------------------------------------------+----------------+
-| Gina Papke                                    | 1991-2000    |
-+-----------------------------------------------+----------------+
-| Diego Mendiola                                | 2001-2016    |
-+-----------------------------------------------+----------------+
-| Tomas Rivero                                  | 2017         |
-+-----------------------------------------------+----------------+
-| James Meisner                                 | 2017         |
-+-----------------------------------------------+----------------+
-| Devin Parks                                   | 2018-Present |
-+-----------------------------------------------+----------------+
+Year(s) | Superintendent
+:- | :-
+Early 1960s | Don Vandenberg
+1975 | Lee Englesby
+1976 | Bill Erickson
+1977-1978 | Roddy Baumann
+1979-1990 | Paul Gleason
+1991-2000 | Gina Papke
+2001-2016 | Diego Mendiola
+2017 | Tomas Rivero
+2017 | James Meisner
+2018-Present | Devin Parks
 
 ![](media/image96.png)Rocky Mountain
 ------------------------------------
