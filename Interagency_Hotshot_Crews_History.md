@@ -4133,15 +4133,12 @@ Early 1960s | Don Vandenberg
 2017 | James Meisner
 2018-Present | Devin Parks
 
-![](media/image96.png)Rocky Mountain
-------------------------------------
+# Rocky Mountain
 
-**Puerto Rico**
-
+## Alpine
 Alpine Hotshots History 1981- Present
 
-![](media/image98.jpeg){width="1.6379440069991251in"
-height="1.6190616797900264in"}
+![]()
 
 The National Park Service established its Interagency Hotshot Crew
 program in May, 1981. The Alpine Hotshots being one of the three crews
@@ -4201,24 +4198,18 @@ majority of our fire assignments have been away from the vicinity of
 Rocky Mountain NP except during the summer of 2002 Colorado
 experienced a record fire year.
 
-**Superintendents Past and Present**
+Year(s) | Superintendent
+:- | :-
+1981-1984 | Jon Larson
+1984-1987 | John Comery
+1987 | Paul Borcherding
+1988-1997 | Jim " JP" Mattingly
+1997-2006 | David Niemi
+2006-2007 | Chris Kirby
+2008-Present | Paul Cerda
 
-Jon Larson: 1981 -- 1984
-
-John Comery: 1984 -- 1987
-
-Paul Borcherding: 1987
-
-Jim " JP" Mattingly: 1988 -- 1997
-
-David Niemi: 1997 -- 2006
-
-Chris Kirby: 2006 - 2007
-
-Paul Cerda 2008 - Present
-
-![](media/image99.jpeg){width="1.1572167541557306in"
-height="1.1377077865266843in"}
+## Craig
+![]()
 
 ***Craig Interagency Hotshot Crew 2001 -- Present***
 
@@ -4265,8 +4256,18 @@ You can find out more information about Craig IHC at the website
 below:
 [https://[www.nifc.gov/about-us/our-partners/blm/blm-crews/craig-hotshots](http://www.nifc.gov/about-us/our-partners/blm/blm-crews/craig-hotshots)]{.underline}
 
-![](media/image100.jpeg){width="1.847221128608924in"
-height="1.9583333333333333in"}Pike Interagency Hotshot Crew
+Year(s) | Superintendent
+:- | :-
+2001-2003 | Stuart Gore
+2004 | Shawn Telford (detail)
+2004 | Miles Ellis (detail)
+2005-2013 | Shawn Telford
+2014-2018 | Sean Carey
+2018-2019 | Caleb Meyer
+2019-present | Logan Blankenship
+
+## Pike
+![]() Pike Interagency Hotshot Crew
 
 The Pike Interagency Hotshot Crew began in 1962 as the Roosevelt
 Inter-Regional Fire Suppression Crew (IR Crew). Affectionately known
@@ -4301,31 +4302,31 @@ pride in what we do.
 
 *Scotty's Raider's, circa 1960's*
 
-**Superintendents, Past and Present:**
+Year(s) | Superintendent
+:- | :-
+1962-1973 | Glenn Scott
+1974-1977 | Chris Brandy
+1978 | Bruce Haflich
+1979 | Bill Frede
+1980-1981 | Chris Brandy
+1982 | Brett Acres
+1983-1984 | Dan Robinson
+1985 |Gasper Blea
+1986-1991 | Tim Foley
+1992 | Paul Gleason, Matt Valdez
+1993-1997 | Tim Foley
+1998-2005 | Shane Greer
+2006 | Shane Greer, Alissa Roeder
+2007-2011 | Alissa Roeder
+2012-2013 | Kevin Neiman
+2014-2018 | Tom Allbright
+2019-Present | David Smallman
 
-+-----------------------------------+-----------------------------------+
-| 1962 - 73 Glenn Scott           | 1982 Brett Acres 1993 - 97 Tim  |
-|                                   | Foley                           |
-+===================================+===================================+
-| 1974 - 77 Chris Brandy          | 1983 - 84 Dan Robinson 1998 -   |
-|                                   | 05 Shane Greer                  |
-+-----------------------------------+-----------------------------------+
-| 1978 - Bruce Haflich            | 1985 - Gasper Blea 2006 Shane   |
-|                                   | Greer/Alissa Roeder             |
-+-----------------------------------+-----------------------------------+
-| 1979 - Bill Frede               | 1986 - 91 Tim Foley             |
-|                                   | 2007-11Alissa Roeder            |
-+-----------------------------------+-----------------------------------+
-| 1980 - 81 Chris Brandy          | 1992 - Paul Gleason/Matt Valdez |
-|                                   | 2012- 2013 Kevin Neiman         |
-+-----------------------------------+-----------------------------------+
-| 2014 - 2018 Tom Allbright       | 2019 -- Present David Smallman  |
-+-----------------------------------+-----------------------------------+
+## Roosevelt
 
 **Roosevelt Hotshots History 2001 to Present**
 
-![](media/image102.jpeg){width="1.8068580489938757in"
-height="1.5933333333333333in"}
+![]()
 
 The Roosevelt Interagency Hotshot Crew is based in Fort Collins,
 Colorado on the Canyon Lakes Ranger District of the Arapaho-Roosevelt
@@ -4352,14 +4353,15 @@ While the crew spends much of the summer away on assignment, when at
 home the Hotshots help meet the district's needs by doing a variety of
 project work and assisting with prescribed fire.
 
-**Superintendents:**
+Year(s) | Superintendent
+:- | :-
+2001-2002 | Kelly Jones (Mellot)
+2003 | Todd Millen
+2003-2006 | Dave Hamrick
+2007-Present | Larry Money
 
-Kelly Jones (Mellot) 2001-2002 Todd Millen 2003
-
-Dave Hamrick 2003-2006 Larry Money 2007-Present
-
-![](media/image103.png){width="1.6118285214348207in"
-height="0.8529155730533683in"}
+## San Juan
+![]()
 
 San Juan IHC Crew History 2002-Present
 
@@ -4396,17 +4398,19 @@ working for the engineering programs rebuilding/ removing bridges,
 mine reclamation, range projects that have included fence
 building/removal, and weed inventory.
 
-Superintendent List Shawna Legarza 2002-2007
+Year(s) | Superintendent
+:- | :-
+2002-2007 | Shawna Legarza
+2008-2010 | Jim Cornelius
+2011-2017 | Jay Godson
+2018-present | Tom Allbright
 
-Jim Cornelius 2008-2010
-
-Jay Godson 2011-2017 Tom Allbright 2018-present
-
+## Tatanka
 Tatanka Hotshots 605-673-5965/ 605-673-1138 © 12266 Tatanka Dr.
 
 Custer, SD 57730
 
-![](media/image104.jpeg){width="1.5719280402449693in" height="1.5725in"}
+![]()
 
 **Tatanka Hotshot Crew History**
 
@@ -4419,62 +4423,12 @@ the grounds of an old Tuberculosis sanitarium that was converted into
 a juvenile offender facility. The crew moved into its current
 facilities in April of 2002.
 
-**Supervision History**
-
-**Superintendent** (years) **Captain** (years) **Squad Leader**
-(years)
-
-+-----------------------+-----------------------+-----------------------+
-| Geoff Bell          | John Carothers      | Nelson Heart (1999) |
-| (1999-2001)         | (1999)              |                       |
-+=======================+=======================+=======================+
-| Pat Laeng           | Dave Crousser       | Cliff Hutton (1999) |
-| (2001-2008)         | (1999-2000)         |                       |
-+-----------------------+-----------------------+-----------------------+
-| Brandon Hess        | Pat Laeng           | Donald Henry        |
-| (2008-2017)         | (2000-2001)         | (2000-2001)         |
-+-----------------------+-----------------------+-----------------------+
-| David Zortman       | Donald Henry        | Todd Millen (2000)  |
-| (2017- present)     | (2001-2006)         |                       |
-+-----------------------+-----------------------+-----------------------+
-|                       | Jason Virtue        | Joe Squarez (2001)  |
-|                       | (2001-2004)         |                       |
-+-----------------------+-----------------------+-----------------------+
-|                       | Brandon Hess        | Grant Gifford       |
-|                       | (2004-2008)         | (2002-2005)         |
-+-----------------------+-----------------------+-----------------------+
-|                       | Grant Gifford       | Brandon Hess        |
-|                       | (2007-2008)         | (2002-2004)         |
-+-----------------------+-----------------------+-----------------------+
-|                       | Brian Faith         | David Zortman       |
-|                       | (2009-2011)         | (2004-2009)         |
-+-----------------------+-----------------------+-----------------------+
-|                       | David Zortman       | Bryan Hellett       |
-|                       | (2009-2016)         | (2007-2007)         |
-+-----------------------+-----------------------+-----------------------+
-|                       | Joshua Ball         | Dan Bagley          |
-|                       | (2011-Present)      | (2007-2011)         |
-+-----------------------+-----------------------+-----------------------+
-|                       | Kurt Bassett        | Joshua Ball         |
-|                       | (2017-Present)      | (2009-2011)         |
-+-----------------------+-----------------------+-----------------------+
-|                       |                       | Tim Troxel          |
-|                       |                       | (2012-Present)      |
-+-----------------------+-----------------------+-----------------------+
-|                       |                       | Kurt Bassett        |
-|                       |                       | (2012-2017)         |
-+-----------------------+-----------------------+-----------------------+
-|                       |                       | Cris Machado        |
-|                       |                       | (2019-2021)         |
-+-----------------------+-----------------------+-----------------------+
-|                       |                       | Doug Kanesky        |
-|                       |                       | (2020-Present)      |
-+-----------------------+-----------------------+-----------------------+
-|                       |                       | Brennen Witt        |
-|                       |                       | (2022-Present)      |
-+-----------------------+-----------------------+-----------------------+
-|                       |                       |                       |
-+-----------------------+-----------------------+-----------------------+
+Year(s) | Superintendent
+:- | :-
+1999-2001 | Geoff Bell
+2001-2008 | Pat Laeng
+2008-2017 | Brandon Hess
+2017- present | David Zortman
 
 Tatanka Hotshots 605-673-5965/ 605-673-1138 © 12266 Tatanka Dr.
 
@@ -4494,7 +4448,8 @@ Senior Crewmember (13/13) GS-5 Senior Crewmember (13/13) GS-5 Senior
 Crewmember (13/13) GS-5 Senior Crewmember (13/13) GS-5 Senior
 Crewmember (13/13) GS-5 Senior Crewmember (13/13)
 
-![](media/image105.jpeg)
+## Wyoming
+![]()
 
 Bighorn IR & Wyoming Hotshot History 1967-Present
 
@@ -4560,37 +4515,23 @@ to30 days spent on fires in 1967 and 1968. Other memorable recent
 events include the only trip to Alaska in crew history (2004) and back
 to back hurricane relief assignments in 2005 and 2006.
 
-+----------------------------------------+------------------------+
-| **Superintendents Past and Present** | **Years of Service** |
-+========================================+========================+
-| Sig Palm                             | 1967-1969            |
-+----------------------------------------+------------------------+
-| Jim Shell                            | 1070-1972            |
-+----------------------------------------+------------------------+
-| Carl "Tut" Anderson                  | 1973                 |
-+----------------------------------------+------------------------+
-| Dennis Eckardt                       | 1974                 |
-+----------------------------------------+------------------------+
-| Terry Wood                           | 1975                 |
-+----------------------------------------+------------------------+
-| Tom Able                             | 1976                 |
-+----------------------------------------+------------------------+
-| Steve Nichols                        | 1977-1979            |
-+----------------------------------------+------------------------+
-| Jeff Johnson                         | 1980-1983            |
-+----------------------------------------+------------------------+
-| Mark Rogers                          | 1984-1996            |
-+----------------------------------------+------------------------+
-| Chris Church (detail)                | 1997                 |
-+----------------------------------------+------------------------+
-| Kevin Pfister                        | 1998-2000            |
-+----------------------------------------+------------------------+
-| Jay Kurth                            | 2001-2004            |
-+----------------------------------------+------------------------+
-| Scott Schuster                       | 2005-2007            |
-+----------------------------------------+------------------------+
-| Matthew Prentiss                     | 2008-Present         |
-+----------------------------------------+------------------------+
+Year(s) | Superintendent
+:- | :-
+1967-1969 | Sig Palm
+1970-1972 | Jim Shell
+1973 | Carl "Tut" Anderson
+1974 | Dennis Eckardt
+1975 | Terry Wood
+1976 | Tom Able
+1977-1979 | Steve Nichols
+1980-1983 | Jeff Johnson
+1984-1996 | Mark Rogers
+1997 | Chris Church (detail)
+1998-2000 | Kevin Pfister
+2001-2004 | Jay Kurth
+2005-2007 | Scott Schuster
+2008-Present | Matthew Prentiss
+
 
 ![](media/image108.jpeg)Southern
 --------------------------------
