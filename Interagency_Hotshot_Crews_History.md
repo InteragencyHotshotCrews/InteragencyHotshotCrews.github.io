@@ -4533,13 +4533,10 @@ Year(s) | Superintendent
 2008-Present | Matthew Prentiss
 
 
-![](media/image108.jpeg)Southern
---------------------------------
+# Southern
 
-**PuutoRlco**
-
-![](media/image110.jpeg){width="1.0930555555555554in"
-height="1.2916666666666667in"}
+## Asheville
+![]()
 
 **ASHEVILLE INTERAGENCY HOTSHOT CREW HISTORICAL INFORMATION**
 
@@ -4591,58 +4588,13 @@ The following chart shows all individuals that have performed in the
 overhead positions for the Asheville Interagency Hotshot Crew from
 1989 to the present.
 
-**ASHEVILLE INTERAGENCY HOTSHOT CREW ORGANIZATIONAL HISTORY
-*SUPERINTENDENT***
+Year(s) | Superintendent
+:- | :-
+1989-2002 | Dick Kastler
+2003-Present | Steve Little
 
-**2003 - Present:** Steve Little **1989 - 2002:** Dick Kastler
-***ASSISTANT SUPERINTENDENT***
-
-**2003 - Present:** Mike Honeycutt
-
-**2000 - 2002:** Steve Little
-
-**1996 - 1999:** Rich Dolphin
-
-***CREW FOREMAN***
-
-**2004-2005:** Kim Ernstrom
-
-***CREW FOREMAN DETAILERS***
-
-+-----------------+-----------------+-----------------+-----------------+
-| **1989**      | **1990**      | **1991**      | **1992**      |
-|                 |               |               |               |
-|                 | Gary Jarvis   | Gary Jarvis   | Gary Jarvis   |
-|                 | Pete Myers    |                 | Ann Pehling   |
-|                 | Charley       |                 |                 |
-|                 | Salazar       |                 |                 |
-+=================+=================+=================+=================+
-| **1993**      | **1994**      | **1995**      | **1996**      |
-+-----------------+-----------------+-----------------+-----------------+
-| Rich Dolphin  | Rich Dolphin  | Dragobert     | Steve Little  |
-|                 | Isabel Campos | Sharp Dave    |                 |
-|                 |                 | Bostic        |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| **1997**      | **1998**      | **1999**      | **2000**      |
-+-----------------+-----------------+-----------------+-----------------+
-| Brian         | Dave Bostic   | Darien Fisher | Mike          |
-| Southard      | Kyle Smith    | Andy Mandell  | Honeycutt     |
-|                 | Mike Buchanan | Steve Parrish |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| **2001**      | **2002**      | **2003**      | **2006**      |
-+-----------------+-----------------+-----------------+-----------------+
-| Ed Weiringa   | Mike          | Tim Beck      | David         |
-|                 | Honeycutt     |                 | Smallman      |
-+-----------------+-----------------+-----------------+-----------------+
-| **2007**      | **2008**      |                 |                 |
-|               |               |                 |                 |
-| Mike Bildeaux | Loren Eaton   |                 |                 |
-| Chris Witkus  | Kristy        |                 |                 |
-|                 | Schaufler     |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-
-![þÿ](media/image111.jpeg){width="1.7602088801399824in"
-height="1.7399989063867016in"}
+## Augusta
+![]()
 
 In June of 2001, the Augusta Hotshots were established on the George
 Washington and Jefferson National Forests. The crew is stationed at
@@ -4693,10 +4645,14 @@ Oscar Montijo, Superintendent
 
 \(540) 290-0462
 
+Year(s) | Superintendent
+:- | :-
+? | Oscar Montijo
+
+## Cherokee
 **Cherokee IHC History 2001-Present**
 
-![](media/image112.png){width="1.801936789151356in"
-height="0.8472911198600175in"}
+![]()
 
 In June 2001, in accordance with the National Fire Plan, the Cherokee
 Hotshots came to be. The crew is based in Unicoi, TN since the
@@ -4730,16 +4686,10 @@ The crew maintains the original staffing of 22 members with 18 of
 these being career/seasonal appointments to meet continuous staffing
 requirements for working a split season.
 
-**Superintendents Past and Present Assistant Superintendents Past and
-Present**
-
-Tim Wharton -- 2001 -- 2003 Dennis Trentham -- 2002-2004 Dennis
-Trentham -- 2004 -- Present Candace Kutrosky - 2002-2003
-
-Mitch Ketron -- 2004 -- 2008
-
-Matthew Gilbert -- 2008 -- 2014 Travis E. Fuller -- 2015-Present
-Brandon L. Corbitt -2015 - Present
+Year(s) | Superintendent
+:- | :-
+2001-2003 | Tim Wharton
+2004-Present | Dennis Trentham
 
 **Current Crew Staffing**
 
@@ -4749,8 +4699,8 @@ Assistant Superintendent/Captain -- 2 Squad Leaders -- 2
 
 Lead Firefighters -- 2 Senior Firefighters -- 14 Crewmembers - 2
 
-![](media/image114.png){width="1.5365529308836396in"
-height="1.5229155730533683in"}
+## Jackson
+![]()
 
 **History of the Jackson Hotshots**
 
@@ -4791,20 +4741,17 @@ of the scheduled fire season which runs from March through September,
 the career staff supports inter-agency partners in implanting
 prescribed fires and other land management projects.
 
-[Superintendents Past and Present]{.underline} [Asst Supt Past and
-Present]{.underline} Jerry Soard-1997-98 Lamar Liddell 1997-98
+Year(s) | Superintendent
+:- | :-
+1997-1998 | Jerry Soard
+1999-2013 | Lamar Liddell
+2014 | Fred Ashford (detail)
+2015 | Greg Smith
+2016-2018 | Fred Ashford
+2018-Present | Darren O'Loughlin
 
-Lamar Liddell -1999 to 2013 Fred Ashford 2000 to 2015
-
-Fred Ashford- 2014 (detail) William Hudson- 2016-17
-
-Greg Smith- 2015 Jamie Schnick- 2018-Present Fred Ashford- 2016 to
-2018
-
-Darren O'Loughlin- 2018 to Present
-
-![](media/image115.jpeg){width="1.704773622047244in"
-height="0.9579724409448819in"}**Midewin Interagency Hotshot Crew**
+## Midewin
+![]() **Midewin Interagency Hotshot Crew**
 
 The Midewin (mi-day-win) IHC was established in April of 2001 as a
 result of the National Fire Plan.
@@ -4848,25 +4795,20 @@ before heading west. The crew has been able to establish a reputation
 of being a hard working crew that spends most of the time away from
 the host unit.
 
-[List of Superintendents -- Career and Detailed]{.underline}
-
-+------------------------------+-----------------------------------+
-| [Detailed]{.underline}     | [Career]{.underline}            |
-+==============================+===================================+
-| Steve Little -- 2001         | Michael Frederick -- 2002       |
-+------------------------------+-----------------------------------+
-| Dave Martin -- 2002          | Lito Contreras - 2004           |
-+------------------------------+-----------------------------------+
-| Lito Contreras - 2002        | Bob Little -- 2005 - 2007       |
-+------------------------------+-----------------------------------+
-| Rich Stiles -- 2003        | Rick Moreno -- 2009 -- 2010     |
-|                            |                                 |
-| Russell Harris -- 2003     | Jerry Hoffman -- 2012 - Present |
-+------------------------------+-----------------------------------+
-| Gordon Admundson -- 2003   |                                   |
-|                            |                                   |
-| Jerry Hoffman -- 2007-2012 |                                   |
-+------------------------------+-----------------------------------+
+Year(s) | Superintendent
+:- | :-
+2001 | Steve Little (detailed)
+2002 | Dave Martin (detailed)
+2002 | Lito Contreras (detailed)
+2002 | Michael Frederick
+2003 | Rich Stiles (detailed)
+2003 | Russell Harris (detailed)
+2003 | Gordon Admundson (detailed)
+2004 | Lito Contreras
+2005-2007 | Bob Little
+2009-2010 | Rick Moreno
+2012-Present | Jerry Hoffman
+2007-2012 | Jerry Hoffman (detailed)
 
 #### ![](media/image117.jpeg)South Ops
 
