@@ -4810,13 +4810,9 @@ Year(s) | Superintendent
 2012-Present | Jerry Hoffman
 2007-2012 | Jerry Hoffman (detailed)
 
-#### ![](media/image117.jpeg)South Ops
+# Southern California
 
-**PuutoRlco**
-
-![](media/image119.png){width="1.4791655730533684in"
-height="1.4791666666666667in"}
-
+## Arrowhead
 +-------------+-------------+-------------+-------------+-------------+
 | AGENCY:   | HOME      | ESTABLISH | CONTACT   | WEBSITE:  |
 | USDI      | UNIT:     | ED:         |             |             |
@@ -4888,32 +4884,21 @@ two-man tents and had rock fire pits for heat. Since that first year
 the crew has developed the old campground into what is known today as
 the Swale Work Center.
 
-**CREW SUPERINTENDENTS**
+Year(s) | Superintendent
+:- | :-
+1981-1990 | Jim Cook
+1991 | Dan Buckley
+1992-1995 | Jim Cook
+1996 | Dan Buckley
+1996-2007 | Brit Rosso
+2007 | Pat Morgan
+2008-2012 | John Goss
+2013-2019 | Joe Suarez
+2020 | Jeremy Loyd (Detail)
+2021- | Joe Suarez
 
-+---------------+----------------+
-| Jim Cook    | 1981-1990    |
-+===============+================+
-| Dan Buckley | 1991         |
-+---------------+----------------+
-| Jim Cook    | 1992-1995    |
-+---------------+----------------+
-| Dan Buckley | 1996         |
-+---------------+----------------+
-| Brit Rosso  | 11/1996-2007 |
-+---------------+----------------+
-| Pat Morgan  | 2007         |
-+---------------+----------------+
-| John Goss   | 2008 - 2012  |
-+---------------+----------------+
-| Joe Suarez  | 2013-19      |
-+---------------+----------------+
 
-+------------------------+---------+
-| Jeremy Loyd (Detail) | 2020  |
-+========================+=========+
-| Joe Suarez           | 2021- |
-+------------------------+---------+
-
+## Arroyo Grande
 ######## [Arroyo Grande IHC, Los Padres National Forest,]{.underline} [Established 2007]{.underline}
 
 [460 Hi Mountain Road]{.underline} [Arroyo Grande Ca,
@@ -4921,8 +4906,7 @@ the Swale Work Center.
 
 [Superintendent- Phil Hernandez]{.underline}
 
-![](media/image120.jpeg){width="1.9979188538932633in"
-height="2.05875in"}
+![]()
 
 [Crew History]{.underline}
 
@@ -4961,13 +4945,12 @@ throughout the U.S. is common every year. AGHS commitment to notable
 fires on the forest include Zaca (2007), Basin (2008), Chalk (2008),
 Jesusita (2009), La Brea (2009), Soberanes (2016).
 
-[Leadership Past and Present]{.underline} Superintendent- Phil
-Hernandez, 2020- Present Superintendent- Mike Hickey, 2007- 2019
-Captain- Craig Melia, 2012- Present
+Year(s) | Superintendent
+:- | :-
+2007-2019 | Mike Hickey
+2020-Present | Phil Hernandez
 
-Captain- Ben Holmes, 2020- Present Captain- Phil Hernandez, 2007-2019
-Captain- Nic Elmquist 2007-2011
-
+## Bear Divide
 ![](media/image121.jpeg){width="2.0166655730533685in"
 height="2.0166655730533685in"}**Bear Divide Hotshots Agency: USDA
 Forest Service Home Unit: Angeles National Forest**
@@ -5023,26 +5006,16 @@ nestled on the Santa Clara Divide separating Santa Clarita and the LA
 Basin. Its location is prime for initial attack throughout the fire
 season.
 
-[Superintendent]{.underline}
+Year(s) | Superintendent
+:- | :-
+1975-1979 | Mike Dougherty
+1980-1982 | Richard McCombs
+1982-1999 | David Conklin
+2000-2013 | Mike Alarid
+2013-Present | Brian Anderson
 
-Mike Dougherty -- 1975 to 1979
-
-Richard McCombs -- 1980 to 1982 David Conklin -- 1982-1999
-
-Mike Alarid -- 2000-2013
-
-Brian Anderson -- May 2013 to Present
-
-[Captain 1A]{.underline} Josh Thomas
-
-[Captain 1B]{.underline} Derek Madrigal
-
-[Squad Boss]{.underline} Gabriel Romero
-
-[Squad Boss]{.underline} Tyler Brankin
-
-![](media/image122.jpeg){width="2.5122123797025373in"
-height="1.4736450131233596in"}
+## Big Bear
+![]()
 
 **History:**
 
@@ -5080,17 +5053,12 @@ Tennis, Tours, and the Alpine Zoo. Even though the Big Bear Hotshots
 are usually committed to assignments, the crew more then often is
 enjoying all the National Forest and local communities have to offer.
 
-**Superintendents History:**
-
-+------------------+----------------+
-| Jimmy Avila    | 2001-2011    |
-+==================+================+
-| Frank Esposito | 2012-2018    |
-+------------------+----------------+
-| Howard Deets   | 2019-2020    |
-+------------------+----------------+
-| Emanuel Torres | 2021-Present |
-+------------------+----------------+
+Year(s) | Superintendent
+:- | :-
+2001-2011 | Jimmy Avila
+2012-2018 | Frank Esposito
+2019-2020 | Howard Deets
+2021-Present | Emanuel Torres
 
 **Big Bear IHC Hotshot of the Year Awards**
 
@@ -5118,10 +5086,10 @@ Zach Resnick/ James Johnstone
 Rodriguez **2019** - Omar Garcia **2020** -- Derek Barnett **2021** -
 Brian Alex
 
-######### Boundary Peak Hotshots 2001-Present
+## Boundary Peak
+Hotshots 2001-Present
 
-![](media/image123.jpeg){width="1.4733333333333334in"
-height="1.4733333333333334in"}
+![]()
 
 The Boundary Peak Hotshots, based in Bishop, was started in 2001 as a
 10 person fuels crew with the primary goal of completing fuels
@@ -5158,20 +5126,18 @@ positions with the required qualifications. After seven years of
 growth, improvement and hard work the crew succeeded in becoming an
 officially recognized Hotshot Crew on August 11, 2008.
 
-+---------------------+----------------+-----------------------+
-| Crew Supervisors: | 2001-2004    | Tim Keller          |
-+=====================+================+=======================+
-|                     | 2004-2005    | Jeff Lucas (Detail) |
-+---------------------+----------------+-----------------------+
-|                     | 2005-Present | Ron Riise           |
-+---------------------+----------------+-----------------------+
+Year(s) | Superintendent
+:- | :-
+2001-2004 | Tim Keller
+2004-2005 | Jeff Lucas (Detail)
+2005-Present | Ron Riise
 
-Breckenridge Hotshots
+## Breckenridge Hotshots
 
 Crew History
 
-![](media/image124.jpeg){width="5.998608923884515in"
-height="5.998610017497813in"}Established 2002
+![]()
+Established 2002
 
 In June of 1990, a ten person fuels crew was established, on the
 Greenhorn Ranger District, of the Sequoia National Forest, located at
@@ -5199,31 +5165,13 @@ The crew remained a Type 2 crew until October of 2006, when the crew
 went through the Hotshot Certification Review. Since the review the
 crew has been known as the Breckenridge Hotshots.
 
-+---------------------------------+-------------------+----------------+
-| **Superintendent:**           | **Captain's:**  |                |
-+=================================+===================+================+
-| Steve Griffin: 2002-2007      | David Owens:    | 2002-2003    |
-+---------------------------------+-------------------+----------------+
-| Adam Sanders: 2007-2016       | Adam Sanders:   | 2002-2007    |
-+---------------------------------+-------------------+----------------+
-| James Robertson: 2016-Present | Jason Smith:    | 2004         |
-+---------------------------------+-------------------+----------------+
-|                                 | Jeremy Bush:    | 2005-2010    |
-+---------------------------------+-------------------+----------------+
-|                                 | Justin Gagnon:  | 2008-2016    |
-+---------------------------------+-------------------+----------------+
-|                                 | Mikey Martinez  | 2011-2015    |
-+---------------------------------+-------------------+----------------+
-|                                 | James Robertson | 2015-2016    |
-+---------------------------------+-------------------+----------------+
-|                                 | Corey Correa    | 2016-present |
-+---------------------------------+-------------------+----------------+
-|                                 | Ryan Lobre      | 2016-present |
-+---------------------------------+-------------------+----------------+
+Year(s) | Superintendent
+:- | :-
+2002-2007 | Steve Griffin
+2007-2016 | Adam Sanders
+2016-Present | James Robertson
 
-![](media/image125.jpeg){width="1.6249989063867016in"
-height="1.525693350831146in"}![](media/image126.jpeg){width="1.5270691163604548in"
-height="1.6249989063867016in"}**Chilao Hotshots**
+## Chilao
 
 **Agency: USDA Forest Service Home Unit: Angeles National Forest**
 
@@ -5319,35 +5267,29 @@ Chilao.*
 
 (The 1955 through 1984 Chilao crew history is still being gathered)
 
-**CREW SUPERINTENDENTS**
-
-1949 - Don Biedebach 1950 - Ray Bond
-
-1951 - Ray Bond / Lynn Biddison 1952 - Lynn Biddison
-
-1953 - Lynn Biddison / Jim Murphy 1954 - Bill Myrick
-
-1955 - Bill Thompson 1956 - Bill Longacre 1957 - 1958 Woody Hite 1959
-- Jack Lane
-
-1960 - 1961 Ralph Johnston
-
-1962 - 1968 Pete Trujillo
-
-1969 - 1974 Dick O' Conner
-
-1975 - 1980 Gary Raybould
-
-1981 - 1984 Jim Ogilve (crew was cut at the end of the 1984 fire
+Year(s) | Superintendent
+:- | :-
+1949 | Don Biedebach
+1950-1951 | Ray Bond
+1951-1953 | Lynn Biddison
+1953 | Jim Murphy
+1954 | Bill Myrick
+1955 | Bill Thompson
+1956 | Bill Longacre
+1957-1958 | Woody Hite
+1959 | Jack Lane
+1960-1961 | Ralph Johnston
+1962-1968 | Pete Trujillo
+1969-1974 | Dick O' Conner
+1975-1980 | Gary Raybould
+1981-1984 | Jim Ogilve (crew was cut at the end of the 1984 fire
 season)
 
 (Many thanks go to Lynn R. Biddison who provided the bulk of the
 Chilao crew history)
 
-![](media/image127.jpeg){width="1.2774978127734034in"
-height="1.23375in"}
-![](media/image127.jpeg){width="1.2845614610673666in"
-height="1.23375in"}
+## Crane Valley
+![]()
 
 *[Crane Valley IHC History]{.underline}*
 
@@ -5415,38 +5357,18 @@ out of the center, the two symbols to the left & right of the flame
 are both Japanese "Logographic Kanji", drawn characters that
 representing Chaos and Fire.
 
-**[Position History]{.underline} [Superintendent]{.underline}**
+Year(s) | Superintendent
+:- | :-
+2001-2003 | Mark Smith
+2004-2005 | Charles Berner *detail*
+2005 | Mike Fralicks *detail*
+2005-2006 | Ken Henson
+2006-2019 | Charles Berner
+2019 | Matthew Dunlap *detail*
+2020-present | Matthew Dunlap
 
-Mark Smith (2001-2003)
-
-Charles Berner *detail* (2004-2005) Mike Fralicks *detail* (2005)
-
-Ken Henson (2005-2006)
-
-Charles Berner (2006-2019) Matthew Dunlap *detail* (2019) Matthew
-Dunlap (2020-present)
-
-**[Captain 1A]{.underline}**
-
-Sam Marouk (2001-2004)
-
-Joe Gonzales (2005-2006)
-
-Gabriel Pomona (2006-2008) Rafael Sanchez *detail* (2008) Jason
-Beesley (2009-2013) Robert Moreno (2013-present) Rafael Sanchez
-*detail* (2016) Jose Rivera (2020-present)
-
-**[Captain 1B]{.underline}**
-
-Charles Berner (2001-2006)
-
-Brandon Adams (2006-2014) Matthew Dunlap *detail* (2014) Matthew
-Dunlap (2015-2018) Jose Rivera *detail* (2019) Lyndon Talbott
-(2020-present)
-
-![](media/image128.jpeg){width="1.1291666666666667in"
-height="1.1291655730533683in"}Dalton Hotshots
-
+## Dalton
+![]()
 U.S. Forest Service Angeles National Forest
 
 Established 1953
@@ -5579,42 +5501,25 @@ accountable, when you hold your crew accountable, everyone benefits.
 
 ▸ Teamwork
 
-[Superintendents]{.underline}
+Year(s) | Superintendent
+:- | :-
+1954 | Charles Culver
+1957 | Jay Shoemaker
+1958-1960 | Robert Caffey
+1961 | Jim Clark
+1962 | Harold Allum
+1963-1974 | Charles Hartley
+1975-1982 | John Chackerian
+1983-1990 | Lewis Yazze
+1990-1999 | Bob Serrato
+2001-2006 | Randy Unkovich
+2007 | Luis Ocampo
+2008-2014 | Steve Robles
+2015-2016 | Alex Liau
+2017-2021 | Scott Gorman
+2022-Present | Ronald Gregor
 
-+-------------+-------------------+
-| 1954      | Charles Culver  |
-+=============+===================+
-| 1957      | Jay Shoemaker   |
-+-------------+-------------------+
-| 1958-1960 | Robert Caffey   |
-+-------------+-------------------+
-| 1961      | Jim Clark       |
-+-------------+-------------------+
-| 1962      | Harold Allum    |
-+-------------+-------------------+
-| 1963-1974 | Charles Hartley |
-+-------------+-------------------+
-| 1975-1982 | John Chackerian |
-+-------------+-------------------+
-| 1983-1990 | Lewis Yazze     |
-+-------------+-------------------+
-| 1990-1999 | Bob Serrato     |
-+-------------+-------------------+
-| 2001-2006 | Randy Unkovich  |
-+-------------+-------------------+
-| 2007      | Luis Ocampo     |
-+-------------+-------------------+
-| 2008-2014 | Steve Robles    |
-+-------------+-------------------+
-| 2015-2016 | Alex Liau       |
-+-------------+-------------------+
-| 2017-2021 | Scott Gorman    |
-+-------------+-------------------+
-| 2022-     | Ronald Gregor   |
-+-------------+-------------------+
-
-![](media/image131.jpeg){width="2.35in"
-height="2.383332239720035in"}**Del Rosa Hotshots**
+## Del Rosa
 
 **Agency: USDA Forest Service**
 
@@ -5663,34 +5568,26 @@ initial attack on forest.
 The following are those that have served as Superintendents of the Del
 Rosa Hotshots since its beginning in 1946.
 
-**[CREW SUPERINTENDENTS]{.underline}**
-
-Toby Ortega 1946-1949
-
-George McCarty 1949-1950
-
-Gordon Bosteder 1950-1954
-
-Mike Roberts 1954-1957
-
-Ernie Lemelin 1957-1960
-
-Don Mc Cormack 1960-1962 Gerry Ewart 1962-1965
-
-Bob Robbins Eldon Henry
-
-Kenny Tortez 1966-1976
-
-Gary Lange 1976-1977
-
-Ron Regan 1978-1997 (retired in place)
-
-Scott Wagner 1997-1998 (detailed in 97-became the Supt in 1998) Jeff
-Koenig 1999- 2004 (detailed in 99-became the Supt in 2000)
-
-Frank Esposito -- Detailed in 2004 Jim Tomaselli 2005 - 2013
-
-Neil Gamboa 2013 -- 2018 David Borero 2018 - Present
+Year(s) | Superintendent
+:- | :-
+1946-1949 | Toby Ortega
+1949-1950 | George McCarty
+1950-1954 | Gordon Bosteder
+1954-1957 | Mike Roberts
+1957-1960 | Ernie Lemelin
+1960-1962 | Don Mc Cormack
+1962-1965 | Gerry Ewart
+? | Bob Robbins
+? | Eldon Henry
+1966-1976 | Kenny Tortez
+1976-1977 | Gary Lange
+1978-1997 | Ron Regan (retired in place)
+1997-1998 | Scott Wagner (detailed in 97-became the Supt in 1998)
+1999-2004  Jeff Koenig (detailed in 99-became the Supt in 2000)
+2004 | Frank Esposito Detailed in 2004
+2005-2013 | Jim Tomaselli
+2013-2018 | Neil Gamboa
+2018-Present | David Borero
 
 ***Additional information sent to us from Jerry Horine:***
 
@@ -5708,8 +5605,7 @@ interested. 928-718-1826
 
 ####### Duty Respect Integrity
 
-![](media/image132.jpeg){width="1.9965266841644795in"
-height="2.624998906386702in"}**El Cariso Hotshots**
+## El Cariso
 
 **Agency: USDA Forest Service**
 
@@ -5792,10 +5688,10 @@ current and ex-El Cariso Hotshots there are. Chances are conversation
 with any of them would reveal their time with El Cariso as some of the
 most memorable times of their life.
 
-![](media/image133.jpeg){width="2.0813888888888887in"
-height="2.0234372265966756in"}
+Year(s) | Superintendent
+:- | :-
 
-**Contact Information: Fulton Hotshots**
+## Fulton
 
 **Fulton Hotshots Agency: US Forest Service PO Box 343**
 
@@ -5849,21 +5745,20 @@ Although all the Hotshot Crews were being established around that time
 frame, Fulton was a little ahead of its time in 1973. This year, 2020,
 will mark 50 years from the time the Fulton Hotshots were established.
 
-**CREW SUPERINTENDENTS**
+Year(s) | Superintendent
+:- | :-
+1970 | Ed Masonheimer (June-August)
+1970-1982 | William A. Sandborg, Jr. (August)-1982**
+1982 | David R. Provencio, Jr. (Detail)
+1983-1988 | James Smith
+1989-1994 | Dan Kleinman
+1995-1996 | Shelby Charley (Detail)**
+1997 Luis Orozco (Detail)
+1998-2013 | Ron Bollier
+2013 | Josh Acosta (Detail)
+2014-Present | Josh Acosta
 
-**Ed Masonheimer 1970 (June-August) William A. Sandborg, Jr. 1970
-(August)-1982**
-
-**David R. Provencio, Jr. 1982 (Detail) James Smith 1983-1988**
-
-**Dan Kleinman 1989-1994 Shelby Charley 1995-1996 (Detail)**
-
-**Luis Orozco 1997 (Detail) Ron Bollier 1998-2013 Josh Acosta 2013
-(Detail) Josh Acosta 2014-Present**
-
-![](media/image134.jpeg){width="2.374998906386702in"
-height="2.374998906386702in"}![](media/image135.jpeg){width="2.125in"
-height="2.124998906386702in"}**Golden Eagles Hotshots**
+## Golden Eagles
 
 **Agency: USDI Bureau of Indian Affairs**
 
@@ -5965,53 +5860,17 @@ EAGLES*** as a fully qualified Interagency Hotshot Crew. The BIA,
 National Interagency Fire Center concurred with the certification that
 same month.
 
-***CREW SUPERVISION:***
-
-**Superintendent 63** --
-
-Robert Villegas 2019 to Present Rick "Mad" Madrigal 2014 to 2019
-
-Byron Alcantara, 2012 to 2014
-
-Juan "Hugh" Mendez, 2008 to 2012
-
-Ray Ruiz Sr. 2000 to 2008
-
-**Captains** --
-
-Kevin Akers, 2017 to present Cody Ridley, 2014 to 2017
-
-Robert Villegas, Jr. 2012 to 2019
-
-Byron Alcantara, 2008 to 2012
-
-Rick "Mad" Madrigal 2000 to 2014.
-
-Juan "Hugh" Mendez, 2000 to 2007
-
-**Squad Bosses** --
-
-Rey Castro and George Violante, June 2000
-
-Marco "Mini-Me" Garcia and James "P" Denver, June 2001 Brian "Kiki"
-Laughter and Robert Serrato, June 2002
-
-Brian "Kiki" Laughter and Fred "Sawboss" Sabas, June 2003 Fred
-"Sawboss" Sabas and Jose "Dsaw" Deza, June 2004 -- 2005 Jose "Dsaw"
-Deza and Charles "Kep" Keplinger, January 2006 Byron Alcantara and
-Steven Kitchen, March 2007
-
-Steven Kitchen and Robert "Weeze" Goodwin, April 2008-2009 Steven
-Kitchen and Robert Villegas Jr., April 2010-2011
-
-Steven Kitchen and Cody Ridley May 2012-2014 William "Miles" Pollack,
-November, 2013-2017 Kevin Akers, February 2014 - 2017
-
-Kyle "Freight Train" Mullane, February 2017 - present. Taylor
-Kelliher, April 2017 - present.
+Year(s) | Superintendent
+:- | :-
+2000-2008 | Ray Ruiz Sr.
+2008-2012 | Juan "Hugh" Mendez
+2012-2014 | Byron Alcantara
+2014-2019 | Rick "Mad" Madrigal 
+2019-Present | Robert Villegas
 
 ***"PRESERVING THE LAND AND THE PEOPLE"***
 
+## Groveland
 ![](media/image136.jpeg){width="1.752143482064742in"
 height="1.5887489063867017in"}
 
@@ -6028,31 +5887,20 @@ crews that would have the opportunity to work towards certification as
 a fully qualified Type 1 Hotshot Crew. Certification was gained in
 2003.
 
-[Crew 4 Supervisors:]{.underline}
+Year(s) | Superintendent
+:- | :-
+Crew 4 Supervisors | 
+1988 | Mike Lanier
+1989 | Ron Garcia (Buck Meadows) Steve Nestor (Cherry Lake)
+1990-1994 | Ron Garcia
+1995 | Mike Lanier
+1996-2000 | Sam Cousins
+2000-2002 | Mike Lanier
+Groveland Hotshot Superintendents |
+2003-2010 | Mike Lanier (retired in place)
+2011-Present | Pat Laeng
 
-1988: Mike Lanier
-
-1989: Ron Garcia (Buck Meadows) Steve Nestor (Cherry Lake)
-
-1990-1994: Ron Garcia
-
-1995: Mike Lanier
-
-1996-2000: Sam Cousins
-
-2000-2002: Mike Lanier
-
-[Groveland Hotshot Superintendents:]{.underline}
-
-2003-2010: Mike Lanier (retired in place) 2011-Present: Pat Laeng
-
-[Groveland Hotshot Captains:]{.underline} Shawn Baker
-
-Lee Sands
-
-Kevin Neiman: 2008-2010 Sean Gast: 2008 - Present Joe Pearlman: 2010 -
-Present
-
+## Horseshoe Meadow
 ![](media/image137.png){width="2.68000656167979in"
 height="2.690236220472441in"}***Horseshoe Meadow Interagency Hotshots
 Crew History***
@@ -6109,6 +5957,15 @@ before him.*
 Superintendent. In June 2020, Candice Kutrosky accepted the Horseshoe
 Meadow Superintendent position.*
 
+Year(s) | Superintendent
+:- | :-
+1974-1989? | Ben Charley
+1989-2006 | Robert Bennett
+2007-? | Joe Gonzales 
+2017-? | Dustin Hallam
+2020-? | Candice Kutrosky
+
+## Inyo
 ![](media/image138.jpeg){width="1.9723140857392827in"
 height="1.9633333333333334in"}
 ![](media/image139.jpeg){width="2.1980632108486438in"
@@ -6212,15 +6069,18 @@ the original **Inyo Hotshots**, in order to recognize not only its
 Forest-wide mission, but also to honor the hard work and tradition
 that was cut short by the "Hotshot Massacre" of 1978.
 
-Crew Superintendents: 1974-1978 - Tim McMullen
+Year(s) | Superintendent
+:- | :-
+1974-1978 | Tim McMullen
+2002-2003 | Tim Keller
+2004 | Jeff Lucas (Detail)
+2005-2011 | Ron Riise
+2012 | Candace Kutrosky
+2013-2015 | Glen Tingley
+2016-2018 | Lance Rosen
+2019-Pres | Joel Schilling
 
-2002-2003 - Tim Keller
-
-2004 - Jeff Lucas (Detail) 2005-2011 - Ron Riise
-
-2012 - Candace Kutrosky 2013-2015 - Glen Tingley 2016-2018 - Lance
-Rosen 2019-Pres - Joel Schilling
-
+## Kern Valley
 ![](media/image142.png){width="1.4798600174978127in"
 height="1.7791666666666666in"}Kern Valley Interagency Hotshot Crew
 
@@ -6312,14 +6172,13 @@ only one contiguous version of the Kern Valley Hotshots. The initial
 approach, lessons, values, and work processes simply continue to be
 improved and refined to meet new challenges.
 
-**Crew Superintendents**
+Year(s) | Superintendent
+:- | :-
+1983-2000 | Anthony Escobar
+2001-2009 | Ron Napoles
+2010-present | Leif Mathiesen
 
-Anthony Escobar 1983-2000
-
-Ron Napoles 2001-2009
-
-Leif Mathiesen 2010-present
-
+## Kings River
 ![](media/image143.jpeg){width="1.8426531058617672in"
 height="1.8424989063867017in"}
 ![](media/image144.jpeg){width="2.7583934820647418in"
@@ -6378,30 +6237,14 @@ and Clovis approximately 40 miles. The work center is shared with
 Sierra Helitack 520, Engine 41, Prevention units along with
 miscellaneous district personnel.
 
-**[Crew Superintendents:]{.underline}**
+Year(s) | Superintendent
+:- | :-
+2001-006 | Ron Garcia
+2007-2013 | Isaac Naylor
+2013-2021 | Joaquin Marquez
+2021-Present | Kelly Haines
 
-**Ron Garcia \-- 2001 - 2006**
-
-**Isaac Naylor \-- 2007 - 2013**
-
-**Joaquin Marquez \-- 2013 to 2021 Kelly Haines 2021-Present**
-
-**[Crew Captains:]{.underline}**
-
-**Isaac Naylor \-- 2001 - 2006**
-
-**Pedro Martinez\-- 2001 - 2011**
-
-**Joaquin Marquez\-- 2008 - 2013**
-
-**Steve Zavala \-- 2011 to 2017**
-
-**Adam Hernandez \-- 2013 to 2017**
-
-**Kelly Haines 2017-2021 Gabriel Ford 2018 to Present**
-
-**Geoffrey Frauenheim 2022-Present**
-
+##Laguna
 ![](media/image145.jpeg){width="2.374998906386702in"
 height="2.2687401574803148in"}**Laguna Hotshots**
 
@@ -6449,6 +6292,10 @@ Engine Crews in the town of Descanso. In 2004, the Laguna Hotshots
 will celebrate their 30th Anniversary. To this day, the Laguna
 Hotshots still carry on the crew colors and traditions.
 
+Year(s) | Superintendent
+:- | :-
+
+## Little Tujunga
 ![](media/image146.jpeg){width="3.9998129921259844in" height="1.72in"}
 
 **Agency: USDA Forest Service Home Unit: Angeles National Forest**
@@ -6626,18 +6473,17 @@ crew is now well reestablished in its original Hotshot Base at Little
 Tujunga station that was built for the crew in the 1970's and is no
 longer co-located with the training center
 
-**SUPERINTENDENTS**
+Year(s) | Superintendent
+:- | :-
+1970-1973 | Rod Wrench
+1974-1976 | Walt Sniegowski
+1977-1980 | John Stevenson
+2007-2012 | Bob Garcia
+2012-2014 | Alexander Liau
+2014-2018 | Oscar Vargas
+2018-Present | Joseph "JB" Button
 
-Rod Wrench 1970 - 1973
-
-Walt Sniegowski 1974 - 1976
-
-John Stevenson 1977 -- 1980 Bob Garcia 2007 -- 11/2012 Alexander Liau
-12/2012 -- 2014 Oscar Vargas 2014 -- 2018
-
-Joseph "JB" Button 2018 - Present
-
-**Los Padres Hot Shots**
+## Los Padres
 
 ![](media/image147.png){width="1.596913823272091in" height="1.725in"}
 
@@ -6711,24 +6557,21 @@ The crew continues to provide a professional, multi-skilled,
 experienced resource to all wildland fire agencies throughout the
 United States.
 
-***Los Padres Hot Shot Crew Superintendents***
+Year(s) | Superintendent
+:- | :-
+1948-1951 | Ezra Braden
+1951-1953 | Gordon Garrett
+1953-1955 | Edwin Benson
+1955-1958 | John Malmen
+1958-1965 | H. "Porky" Moreno
+1965-1968 | Richard Calkins
+1970-1972 | Richard Grandalski
+1973-1999 | Mark Linane (retired in place)
+2000-2009 | Stan Stewart
+2009-2016 | Steve Molacek
+2017-Present | Matt Aoki
 
-Ezra Braden -- 1948 to 1951
-
-Gordon Garrett -- 1951 to 1953
-
-Edwin Benson -- 1953 to 1955
-
-John Malmen -- 1955 to 1958
-
-H. \"Porky\" Moreno -- 1958 to 1965 Richard Calkins -- 1965 to 1968
-
-Richard Grandalski -- 1970 to 1972 Mark Linane -- 1973 to 1999
-(retired in place)
-
-Stan Stewart -- 2000 to 2009(early) Steve Molacek -- 2009(late) --
-2016 Matt Aoki -- 2017 - Present
-
+## Mill Creek
 **Current Crew Logo**
 
 ![](media/image148.png){width="3.5722222222222224in"
@@ -6779,15 +6622,12 @@ three decades prior. The crew continues to serve in the tradition of
 the Mill Creek Hotshots of years past and the California Hotshot
 Community.**
 
-**[Superintendents:]{.underline}**
-
-**Mike Goldenbee 1975 - 1978**
-
-**George Motschall 1981 - 1982**
-
-**Pete Coy** **2002 - 2012**
-
-**John Ellison 2012 - Present**
+Year(s) | Superintendent
+:- | :-
+1975-1978 | Mike Goldenbee
+1981-1982 | George Motschall
+2002-2012 | Pete Coy
+2012-Present | John Ellison
 
 ***[Original Logo from 70's and 80's]{.underline}***
 
@@ -6796,7 +6636,7 @@ height="1.9761450131233596in"}
 
 ![](media/image150.jpeg){width="2.231933508311461in" height="2.25in"}
 
-**Oak Grove Hotshots**
+## Oak Grove
 
 **Agency: USDA Forest Service Home Unit: Angeles National Forest
 Arroyo Seco Ranger District**
@@ -6896,82 +6736,22 @@ the fire crews, the allocation of funds was approximately \$1,300,000
 each year, for a number of years, and helped construct needed
 facilities.
 
-+-----------------------+-----------------------+-----------------------+
-| **Year**            | **Superintendent**  | **Foreman**         |
-+=======================+=======================+=======================+
-| **1950-1952**       | Eddie Lundgren      | Ed Smith,           |
-|                       |                       |                     |
-|                       |                       | Uyless Worlington   |
-|                       |                       | Charles T. Smith    |
-|                       |                       | Bob Barker          |
-|                       |                       |                     |
-|                       |                       | Ray Guardado Sr.    |
-+-----------------------+-----------------------+-----------------------+
-| **1953-1956**       | Harold (Tex)        | Jack Tice Jack      |
-|                       | Strange             | Horton Norm White   |
-|                       |                       |                     |
-|                       |                       | Tommy Brumfield     |
-|                       |                       |                     |
-|                       |                       | Tom Deal - Crew     |
-|                       |                       | pusher John         |
-|                       |                       | Stutler-Crew pusher |
-|                       |                       | Jack Lane - Crew    |
-|                       |                       | pusher              |
-+-----------------------+-----------------------+-----------------------+
-| **1957**            | Dave Westfall       | Norm White          |
-+-----------------------+-----------------------+-----------------------+
-| **1958-60**         | Kenneth R. David    | Norm White Chuck    |
-|                       |                       | Woods               |
-|                       |                       |                     |
-|                       |                       | George Hershberger  |
-|                       |                       | Bob Switzer         |
-+-----------------------+-----------------------+-----------------------+
-| **1961-1962**       | Tom Ralls           | Larry Boggs Reid    |
-|                       |                       | Marks Bruce Hamp    |
-+-----------------------+-----------------------+-----------------------+
+Year(s) | Superintendent
+:- | :-
+1950-1952 | Eddie Lundgren
+1953-1956 | Harold (Tex) Strange
+1957 | Dave Westfall
+1958-1960 | Kenneth R. David
+1961-1962 | Tom Ralls
+1963-1964 | George Pond
+1965-1967 | Marty Barrows
+1967-1971 | Larry Boggs
+1971 | Mal Ellison (Aug-Oct)
+1971-1972 | Chet Cash (Oct-May, acting)
+1972-1973 | Chet Cash
+1974-1978 | Steve Arney
 
-+-----------------------+-----------------------+-----------------------+
-| **1963-64**         | George Pond         | Reid Marks John     |
-|                       |                       | Bowser              |
-|                       |                       |                     |
-|                       |                       | Bruce Stevenson     |
-+=======================+=======================+=======================+
-| **1965-1967**       | Marty Barrows       | Bill Hall Don Lopez |
-|                       |                       | Jim Riverly         |
-+-----------------------+-----------------------+-----------------------+
-| **1967-1971**       | Larry Boggs         | Don Lopez Bill Hall |
-|                       |                       |                     |
-|                       |                       | Henry Martinez Jim  |
-|                       |                       | Frakes              |
-|                       |                       |                     |
-|                       |                       | Larry Lang Asst.    |
-|                       |                       | Super. Kee Tsosie   |
-|                       |                       |                     |
-|                       |                       | Wayne Crowder       |
-|                       |                       | (detail)            |
-+-----------------------+-----------------------+-----------------------+
-| **1971 Aug. to      | Mal Ellison         | Chet Cash Skip Pike |
-| Oct.**              |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| **Oct. 1971 to      | **1972**            | Chet Cash was       |
-| May**               |                       | acting              |
-|                       |                       | Superintendent      |
-+-----------------------+-----------------------+-----------------------+
-| **1972-1973**       | Chet Cash           | Skip Pike Bob       |
-|                       |                       | Powers Mike Paul    |
-|                       |                       | Todd Heckert Duane  |
-|                       |                       | Casita              |
-+-----------------------+-----------------------+-----------------------+
-| **1974-1978**       | Steve Arney         | Ron Shurney Louie   |
-|                       |                       | Mora Todd Heckert   |
-|                       |                       |                     |
-|                       |                       | Bob Serrato-crew    |
-|                       |                       | pusher Mark         |
-|                       |                       | Sayles-crew pusher  |
-+-----------------------+-----------------------+-----------------------+
-
-![](media/image151.jpeg){width="1.9071992563429572in"
-height="2.0103215223097113in"}**Ojai Hotshots**
+## Ojai
 
 **Agency: USDA Forest Service**
 
@@ -7053,30 +6833,13 @@ disbanded at the end of the fiscal year 30 September 1982.
 Doug Campbell, District FMO, was a big supporter and early advocate of
 the Ojai Hot- shot crew.
 
-Crew Overhead: 1974 - 1892 1974 & 75 --- Supt. - Bob Burnett
+Year(s) | Superintendent
+:- | :-
+1974-1979 | Bob Burnett
+1980-1981 | Ish Messer
+1982 | Bob Becker
 
-Foreman - Terry Raley / John Szalay
-
-1976 & 77 --- Supt. - Bob Burnett
-
-Foreman - Terry Raley / Craig Lechleiter
-
-1978 --- Supt. - Bob Burnett
-
-Foreman - Ish Messer
-
-1979 --- Supt. - Bob Burnett
-
-Foreman - Ish Messer / Steve Slagowski
-
-1980 & 81 --- Supt. - Ish Messer
-
-Foreman - Bob Becker / Lloyd Howry
-
-1982 --- Supt. - Bob Becker
-
-Foreman - Steve Mortensen
-
+## Palomar
 ![palomar\_hotshots\_JPEG](media/image153.jpeg){width="2.8757819335083115in"
 height="2.5266655730533683in"}
 
@@ -7144,31 +6907,14 @@ Kerr, J im Talbot, Kenny Yarger, and Robert Sanders to name a few.
 Those of us that are here now are charged with carrying on the Palomar
 Hotshot name for all of those who came before.
 
-Superintendents:
+Year(s) | Superintendent
+:- | :-
+1975-1979 | Gary Glotfelty
+1979-1982 | Barry Callenberger
+2002-2006 | Wes Ruise
+2007-present | Stan Hill
 
-1975 - 1979 Gary Glotfelty
-
-1979 - 1982 Barry Callenberger 2002 - 2006 Wes Ruise
-
-2007 - present Stan Hill Foremen:
-
-1975 - 1976 George Mangel
-
-1976 - 1977 Barry Callenberger 1977 - 1978 John Denmark
-
-1978 Randy Yarger
-
-1979 - 1981 Charlie Brown 1980 - 1981 Tim Swedberg 2002 - 2006 Stan
-Hill
-
-2002 - 2005 Jacob Gipson 2005 - 2008 Bob Richardson
-
-2007 - 2010 Robert Manwaring 2009 - present Jose Ortega
-
-2010 - present Wesley Woodrome
-
-![](media/image154.png){width="2.8415682414698162in"
-height="1.346476377952756in"}**Rio Bravo Hotshots**
+## Rio Bravo Hotshots
 
 **Agency: Kern County FD Home Unit: Lake Isabella**
 
@@ -7219,14 +6965,14 @@ began to travel out side of California. In 2000 Rio Bravo became the
 first and only nationally recognized local government Interagency
 Hotshot Crew. In 2003 Jimmie Rocha became our Superintendent.
 
-**Crew Supervision**
+Year(s) | Superintendent
+:- | :-
+1989-1991 | Grant Young
+1994-1997 | Grant Young
+1998-2002 | John Smith
+2003-? | Jimmie Rocha
 
-**Grant Young - 1989-1991, 1994-1997**
-
-**John Smith - 1998-2002 Jimmie Rocha - 2003**
-
-![](media/image155.jpeg){width="1.8749989063867016in"
-height="1.8749989063867016in"}**Sierra Hotshots**
+## Sierra Hotshots
 
 **Agency: USDA National Forest Service Home Unit: Sierra National
 Forest**
@@ -7254,37 +7000,21 @@ Yosemite) where they are based out of today.
 The Sierra Hotshots have had five Superintendents since the crew's
 inception.
 
-**Crew Superintendents:**
+Year(s) | Superintendent
+:- | :-
+1976-1979 | Steve Raddatz
+1980-1989 | John Szalay
+1987 and 1995 | Mike Freed (Detail)
+1990-1997 | Steve Slate
+1998-2014 | Ken Jordan (retired in place)
+2014-Present | Alan Roby
 
-Steve Raddatz \-- 1976 - 1979
+## Springville
 
-John Szalay \-- 1980 - 1989 Mike Freed \-- 1987 and 1995 (Detail)
-
-Steve Slate \-- 1990 - 1997
-
-Ken Jordan \-- 1998 -- 2014 (retired in place) Alan Roby \-- 2014 -
-Present
-
-+-----------------------+-----------------------+-----------------------+
-|                       | Crew History        |                       |
-+=======================+=======================+=======================+
-| Superintendents:    |                       | Captains:           |
-+-----------------------+-----------------------+-----------------------+
-| Robert Sanders      |                       | Manuel Vejar        |
-| 2001-2004           |                       | 2001-2004           |
-+-----------------------+-----------------------+-----------------------+
-| Jack Medina         |                       | Jack Medina         |
-| 2004-Present        |                       | 2001-2004           |
-+-----------------------+-----------------------+-----------------------+
-|                       | Bryan Duffy         |                       |
-|                       | 2005-2007           |                       |
-+-----------------------+-----------------------+-----------------------+
-|                       | Ernie Villa         |                       |
-|                       | 2006-Present        |                       |
-+-----------------------+-----------------------+-----------------------+
-|                       | Jay Enns            |                       |
-|                       | 2008-Present        |                       |
-+-----------------------+-----------------------+-----------------------+
+Year(s) | Superintendent
+:- | :-
+2001-2004 | Robert Sanders
+2004-Present | Jack Medina
 
 ![](media/image157.jpeg){width="5.760265748031496in"
 height="5.481353893263342in"}The Springville Hotshots were established
@@ -7310,8 +7040,7 @@ in every one of these fires to date. The heart of the Springville
 Hotshots is our hard work, determination, and a continued commitment
 to the high standards that define R-5 Hotshot Crews.
 
-![](media/image158.jpeg){width="2.375in"
-height="2.335832239720035in"}**Stanislaus Hotshots**
+## Stanislaus
 
 **Agency: USDA Forest Service**
 
@@ -7356,17 +7085,12 @@ spend time maintaining our skills cutting and maintaining fuel breaks
 throughout the district. We are also involved in Fire Use fires on the
 Forest.
 
-**Superintendents:**
-
-1974 - 1978: Charlie Gripp
-
-1979 - 2006: Greg Overacker
-
-2006-2007 Felix Berbina 2007-Present Shawn Baker
-
-**Captains:**
-
-Present: Brandon Hull Present: Tim Markin
+Year(s) | Superintendent
+:- | :-
+1974-1978 | Charlie Gripp
+1979-2006 | Greg Overacker
+2006-2007 | Felix Berbina 
+2007-Present | Shawn Baker
 
 **Physical Training:**.
 
@@ -7399,6 +7123,7 @@ ponderosa pines and mixed conifers.
 
 We have limited barracks available.
 
+## Texas Canyon
 ![](media/image159.jpeg){width="1.2515135608048993in"
 height="1.2515616797900262in"}
 
@@ -7447,28 +7172,20 @@ a Crewman in 1977, Foreman from 1984 to 1993 and Superintendent from
 1993 to 2002. John Armstrong served as Foreman from 1990 to 2002 and
 served as Superintendent from 2002 to 2016.
 
-**Crew Superintendents: **
+Year(s) | Superintendent
+:- | :-
+1954-1955 | Ed Kolchowski
+1956-1957 | Dick Dorn
+1958-1960 | Bob Alvord
+1961-1963 | Leoroy Hubenak
+1964-1971 | Bill Harper
+1972-1974 | Ray Guardado
+1975-1993 | Ron Smith (Retired in place)
+1993-2001 | John Thomas
+2002-2016 | John Armstrong (Retired in place)
+2017-Present | Danny Breuklander
 
-**Ed K o l c h o w s k i** **1954 - 1955 **
-
-**Di c k Do r n** **1956 - 1957 **
-
-**Bo b Al vor d** **1958 - 1960 **
-
-**Leor oy H ubenak** **1961 - 1963 **
-
-**Bi l l Ha r per** **1964 - 1971 **
-
-**Ra y Gu a r d a d o** **1972 - 1974 **
-
-**Ro n S m i th 1975 - 1993 (R e ti r e d i n p l a c e )**
-
-**John Thom as** **1993 - 2001 **
-
-**John A r m st r ong 2002 - 2016 (R e ti r e d i n p l a c e )**
-
-**Da n n y Br e u k l a n d e r 2017 - Pr e s e n t**
-
+## Valyermo
 ![](media/image160.jpeg){width="1.2833781714785653in"
 height="1.2765616797900263in"}
 ![](media/image161.jpeg){width="1.3075109361329833in"
@@ -7511,18 +7228,16 @@ Squad Leaders, 4 Senior Firefighters/Apprentices and 11 seasonal
 firefighters. Valyermo IHC strives to build a good reputation with
 hard work while maintaining safety as a priority.
 
-Crew Superintendents: 2002-2008 Ron Heinig
+Year(s) | Superintendent
+:- | :-
+2002-2008 | Ron Heinig
+2009-2013 | Kevin Grant
+2014-2017 | Jeff Locke
+2018 | Brandon Davis, Matt Ramstead
+2018-2021 | Matt Ramstead
+2022-Present | Simeon "half" Hagens
 
-2009-2013 Kevin Grant
-
-2014-2017 Jeff Locke
-
-2018- Brandon Davis/ Matt Ramstead 2018-2021 Matt Ramstead
-
-2022- Present Simeon "half" Hagens
-
-![](media/image162.jpeg){width="2.4918022747156607in"
-height="2.460832239720035in"}**Vista Grande Hotshots**
+## Vista Grande
 
 **Agency: USDA Forest Service**
 
