@@ -1092,7 +1092,8 @@ Year(s) | Superintendent
 # Northern California
 
 ## American River
-![]()
+
+![](oncc/oncc_american_river.png)
 
 The American River Hotshot are based on the Tahoe National Forests
 American River Ranger District. The American River Ranger District was
@@ -1110,7 +1111,8 @@ Year(s) | Superintendent
 2016-Present | Matt Radtke
 
 ## Beckwourth
-![]()
+
+![](oncc/oncc_beckwourth.png)
 
 Prior to the 2001 MEL funding build‐up, the crew existed as two fuel
 modules. One was based at the Beckwourth Ranger District office in
@@ -1137,7 +1139,9 @@ Year(s) | Superintendent
 2017‐Present | Mike Wintch
 
 ## Diamond Mountain
-![]()
+
+![](oncc/oncc_diamond_mountain.png)
+
 **Diamond Mountain Hotshots**
 
 **Agency: USDI Bureau of Land Mgmt Home Unit: Susanville, California**
@@ -1241,7 +1245,9 @@ Year(s) | Superintendent
 2009-Present | Dan Varney
 
 ## Eldorado
-![]()
+
+![](oncc/oncc_eldorado.png)
+
 **Eldorado Hotshots**
 
 **Agency: USDA Forest Service**
@@ -1318,7 +1324,9 @@ Year(s) | Superintendent
 2019-present | Ben Strahan
 
 ## Elk Mountain
-![]()
+
+![](oncc/oncc_elk_mountain.png)
+
 The ***Elk Mountain Hotshots*** is hosted by the Upper Lake Ranger
 District on the Mendocino National Forest in Upper Lake, California.
 The crew was established in 2002 under the MEL build up in Region
@@ -1341,6 +1349,9 @@ Year(s) | Superintendent
 2016-Present | Reymundo Reyes
 
 ## Feather River
+
+![](oncc/oncc_feather_river.png)
+
 ######### Feather River Hotshots History 2003-Present
 
 ![]()
@@ -1380,7 +1391,9 @@ Year(s) | Superintendent
 2003-Present | Robert Daniels
 
 ## Klamath
-![]()
+
+![](oncc/oncc_klamath.png)
+
 The Klamath Hotshots were established as part of the National Fire
 Plan in response to the devastating fires of 2000. The maximum
 efficiency level (MEL) for the Klamath National Forest called for the
@@ -1440,6 +1453,8 @@ Year(s) | Superintendent
 2019-Present | Andrew Zink
 
 ## Lassen
+
+![]()
 
 **Agency**
 
@@ -1541,11 +1556,8 @@ Captain 9-2: Fernando Estrada --
 **Also, visit Lassen Hotshots Facebook page.**
 
 ## Mad River
-***MAD RIVER HOTSHOTS***
 
-***Crew History***
-
-![]()
+![](oncc/oncc_mad_river.png)
 
 ***Established 2001***
 
@@ -1576,7 +1588,9 @@ Year(s) | Superintendent
 2011-present | Tad Hair 
 
 ## Mendocino
-![]()
+
+![](oncc/oncc_mendocino.png)
+
 **Mendocino Hotshots**
 
 **Agency: USDA Forest Service**
@@ -1662,7 +1676,9 @@ Year(s) | Superintendent
 2020-Present | Ernest Ceccon
 
 ## Modoc
-![]()
+
+![](oncc/oncc_modoc.png)
+
 **Modoc Hotshots**
 
 **Agency: USDA Forest Service**
@@ -1754,13 +1770,10 @@ The crew consists of 9 full time positions, one Superintendent, two
 Foreman, two squad leaders and four senior firefighters.
 
 ## Plumas
-**PLUMAS INTERAGENCY HOTSHOT CREW**
 
-HISTORY
+![](oncc/oncc_plumas.png)
 
 PLUMAS NATIONAL FOREST, REGION FIVE
-
-![]()
 
 The Plumas National Forest staffed its first nationally recognized
 Hotshot Crew in July of 1974 and for two seasons would have it split
@@ -1855,7 +1868,8 @@ The current organization of the Plumas Hotshots is:
     Ewing, Marcus Sartin 12 --Crewmembers
 
 ## Redding
-![]()
+
+![](oncc/oncc_redding.png)
 
 **Historical Information**
 
@@ -1994,7 +2008,9 @@ Year(s) | Superintendent
 2010-present | Dan Mallia
 
 ## Salmon River
-![]()
+
+![](oncc/oncc_salmon_river.png)
+
 **Agency:** US Forest Service
 
 **Home Unit:** Klamath National Forest
@@ -2052,11 +2068,10 @@ Year(s) | Superintendent
 2020-Present | Kelsey Lofdahl
 
 ## Shasta Lake
-######### SHASTA LAKE IHC
+
+![](oncc/oncc_shasta_lake.png)
 
 Shasta-Trinity National Forest, Region 5
-
-![]()
 
 The Shasta Lake Hotshots were established in 2006 on the
 Shasta-Trinity National Forest in Lakehead California by crew
@@ -2124,7 +2139,8 @@ Year(s) | Superintendent
 2021-Present | Joe Bogdan
 
 ## Smith River
-![]()
+
+![](oncc/oncc_smith_river.png)
 
 Smith River IHC began with the MEL build up in 2001 as SRF-NRA-Crew-1.
 This ten person IA and Fuels Crew was located just inland from
@@ -2167,7 +2183,9 @@ Year(s) | Superintendent
 2016- | Douglas Denlinger
 
 ## Tahoe
-![]()
+
+![](oncc/oncc_tahoe.png)
+
 **Tahoe Hotshots**
 
 **Agency: USDA Forest Service Home Unit: Tahoe National Forest- Yuba
@@ -2259,7 +2277,8 @@ Tahoe Hotshots
 2017-Present | Daniel Guerrero
 
 ## Tallac
-![]()
+
+![](oncc/oncc_tallac.png)
 
 Est. 2001 Certified. 2014
 
@@ -2335,7 +2354,9 @@ Year(s) | Superintendent
 2016-Present | Kyle Betty
 
 ## Trinity
-![]()
+
+![](oncc/oncc_trinity.png)
+
 **Agency: USDA Forest Service**
 
 **Home Unit: Shasta-Trinity NF, Yolla Bolla Ranger District Contact
@@ -2463,7 +2484,8 @@ Year(s) | Superintendent
 2021-Present | Tristan Dias
 
 ## Ukonom
-![]()
+
+![](oncc/oncc_ukonom.png)
 
 USDA Forest Service - Six Rivers National Forest Lower Trinity Ranger
 District
