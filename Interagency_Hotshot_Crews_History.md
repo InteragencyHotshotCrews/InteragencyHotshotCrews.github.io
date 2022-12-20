@@ -1,4 +1,4 @@
-**HOTSHOT CREW**
+ **HOTSHOT CREW**
 
 **HISTORY IN AMERICA**
 
@@ -13,6 +13,8 @@ August 2022
 ![](media/image2.png)
 
 # Alaska 
+
+![](aicc/aicc_afs_hotshots.png)
 
 The first **Alaska Bureau of Land Management** seasonal fire crew was
 started by Anchorage District in 1974. Named the Anchorage Hotshots\*,
@@ -127,6 +129,16 @@ Year(s) | Superintendent
 2007 | Steve Boatman
 
 ## Pioneer Peak
+
+![](aicc/aicc_pioneer_peak.png)
+
+Year(s) | Superintendent
+:- | :-
+2003-2006 | Jeff Ennenga (Pioneer Peak T2IA & Regional Type 1)
+2007-2015 | Matt Jones (2007 Type 1, 2008-2015 IHC)
+2016 | Jon Glover
+2017-Present | Kris Baumgartner
+
 Pioneer Peak IHC is a State of Alaska DNR crew stationed in Palmer
 Alaska. The crew started in the 1980's as a call up emergency
 firefighting crew and were known as the Mat Su Ridge Runners.
@@ -152,13 +164,6 @@ the raw toughness and strong mental attitude established by the
 Hotshot Crews before us.
 
 Sacrifice. Service. Old School.
-
-Year(s) | Superintendent
-:- | :-
-2003-2006 | Jeff Ennenga (Pioneer Peak T2IA & Regional Type 1)
-2007-2015 | Matt Jones (2007 Type 1, 2008-2015 IHC)
-2016 | Jon Glover
-2017-Present | Kris Baumgartner
 
 # Great Basin
 
