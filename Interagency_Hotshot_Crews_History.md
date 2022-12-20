@@ -168,7 +168,9 @@ Sacrifice. Service. Old School.
 # Great Basin
 
 ## Alta
-![]()
+
+![](gbcc/gbcc_alta.png)
+
 The Alta Hotshots were officially certified as an Interagency Hotshot
 Crew on June 13^th^, 2014. Earning Type 1 status followed a four-year
 journey consisting of peer evaluations, an embedded review with an
@@ -234,6 +236,9 @@ Year(s) | Captain
 2020-2021 | Tyler Carruth
 
 ## Black Mountain
+
+![](gbcc/gbcc_black_mountain.png)
+
 Black Mountain Interagency Hotshot Crew 1989 -- Present
 1989-2005 | 2006-Present
 :-: | :-:
@@ -306,8 +311,10 @@ Year(s) | Assistant Superintendent
 2015-present | Matt Gill
 2015-present | Jed Rudelbach
 
-## Boise 
-![]()
+## Boise
+
+![](gbcc/gbcc_boise.png)
+
 **Crew History:** Payette Hotshots, Payette IR, Boise IR, Boise Hotshots.
 
 The crew was started on the Payette National Forest, Thorn Creek
@@ -381,6 +388,9 @@ Year(s) | Superintendent | Years
 ![]() | ![]() | ![]() | ![]() | ![]()
 
 ## Bonneville
+
+![](gbcc/gbcc_bonneville.png)
+
 Bonneville Hotshots History 2001- Present
 The Bonneville IHC was established in 2001 to help fulfill BLM\'s
 commitment to provide national fire suppression resources. The crew is
@@ -395,6 +405,8 @@ Year(s) | Superintendent
 2012-Present | Pila Malolo
 
 ## Cedar City
+
+![](gbcc/gbcc_cedar_city.png)
 
 ***As Professional Wildland Firefighters we are dedicated to serving
 the U.S. Forest Service, our Cooperators and the Public while
@@ -487,7 +499,8 @@ Year(s) | Captain
 **PAST & PRESENT CREW LOGOS**
 
 ## Idaho City
-![]()
+
+![](gbcc/gbcc_idaho_city.png)
 
 ***The Idaho City Hotshots will uphold the Forest Service mission of
 "Protecting the land and serving the people." Our vision is to
@@ -561,6 +574,9 @@ Year(s) | Captain
 2020-Present | Brad Kitchens
 
 ## Logan
+
+![](gbcc/gbcc_logan.png)
+
 LOGAN INTERAGENCY HOTSHOT CREW WASATCH-CACHE NATIONAL FOREST, REGION FOUR
 ![]()
 Since the creation of the Logan Forest Reserve in 1903, fire
@@ -730,7 +746,9 @@ Year(s) | Superintendent
 2012-Present | Roy Fetzer
 
 ## Lone Peak
-![]()
+
+![](gbcc/gbcc_lone_peak.png)
+
 **The Lone Peak Hotshots:**
 
 The Lone Peak Hotshots are a nationally recognized Type 1 Interagency
@@ -795,6 +813,9 @@ Year(s) | Superintendent
 2019-present | Christian Berninger
 
 ## Ruby Mountain
+
+![](gbcc/gbcc_ruby_mountain.png)
+
 **Ruby Mountain Interagency Hotshot Crew History, 2001 -- Present**
 ![]()
 ![]()
@@ -839,7 +860,9 @@ Year(s) | Superintendent
 2020-Present | Chase Maness
 
 ## Sawtooth
-![]()
+
+![](gbcc/gbcc_sawtooth.png)
+
 **SAWTOOTH INTERAGENCY HOTSHOT CREW SAWTOOTH NATIONAL FOREST, REGION FOUR HISTORY OF THE SAWTOOTH HOTSHOTS**
 
 In 1966 the Sawtooth National Forest established a 10-person fire crew
@@ -1014,8 +1037,9 @@ Year(s) | Superintendent
 2020-Present | Kyle West
 
 ## Silver State
-**SILVER STATE INTERAGENCY HOTSHOT CREW**
-![]()
+
+![](gbcc/gbcc_silver_state.png)
+
 [***[www.nv.blm.gov/carson/fire/sshs/sshs\_home.htm]{.underline}***](http://www.nv.blm.gov/carson/fire/sshs/sshs_home.htm)
 
 Silver State Hand Crew has been around since late 1960's mainly
@@ -1042,8 +1066,8 @@ Year(s) | Superintendent
 2006-present | Kevin Kelly
 
 ## Snake River
-![]()
-######### SNAKE RIVER IHC CREW HISTORY
+
+![](gbcc/gbcc_snake_river.png)
 
 **Established 2001**
 
