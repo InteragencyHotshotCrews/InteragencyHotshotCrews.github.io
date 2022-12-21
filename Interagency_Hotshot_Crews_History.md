@@ -3231,7 +3231,8 @@ Year(s) | Superintendent
 # Northwest
 
 ## Baker River
-![]()
+
+![](nwcc/nwcc_baker_river.png)
 
 Baker River Hotshots Est. 1976
 
@@ -3273,9 +3274,8 @@ Year(s) | Superintendent
 ![]()
 
 ## Entiat
-**Entiat Interagency Hotshot Crew History**
 
-![]()
+![](nwcc/nwcc_entiat.png)
 
 **Crew History**
 
@@ -3422,7 +3422,8 @@ Entiat, WA 98822 or phone
 \(509) 784-1016
 
 ## La Grande
-![]()
+
+![](nwcc/nwcc_la_grande.png)
 
 La Grande's roots come from the Wallowa Whitman Inter Regional Crew
 based out of Sled Springs Guard Station in 1967. Under the guidance of
@@ -3461,6 +3462,9 @@ Year(s) | Superintendent
 2013-Present | Josh Diacetis
 
 ## Prineville
+
+![](nwcc/nwcc_prineville.png)
+
 PRINEVILLE HOTSHOT HISTORY 1980 TO PRESENT
 
 ![]()
@@ -3579,9 +3583,8 @@ Year(s) | Superintendent
 2020-Present | Brendan O'Reilly
 
 ## Redmond
-**REDMOND IHC HISTORY**
 
-![]()
+![](nwcc/nwcc_redmond.png)
 
 The Redmond Hotshot Crew, located in Redmond Oregon, is housed at the
 Redmond Air Center and supported by the Pacific Northwest Training
@@ -3643,7 +3646,8 @@ Year(s) | Superintendent
 2018-2022 | Gabe Mason
 
 ## Rogue River
-![]()
+
+![](nwcc/nwcc_rogue_river.png)
 
 USDA Forest Service
 
@@ -3696,7 +3700,8 @@ Link to the Rogue River IHC Website;
 [siskiyou/fire/?cid=fseprd998715]{.underline}
 
 ## Union
-![]()
+
+![](nwcc/nwcc_union.png)
 
 **Union Interagency Hotshot Crew Wallowa--Whitman National Forest,
 Region 6**
@@ -3760,7 +3765,8 @@ Year(s) | Superintendent
 2017-Present | Eric Jorgensen
 
 ## Vale
-![]()
+
+![](nwcc/nwcc_vale.png)
 
 In 1997 the BLM established the Vale Hotshots. The Vale District is
 located in Eastern Oregon and was chosen to host the Vale IHC because
@@ -3807,8 +3813,8 @@ Year(s) | Superintendent
 2019-Presemt | Glenn Heitz
 
 ## Warm Springs
-![]()
-![]()
+
+![](nwcc/nwcc_warm_springs.png)
 
 **THE WARM SPRINGS INTER-AGENCY HOT**
 
@@ -3902,7 +3908,9 @@ Year(s) | Superintendent
 2009-Present | Gary Sampson Jr.
 
 ## Winema
-![]()
+
+![](nwcc/nwcc_winema.png)
+
 **Winema Interagency Hotshot Crew**
 
 **Region 6, Fremont-Winema National Forest, Klamath Falls, Oregon**
@@ -4011,7 +4019,8 @@ Year(s) | Superintendent
 2020-Present | Karl Krauter
 
 ## Wolf Creek
-![]()
+
+![](nwcc/nwcc_wolf_creeek.png)
 
 Wolf Creek Interagency Hotshot Crew
 
@@ -4102,7 +4111,8 @@ Year(s) | Superintendent
 2014-Present | Jake Garate
 
 ## Zigzag
-######### Zigzag Hotshots History and Heritage
+
+![](nwcc/nwcc_zig_zag.png)
 
 From the Early 1960s to Today
 
