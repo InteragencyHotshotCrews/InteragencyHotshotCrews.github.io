@@ -7401,6 +7401,9 @@ world of Fire Suppression.
 # Southwest
 
 ## Aravaipa
+
+![](swcc/swcc_aravaipa.png)
+
 Established 2016**
 
 **BLM Arizona Gila District**
@@ -7520,6 +7523,9 @@ Crew. The crew achieved hotshot status in 2009, but was disbanded in
 of the Jackson Hotshots in 2015.
 
 ## Black Mesa
+
+![](swcc/swcc_black_mesa.png)
+
 Apache-Sitgreaves National Forest, Region 3**
 
 In the late 1960's and early 1970's, the Heber Emergency Crew was a
@@ -7599,6 +7605,9 @@ Year(s) | Superintendent
 2009-Present | Frank "Pancho" Auza
 
 ## Blue Ridge
+
+![](swcc/swcc_blue_ridge.png)
+
 The History of the Blue Ridge Interagency Hotshot Crew
 
 ![](media/image168.jpeg){width="2.991854768153981in"
@@ -7666,8 +7675,8 @@ Year(s) | Superintendent
 2020-Present | Travis Fuller
 
 ## Carson
-![](media/image169.png){width="2.126574803149606in"
-height="2.223957786526684in"}
+
+![](swcc/swcc_carson.png)
 
 **CREW HISTORY**
 
@@ -7717,7 +7726,9 @@ Year(s) | Superintendent
 
 ## Flagstaff
 
-![](media/image170.png)**Established 1972**
+![](swcc/swcc_flagstaff.png)
+
+**Established 1972**
 
 In 1971, only one hotshot crew existed in Region 3, and they were
 stationed on the Gila National Forest. In 1972, Region 3 funded two
@@ -7770,6 +7781,9 @@ Year(s) | Superintendent
 2005-Present | Bill Kuche
 
 ## Fort Apache
+
+![](swcc/swcc_fort_apache.png)
+
 1982-Present
 
 ![](media/image172.jpeg){width="1.781048775153106in"
@@ -7830,6 +7844,9 @@ Year(s) | Superintendent
 2012-? | Brian Quintero (Detailed)
 
 ## Geronimo
+
+![](swcc/swcc_geronimo.png)
+
 History (1991 to Present) ]{.underline}
 
 The Geronimo Interagency Hotshot Crew (IHC) is hosted by the San
@@ -7922,8 +7939,8 @@ Year(s) | Superintendent
 2013-Present | Julius Hostetler
 
 ## Gila
-![þÿ](media/image174.jpeg){width="1.7577952755905513in"
-height="1.19in"}
+
+![](swcc/swcc_gila.png
 
 The Gila Hotshots lay claim to being the first hotshot crew in region
 3. It is known that the crew was originally established in 1968 as an
@@ -7984,8 +8001,7 @@ Year(s) | Superintendent
 
 ## Globe
 
-![](media/image175.jpeg){width="2.636110017497813in"
-height="1.4854166666666666in"}
+![](swcc/swcc_globe.png)
 
 The Globe hotshots started in the mid 60's; these were known as the
 "Suppression Years." During that time, the Globe Ranger Station had
@@ -8103,6 +8119,8 @@ Year(s) | Superintendent
 
 ## Granite Mountain
 
+![](swcc/swcc_granite_mountain.png)
+
 1700 Iron Springs Road, Prescott, AZ 86305
 
 In the spring of 1990, the City Manager of Prescott, Forest Supervisor
@@ -8214,8 +8232,8 @@ Amanda Marsh Widow of Eric Marsh
 Superintendent of the Granite Mountain Hotshots
 
 ## Ironwood
-![](media/image177.jpeg){width="5.272015529308836in"
-height="3.2533333333333334in"}
+
+![](swcc/swcc_ironwood.png)
 
 Ironwood Hotshots Final Summary 2015
 
@@ -8368,8 +8386,8 @@ hours of time spent on projects within the District during their time
 here.
 
 ## Mesa
-![](media/image178.jpeg){width="1.5024245406824146in"
-height="0.9875in"}
+
+![](swcc/swcc_mesa.png)
 
 **Mesa Hotshots 5140 E Ingram Street**
 
@@ -8435,6 +8453,8 @@ height="0.9875in"}
 
 ## Mescalero
 
+![](swcc/swcc_mescalero.png)
+
 **1987 -- Present**
 
 ![](media/image181.jpeg){width="1.9721270778652669in"
@@ -8476,8 +8496,8 @@ during the off season, funded by the fuels program at the home unit
 and surrounding communities.**
 
 ## Mormon Lake
-![](media/image182.jpeg){width="2.5035662729658794in"
-height="2.4966666666666666in"}
+
+![](swcc/swcc_mormon_lake.png)
 
 The Mormon Lake Interagency Hotshot Crew is a U.S. Forest Service
 sponsored Type I crew based on the Coconino National Forest in
@@ -8522,6 +8542,9 @@ Year(s) | Superintendent
 2018-present | Sara Sweeney
 
 ## Mt. Taylor
+
+![](swcc/swcc_mt_taylor.png)
+
 2001-Present
 
 ![](media/image183.jpeg){width="1.6932425634295714in"
@@ -8559,6 +8582,8 @@ Year(s) | Superintendent
 2014-Present | Chris Brashears
 
 ## Navajo
+
+![](swcc/swcc_navajo.png)
 
 The Navajo IHC (Interagency Hotshot Crew) is a Type I wildland
 firefighting crew sponsored by the BIA (Bureau of Indian Affairs),
@@ -8657,10 +8682,8 @@ Year(s) | Superintendent
 2013-Present | Vann Smith
 
 ## Payson
-![þÿ](media/image185.jpeg){width="1.2731528871391076in"
-height="1.1374989063867016in"}
-![þÿ](media/image186.jpeg){width="1.2028729221347332in"
-height="1.2133333333333334in"}
+
+![](swcc/swcc_payson.png)
 
 **PAYSON HOT SHOTS**
 
@@ -8710,8 +8733,7 @@ Year(s) | Superintendent
 
 ## Prescott
 
-![](media/image187.png){width="4.196478565179352in"
-height="1.0454155730533683in"}
+![](swcc/swcc_prescott.png)
 
 The Prescott Hotshots originated in 1972 with the formation of a
 regular crew. George Pittman was the crew boss with a crew made up of
@@ -8790,6 +8812,8 @@ Year(s) | Superintendent
 
 ## Sacramento
 
+![](swcc/swcc_sacramento.png)
+
 Sacramento Interagency Hotshot Crew (IHC) is a nationally funded USDA
 Forest Service fire suppression crew. The crew was relocated to the
 Lincoln National Forest in south central New Mexico in 1983. The crew
@@ -8838,6 +8862,8 @@ Sacramento |
 
 ## Sante Fe
 
+![](swcc/swcc_sante_fe.png)
+
 The Santa Fe Hotshots were established in 1977. A Fire Management
 Officer had wanted to call the crew the Redondo Hotshots (named after
 a prominent peak in the Jemez Mountains). After some negotiation the
@@ -8872,6 +8898,8 @@ Year(s) | Superintendent
 2011-Present | David M. Simpson
 
 ## Silver City
+
+![](swcc/swcc_silver_city.png)
 
 **Gila National Forest**
 
@@ -8958,6 +8986,9 @@ Year(s) | Superintendent
 height="1.5675in"}**Past Logo**
 
 ## Smokey Bear
+
+![](swcc/swcc_smokey_bear.png)
+
 Established 1976**
 
 ![](media/image192.jpeg){width="1.4247976815398076in"
@@ -9049,6 +9080,9 @@ Year(s) | Superintendent
 2013-Present | Beau Jarvis
 
 ## Zuni
+
+![](swcc/swcc_zuni.png)
+
 2001-Present
 
 ![](media/image193.png){width="1.0110126859142607in"
