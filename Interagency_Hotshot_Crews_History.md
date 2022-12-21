@@ -4197,6 +4197,9 @@ Early 1960s | Don Vandenberg
 # Rocky Mountain
 
 ## Alpine
+
+![](rmcc/rmcc_alpine.png)
+
 Alpine Hotshots History 1981- Present
 
 ![]()
@@ -4270,7 +4273,7 @@ Year(s) | Superintendent
 2008-Present | Paul Cerda
 
 ## Craig
-![]()
+![](rmcc/rmcc_craig.png)
 
 ***Craig Interagency Hotshot Crew 2001 -- Present***
 
@@ -4328,7 +4331,8 @@ Year(s) | Superintendent
 2019-present | Logan Blankenship
 
 ## Pike
-![]() Pike Interagency Hotshot Crew
+
+![](rmcc/rmcc_pike.png)
 
 The Pike Interagency Hotshot Crew began in 1962 as the Roosevelt
 Inter-Regional Fire Suppression Crew (IR Crew). Affectionately known
@@ -4385,6 +4389,8 @@ Year(s) | Superintendent
 
 ## Roosevelt
 
+![](rmcc/rmcc_roosevelt.png)
+
 **Roosevelt Hotshots History 2001 to Present**
 
 ![]()
@@ -4422,7 +4428,8 @@ Year(s) | Superintendent
 2007-Present | Larry Money
 
 ## San Juan
-![]()
+
+![](rmcc/rmcc_san_juan.png)
 
 San Juan IHC Crew History 2002-Present
 
@@ -4467,6 +4474,9 @@ Year(s) | Superintendent
 2018-present | Tom Allbright
 
 ## Tatanka
+
+![](rmcc/rmcc_tatanka.png)
+
 Tatanka Hotshots 605-673-5965/ 605-673-1138 © 12266 Tatanka Dr.
 
 Custer, SD 57730
@@ -4510,7 +4520,8 @@ Crewmember (13/13) GS-5 Senior Crewmember (13/13) GS-5 Senior
 Crewmember (13/13) GS-5 Senior Crewmember (13/13)
 
 ## Wyoming
-![]()
+
+![](rmcc/rmcc_wyoming.png)
 
 Bighorn IR & Wyoming Hotshot History 1967-Present
 
