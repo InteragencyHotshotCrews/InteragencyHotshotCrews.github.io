@@ -4891,6 +4891,9 @@ Year(s) | Superintendent
 # Southern California
 
 ## Arrowhead
+
+![](oscc/oscc_arrowhead.png)
+
 +-------------+-------------+-------------+-------------+-------------+
 | AGENCY:   | HOME      | ESTABLISH | CONTACT   | WEBSITE:  |
 | USDI      | UNIT:     | ED:         |             |             |
@@ -4977,6 +4980,9 @@ Year(s) | Superintendent
 
 
 ## Arroyo Grande
+
+![](oscc/oscc_arroyo_grande.png)
+
 ######## [Arroyo Grande IHC, Los Padres National Forest,]{.underline} [Established 2007]{.underline}
 
 [460 Hi Mountain Road]{.underline} [Arroyo Grande Ca,
@@ -5029,8 +5035,10 @@ Year(s) | Superintendent
 2020-Present | Phil Hernandez
 
 ## Bear Divide
-![](media/image121.jpeg){width="2.0166655730533685in"
-height="2.0166655730533685in"}**Bear Divide Hotshots Agency: USDA
+
+![](oscc/oscc_bear_divide.png)
+
+Bear Divide Hotshots Agency: USDA
 Forest Service Home Unit: Angeles National Forest**
 
 **[Contact Information]{.underline}:**
@@ -5093,7 +5101,8 @@ Year(s) | Superintendent
 2013-Present | Brian Anderson
 
 ## Big Bear
-![]()
+
+![](oscc/oscc_big_bear.png)
 
 **History:**
 
@@ -5165,6 +5174,9 @@ Rodriguez **2019** - Omar Garcia **2020** -- Derek Barnett **2021** -
 Brian Alex
 
 ## Boundary Peak
+
+![](oscc/oscc_boundary_peak.png)
+
 Hotshots 2001-Present
 
 ![]()
@@ -5212,9 +5224,8 @@ Year(s) | Superintendent
 
 ## Breckenridge Hotshots
 
-Crew History
+![](oscc/oscc_breckenridge.png)
 
-![]()
 Established 2002
 
 In June of 1990, a ten person fuels crew was established, on the
@@ -5250,6 +5261,8 @@ Year(s) | Superintendent
 2016-Present | James Robertson
 
 ## Chilao
+
+![]()
 
 **Agency: USDA Forest Service Home Unit: Angeles National Forest**
 
@@ -5367,7 +5380,8 @@ season)
 Chilao crew history)
 
 ## Crane Valley
-![]()
+
+![](oscc/oscc_crane_valley.png)
 
 *[Crane Valley IHC History]{.underline}*
 
@@ -5446,7 +5460,9 @@ Year(s) | Superintendent
 2020-present | Matthew Dunlap
 
 ## Dalton
-![]()
+
+![](oscc/oscc_dalton.png)
+
 U.S. Forest Service Angeles National Forest
 
 Established 1953
@@ -5599,6 +5615,8 @@ Year(s) | Superintendent
 
 ## Del Rosa
 
+![](oscc/oscc_del_rosa.png)
+
 **Agency: USDA Forest Service**
 
 **Home Unit: San Bernardino NF, Cajon RD Contact Information:**
@@ -5684,6 +5702,8 @@ interested. 928-718-1826
 ####### Duty Respect Integrity
 
 ## El Cariso
+
+![](oscc/oscc_el_cariso.png)
 
 **Agency: USDA Forest Service**
 
@@ -5771,6 +5791,8 @@ Year(s) | Superintendent
 
 ## Fulton
 
+![](oscc/oscc_fulton.png)
+
 **Fulton Hotshots Agency: US Forest Service PO Box 343**
 
 **Glennville, CA 93226 Home Unit: Sequoia National Forest**
@@ -5837,6 +5859,8 @@ Year(s) | Superintendent
 2014-Present | Josh Acosta
 
 ## Golden Eagles
+
+![](oscc/oscc_golden_eagles.png)
 
 **Agency: USDI Bureau of Indian Affairs**
 
@@ -5949,8 +5973,8 @@ Year(s) | Superintendent
 ***"PRESERVING THE LAND AND THE PEOPLE"***
 
 ## Groveland
-![](media/image136.jpeg){width="1.752143482064742in"
-height="1.5887489063867017in"}
+
+![](oscc/oscc_groveland.png)
 
 The foundation for the Groveland Hotshot crew began in 1988 as
 Stanislaus Crew 4, a 10 person Brush Disposal/Initial Attack crew lead
@@ -5979,9 +6003,8 @@ Groveland Hotshot Superintendents |
 2011-Present | Pat Laeng
 
 ## Horseshoe Meadow
-![](media/image137.png){width="2.68000656167979in"
-height="2.690236220472441in"}***Horseshoe Meadow Interagency Hotshots
-Crew History***
+
+![](oscc/oscc_horseshoe_meadow.png)
 
 **Horseshoe Meadow Hotshots**
 
@@ -6044,12 +6067,8 @@ Year(s) | Superintendent
 2020-? | Candice Kutrosky
 
 ## Inyo
-![](media/image138.jpeg){width="1.9723140857392827in"
-height="1.9633333333333334in"}
-![](media/image139.jpeg){width="2.1980632108486438in"
-height="2.0166666666666666in"}
-![](media/image140.png){width="1.9345713035870515in"
-height="1.9475in"}
+
+![](oscc/oscc_inyo.png)
 
 1974 - 1978 2008 - 2011 2014 - present
 
@@ -6159,8 +6178,8 @@ Year(s) | Superintendent
 2019-Pres | Joel Schilling
 
 ## Kern Valley
-![](media/image142.png){width="1.4798600174978127in"
-height="1.7791666666666666in"}Kern Valley Interagency Hotshot Crew
+
+![](oscc/oscc_kern_valley.png)
 
 est. 1983
 
@@ -6257,10 +6276,8 @@ Year(s) | Superintendent
 2010-present | Leif Mathiesen
 
 ## Kings River
-![](media/image143.jpeg){width="1.8426531058617672in"
-height="1.8424989063867017in"}
-![](media/image144.jpeg){width="2.7583934820647418in"
-height="2.104374453193351in"}
+
+![](oscc/oscc_kings_river.png)
 
 Crew Logo Belt Buckle
 
@@ -6323,8 +6340,10 @@ Year(s) | Superintendent
 2021-Present | Kelly Haines
 
 ##Laguna
-![](media/image145.jpeg){width="2.374998906386702in"
-height="2.2687401574803148in"}**Laguna Hotshots**
+
+![](oscc/oscc_laguna.png)
+
+**Laguna Hotshots**
 
 **Agency: USDA Forest Service**
 
@@ -6374,7 +6393,8 @@ Year(s) | Superintendent
 :- | :-
 
 ## Little Tujunga
-![](media/image146.jpeg){width="3.9998129921259844in" height="1.72in"}
+
+![]()
 
 **Agency: USDA Forest Service Home Unit: Angeles National Forest**
 
@@ -6563,7 +6583,7 @@ Year(s) | Superintendent
 
 ## Los Padres
 
-![](media/image147.png){width="1.596913823272091in" height="1.725in"}
+![](oscc/oscc_los_padres.png)
 
 **Agency: USDA Forest Service Home Unit: Los Padres National Forest**
 
@@ -6650,10 +6670,8 @@ Year(s) | Superintendent
 2017-Present | Matt Aoki
 
 ## Mill Creek
-**Current Crew Logo**
 
-![](media/image148.png){width="3.5722222222222224in"
-height="2.6666666666666665in"}
+![](oscc/oscc_mill_creek.png)
 
 Agency: Forest Service
 
@@ -6715,6 +6733,8 @@ height="1.9761450131233596in"}
 ![](media/image150.jpeg){width="2.231933508311461in" height="2.25in"}
 
 ## Oak Grove
+
+![](oscc/oscc_oak_grove.png)
 
 **Agency: USDA Forest Service Home Unit: Angeles National Forest
 Arroyo Seco Ranger District**
@@ -6831,6 +6851,8 @@ Year(s) | Superintendent
 
 ## Ojai
 
+![](oscc/oscc_ojai.png)
+
 **Agency: USDA Forest Service**
 
 **Home Unit: Los Padres National Forest**
@@ -6918,8 +6940,8 @@ Year(s) | Superintendent
 1982 | Bob Becker
 
 ## Palomar
-![palomar\_hotshots\_JPEG](media/image153.jpeg){width="2.8757819335083115in"
-height="2.5266655730533683in"}
+
+![](oscc/oscc_palomar.png)
 
 Palomar Hots Hots
 
@@ -6994,6 +7016,8 @@ Year(s) | Superintendent
 
 ## Rio Bravo Hotshots
 
+![](oscc/oscc_rio_bravo.png)
+
 **Agency: Kern County FD Home Unit: Lake Isabella**
 
 **Contact Information:**
@@ -7052,6 +7076,8 @@ Year(s) | Superintendent
 
 ## Sierra Hotshots
 
+![](oscc/oscc_sierra.png)
+
 **Agency: USDA National Forest Service Home Unit: Sierra National
 Forest**
 
@@ -7089,6 +7115,8 @@ Year(s) | Superintendent
 
 ## Springville
 
+![](oscc/oscc_springville.png)
+
 Year(s) | Superintendent
 :- | :-
 2001-2004 | Robert Sanders
@@ -7119,6 +7147,8 @@ Hotshots is our hard work, determination, and a continued commitment
 to the high standards that define R-5 Hotshot Crews.
 
 ## Stanislaus
+
+![](oscc/oscc_stanislaus.png)
 
 **Agency: USDA Forest Service**
 
@@ -7202,8 +7232,8 @@ ponderosa pines and mixed conifers.
 We have limited barracks available.
 
 ## Texas Canyon
-![](media/image159.jpeg){width="1.2515135608048993in"
-height="1.2515616797900262in"}
+
+![](oscc/oscc_texas_canyon.png)
 
 The Texas Canyon Hotshot Crew, located on the outskirts of the Santa
 Clarita Valley, was established in 1954. The Texas Canyon Guard
@@ -7264,10 +7294,8 @@ Year(s) | Superintendent
 2017-Present | Danny Breuklander
 
 ## Valyermo
-![](media/image160.jpeg){width="1.2833781714785653in"
-height="1.2765616797900263in"}
-![](media/image161.jpeg){width="1.3075109361329833in"
-height="1.265in"}
+
+![](oscc/oscc_valyermo.png)
 
 Agency: USDA Forest Service
 
@@ -7316,6 +7344,8 @@ Year(s) | Superintendent
 2022-Present | Simeon "half" Hagens
 
 ## Vista Grande
+
+![](oscc/oscc_vista_grande.png)
 
 **Agency: USDA Forest Service**
 
