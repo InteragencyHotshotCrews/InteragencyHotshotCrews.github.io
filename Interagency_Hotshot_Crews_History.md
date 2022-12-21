@@ -4604,11 +4604,11 @@ Year(s) | Superintendent
 2005-2007 | Scott Schuster
 2008-Present | Matthew Prentiss
 
-
 # Southern
 
 ## Asheville
-![]()
+
+![](sacc/sacc_asheville.png)
 
 **ASHEVILLE INTERAGENCY HOTSHOT CREW HISTORICAL INFORMATION**
 
@@ -4666,7 +4666,8 @@ Year(s) | Superintendent
 2003-Present | Steve Little
 
 ## Augusta
-![]()
+
+![](sacc/sacc_augusta.png)
 
 In June of 2001, the Augusta Hotshots were established on the George
 Washington and Jefferson National Forests. The crew is stationed at
@@ -4722,6 +4723,9 @@ Year(s) | Superintendent
 ? | Oscar Montijo
 
 ## Cherokee
+
+![](sacc/sacc_cherokee.png)
+
 **Cherokee IHC History 2001-Present**
 
 ![]()
@@ -4772,7 +4776,8 @@ Assistant Superintendent/Captain -- 2 Squad Leaders -- 2
 Lead Firefighters -- 2 Senior Firefighters -- 14 Crewmembers - 2
 
 ## Jackson
-![]()
+
+![](sacc/sacc_jackson.png)
 
 **History of the Jackson Hotshots**
 
@@ -4823,7 +4828,8 @@ Year(s) | Superintendent
 2018-Present | Darren O'Loughlin
 
 ## Midewin
-![]() **Midewin Interagency Hotshot Crew**
+
+![](sacc/sacc_midewin.png)
 
 The Midewin (mi-day-win) IHC was established in April of 2001 as a
 result of the National Fire Plan.
