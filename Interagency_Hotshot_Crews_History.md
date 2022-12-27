@@ -4158,6 +4158,16 @@ remains constant: same location, same traditions, and always tough!
 
 ![](rmcc/rmcc_alpine.png)
 
+Year(s) | Superintendent
+:- | :-
+1981-1984 | Jon Larson
+1984-1987 | John Comery
+1987 | Paul Borcherding
+1988-1997 | Jim " JP" Mattingly
+1997-2006 | David Niemi
+2006-2007 | Chris Kirby
+2008-Present | Paul Cerda
+
 Alpine Hotshots History 1981- Present
 
 ![]()
@@ -4220,18 +4230,19 @@ majority of our fire assignments have been away from the vicinity of
 Rocky Mountain NP except during the summer of 2002 Colorado
 experienced a record fire year.
 
+## Craig
+
+![](rmcc/rmcc_craig.png)
+
 Year(s) | Superintendent
 :- | :-
-1981-1984 | Jon Larson
-1984-1987 | John Comery
-1987 | Paul Borcherding
-1988-1997 | Jim " JP" Mattingly
-1997-2006 | David Niemi
-2006-2007 | Chris Kirby
-2008-Present | Paul Cerda
-
-## Craig
-![](rmcc/rmcc_craig.png)
+2001-2003 | Stuart Gore
+2004 | Shawn Telford (detail)
+2004 | Miles Ellis (detail)
+2005-2013 | Shawn Telford
+2014-2018 | Sean Carey
+2018-2019 | Caleb Meyer
+2019-present | Logan Blankenship
 
 ***Craig Interagency Hotshot Crew 2001 -- Present***
 
@@ -4278,19 +4289,29 @@ You can find out more information about Craig IHC at the website
 below:
 [https://[www.nifc.gov/about-us/our-partners/blm/blm-crews/craig-hotshots](http://www.nifc.gov/about-us/our-partners/blm/blm-crews/craig-hotshots)]{.underline}
 
-Year(s) | Superintendent
-:- | :-
-2001-2003 | Stuart Gore
-2004 | Shawn Telford (detail)
-2004 | Miles Ellis (detail)
-2005-2013 | Shawn Telford
-2014-2018 | Sean Carey
-2018-2019 | Caleb Meyer
-2019-present | Logan Blankenship
-
 ## Pike
 
 ![](rmcc/rmcc_pike.png)
+
+Year(s) | Superintendent
+:- | :-
+1962-1973 | Glenn Scott
+1974-1977 | Chris Brandy
+1978 | Bruce Haflich
+1979 | Bill Frede
+1980-1981 | Chris Brandy
+1982 | Brett Acres
+1983-1984 | Dan Robinson
+1985 |Gasper Blea
+1986-1991 | Tim Foley
+1992 | Paul Gleason, Matt Valdez
+1993-1997 | Tim Foley
+1998-2005 | Shane Greer
+2006 | Shane Greer, Alissa Roeder
+2007-2011 | Alissa Roeder
+2012-2013 | Kevin Neiman
+2014-2018 | Tom Allbright
+2019-Present | David Smallman
 
 The Pike Interagency Hotshot Crew began in 1962 as the Roosevelt
 Inter-Regional Fire Suppression Crew (IR Crew). Affectionately known
@@ -4325,29 +4346,16 @@ pride in what we do.
 
 *Scotty's Raider's, circa 1960's*
 
-Year(s) | Superintendent
-:- | :-
-1962-1973 | Glenn Scott
-1974-1977 | Chris Brandy
-1978 | Bruce Haflich
-1979 | Bill Frede
-1980-1981 | Chris Brandy
-1982 | Brett Acres
-1983-1984 | Dan Robinson
-1985 |Gasper Blea
-1986-1991 | Tim Foley
-1992 | Paul Gleason, Matt Valdez
-1993-1997 | Tim Foley
-1998-2005 | Shane Greer
-2006 | Shane Greer, Alissa Roeder
-2007-2011 | Alissa Roeder
-2012-2013 | Kevin Neiman
-2014-2018 | Tom Allbright
-2019-Present | David Smallman
-
 ## Roosevelt
 
 ![](rmcc/rmcc_roosevelt.png)
+
+Year(s) | Superintendent
+:- | :-
+2001-2002 | Kelly Jones (Mellot)
+2003 | Todd Millen
+2003-2006 | Dave Hamrick
+2007-Present | Larry Money
 
 **Roosevelt Hotshots History 2001 to Present**
 
@@ -4378,16 +4386,16 @@ While the crew spends much of the summer away on assignment, when at
 home the Hotshots help meet the district's needs by doing a variety of
 project work and assisting with prescribed fire.
 
-Year(s) | Superintendent
-:- | :-
-2001-2002 | Kelly Jones (Mellot)
-2003 | Todd Millen
-2003-2006 | Dave Hamrick
-2007-Present | Larry Money
-
 ## San Juan
 
 ![](rmcc/rmcc_san_juan.png)
+
+Year(s) | Superintendent
+:- | :-
+2002-2007 | Shawna Legarza
+2008-2010 | Jim Cornelius
+2011-2017 | Jay Godson
+2018-present | Tom Allbright
 
 San Juan IHC Crew History 2002-Present
 
@@ -4424,16 +4432,16 @@ working for the engineering programs rebuilding/ removing bridges,
 mine reclamation, range projects that have included fence
 building/removal, and weed inventory.
 
-Year(s) | Superintendent
-:- | :-
-2002-2007 | Shawna Legarza
-2008-2010 | Jim Cornelius
-2011-2017 | Jay Godson
-2018-present | Tom Allbright
-
 ## Tatanka
 
 ![](rmcc/rmcc_tatanka.png)
+
+Year(s) | Superintendent
+:- | :-
+1999-2001 | Geoff Bell
+2001-2008 | Pat Laeng
+2008-2017 | Brandon Hess
+2017- present | David Zortman
 
 Tatanka Hotshots 605-673-5965/ 605-673-1138 © 12266 Tatanka Dr.
 
@@ -4451,13 +4459,6 @@ spring of 2000. The crew was originally housed in a trustee unit on
 the grounds of an old Tuberculosis sanitarium that was converted into
 a juvenile offender facility. The crew moved into its current
 facilities in April of 2002.
-
-Year(s) | Superintendent
-:- | :-
-1999-2001 | Geoff Bell
-2001-2008 | Pat Laeng
-2008-2017 | Brandon Hess
-2017- present | David Zortman
 
 Tatanka Hotshots 605-673-5965/ 605-673-1138 © 12266 Tatanka Dr.
 
@@ -4480,6 +4481,23 @@ Crewmember (13/13) GS-5 Senior Crewmember (13/13)
 ## Wyoming
 
 ![](rmcc/rmcc_wyoming.png)
+
+Year(s) | Superintendent
+:- | :-
+1967-1969 | Sig Palm
+1970-1972 | Jim Shell
+1973 | Carl "Tut" Anderson
+1974 | Dennis Eckardt
+1975 | Terry Wood
+1976 | Tom Able
+1977-1979 | Steve Nichols
+1980-1983 | Jeff Johnson
+1984-1996 | Mark Rogers
+1997 | Chris Church (detail)
+1998-2000 | Kevin Pfister
+2001-2004 | Jay Kurth
+2005-2007 | Scott Schuster
+2008-Present | Matthew Prentiss
 
 Bighorn IR & Wyoming Hotshot History 1967-Present
 
@@ -4544,23 +4562,6 @@ The number of days on assignment has more than tripled from the 25
 to30 days spent on fires in 1967 and 1968. Other memorable recent
 events include the only trip to Alaska in crew history (2004) and back
 to back hurricane relief assignments in 2005 and 2006.
-
-Year(s) | Superintendent
-:- | :-
-1967-1969 | Sig Palm
-1970-1972 | Jim Shell
-1973 | Carl "Tut" Anderson
-1974 | Dennis Eckardt
-1975 | Terry Wood
-1976 | Tom Able
-1977-1979 | Steve Nichols
-1980-1983 | Jeff Johnson
-1984-1996 | Mark Rogers
-1997 | Chris Church (detail)
-1998-2000 | Kevin Pfister
-2001-2004 | Jay Kurth
-2005-2007 | Scott Schuster
-2008-Present | Matthew Prentiss
 
 # Southern
 
