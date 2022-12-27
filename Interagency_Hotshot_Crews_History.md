@@ -2527,7 +2527,14 @@ vacancy.]{.underline}
 # Northern Rockies
 
 ## Bear Paw
+
 ![](nrcc/nrcc_bear_paw.png)
+
+Year(s) | Superintendent
+:- | :-
+2000-2006 | Mike Lamere
+2006 | Earl Old Chief
+2006-present | Wilbur Nagel
 
 **Chippewa -- Cree Tribe Natural Resources / Forestry**
 
@@ -2610,18 +2617,13 @@ structure has reverted back to the traditional three squad
 configuration. Juan Gamble was selected as the new Assistant
 Superintendent in December of 2006.
 
-Year(s) | Superintendent
-:- | :-
-2000-2006 | Mike Lamere
-2006 | Earl Old Chief
-2006-present | Wilbur Nagel
-
 *"The strength of the crew is in the individual, and the strength of
 the individual is in the crew"*
 
 **-Bear Paw IHC Mission Statement**
 
 ## Bison
+
 ![](nrcc/nrcc_bison.png)
 
 **Arrowhead 3 (Bison, Alpine) Interagency Hotshot Crews**
@@ -2677,7 +2679,29 @@ front of the Lower Falls and installing it at their Canyon quarters.
 (Photos provided by Mike Holmes.)
 
 ## Bitterroot
+
 ![](nrcc/nrcc_bitterroot.png)
+
+Year(s) | Superintendent
+:- | :-
+1963 | Dean Lundberg
+1964 | Vern Swanson
+1965 | Lou Romero
+1966-1970 | Jim Crockett
+1971-1972 | John Maupin
+1973-1975 | Rodney Lay
+1976 | Ken Huekel
+1977 | Don Rummel
+1978-1983 | Buck Latapie
+1984 | Don Ray
+1985-1993 | Bill Miller
+1990 | Joe Thompson*
+1994-2000 | Steve Rawlings
+2001-2006 | Rory Laws
+2007 | Matt Gibson*
+2008-present | Jay Wood
+
+\* denotes Detailed
 
 USFS
 
@@ -2718,29 +2742,18 @@ Steve Barringer 1990 design.
 In 2013 the Bitterroot Hotshots celebrated a proud 50 years of
 service, and we look forward to the next 50 years.
 
+## Chief Mountain
+
+![](nrcc/nrcc_chief_mountain.png)
+
 Year(s) | Superintendent
 :- | :-
-1963 | Dean Lundberg
-1964 | Vern Swanson
-1965 | Lou Romero
-1966-1970 | Jim Crockett
-1971-1972 | John Maupin
-1973-1975 | Rodney Lay
-1976 | Ken Huekel
-1977 | Don Rummel
-1978-1983 | Buck Latapie
-1984 | Don Ray
-1985-1993 | Bill Miller
-1990 | Joe Thompson*
-1994-2000 | Steve Rawlings
-2001-2006 | Rory Laws
-2007 | Matt Gibson*
-2008-present | Jay Wood
-
-\* denotes Detailed
-
-## Chief Mountain
-![](nrcc/nrcc_chief_mountain.png)
+1988-1990 | Bruce McDonald
+1991-1992 | Glen Still Smoking
+1993-1994 | John Murray
+1995-1996 | Tom Evans
+1997 | Steve Murray
+1998-Present | Lyle St. Goddard
 
 *CHIEF MOUNTAIN HOTSHOTS*
 
@@ -2786,19 +2799,24 @@ Rockies Coordinating Group. The Chief Mountain Interagency Hotshot
 Crew has been recognized by several film production companies and
 currently has 2 documentary films completed.
 
-Year(s) | Superintendent
-:- | :-
-1988-1990 | Bruce McDonald
-1991-1992 | Glen Still Smoking
-1993-1994 | John Murray
-1995-1996 | Tom Evans
-1997 | Steve Murray
-1998-Present | Lyle St. Goddard
-
 ***"PRESERVING THE PAST WHILE BUILDING THE FUTURE"***
 
 ## Flathead
+
 ![](nrcc/nrcc_flathead.png)
+
+Year(s) | Superintendent
+:- | :-
+1966 | Bruce Pyles
+1967 | Fred Andres
+1968 | Byron Sangunsky
+1969-1976 | Al Squires
+1977-1986 | Bruce McAtee
+1987-1998 | Paul Linse
+1999-2002 | Don Rees
+2003-2011 | Harvey Carr
+2012-2015 | Tyler Anderson
+2016-present | Shawn Borgen
 
 The 1966 Flathead Interregional Fire
 Suppression crew began its inaugural season in mid-June at the Big
@@ -2826,21 +2844,22 @@ beginnings. The current superintendent, crew, and many former members
 were in attendance including former superintendents Bruce McAtee, Paul
 Linse, Don Rees, and Harvey Carr.
 
+## Helena
+
+![](nrcc/nrcc_helena.png)
+
 Year(s) | Superintendent
 :- | :-
-1966 | Bruce Pyles
-1967 | Fred Andres
-1968 | Byron Sangunsky
-1969-1976 | Al Squires
-1977-1986 | Bruce McAtee
-1987-1998 | Paul Linse
-1999-2002 | Don Rees
-2003-2011 | Harvey Carr
-2012-2015 | Tyler Anderson
-2016-present | Shawn Borgen
-
-## Helena
-![](nrcc/nrcc_helena.png)
+1971-1973 | Mike Collins
+1974-1975 | Tom Patten
+1976-1979 | Mike Pelia
+1980-1982 | Larry Cole
+1983-1988 | Dave Larsen
+1988 | Gary Sullivan (acting)
+1989-2001 | Larry Edwards
+2002-2005 | Rocky Gilbert
+2006 | Kenny Spint (detail)
+2007-present | Fred Thompson
 
 HELENA HOTSHOTS 1971-2009
 
@@ -2929,23 +2948,30 @@ rescue operations, law enforcement assistance, fire training,
 Hurricanes Hugo, Andrew and Georges, wilderness fire management and
 prescribed burning.
 
-Year(s) | Superintendent
-:- | :-
-1971-1973 | Mike Collins
-1974-1975 | Tom Patten
-1976-1979 | Mike Pelia
-1980-1982 | Larry Cole
-1983-1988 | Dave Larsen
-1988 | Gary Sullivan (acting)
-1989-2001 | Larry Edwards
-2002-2005 | Rocky Gilbert
-2006 | Kenny Spint (detail)
-2007-present | Fred Thompson
-
 Opera Non Verba
 
 ## Idaho Panhandle
+
 ![](nrcc/nrcc_idaho_panhandle.png)
+
+Year(s) | Superintendent
+:- | :-
+St. Joe IHC | 
+1967-1969 | Dale Jarrell
+1970-1971 | Mike Cyrus
+1972-1973 | Dennis Johnson
+1975-1975 | Jim Preston
+1976-1979 | Dean Berger
+1980-1987 | John Myhre
+1988-1994 | Jim O\'Dell
+1995-1998 | Lynn Bornitz
+1999-1999 | B Hadley Hawkins
+1999-2000 | Lynn Bornitz
+2000-2000 | Rory Laws
+Idaho Panhandle IHC | 
+2001-2003 | Louis Hartjes
+2004-2008 | Terry Zufelt
+2009-Present | Chris Smith
 
 **IDAHO PANHANDLE INTERAGENCY HOTSHOT CREW HISTORY 1967-PRESENT**
 
@@ -3015,27 +3041,17 @@ tree with a lightening bolt hitting it.
 
 The picture above shows how it looks today.
 
+## Lewis & Clark
+
+![](nrcc/nrcc_lewis_and_clark.png)
+
 Year(s) | Superintendent
 :- | :-
-St. Joe IHC | 
-1967-1969 | Dale Jarrell
-1970-1971 | Mike Cyrus
-1972-1973 | Dennis Johnson
-1975-1975 | Jim Preston
-1976-1979 | Dean Berger
-1980-1987 | John Myhre
-1988-1994 | Jim O\'Dell
-1995-1998 | Lynn Bornitz
-1999-1999 | B Hadley Hawkins
-1999-2000 | Lynn Bornitz
-2000-2000 | Rory Laws
-Idaho Panhandle IHC | 
-2001-2003 | Louis Hartjes
-2004-2008 | Terry Zufelt
-2009-Present | Chris Smith
-
-## Lewis & Clark
-![](nrcc/nrcc_lewis_and_clark.png)
+2001-2004 | Chris Theisen
+2004-2010 | Mike Noel
+2011 | Tyler J. Anderson (Farm)
+2012-2018 | Matt Holmstrom (detail)
+2019-Present | William Knudsen
 
 **Lewis & Clark Hotshots...History 2001-Present**
 
@@ -3076,16 +3092,33 @@ with the two-foreman system), three 13/13 Squad Bosses (one operating
 as a Saw Boss), six 13/13 Senior Firefighters, and 10-12 seasonal
 employees.
 
+## Lolo
+
+![](nrcc/nrcc_lolo.png)
+
 Year(s) | Superintendent
 :- | :-
-2001-2004 | Chris Theisen
-2004-2010 | Mike Noel
-2011 | Tyler J. Anderson (Farm)
-2012-2018 | Matt Holmstrom (detail)
-2019-Present | William Knudsen
-
-## Lolo
-![](nrcc/nrcc_lolo.png)
+1961 | Ron Stoleson
+1962 | Lyle Brown
+1963 | Jay Penney
+1964-1973 | George Bissonette
+1974 | Neil Ramberg
+1975 | Neil Ramberg/Kevin Brown
+1976-1981 | Mike Cyrus
+1982 | Jerry Benson
+1983-1984 | Don Feser
+1985 | Roger Christopher
+1986 | Don Feser
+1987 | Steve Betlach
+1988 | Greg Power
+1989 | Margaret Doherty
+1990-2010 | Steve Karkanen
+1994 | Marshal Brown (Detail)
+2000 | Holly Maloney (Detail)
+2010 | Tim Laroche (Detail)
+2011-2017 | Tim LaRoche
+2018 | Shawn Faiella (Detail)
+2019-Present | Shawn Faiella
 
 **Lolo Interagency Hotshots Lolo National Forest Missoula, Montana**
 
@@ -3153,30 +3186,6 @@ Superintendent.
 
 2016 -- Firefighter Justin Beebe lost his life while battling the
 Strawberry Fire, GBNP, Nevada
-
-Year(s) | Superintendent
-:- | :-
-1961 | Ron Stoleson
-1962 | Lyle Brown
-1963 | Jay Penney
-1964-1973 | George Bissonette
-1974 | Neil Ramberg
-1975 | Neil Ramberg/Kevin Brown
-1976-1981 | Mike Cyrus
-1982 | Jerry Benson
-1983-1984 | Don Feser
-1985 | Roger Christopher
-1986 | Don Feser
-1987 | Steve Betlach
-1988 | Greg Power
-1989 | Margaret Doherty
-1990-2010 | Steve Karkanen
-1994 | Marshal Brown (Detail)
-2000 | Holly Maloney (Detail)
-2010 | Tim Laroche (Detail)
-2011-2017 | Tim LaRoche
-2018 | Shawn Faiella (Detail)
-2019-Present | Shawn Faiella
 
 # Northwest
 
