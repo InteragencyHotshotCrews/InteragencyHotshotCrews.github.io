@@ -1039,6 +1039,12 @@ moved into a new operations building on BLM land in Pocatello.
 
 ![](oncc/oncc_american_river.png)
 
+Year(s) | Superintendent
+:- | :-
+2005-2008 | Charlotte Wild Jordan 
+2008-2016 | Adam Leyba
+2016-Present | Matt Radtke
+
 The American River Hotshot are based on the Tahoe National Forests
 American River Ranger District. The American River Ranger District was
 formerly the Foresthill Ranger District. The American River Hotshots
@@ -1048,15 +1054,13 @@ brush disposal crews to Type 2 and Type 2IA crews since the 60s. The
 goal of the American River Hotshots is to uphold the standards and
 traditions of the Hotshot Community.
 
-Year(s) | Superintendent
-:- | :-
-2005-2008 | Charlotte Wild Jordan 
-2008-2016 | Adam Leyba
-2016-Present | Matt Radtke
-
 ## Beckwourth
 
 ![](oncc/oncc_beckwourth.png)
+
+Year(s) | Superintendent
+:- | :-
+2017‐Present | Mike Wintch
 
 Prior to the 2001 MEL funding build‐up, the crew existed as two fuel
 modules. One was based at the Beckwourth Ranger District office in
@@ -1078,13 +1082,17 @@ certification pending an imbedded review, for the 2017 fire season. On
 September 22, 2017 the Beckwourth Handcrew re‐obtained Type 1 IHC
 status.
 
-Year(s) | Superintendent
-:- | :-
-2017‐Present | Mike Wintch
-
 ## Diamond Mountain
 
 ![](oncc/oncc_diamond_mountain.png)
+
+Year(s) | Superintendent
+:- | :-
+1992  | Mike Bowles
+1993-2001 | Kurt LaRue
+2001-2005 | Ed Merrill
+2006-2008 | Steve Shaw 
+2009-Present | Dan Varney
 
 **Diamond Mountain Hotshots**
 
@@ -1180,17 +1188,19 @@ This year we lost Jake Garate; he accepted the superintendent position
 of the Wolf Creek IHC. Garrett Dunn is the crew Foreman since April of
 2015.
 
-Year(s) | Superintendent
-:- | :-
-1992  | Mike Bowles
-1993-2001 | Kurt LaRue
-2001-2005 | Ed Merrill
-2006-2008 | Steve Shaw 
-2009-Present | Dan Varney
-
 ## Eldorado
 
 ![](oncc/oncc_eldorado.png)
+
+Year(s) | Superintendent
+:- | :-
+1981 | Milt Clark
+1982-1988 | Barry Callenberger
+1989-1995 | Greg Keller
+1996-2010 | Mike Beckett
+2010-2015 | Will Harris
+2016-2019 | Aaron Humphrey
+2019-present | Ben Strahan
 
 **Eldorado Hotshots**
 
@@ -1257,29 +1267,9 @@ Humphrey left the crew and Forest Service, to pursue a life outside
 the agency. It was at this time that Ben Strahan took over the crew,
 and he is currently the Superintendent of the Eldorado Hotshots.
 
-Year(s) | Superintendent
-:- | :-
-1981 | Milt Clark
-1982-1988 | Barry Callenberger
-1989-1995 | Greg Keller
-1996-2010 | Mike Beckett
-2010-2015 | Will Harris
-2016-2019 | Aaron Humphrey
-2019-present | Ben Strahan
-
 ## Elk Mountain
 
 ![](oncc/oncc_elk_mountain.png)
-
-The ***Elk Mountain Hotshots*** is hosted by the Upper Lake Ranger
-District on the Mendocino National Forest in Upper Lake, California.
-The crew was established in 2002 under the MEL build up in Region
-Five. The crew was originally known as Mendo 49. In 2003 the name Elk
-Mountain Handcrew was established after a local mountain. While on
-forest the crew's official name is Crew 4.
-
-**In June 2009 a regional certification team came and certified the
-Crew becoming Elk Mountain Hotshots.**
 
 Year(s) | Superintendent
 :- | :-
@@ -1292,9 +1282,23 @@ Year(s) | Superintendent
 2015 | Kyle Betty (detail)
 2016-Present | Reymundo Reyes
 
+The ***Elk Mountain Hotshots*** is hosted by the Upper Lake Ranger
+District on the Mendocino National Forest in Upper Lake, California.
+The crew was established in 2002 under the MEL build up in Region
+Five. The crew was originally known as Mendo 49. In 2003 the name Elk
+Mountain Handcrew was established after a local mountain. While on
+forest the crew's official name is Crew 4.
+
+**In June 2009 a regional certification team came and certified the
+Crew becoming Elk Mountain Hotshots.**
+
 ## Feather River
 
 ![](oncc/oncc_feather_river.png)
+
+Year(s) | Superintendent
+:- | :-
+2003-Present | Robert Daniels
 
 ######### Feather River Hotshots History 2003-Present
 
@@ -1330,13 +1334,16 @@ year or two out. Management on the district played a critical role in
 keeping the crew when there was talk about two 10-persen crews on the
 forest in lieu of.
 
-Year(s) | Superintendent
-:- | :-
-2003-Present | Robert Daniels
-
 ## Klamath
 
 ![](oncc/oncc_klamath.png)
+
+Year(s) | Superintendent
+:- | :-
+2001-2019 | Johnny Clem
+2017 | Andy Zink  (Detailed)
+2018 | Kevin Smyth (Detailed)
+2019-Present | Andrew Zink
 
 The Klamath Hotshots were established as part of the National Fire
 Plan in response to the devastating fires of 2000. The maximum
@@ -1389,16 +1396,21 @@ equipped workout facility in a reclaimed building on the compound,
 pull-up bars and volleyball court are available to the crew for
 additional physical training.
 
-Year(s) | Superintendent
-:- | :-
-2001-2019 | Johnny Clem
-2017 | Andy Zink  (Detailed)
-2018 | Kevin Smyth (Detailed)
-2019-Present | Andrew Zink
-
 ## Lassen
 
 ![]()
+
+Year(s) | Superintendent
+:- | :-
+1974-1977 | Don Wallace
+1977-1978 | Joe Carvello
+1980-2002 | Jim Jimenez (retired in place)
+1997 | Stan Kubota (detailed)
+2003-2006 | John Bristow
+2007 | Mike Sherman (detailed)
+2008 | Allen Schultze (detailed)
+2009-2014 | Fred Brewster
+2015-Present | Allen Schultze
 
 **Agency**
 
@@ -1468,18 +1480,6 @@ The Lassen Hotshots are proud to be a part of the California Hotshot
 community. We continually strive for excellence and to uphold our
 interagency hotshot crew values.
 
-Year(s) | Superintendent
-:- | :-
-1974-1977 | Don Wallace
-1977-1978 | Joe Carvello
-1980-2002 | Jim Jimenez (retired in place)
-1997 | Stan Kubota (detailed)
-2003-2006 | John Bristow
-2007 | Mike Sherman (detailed)
-2008 | Allen Schultze (detailed)
-2009-2014 | Fred Brewster
-2015-Present | Allen Schultze
-
 **[Recruitment Information]{.underline}**
 
 **Please Contact:**
@@ -1503,6 +1503,16 @@ Captain 9-2: Fernando Estrada --
 
 ![](oncc/oncc_mad_river.png)
 
+Year(s) | Superintendent
+:- | :-
+2001-2002 | Tim Diaz (acting)
+2002-2003 | George Mason
+2003-2005 | Ernie Weber (acting)
+2006-2009 | Ernie Weber
+2009 | Don Perez
+2010 | Ernie Villa
+2011-present | Tad Hair 
+
 ***Established 2001***
 
 The Mad River Handcrew has been proudly serving the U.S. Forest
@@ -1521,19 +1531,22 @@ Squad Leaders , four GS- 462-05 Lead Firefighters, and up to thirteen
 employees; comprised of temporary seasonal, detailers, and
 apprentices.
 
-Year(s) | Superintendent
-:- | :-
-2001-2002 | Tim Diaz (acting)
-2002-2003 | George Mason
-2003-2005 | Ernie Weber (acting)
-2006-2009 | Ernie Weber
-2009 | Don Perez
-2010 | Ernie Villa
-2011-present | Tad Hair 
-
 ## Mendocino
 
 ![](oncc/oncc_mendocino.png)
+
+Year(s) | Superintendent
+:- | :-
+1974-1977 | Bob Moore
+1978-1978 | Rusty Witwer
+1980-1986 | Jerry Barney
+1987-1988 | Larry Edwards
+1988-1994 | Don Will
+1995-2000 | Bill Pierce
+2001-2006 | Daren Dalrymple
+2007-2015 | Jon Tishner
+2015-2019 | Chris Markey
+2020-Present | Ernest Ceccon
 
 **Mendocino Hotshots**
 
@@ -1606,22 +1619,12 @@ Superintendent January of 2016.
 Ernest Ceccon detailed into the position for the second half of the
 2019 fire season and was hired into the permanent position in 2020.
 
-Year(s) | Superintendent
-:- | :-
-1974-1977 | Bob Moore
-1978-1978 | Rusty Witwer
-1980-1986 | Jerry Barney
-1987-1988 | Larry Edwards
-1988-1994 | Don Will
-1995-2000 | Bill Pierce
-2001-2006 | Daren Dalrymple
-2007-2015 | Jon Tishner
-2015-2019 | Chris Markey
-2020-Present | Ernest Ceccon
-
 ## Modoc
 
 ![](oncc/oncc_modoc.png)
+
+Year(s) | Superintendent
+:- | :-
 
 **Modoc Hotshots**
 
@@ -1716,6 +1719,9 @@ Foreman, two squad leaders and four senior firefighters.
 ## Plumas
 
 ![](oncc/oncc_plumas.png)
+
+Year(s) | Superintendent
+:- | :-
 
 PLUMAS NATIONAL FOREST, REGION FIVE
 
@@ -1814,6 +1820,13 @@ The current organization of the Plumas Hotshots is:
 ## Redding
 
 ![](oncc/oncc_redding.png)
+
+Year(s) | Superintendent
+:- | :-
+1967-1986 | Charlie "No Slack" Caldwell
+1986-2002 | Craig "Lanky" Lechleite
+2002-2010 | Robert Holt
+2010-present | Dan Mallia
 
 **Historical Information**
 
@@ -1944,16 +1957,15 @@ If fully staffed, crew will consist of all the overhead above (Nine
 permanent positions) and sixteen detailers to fill out the 25
 personnel.
 
-Year(s) | Superintendent
-:- | :-
-1967-1986 | Charlie "No Slack" Caldwell
-1986-2002 | Craig "Lanky" Lechleite
-2002-2010 | Robert Holt
-2010-present | Dan Mallia
-
 ## Salmon River
 
 ![](oncc/oncc_salmon_river.png)
+
+Year(s) | Superintendent
+:- | :-
+2001-2009 | James "Jimmy" Allen
+2010-2019 | William "Big Bill" Robinson
+2020-Present | Kelsey Lofdahl
 
 **Agency:** US Forest Service
 
@@ -2005,15 +2017,20 @@ IHC is relatively new in terms of Hotshot legacies, the program
 continues to strive to become an essential part of the National
 Interagency Hotshot program.
 
-Year(s) | Superintendent
-:- | :-
-2001-2009 | James "Jimmy" Allen
-2010-2019 | William "Big Bill" Robinson
-2020-Present | Kelsey Lofdahl
-
 ## Shasta Lake
 
 ![](oncc/oncc_shasta_lake.png)
+
+Year(s) | Superintendent
+:- | :-
+2006-2010 | Jeff Michels
+2011 | Jerry Spence (Detail)
+2012-2015 | Donovan Lee
+2016 | Anthony Herbert (Detail)
+2016-2018 | Charles Barber
+2019 | Currently vacant
+2020 | Ron Graves/Joe Bogdan (Details)
+2021-Present | Joe Bogdan
 
 Shasta-Trinity National Forest, Region 5
 
@@ -2071,20 +2088,18 @@ and education. Frequenting community events and staying involved in
 programs that help inform and educate the public on the importance
 fire safety and preparedness.
 
-Year(s) | Superintendent
-:- | :-
-2006-2010 | Jeff Michels
-2011 | Jerry Spence (Detail)
-2012-2015 | Donovan Lee
-2016 | Anthony Herbert (Detail)
-2016-2018 | Charles Barber
-2019 | Currently vacant
-2020 | Ron Graves/Joe Bogdan (Details)
-2021-Present | Joe Bogdan
-
 ## Smith River
 
 ![](oncc/oncc_smith_river.png)
+
+Year(s) | Superintendent
+:- | :-
+2001-2002 | Rick Young 
+2003-2004 | Sunbear Vierra
+2005-2006 | Scott Kizzar
+2006-2012 | Glen Tingley
+2013-2015 | Tim Memmer
+2016- | Douglas Denlinger
 
 Smith River IHC began with the MEL build up in 2001 as SRF-NRA-Crew-1.
 This ten person IA and Fuels Crew was located just inland from
@@ -2117,18 +2132,27 @@ Our motto is a quote from Rudyard Kipling,
 "The strength of the wolf is in the pack, the strength of the pack is
 in the wolf."
 
-Year(s) | Superintendent
-:- | :-
-2001-2002 | Rick Young 
-2003-2004 | Sunbear Vierra
-2005-2006 | Scott Kizzar
-2006-2012 | Glen Tingley
-2013-2015 | Tim Memmer
-2016- | Douglas Denlinger
-
 ## Tahoe
 
 ![](oncc/oncc_tahoe.png)
+
+Year(s) | Superintendent
+:- | :-
+Hobart Inmate Crew |
+1961-1970 | Les Bagby, Lynn Orr, Chuck Welch, Orv Houghan
+Hobart Crew |
+1971 | Bob Riley
+1972 | Don Huber
+Hobart Hotshots |
+1973-1975 | John King
+1975-1976 | Kris Kristofers
+1977-1978 | Dave Fields
+1979-1985 | Rusty Witwer
+Tahoe Hotshots
+1986-1995 | Rusty Witwer
+1996-December 28, 2012 | Rick Cowell (retired in place)
+2013-2016 | Eric Rice
+2017-Present | Daniel Guerrero
 
 **Tahoe Hotshots**
 
@@ -2202,27 +2226,17 @@ The Tahoe Hotshots, wearing the crest and colors of our past, continue
 to bring a safe, skilled, and productive resource to the fireline or
 the project.
 
-Year(s) | Superintendent
-:- | :-
-Hobart Inmate Crew |
-1961-1970 | Les Bagby, Lynn Orr, Chuck Welch, Orv Houghan
-Hobart Crew |
-1971 | Bob Riley
-1972 | Don Huber
-Hobart Hotshots |
-1973-1975 | John King
-1975-1976 | Kris Kristofers
-1977-1978 | Dave Fields
-1979-1985 | Rusty Witwer
-Tahoe Hotshots
-1986-1995 | Rusty Witwer
-1996-December 28, 2012 | Rick Cowell (retired in place)
-2013-2016 | Eric Rice
-2017-Present | Daniel Guerrero
-
 ## Tallac
 
 ![](oncc/oncc_tallac.png)
+
+Year(s) | Superintendent
+:- | :-
+2001-2003 | Steve Burns
+2004 | Mike Ierien
+2005-2008 | Steve Franke
+2009-2015 | Aaron Grove
+2016-Present | Kyle Betty
 
 Est. 2001 Certified. 2014
 
@@ -2289,17 +2303,19 @@ responding to fires and all risk incidents throughout the Lake Tahoe
 Basin and the Nation. We are proud to uphold the tradition and legacy
 of the hotshot community.
 
-Year(s) | Superintendent
-:- | :-
-2001-2003 | Steve Burns
-2004 | Mike Ierien
-2005-2008 | Steve Franke
-2009-2015 | Aaron Grove
-2016-Present | Kyle Betty
-
 ## Trinity
 
 ![](oncc/oncc_trinity.png)
+
+Year(s) | Superintendent
+:- | :-
+2005-2015 | Justin Jeude
+2009 Stew Richter (Detailed)
+2016-2017 | Aaron Utterback
+2018 | Ron Graves (Detailed)
+2018 | Richie Reposa (Detailed)
+2019-2020 | Richie Reposa
+2021-Present | Tristan Dias
 
 **Agency: USDA Forest Service**
 
@@ -2417,19 +2433,17 @@ standards of the IHC program through hard work, perseverance, and an
 all-around good attitude. We adhere to the core values of Duty,
 Respect, Integrity, and Discipline.
 
-Year(s) | Superintendent
-:- | :-
-2005-2015 | Justin Jeude
-2009 Stew Richter (Detailed)
-2016-2017 | Aaron Utterback
-2018 | Ron Graves (Detailed)
-2018 | Richie Reposa (Detailed)
-2019-2020 | Richie Reposa
-2021-Present | Tristan Dias
-
 ## Ukonom
 
 ![](oncc/oncc_ukonom.png)
+
+Year(s) | Superintendent
+:- | :-
+2003-2006 | John W. Gibbons
+2007-2010 | John P. Cataldo
+2011-2016 | Keith R. Smith
+2017 | Nathan Nelms
+2018-Present | Joel J. Berg
 
 USDA Forest Service - Six Rivers National Forest Lower Trinity Ranger
 District
@@ -2509,14 +2523,6 @@ be first ones up and the last ones off the hill each day.
 
 [Ukonom is currently operating as a T2IA due to a squad leader
 vacancy.]{.underline}
-
-Year(s) | Superintendent
-:- | :-
-2003-2006 | John W. Gibbons
-2007-2010 | John P. Cataldo
-2011-2016 | Keith R. Smith
-2017 | Nathan Nelms
-2018-Present | Joel J. Berg
 
 # Northern Rockies
 
