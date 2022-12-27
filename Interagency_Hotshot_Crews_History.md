@@ -4569,6 +4569,11 @@ to back hurricane relief assignments in 2005 and 2006.
 
 ![](sacc/sacc_asheville.png)
 
+Year(s) | Superintendent
+:- | :-
+1989-2002 | Dick Kastler
+2003-Present | Steve Little
+
 **ASHEVILLE INTERAGENCY HOTSHOT CREW HISTORICAL INFORMATION**
 
 The Asheville Interagency Hotshot Crew (IHC) is one of three IHC
@@ -4619,14 +4624,13 @@ The following chart shows all individuals that have performed in the
 overhead positions for the Asheville Interagency Hotshot Crew from
 1989 to the present.
 
-Year(s) | Superintendent
-:- | :-
-1989-2002 | Dick Kastler
-2003-Present | Steve Little
-
 ## Augusta
 
 ![](sacc/sacc_augusta.png)
+
+Year(s) | Superintendent
+:- | :-
+? | Oscar Montijo
 
 In June of 2001, the Augusta Hotshots were established on the George
 Washington and Jefferson National Forests. The crew is stationed at
@@ -4677,13 +4681,14 @@ Oscar Montijo, Superintendent
 
 \(540) 290-0462
 
-Year(s) | Superintendent
-:- | :-
-? | Oscar Montijo
-
 ## Cherokee
 
 ![](sacc/sacc_cherokee.png)
+
+Year(s) | Superintendent
+:- | :-
+2001-2003 | Tim Wharton
+2004-Present | Dennis Trentham
 
 **Cherokee IHC History 2001-Present**
 
@@ -4721,11 +4726,6 @@ The crew maintains the original staffing of 22 members with 18 of
 these being career/seasonal appointments to meet continuous staffing
 requirements for working a split season.
 
-Year(s) | Superintendent
-:- | :-
-2001-2003 | Tim Wharton
-2004-Present | Dennis Trentham
-
 **Current Crew Staffing**
 
 Superintendent -- 1
@@ -4737,6 +4737,15 @@ Lead Firefighters -- 2 Senior Firefighters -- 14 Crewmembers - 2
 ## Jackson
 
 ![](sacc/sacc_jackson.png)
+
+Year(s) | Superintendent
+:- | :-
+1997-1998 | Jerry Soard
+1999-2013 | Lamar Liddell
+2014 | Fred Ashford (detail)
+2015 | Greg Smith
+2016-2018 | Fred Ashford
+2018-Present | Darren O'Loughlin
 
 **History of the Jackson Hotshots**
 
@@ -4777,18 +4786,24 @@ of the scheduled fire season which runs from March through September,
 the career staff supports inter-agency partners in implanting
 prescribed fires and other land management projects.
 
-Year(s) | Superintendent
-:- | :-
-1997-1998 | Jerry Soard
-1999-2013 | Lamar Liddell
-2014 | Fred Ashford (detail)
-2015 | Greg Smith
-2016-2018 | Fred Ashford
-2018-Present | Darren O'Loughlin
-
 ## Midewin
 
 ![](sacc/sacc_midewin.png)
+
+Year(s) | Superintendent
+:- | :-
+2001 | Steve Little (detailed)
+2002 | Dave Martin (detailed)
+2002 | Lito Contreras (detailed)
+2002 | Michael Frederick
+2003 | Rich Stiles (detailed)
+2003 | Russell Harris (detailed)
+2003 | Gordon Admundson (detailed)
+2004 | Lito Contreras
+2005-2007 | Bob Little
+2009-2010 | Rick Moreno
+2012-Present | Jerry Hoffman
+2007-2012 | Jerry Hoffman (detailed)
 
 The Midewin (mi-day-win) IHC was established in April of 2001 as a
 result of the National Fire Plan.
@@ -4831,21 +4846,6 @@ attack efforts and prescribed fire east of the Mississippi River
 before heading west. The crew has been able to establish a reputation
 of being a hard working crew that spends most of the time away from
 the host unit.
-
-Year(s) | Superintendent
-:- | :-
-2001 | Steve Little (detailed)
-2002 | Dave Martin (detailed)
-2002 | Lito Contreras (detailed)
-2002 | Michael Frederick
-2003 | Rich Stiles (detailed)
-2003 | Russell Harris (detailed)
-2003 | Gordon Admundson (detailed)
-2004 | Lito Contreras
-2005-2007 | Bob Little
-2009-2010 | Rick Moreno
-2012-Present | Jerry Hoffman
-2007-2012 | Jerry Hoffman (detailed)
 
 # Southern California
 
