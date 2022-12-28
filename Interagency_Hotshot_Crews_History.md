@@ -7365,6 +7365,10 @@ world of Fire Suppression.
 
 ![](swcc/swcc_aravaipa.png)
 
+Year(s) | Superintendent
+:- | :-
+2016-Present | Greg Smith
+
 Established 2016**
 
 **BLM Arizona Gila District**
@@ -7469,10 +7473,6 @@ tracks, calisthenics fields, and obstacle courses. The fort also
 buttes up against the Huachuca Mountains which provide ample running
 and hiking trails.
 
-Year(s) | Superintendent
-:- | :-
-2016-Present | Greg Smith
-
 Greg started his career with the Flagstaff Hotshots in 1993. Two years
 later moved to the Globe Hotshots eventually becoming their
 superintendent in 2001. For the 2008 season Greg moved to the Tucson
@@ -7486,6 +7486,21 @@ of the Jackson Hotshots in 2015.
 ## Black Mesa
 
 ![](swcc/swcc_black_mesa.png)
+
+Year(s) | Superintendent
+:- | :-
+1970-1973 | Dick Huard
+1973-1975 | Pete Stewart
+1975-1976 | Dennis Landrith
+1976-1978 | Mark Whitney
+1978-1985 | Jerry Beddow
+1986 | Jim EtsHokin
+1987-2000 | Chris Douros
+2000-2001 | Jim Aylor
+2002-2003 | Chris Wilcox
+2003-2005 | Nathaniel Nozie
+2005-2008 | Gary Strickland
+2009-Present | Frank "Pancho" Auza
 
 Apache-Sitgreaves National Forest, Region 3**
 
@@ -7550,24 +7565,25 @@ high-priority eastern flank.
 
 The Heber Hotshots changed their name to Black Mesa Hotshots in 2007.
 
-Year(s) | Superintendent
-:- | :-
-1970-1973 | Dick Huard
-1973-1975 | Pete Stewart
-1975-1976 | Dennis Landrith
-1976-1978 | Mark Whitney
-1978-1985 | Jerry Beddow
-1986 | Jim EtsHokin
-1987-2000 | Chris Douros
-2000-2001 | Jim Aylor
-2002-2003 | Chris Wilcox
-2003-2005 | Nathaniel Nozie
-2005-2008 | Gary Strickland
-2009-Present | Frank "Pancho" Auza
-
 ## Blue Ridge
 
 ![](swcc/swcc_blue_ridge.png)
+
+Year(s) | Superintendent
+:- | :-
+1973-1976 | James Colley
+1977-1978 | Ed Hollenshead
+1978-1982 | Robert Smith
+1983-1987 | William Krushak
+1988-1992 | Darryl Atchinson
+1993-1999 | Russ Copp
+2000-2003 | Rick Miller
+2003-2007 | Ryan Peacock
+2008- 2010 | Asad Rahman
+2011 | Cory Robinson
+2012-2018 | Brian Frisby
+2019-2020 | Mark Adams
+2020-Present | Travis Fuller
 
 The History of the Blue Ridge Interagency Hotshot Crew
 
@@ -7619,25 +7635,20 @@ elk silhouetted with a rising sun.
 Current configuration is one Superintendent, one Foreman, three Squad
 Leaders, three Lead Crewmembers and 13 seasonal employees.
 
-Year(s) | Superintendent
-:- | :-
-1973-1976 | James Colley
-1977-1978 | Ed Hollenshead
-1978-1982 | Robert Smith
-1983-1987 | William Krushak
-1988-1992 | Darryl Atchinson
-1993-1999 | Russ Copp
-2000-2003 | Rick Miller
-2003-2007 | Ryan Peacock
-2008- 2010 | Asad Rahman
-2011 | Cory Robinson
-2012-2018 | Brian Frisby
-2019-2020 | Mark Adams
-2020-Present | Travis Fuller
-
 ## Carson
 
 ![](swcc/swcc_carson.png)
+
+Year(s) | Superintendent
+:- | :-
+1973 - 1979 | JJ Dominguez
+1980 - 1983 | Adolfo Lopez
+1984 - 1995 | Chester Romero
+1996 - 1997 | Ron Bollier
+1998 - 2001 | Stu Gore
+2002 - 2012 | Paul Delmerico
+2013 - 2015 | Rich Sack
+2016 - Present | Tim Memmer
 
 **CREW HISTORY**
 
@@ -7674,20 +7685,19 @@ Currently, the crew has nine appointed positions: Superintendent,
 Assistant Superintendent, three Squad Leaders and four Senior
 Firefighters.
 
-Year(s) | Superintendent
-:- | :-
-1973 - 1979 | JJ Dominguez
-1980 - 1983 | Adolfo Lopez
-1984 - 1995 | Chester Romero
-1996 - 1997 | Ron Bollier
-1998 - 2001 | Stu Gore
-2002 - 2012 | Paul Delmerico
-2013 - 2015 | Rich Sack
-2016 - Present | Tim Memmer
-
 ## Flagstaff
 
 ![](swcc/swcc_flagstaff.png)
+
+Year(s) | Superintendent
+:- | :-
+1972 | Bill Bishop
+1973-1975 | Van Bateman
+1976-1978 | Ron "Biggy" Linbarger
+1979-1985 | Mark Zumwalt
+1986-1990 | Walker Thornton
+1990-2005 | Paul Musser
+2005-Present | Bill Kuche
 
 **Established 1972**
 
@@ -7731,19 +7741,20 @@ crewmembers designed the second logo, which is back in use today after
 a hiatus during which a third design (created by a former
 superintendent) was used.
 
-Year(s) | Superintendent
-:- | :-
-1972 | Bill Bishop
-1973-1975 | Van Bateman
-1976-1978 | Ron "Biggy" Linbarger
-1979-1985 | Mark Zumwalt
-1986-1990 | Walker Thornton
-1990-2005 | Paul Musser
-2005-Present | Bill Kuche
-
 ## Fort Apache
 
 ![](swcc/swcc_fort_apache.png)
+
+Year(s) | Superintendent
+:- | :-
+1982-1983 | Gibson Pinal
+1984-1985 | Varnell Gatewood
+1985-1992 | Ralph Thomas
+1992-2001 | Rick Lupe
+2002-2003 | Marco Minjarez (Detailed)
+2003-2006 | Dan Philbin
+2006-2011 | Trenton Prins
+2012-? | Brian Quintero (Detailed)
 
 1982-Present
 
@@ -7793,20 +7804,25 @@ Fuels Management Dept. This tragic event is a constant reminder to our
 organization that accidents do occur, even to the most experienced
 firefighters.
 
-Year(s) | Superintendent
-:- | :-
-1982-1983 | Gibson Pinal
-1984-1985 | Varnell Gatewood
-1985-1992 | Ralph Thomas
-1992-2001 | Rick Lupe
-2002-2003 | Marco Minjarez (Detailed)
-2003-2006 | Dan Philbin
-2006-2011 | Trenton Prins
-2012-? | Brian Quintero (Detailed)
-
 ## Geronimo
 
 ![](swcc/swcc_geronimo.png)
+
+Year(s) | Superintendent
+:- | :-
+1987 | Eugene Irving
+1988 | Tyrone Polk
+1989 | Benedict Victor Sr.
+1990-1992 | Curley Bush Jr.
+1993-1995 | Loren Macktima
+1996-1999 | Mike Longknife
+2000 | Randy Anderson
+2001-2002 | Duane Chapman
+2003-2007 | Carlos Nosie Jr.
+2008 | Leroy Brown
+2009 | Julius Hostetler
+2010-2012 | David Provencio, Jr.
+2013-Present | Julius Hostetler
 
 History (1991 to Present) ]{.underline}
 
@@ -7883,25 +7899,21 @@ all IHC's. And ensure retention of IHC duties and responsibilities
 found and followed in the National Interagency Hotshot Crew Operations
 Guide.
 
-Year(s) | Superintendent
-:- | :-
-1987 | Eugene Irving
-1988 | Tyrone Polk
-1989 | Benedict Victor Sr.
-1990-1992 | Curley Bush Jr.
-1993-1995 | Loren Macktima
-1996-1999 | Mike Longknife
-2000 | Randy Anderson
-2001-2002 | Duane Chapman
-2003-2007 | Carlos Nosie Jr.
-2008 | Leroy Brown
-2009 | Julius Hostetler
-2010-2012 | David Provencio, Jr.
-2013-Present | Julius Hostetler
-
 ## Gila
 
 ![](swcc/swcc_gila.png
+
+Year(s) | Superintendent
+:- | :-
+1968-1973 | Various Foreman
+1974-1975 | Tom Reed
+1975-1978 | Ricky Delgado
+1979-1980 | Gary Lukas
+1983-1990 | Jerome MacDonald
+1991-1995 | Robert Morales
+1995-1999 | Doug Kastner
+1999-2016 | Dewey Rebbe
+2016-Present | Jeff Campbell
 
 The Gila Hotshots lay claim to being the first hotshot crew in region
 3. It is known that the crew was originally established in 1968 as an
@@ -7948,21 +7960,30 @@ name was chosen in 1999.
 
 Those who have led the crew include the following:
 
-Year(s) | Superintendent
-:- | :-
-1968-1973 | Various Foreman
-1974-1975 | Tom Reed
-1975-1978 | Ricky Delgado
-1979-1980 | Gary Lukas
-1983-1990 | Jerome MacDonald
-1991-1995 | Robert Morales
-1995-1999 | Doug Kastner
-1999-2016 | Dewey Rebbe
-2016-Present | Jeff Campbell
-
 ## Globe
 
 ![](swcc/swcc_globe.png)
+
+Year(s) | Superintendent
+:- | :-
+1973 | Bill Scarborough
+1974 | Jeff Luff
+1975 | Dean Ziehl (Asst. in 1974)
+1976 | Jim Gutierrez (crewmember since 1973)
+1977-1978 | Steve Rowe 
+1979-1980 | Dan Eckstein
+1981-1988 | Wilbur Belvado (crewmember since 1976)
+1989-1990 | Jim Ets Hokin
+1991-1992 | Mark Kaib (crewmember for few seasons in 80s)
+1993-2000 | Louis Sandoval
+2001-2007 | Greg Smith
+2008 | James Osborne
+2009-2011 | Mark Babieracki (Fuels detail 2012)
+2012 | Nate Barrett (Acting)
+2013 | Mark Babieracki
+2014 | Detailed
+2015-2017 | Dean Whitney
+2018-Present | Drew Maxwell
 
 The Globe hotshots started in the mid 60's; these were known as the
 "Suppression Years." During that time, the Globe Ranger Station had
@@ -7991,27 +8012,6 @@ Superintendent and 2 Assistants.
 Today we carry on the same professional tradition of Region 3 IHC's,
 as they had in the past. That tradition continues and lives on with
 duty, integrity and respect.
-
-Year(s) | Superintendent
-:- | :-
-1973 | Bill Scarborough
-1974 | Jeff Luff
-1975 | Dean Ziehl (Asst. in 1974)
-1976 | Jim Gutierrez (crewmember since 1973)
-1977-1978 | Steve Rowe 
-1979-1980 | Dan Eckstein
-1981-1988 | Wilbur Belvado (crewmember since 1976)
-1989-1990 | Jim Ets Hokin
-1991-1992 | Mark Kaib (crewmember for few seasons in 80s)
-1993-2000 | Louis Sandoval
-2001-2007 | Greg Smith
-2008 | James Osborne
-2009-2011 | Mark Babieracki (Fuels detail 2012)
-2012 | Nate Barrett (Acting)
-2013 | Mark Babieracki
-2014 | Detailed
-2015-2017 | Dean Whitney
-2018-Present | Drew Maxwell
 
 **[Background on the Superintendents:]{.underline}**
 
@@ -8081,6 +8081,9 @@ Year(s) | Superintendent
 ## Granite Mountain
 
 ![](swcc/swcc_granite_mountain.png)
+
+Year(s) | Superintendent
+:- | :-
 
 1700 Iron Springs Road, Prescott, AZ 86305
 
@@ -8195,6 +8198,9 @@ Superintendent of the Granite Mountain Hotshots
 ## Ironwood
 
 ![](swcc/swcc_ironwood.png)
+
+Year(s) | Superintendent
+:- | :-
 
 Ironwood Hotshots Final Summary 2015
 
@@ -8350,6 +8356,29 @@ here.
 
 ![](swcc/swcc_mesa.png)
 
+Year(s) | Superintendent
+:- | :-
+1972-1976 | John C. Jones
+1977 | Robert Jones
+1978-1979 | Bob Ortlund
+1980 | Fred Schoeffler
+1981-1987 | Ben Cline
+1986 | Greg Stoyer
+1986 | Jon Selby (Off forest assignments)
+1988-1994 | Jeff Prevéy
+1995 | Bill Matney 
+1996-1997 | Carl Simons
+1998-2000 | Marty Rose
+2000-2002 | Rogers Wright
+2003-2006 | Fred Thompson
+2007 | Kevin McPhee (detail)
+2008-2009 | Andy Bernard
+2010 | Patrick Moore (detail)
+2011-Current | Patrick Moore
+2013 | Crew moved to Mesa RD, Tonto NF
+2014 | Pleasant Valley name change to Mesa IHC
+2020 | Tyler Chesarek (detail-Moore injured)
+
 **Mesa Hotshots 5140 E Ingram Street**
 
 **Mesa, AZ 85205**
@@ -8374,29 +8403,6 @@ move occurred over the winter of 2012-13 and had their final season
 named Pleasant Valley. In 2014, the name was changed to reflect their
 host district to Mesa IHC.
 
-Year(s) | Superintendent
-:- | :-
-1972-1976 | John C. Jones
-1977 | Robert Jones
-1978-1979 | Bob Ortlund
-1980 | Fred Schoeffler
-1981-1987 | Ben Cline
-1986 | Greg Stoyer
-1986 | Jon Selby (Off forest assignments)
-1988-1994 | Jeff Prevéy
-1995 | Bill Matney 
-1996-1997 | Carl Simons
-1998-2000 | Marty Rose
-2000-2002 | Rogers Wright
-2003-2006 | Fred Thompson
-2007 | Kevin McPhee (detail)
-2008-2009 | Andy Bernard
-2010 | Patrick Moore (detail)
-2011-Current | Patrick Moore
-2013 | Crew moved to Mesa RD, Tonto NF
-2014 | Pleasant Valley name change to Mesa IHC
-2020 | Tyler Chesarek (detail-Moore injured)
-
 ![](media/image178.jpeg){width="1.5024245406824146in"
 height="0.9875in"}
 
@@ -8415,6 +8421,9 @@ height="0.9875in"}
 ## Mescalero
 
 ![](swcc/swcc_mescalero.png)
+
+Year(s) | Superintendent
+:- | :-
 
 **1987 -- Present**
 
@@ -8460,6 +8469,17 @@ and surrounding communities.**
 
 ![](swcc/swcc_mormon_lake.png)
 
+Year(s) | Superintendent
+:- | :-
+1976 | Tony Czak
+1977-1983 | Milford Suida
+1983-1987 | Dave Jones
+1987-1995 | Jesse Tisino
+1996-2002 | Kirk Smith
+2003-2006 | Robert Auza
+2006-2017 | Matt Caouette
+2018-present | Sara Sweeney
+
 The Mormon Lake Interagency Hotshot Crew is a U.S. Forest Service
 sponsored Type I crew based on the Coconino National Forest in
 Flagstaff, AZ. The crew was founded in 1976 and originally based at
@@ -8491,20 +8511,19 @@ Mormon Lake IHC tradition of fire management. The crew continues to
 produce high quality and strongly principled leaders in the wildland
 fire community.
 
-Year(s) | Superintendent
-:- | :-
-1976 | Tony Czak
-1977-1983 | Milford Suida
-1983-1987 | Dave Jones
-1987-1995 | Jesse Tisino
-1996-2002 | Kirk Smith
-2003-2006 | Robert Auza
-2006-2017 | Matt Caouette
-2018-present | Sara Sweeney
-
 ## Mt. Taylor
 
 ![](swcc/swcc_mt_taylor.png)
+
+Year(s) | Superintendent
+:- | :-
+2001 | Joe Julian (acting)
+2002-2005 | Joe Julian
+2006-2007 | Manuel Martinez (acting)
+2008-2009 | Brian Drinville 
+2010 | Edward Baca (acting)
+2011-2013 | Cathleen J. Lowe
+2014-Present | Chris Brashears
 
 2001-Present
 
@@ -8532,19 +8551,16 @@ efforts. The crew has also assisted numerous forests across the
 country in fuels management by assisting in mechanical treatment
 projects and RX burns.
 
-Year(s) | Superintendent
-:- | :-
-2001 | Joe Julian (acting)
-2002-2005 | Joe Julian
-2006-2007 | Manuel Martinez (acting)
-2008-2009 | Brian Drinville 
-2010 | Edward Baca (acting)
-2011-2013 | Cathleen J. Lowe
-2014-Present | Chris Brashears
-
 ## Navajo
 
 ![](swcc/swcc_navajo.png)
+
+Year(s) | Superintendent
+:- | :-
+2002-2008 | Leo Lapaz
+2009 | Kevin Pelman
+2010-2013 | Johnson Benallie
+2013-Present | Vann Smith
 
 The Navajo IHC (Interagency Hotshot Crew) is a Type I wildland
 firefighting crew sponsored by the BIA (Bureau of Indian Affairs),
@@ -8635,16 +8651,24 @@ previous generations.
 
 **Office (928) 729-7382**
 
-Year(s) | Superintendent
-:- | :-
-2002-2008 | Leo Lapaz
-2009 | Kevin Pelman
-2010-2013 | Johnson Benallie
-2013-Present | Vann Smith
-
 ## Payson
 
 ![](swcc/swcc_payson.png)
+
+Year(s) | Superintendent
+:- | :-
+1973-1975 | Paul Hefner
+1975-1978 | Ken Eckstein
+1978-1981 | Dale Ashby
+1981-1989 | Fred Schoeffler
+1990 | Tom Pearson (detailed)
+1991-1995 | Fred Schoeffler
+1996 | Marty Rose (detailed)
+1997-1998 | Fred Schoeffler
+1999 | Holly Maloney
+2000-2007 | Fred Schoeffler
+2007 | James Osborne (detailed)
+2007-present | Mike Schinstock
 
 **PAYSON HOT SHOTS**
 
@@ -8677,24 +8701,21 @@ Union, including Alaska and one assignment to Ontario, Canada. They
 have continued to follow the Hot Shot traditions of duty, respect, and
 integrity.
 
-Year(s) | Superintendent
-:- | :-
-1973-1975 | Paul Hefner
-1975-1978 | Ken Eckstein
-1978-1981 | Dale Ashby
-1981-1989 | Fred Schoeffler
-1990 | Tom Pearson (detailed)
-1991-1995 | Fred Schoeffler
-1996 | Marty Rose (detailed)
-1997-1998 | Fred Schoeffler
-1999 | Holly Maloney
-2000-2007 | Fred Schoeffler
-2007 | James Osborne (detailed)
-2007-present | Mike Schinstock
-
 ## Prescott
 
 ![](swcc/swcc_prescott.png)
+
+Year(s) | Superintendent
+:- | :-
+1972 | George Pittman
+1973-1974 | Durk Lokes
+1975-1977 | Mark Zumwalt
+1978-1985 | Glen Dundas
+1986-1988 | Tom Tobin
+1988-1998 | Tony Sciacca
+1999-2001 | Curtis Heaton
+2002-2004 | Jeff Andrews
+2005-present | Darin Fisher
 
 The Prescott Hotshots originated in 1972 with the formation of a
 regular crew. George Pittman was the crew boss with a crew made up of
@@ -8759,21 +8780,28 @@ through many changes with equipment, technology, and training. But the
 overall job of a Hotshot has not changed, it still remains as an
 elite, professional, and outstanding crew of Wildland Firefighters.
 
-Year(s) | Superintendent
-:- | :-
-1972 | George Pittman
-1973-1974 | Durk Lokes
-1975-1977 | Mark Zumwalt
-1978-1985 | Glen Dundas
-1986-1988 | Tom Tobin
-1988-1998 | Tony Sciacca
-1999-2001 | Curtis Heaton
-2002-2004 | Jeff Andrews
-2005-present | Darin Fisher
-
 ## Sacramento
 
 ![](swcc/swcc_sacramento.png)
+
+Year(s) | Superintendent
+:- | :-
+Catalina | 
+1973-1974 | Greg Greenhoe
+1974 | Andy Traverse
+1975 | Steve Gunzel
+1975-1978| Jeff Hogg
+1978-1980| Scott Parsons
+1980-1981| Steve Palmer
+1981-1982| George Kleindienst
+Sacramento | 
+1982-1984 |  George Kleindienst
+1984| Jerry Grim
+1985-1987| Bob Pena
+1988-1989| Ricky Smith
+1990-2002| Bob Wright
+2002-2005| Duane Tewa
+2005-Present| Matt Barone
 
 Sacramento Interagency Hotshot Crew (IHC) is a nationally funded USDA
 Forest Service fire suppression crew. The crew was relocated to the
@@ -8802,28 +8830,25 @@ south east of Cloudcroft and sits at 7200ft elevation with a dominate
 ponderosa pine forest. Sacramento Hotshots have occupied this base
 from 1983 to present.
 
-Year(s) | Superintendent
-:- | :-
-Catalina | 
-1973-1974 | Greg Greenhoe
-1974 | Andy Traverse
-1975 | Steve Gunzel
-1975-1978| Jeff Hogg
-1978-1980| Scott Parsons
-1980-1981| Steve Palmer
-1981-1982| George Kleindienst
-Sacramento | 
-1982-1984 |  George Kleindienst
-1984| Jerry Grim
-1985-1987| Bob Pena
-1988-1989| Ricky Smith
-1990-2002| Bob Wright
-2002-2005| Duane Tewa
-2005-Present| Matt Barone
-
 ## Sante Fe
 
 ![](swcc/swcc_sante_fe.png)
+
+Year(s) | Superintendent
+:- | :-
+1977-1978 |  Al Lopez
+1979-1984 |  Gary Olsen
+1985 | Bill Moulton
+1986-1987 | James Dean (JD) Killick
+1988-1991 | Alan Gillette
+1991-1995 | Andrew Serrano
+1995-1996 | Charlie Martin
+1997 | Robert Morales
+1998-1999 | Charlie Martin
+2000-2006 | Richard Tingle
+2007 | Vacant
+2008-2010 | Chris D. Tipton
+2011-Present | David M. Simpson
 
 The Santa Fe Hotshots were established in 1977. A Fire Management
 Officer had wanted to call the crew the Redondo Hotshots (named after
@@ -8842,25 +8867,25 @@ Superintendent position, which had been vacant since the spring of
 spent the last 4 years as an initial response Dozer Swamper and
 Operator with the BLM on the Elko District in Nevada.
 
-Year(s) | Superintendent
-:- | :-
-1977-1978 |  Al Lopez
-1979-1984 |  Gary Olsen
-1985 | Bill Moulton
-1986-1987 | James Dean (JD) Killick
-1988-1991 | Alan Gillette
-1991-1995 | Andrew Serrano
-1995-1996 | Charlie Martin
-1997 | Robert Morales
-1998-1999 | Charlie Martin
-2000-2006 | Richard Tingle
-2007 | Vacant
-2008-2010 | Chris D. Tipton
-2011-Present | David M. Simpson
-
 ## Silver City
 
 ![](swcc/swcc_silver_city.png)
+
+Year(s) | Superintendent
+:- | :-
+1977-1986 | George Grijalva
+1986-1988 | Ricky Sedillo
+1988-1992 | Kevin Joseph
+1992-1995 | Mick Guck
+1996-1999 | Dan Key
+2000-2001 | John Burfiend
+2002-2003 | Keith Matthes
+2004 | Mark Bernal (acting)
+2005 | Mike Schinstock (detail)
+2006-2010 | Cathleen Lowe
+2011-2015 | Pedro "Pete" Valenzuela
+2016-2021 | Marcus Cornwell
+2021-Present | Harry Justin Romero
 
 **Gila National Forest**
 
@@ -8927,28 +8952,20 @@ fire season and runs until the middle to end of September. They have
 traveled as far as Alaska, Canada, Minnesota, Florida, and North
 Carolina and all throughout the western States.
 
-Year(s) | Superintendent
-:- | :-
-1977-1986 | George Grijalva
-1986-1988 | Ricky Sedillo
-1988-1992 | Kevin Joseph
-1992-1995 | Mick Guck
-1996-1999 | Dan Key
-2000-2001 | John Burfiend
-2002-2003 | Keith Matthes
-2004 | Mark Bernal (acting)
-2005 | Mike Schinstock (detail)
-2006-2010 | Cathleen Lowe
-2011-2015 | Pedro "Pete" Valenzuela
-2016-2021 | Marcus Cornwell
-2021-Present | Harry Justin Romero
-
 ![](media/image191.jpeg){width="1.6073425196850393in"
 height="1.5675in"}**Past Logo**
 
 ## Smokey Bear
 
 ![](swcc/swcc_smokey_bear.png)
+
+Year(s) | Superintendent
+:- | :-
+1976-1984 | Andy Hale
+1985-1987 | Jerry Grim
+1987-1999 | Bob LaMay
+1999-2013 | Rich Dolphin
+2013-Present | Beau Jarvis
 
 Established 1976**
 
@@ -9032,17 +9049,18 @@ the crew has eleven appointed positions, Superintendent (PFT), Captain
 (PFT), three Squad Leaders (18/8) and six Senior Firefighters
 (13/13).**
 
-Year(s) | Superintendent
-:- | :-
-1976-1984 | Andy Hale
-1985-1987 | Jerry Grim
-1987-1999 | Bob LaMay
-1999-2013 | Rich Dolphin
-2013-Present | Beau Jarvis
-
 ## Zuni
 
 ![](swcc/swcc_zuni.png)
+
+Year(s) | Superintendent
+:- | :-
+2001-2003 | Carl Crawford
+2004-2005 | Tony Parks
+2006-2010 | Troy Cachini
+2010-2014 | Myron Sheche
+2014-2018 | Todd Etsate
+2019-Present | Rickey Booqua Jr.
 
 2001-Present
 
@@ -9089,12 +9107,3 @@ completed.
 
 This accommodated the Zuni IHC with modern office space, cache,
 training facilities, indoor crew carrier space, and a conference room.
-
-Year(s) | Superintendent
-:- | :-
-2001-2003 | Carl Crawford
-2004-2005 | Tony Parks
-2006-2010 | Troy Cachini
-2010-2014 | Myron Sheche
-2014-2018 | Todd Etsate
-2019-Present | Rickey Booqua Jr.
