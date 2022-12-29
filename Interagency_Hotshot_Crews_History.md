@@ -999,7 +999,7 @@ leadership roles. Kenney Bochniak, an original crewmember from 2001,
 and Paul Davis are the current crew foreman. In December 2014 the crew
 moved into a new operations building on BLM land in Pocatello.
 
-# Northern California
+# Operations Northern California    
 
 ## American River
 
@@ -1054,26 +1054,11 @@ status.
 
 Year(s) | Superintendent
 :- | :-
-1992  | Mike Bowles
+1992 | Mike Bowles
 1993-2001 | Kurt LaRue
 2001-2005 | Ed Merrill
 2006-2008 | Steve Shaw 
 2009-Present | Dan Varney
-
-**Diamond Mountain Hotshots**
-
-**Agency: USDI Bureau of Land Mgmt Home Unit: Susanville, California**
-
-**Contact Information:**
-
-**Superintendent: Dan Varney Diamond Mountain Hotshots 2950 Riverside
-Drive**
-
-**Susanville, CA 96130**
-
-**(530) 257-7601**
-
-**Established 1992**
 
 The Diamond Mountain Interagency Hotshot Crew were born in the spring
 1992 under the guise of increasing the Bureau of Land Management's
@@ -1119,9 +1104,7 @@ only lasted one season. A new logo and a new crew color were ready for
 the 1993 season, but failed to meet the approval of the new
 superintendent. 9914 finally saw a logo very much similar to the logo
 of today. Minton was again responsible for this logo and it was
-printed upon dark charcoal shirts, which also
-
-remain in 2007. The logo was modified in 1995 wit the adding of the
+printed upon dark charcoal shirts, which also remain in 2007. The logo was modified in 1995 wit the adding of the
 "old English" script. The last modification to the Diamond Mountain
 logo was made in 1999 by adding "Malum Necessarium".
 
@@ -1167,23 +1150,6 @@ Year(s) | Superintendent
 2010-2015 | Will Harris
 2016-2019 | Aaron Humphrey
 2019-present | Ben Strahan
-
-**Eldorado Hotshots**
-
-**Agency: USDA Forest Service**
-
-**Home Unit: Eldorado National Forest Placerville Ranger District**
-
-**[Contact Information:]{.underline} Superintendent: Ben Strahan
-Eldorado Hotshots**
-
-**5420 Sly Park**
-
-**Pollock Pines, CA 95726 P: 530-644-3588**
-
-**F: 530-644-4201**
-
-**Established 1981**
 
 On May 19, 1981, Lynn Biddison, director of Aviation and Fire
 Management initiated the Eldorado Hotshots. Up until 1976, all four
@@ -1266,10 +1232,6 @@ Year(s) | Superintendent
 :- | :-
 2003-Present | Robert Daniels
 
-######### Feather River Hotshots History 2003-Present
-
-![]()
-
 The Feather River hotshots were established April, 2003. In 2001 the
 Plumas National Forest got the funding for two additional twenty
 person Type 1 Crews, and seeing the need for a Type 1 crew on the west
@@ -1346,9 +1308,7 @@ In 2019, the crew saw the end of an era with long time, and original,
 superintendent Johnny Clem accepting the position of Deputy District
 Ranger for KNF Happy Camp/Oak Knoll. However, the tradition continues
 to be carried on with the hiring of Andrew Zink as the new
-superintendent. Andy,
-
-better known as "Butters," originally begin with the crew in 2002,
+superintendent. Andy, better known as "Butters," originally begin with the crew in 2002,
 moving up through the ranks as Apprentice, Senior, Squad Boss, and
 Captain over his career. Adding to the depth of the overhead the crew
 has welcomed Isaac Flattley as Captain to counterpart Kevin Smyth.
@@ -1378,26 +1338,6 @@ Year(s) | Superintendent
 2009-2014 | Fred Brewster
 2015-Present | Allen Schultze
 
-**Agency**
-
-**U.S. Forest Service**
-
-**Home Unit Lassen National Forest**
-
-**Eagle Lake Ranger District Esablished 1974**
-
-**Contact Information:**
-
-**Lassen Hotshots**
-
-**477-050 Eagle Lake Rd. Susanville, CA 96130**
-
-**(530) 252 -6470**
-
-**Superintendent: Allen Schultze**
-
-**[Crew History]{.underline}**
-
 The Lassen Hotshots were formed in the summer of 1974. The crew was
 placed at Bogard Work Center on the Eagle Lake Ranger District of the
 Lassen National Forest. Don Wallace was named the first superintendent
@@ -1412,7 +1352,6 @@ So in April of 1980, the Lassen Hotshots came back to life under the
 leadership of Jim "Jaime" Jimenez. Lassen was one of the first crews
 to travel to Alaska in the 1980's, and along with the El Dorado
 Hotshots, the first to fight fire internationally in Canada.
-
 Also, Lassen has hosted numerous international firefighters from
 Chile, India and Australia.
 
@@ -1446,40 +1385,18 @@ The Lassen Hotshots are proud to be a part of the California Hotshot
 community. We continually strive for excellence and to uphold our
 interagency hotshot crew values.
 
-**[Recruitment Information]{.underline}**
-
-**Please Contact:**
-
-**Supt. 9: Allen Schultze --
-[[allen.schultze\@usda.gov]{.underline}](mailto:allen.schultze@usda.gov)
-Captain 9-1: Brett Matthews-
-[[brett.matthews\@usda.gov]{.underline}](mailto:brett.matthews@usda.gov)
-Captain 9-2: Fernando Estrada --
-[[fernando.estrada\@usda.gov]{.underline}](mailto:fernando.estrada@usda.gov)**
-
-**(530) 252-6464 Supts. Office (summer)**
-
-**(530) 252-6470 Hotshot Office (summer)**
-
-**(530) 252-5874 Winter Office**
-
-**Also, visit Lassen Hotshots Facebook page.**
-
 ## Mad River
 
 ![](oncc/oncc_mad_river.png)
 
 Year(s) | Superintendent
 :- | :-
-2001-2002 | Tim Diaz (acting)
+2001-2002 | Tim Diaz
 2002-2003 | George Mason
-2003-2005 | Ernie Weber (acting)
-2006-2009 | Ernie Weber
+2003-2009 | Ernie Weber
 2009 | Don Perez
 2010 | Ernie Villa
-2011-present | Tad Hair 
-
-***Established 2001***
+2011-Present | Tad Hair 
 
 The Mad River Handcrew has been proudly serving the U.S. Forest
 Service since it was established in 2001 on the Mad River Ranger
@@ -1504,7 +1421,7 @@ apprentices.
 Year(s) | Superintendent
 :- | :-
 1974-1977 | Bob Moore
-1978-1978 | Rusty Witwer
+1978 | Rusty Witwer
 1980-1986 | Jerry Barney
 1987-1988 | Larry Edwards
 1988-1994 | Don Will
@@ -1513,24 +1430,6 @@ Year(s) | Superintendent
 2007-2015 | Jon Tishner
 2015-2019 | Chris Markey
 2020-Present | Ernest Ceccon
-
-**Mendocino Hotshots**
-
-**Agency: USDA Forest Service**
-
-**Home Unit: Grindstone Ranger District Contact Information:**
-
-**Mendocino Hotshots PO Box 160**
-
-**Stonyford CA 95979 Superintendent: Ernest Ceccon**
-
-**Foremen: Adam Coronado, Patrick Sullivan Squad Bosses: Wally
-Carreno, Scott Romuk 530-963-1316**
-
-![](media/image40.jpeg){width="1.829374453193351in"
-height="0.42083333333333334in"}
-
-**Established 1974**
 
 Like several other IHC's the Mendocino Hotshots were established in
 1974 under the direction of Superintendent Bob Moore. During the first
@@ -1591,30 +1490,12 @@ Ernest Ceccon detailed into the position for the second half of the
 
 Year(s) | Superintendent
 :- | :-
-
-**Modoc Hotshots**
-
-**Agency: USDA Forest Service**
-
-**Home Unit: Modoc NF, Devil\'s Garden RD Contact Information:**
-
-**Superintendent: Willie Almand Modoc Hotshots**
-
-**Canby Work Center 22529 Hwy 299**
-
-**Canby, CA 96015**
-
-**530-233-7954 (Office)**
-
-**530-233-2844 (FAX)**
-
-**Captain: Jesse Plummer \-- 530-233-7952 Captain Josh Osteen \--
-530-233-7951**
-
-![](media/image38.jpeg){width="1.8339818460192476in"
-height="0.4166666666666667in"}
-
-**Established 2001**
+2001 | John Ryan
+2002-2006 | Greg Keller
+2007-? | Bob Beebe
+2010 | Terry Walters
+2011 | unstaffed
+2012-present | Willie Almand
 
 The Modoc Interagency Hotshot Crew came into existence after the
 conclusion of the 2000 fire season. At that time, it was decided by
@@ -1650,13 +1531,12 @@ in Redding, Ca.
 All training and task book qualifications were complete and a
 certification review was requested for May of 2003. The crew
 certification took place on May 28 and 29. The certification team was
-
 headed up by Safety First Officer, Joe Millar and consisted of Mike
 Beckett, Superintendent Eldorado Hotshots, and Dave Bostic, Division
 Chief Modoc N.F.
 
 The crew was recognized as the Modoc Interagency Hotshot Crew on May
-29^th^ 2003.
+29th 2003.
 
 The season of 2006 was the last year Greg Keller was the
 Superintendent of the crew, retiring from the Forest Service. In 2007
@@ -1688,8 +1568,15 @@ Foreman, two squad leaders and four senior firefighters.
 
 Year(s) | Superintendent
 :- | :-
-
-PLUMAS NATIONAL FOREST, REGION FIVE
+1974 | Charlie Earhart, Jim Hogg
+1974-1975 | Dan Swearingen
+1976-1978 | Jim Hogg
+1979 | unstaffed
+1980-1988 | Tom Hatcher
+1988 | Dave Ross
+1988-1999 | Kent Swartzlander
+2000-2014 | Jack Sevelson
+2015-present | Mike Sherman
 
 The Plumas National Forest staffed its first nationally recognized
 Hotshot Crew in July of 1974 and for two seasons would have it split
@@ -1772,17 +1659,6 @@ with the crew, being promoted to Superintendent.
 In 2016, **Joe McGinn**, after seven years with the Plumas Hotshots
 accepted a promotion, becoming Captain 13B.
 
-The current organization of the Plumas Hotshots is:
-
-1.  -- GS-9, PFT, Superintendent -- Mike Sherman
-
-2.  -- GS-8, PFT, Captains -- Joe McGinn, Steve Nicholson (Detail)
-
-2.  -- GS-7, PFT, Squad Leaders -- Luke Pascucci, Jace Scheckla
-
-3.  -- GS-5, PFT, Senior Firefighters -- Jordan (Marv) Wade, Dylan
-    Ewing, Marcus Sartin 12 --Crewmembers
-
 ## Redding
 
 ![](oncc/oncc_redding.png)
@@ -1790,15 +1666,9 @@ The current organization of the Plumas Hotshots is:
 Year(s) | Superintendent
 :- | :-
 1967-1986 | Charlie "No Slack" Caldwell
-1986-2002 | Craig "Lanky" Lechleite
+1986-2002 | Craig "Lanky" Lechleiter
 2002-2010 | Robert Holt
 2010-present | Dan Mallia
-
-**Historical Information**
-
-Redding IHC
-
-Established 1967
 
 The Redding Interagency Hotshot Crew was the first hotshot crew in the
 nation to offer a concentrated fire management training detail
@@ -1933,16 +1803,7 @@ Year(s) | Superintendent
 2010-2019 | William "Big Bill" Robinson
 2020-Present | Kelsey Lofdahl
 
-**Agency:** US Forest Service
-
-**Home Unit:** Klamath National Forest
-
-**Contact Information** Superintendent: Kelsey Lofdahl Salmon River
-Hotshots
-
-11263 N Highway 3 Fort Jones, CA 96032
-
-**Crew History:** The Salmon River Hotshots are a federal Interagency
+The Salmon River Hotshots are a federal Interagency
 Hotshot Crew (IHC) that was established in 2001 as a Type 2IA crew on
 the Klamath NF. Salmon River was part of the Most Efficient Level
 (MEL) Build-Up in response to the 2000 National Fire Plan, under the
@@ -1955,7 +1816,7 @@ inaugural season attaining Hotshot status later that June. In February
 retired from the agency allowing Bill Robinson to take the reins that
 season. Bill originally came to the crew in 2001 as a Squad Leader and
 then to Captain in 2002. In 2020, Bill Robinson moved on as ADFMO
-making way for Kelsey Lofdahl as the crews 3^rd^ Superintendent.
+making way for Kelsey Lofdahl as the crews 3rd Superintendent.
 
 The crew is stationed in Sawyers Bar, CA and if you've been there you
 know and feel how remote this small defunct mining and logging town
@@ -1997,8 +1858,6 @@ Year(s) | Superintendent
 2019 | Currently vacant
 2020 | Ron Graves/Joe Bogdan (Details)
 2021-Present | Joe Bogdan
-
-Shasta-Trinity National Forest, Region 5
 
 The Shasta Lake Hotshots were established in 2006 on the
 Shasta-Trinity National Forest in Lakehead California by crew
@@ -2116,29 +1975,9 @@ Hobart Hotshots |
 1979-1985 | Rusty Witwer
 Tahoe Hotshots
 1986-1995 | Rusty Witwer
-1996-December 28, 2012 | Rick Cowell (retired in place)
+1996-2012 | Rick Cowell (retired in place)
 2013-2016 | Eric Rice
 2017-Present | Daniel Guerrero
-
-**Tahoe Hotshots**
-
-**Agency: USDA Forest Service Home Unit: Tahoe National Forest- Yuba
-River Ranger District**
-
-**Duty Location: Camptonville [Contact Information:]{.underline}**
-
-**Tahoe Hotshots 15924 Hwy. 49**
-
-**Camptonville, CA. 95922**
-
-**530-478-6253**
-
-**Superintendent: Daniel Guerrero**
-
-![](media/image40.jpeg){width="1.829374453193351in"
-height="0.42083333333333334in"}
-
-**Established 1961**
 
 The Hobart Work Center, located outside of Truckee CA., was created in
 the 1930's as part of the CCC effort after the Great Depression. In
@@ -2183,10 +2022,7 @@ until 1986.
 Following the busy season of 1994, Superintendent Rusty Witwer
 traveled to Washington D.C. to receive the Group Honor Award for
 Excellence from Secretary of Agriculture Dan Glickman, for
-
-![](media/image54.jpeg){width="2.1631944444444446in"
-height="2.249998906386702in"}outstanding heroic action and maintenance
-of safety standards.
+outstanding heroic action and maintenance of safety standards.
 
 The Tahoe Hotshots, wearing the crest and colors of our past, continue
 to bring a safe, skilled, and productive resource to the fireline or
@@ -2203,16 +2039,6 @@ Year(s) | Superintendent
 2005-2008 | Steve Franke
 2009-2015 | Aaron Grove
 2016-Present | Kyle Betty
-
-Est. 2001 Certified. 2014
-
-Tallac Hotshots
-
-U.S. Forest Service
-
-Lake Tahoe Basin Management Unit 35 College Drive
-
-South Lake Tahoe, CA 96150
 
 The Tallac Hand Crew was established in 2001 as part of a nationwide
 buildup of resources to establish a maximum efficiency level of
@@ -2275,36 +2101,13 @@ of the hotshot community.
 
 Year(s) | Superintendent
 :- | :-
-2005-2015 | Justin Jeude
-2009 Stew Richter (Detailed)
+2005-? | Justin Jeude
+2009 | Stew Richter (Detailed)
+?-2015 | Justin Jeude
 2016-2017 | Aaron Utterback
-2018 | Ron Graves (Detailed)
-2018 | Richie Reposa (Detailed)
+2018 | Ron Graves (Detailed), Richie Reposa (Detailed)
 2019-2020 | Richie Reposa
 2021-Present | Tristan Dias
-
-**Agency: USDA Forest Service**
-
-**Home Unit: Shasta-Trinity NF, Yolla Bolla Ranger District Contact
-Information:**
-
-**Superintendent: Tristan Dias Trinity Hotshots**
-
-**Harrison Gulch Ranger Station 2555 W. Hwy 36**
-
-**Platina, Ca. 96076**
-
-**530-352-4020 (Office)**
-
-**530-352-4312(FAX)**
-
-**Captain 11B: Jason Ballard -- (530) 352-4028 Captain 11A: Keegan
-Guillory -- (530) 352-4021**
-
-![](media/image38.jpeg){width="1.8332863079615047in"
-height="0.4166666666666667in"}
-
-**Established 2007**
 
 Following the devastating 2000 fire season wildland fire managers and
 United States Congress realized that there was not an adequate level
@@ -2352,9 +2155,7 @@ fourteenth Hotshot crew to be certified in Northern California.
 2009 found Doug Powel and Kris Kochar moving on, and Justin
 temporarily promoting into a Battalion Chief detail. Doug went on to
 become a Forest Service LEO and later a California Smokejumper. Kris
-moved on to the
-
-private sector to pursue bigger passions. Aaron Utterback transferred
+moved on to the private sector to pursue bigger passions. Aaron Utterback transferred
 over as the permanent Crew Captain from the local Helicopter crew,
 506, and Dylan Reeves from the California Smokejumpers detailed in as
 the other Captain. Stew Richter detailed in as the crew
@@ -2411,15 +2212,6 @@ Year(s) | Superintendent
 2017 | Nathan Nelms
 2018-Present | Joel J. Berg
 
-USDA Forest Service - Six Rivers National Forest Lower Trinity Ranger
-District
-
-1033 HWY 299 Salyer, CA 95563
-
-530-629-2114
-
-*Crew History*
-
 Prior to the National Fire Plan in 2000, the Six Rivers National
 Forest's crew history had been comprised only of various BD (Brush
 Disposal) and 10-person Initial Attack crews. As part of what became
@@ -2471,7 +2263,6 @@ were certified within the region as part of the MEL build-up were to
 be considered Interagency or Regional Hotshot Crews, the Washington
 Office issued a directive that all Hotshot crews in Region 5 are to be
 identified as Interagency Hotshot Crews.
-
 Ukonom IHC is dedicated to earning that designation every day through
 hard work and strict adherence to the IHC core values of Safety, Duty,
 Respect, Integrity, and Professionalism.
@@ -2486,9 +2277,6 @@ The Ukonom Interagency Hotshot Crew prides itself on having an
 exceptional work ethic that dates back to the early days of Hotshot
 crews, and are always willing to put in the extra chain of line, and
 be first ones up and the last ones off the hill each day.
-
-[Ukonom is currently operating as a T2IA due to a squad leader
-vacancy.]{.underline}
 
 # Northern Rockies
 
