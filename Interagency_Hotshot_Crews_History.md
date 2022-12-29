@@ -2290,26 +2290,9 @@ Year(s) | Superintendent
 2006 | Earl Old Chief
 2006-present | Wilbur Nagel
 
-**Chippewa -- Cree Tribe Natural Resources / Forestry**
-
-**Bear Paw Fire Crew**
-
-**Agency:United States Department of the Interior Bureau of Indian
-Affairs**
-
-**Chippewa-Cree Tribe**
-
-**Home Unit: Rocky Boy's Indian Reservation**
-
-Established 2000 Crew History
-
-**About the Bear Paw Fire Crew:**
-
 In 2000, the Chippewa-Cree Tribal Business Committee and Natural
 Resources Department drafted up a proposal for an Inter-Agency Hotshot
-Crew to be based
-
-out of the Rocky Boy's Indian Reservation. A formal written request
+Crew to be based out of the Rocky Boy's Indian Reservation. A formal written request
 was submitted to Mr. Tom Corbin, Regional Fire Management Officer,
 Bureau of Indian Affairs in Billings, Montana stating the intentions
 of the Chippewa-Cree Tribe to establish a Type 1 Inter-Agency Hotshot
@@ -2318,9 +2301,7 @@ expressed their support in starting a Hotshot program and helped give
 some direction on the next steps the Chippewa-Cree tribe needed to
 follow to accomplish the goal of establishing an Inter-Agency Hotshot
 Crew. The final action taken was to submit a formal request letter to
-Mr. Jim Stires, Director
-
-of the National Inter-Agency Fire Center in Boise, Idaho, stating the
+Mr. Jim Stires, Director of the National Inter-Agency Fire Center in Boise, Idaho, stating the
 intentions of the Chippewa-Cree Tribe of establishing a Type 1
 Inter-Agency Hotshot Crew based out of the Rocky Boy's Indian
 Reservation.
@@ -2346,17 +2327,13 @@ Losses of overhead and experienced crew members drew concerns from the
 Regional Fire Management Office about the program's integrity as an
 IHC, and placed under review for the 2007 fire season. The Bear Paw
 Hotshots were required to successfully complete a re-certification
-review prior to being available
-
-a Type 1 IHC, and to determine the future program's status.
+review prior to being available a Type 1 IHC, and to determine the future program's status.
 
 ***Crew Supervision:***
 
 The first Superintendent for the Bear Paw IHC was Mike Lamere. He held
 the position from the initiation of the crew in 2000 until the Spring
-of 2006.
-
-John Gardipee was chosen as the Assistant Superintendent.
+of 2006. John Gardipee was chosen as the Assistant Superintendent.
 
 2006 Earl Old Chief took over as Superintendent in the late spring of,
 and held the position until November 2006. John Gardipee worked as the
@@ -2380,7 +2357,13 @@ the individual is in the crew"*
 
 ![](nrcc/nrcc_bison.png)
 
-**Arrowhead 3 (Bison, Alpine) Interagency Hotshot Crews**
+Year(s) | Superintendent
+:- | :-
+**Arrowhead 3** | 
+1981 | John W. Allendorf
+**Bison Hotshots** | 
+1982 | ? 
+1984 | Jerry Burke
 
 In May of 1981, the National Park Service (NPS) established its
 "Interagency Hotshot Crew Program." Under this program, three crews
@@ -2394,43 +2377,40 @@ These three crews with the same name but only a single number
 differentiating them caused some confusion, so in 1982; the names were
 changed respectively to "Alpine," "Arrowhead," and "Bison." These
 names were derived from the National Park Service
-emblem.[^1^](#_bookmark0) The Bison crew had old metal hard hats which
+emblem [1]. The Bison crew had old metal hard hats which
 were painted yellow. Each had an individually hand-painted bison on
-the side. [^2^](#_bookmark1) Apparently the Bison crew did not have a
+the side [2]. Apparently the Bison crew did not have a
 crew shirt in 1982; however, by 1983 there was a crew shirt that
 continued in use into the 1984 fire season. Jerry Burke (Foreman in
 '82 and '83 then Superintendent in '84 at Whiskeytown) designed the
 shirts. When the crew went to California in '84 the shirt became black
 with a white bison and lettering, and the reference to Yellowstone was
-deleted. [^3^](#_bookmark2) In 1983, the crew also had a sign made for
+deleted [3]. In 1983, the crew also had a sign made for
 their quarters in Yellowstone, which was apparently made for them by a
-member of the Yellowstone Helitack crew. [^4^](#_bookmark3)
+member of the Yellowstone Helitack crew [4].
 Unfortunately, due to budget constraints, the Bison IHC was eliminated
 from the National Park Service program after the 1984 fire season.
 
-![](media/image61.jpeg)
-
 The shirts were not pocket tees. The front logo was applied in the
-usual upper left location[^5^](#_bookmark4) Mike Holmes described the
+usual upper left location [5]. Mike Holmes described the
 coloring as "... Ecru (tan) with brown lettering." (Photos provided by
 "JP" Mattingly.)
-
-[]{#_bookmark0 .anchor}^1^. Hotshot Crew History in America.
-
-[]{#_bookmark1 .anchor}^2^. Correspondence from Mike Holmes.
-
-[]{#_bookmark2 .anchor}^3^. Ibid.
-
-[]{#_bookmark3 .anchor}^4^. Conversation with Ken Eckstein.
-
-[]{#_bookmark4 .anchor}^5^. Correspondence from "JP" Mattingly.
-
-![](media/image63.png){width="5.990378390201225in"
-height="9.038333333333334in"}
 
 1983 Bison Interagency Hotshot Crew with their newly-created sign in
 front of the Lower Falls and installing it at their Canyon quarters.
 (Photos provided by Mike Holmes.)
+
+![](nrcc/nrcc_bison_1983.png)
+
+[1] Hotshot Crew History in America.
+
+[2] Correspondence from Mike Holmes.
+
+[3] Ibid.
+
+[4] Conversation with Ken Eckstein.
+
+[5] Correspondence from "JP" Mattingly.
 
 ## Bitterroot
 
@@ -2448,20 +2428,15 @@ Year(s) | Superintendent
 1977 | Don Rummel
 1978-1983 | Buck Latapie
 1984 | Don Ray
-1985-1993 | Bill Miller
+1985-? | Bill Miller
 1990 | Joe Thompson*
+?-1993 | Bill Miller
 1994-2000 | Steve Rawlings
 2001-2006 | Rory Laws
 2007 | Matt Gibson*
 2008-present | Jay Wood
 
 \* denotes Detailed
-
-USFS
-
-Bitterroot National Forest Darby, MT
-
-Established 1963
 
 The Bitterroot Interagency Hotshot Crew was established in 1963.
 Initially called the Bitterroot (Hotshot) Interregional Fire
@@ -2508,16 +2483,6 @@ Year(s) | Superintendent
 1995-1996 | Tom Evans
 1997 | Steve Murray
 1998-Present | Lyle St. Goddard
-
-*CHIEF MOUNTAIN HOTSHOTS*
-
-AGENCY: BLACKFEET TRIBE
-
-BRANCH OF FORESTRY
-
-HOME UNIT: BROWNING, MONTANA ESTABLISHED: 1988
-
-CERTIFIED: 1990
 
 The Chief Mountain Interagency Hotshot crew is based out of Browning,
 MT on the Blackfeet Reservation. The Chief Mountain crew name was
@@ -2576,7 +2541,6 @@ The 1966 Flathead Interregional Fire
 Suppression crew began its inaugural season in mid-June at the Big
 Creek Ranger Station, 35 miles north of Kalispell, Montana and just
 outside Glacier National Park. Big Creek served the crew
-
 well for many years, but in 1982 the crew's duty station was changed
 to the district office in Columbia Falls. In 1994 the Glacier View
 Ranger District was consolidated with the Hungry Horse Ranger District
@@ -2615,10 +2579,6 @@ Year(s) | Superintendent
 2006 | Kenny Spint (detail)
 2007-present | Fred Thompson
 
-HELENA HOTSHOTS 1971-2009
-
-A Brief Crew History
-
 2009 marks 38 years of existence of an organized fire suppression crew
 on the Helena NF.
 
@@ -2632,26 +2592,25 @@ other legitimate IR crews and made for interesting chowtime
 conversation. Crew strength numbers fluctuated, but early crew
 composition included many Native Americans as well as Vietnam era
 veterans.
-
-Special mention needs to be made of Dale Jarrell\'s efforts to
+Special mention needs to be made of Dale Jarrell's efforts to
 establish the Helena crew during these early years. The crew continued
-as a \"quasi\" Hotshot crew in 1973, responding to fires but not
+as a "quasi" Hotshot crew in 1973, responding to fires but not
 having regional recognition.
 
 In 1974 the crew received a new crew boss Tom Patten, regional
 recognition and financing, and was the only Hotshot crew in Region 1
 east of the continental divide, as well as the only Region 1 crew
 operating with out housing or barracks for crewmembers. Patten
-continued as \"crew boss\" through 1975, at which time Mike Peila took
+continued as "crew boss" through 1975, at which time Mike Peila took
 over the helm. During this time the crew performed notably on most
 major fires of the period including, Skinner Mill, Marble Cone and
 late season Region 9 fires.
 
-The crew did not have \"formal\" recognition in 1979 due to fiscal
+The crew did not have "formal" recognition in 1979 due to fiscal
 constraints, but in 1980 the crew returned under the supervision of
 new crew foreman Larry Cole, who had been recruited from the NezPerce
 IR crew which was being shut-down due to restructuring of the region's
-IR crews. During Cole\'s tenure - 1980 through 1982 - the crew
+IR crews. During Cole's tenure - 1980 through 1982 - the crew
 continued to respond to a number of fires within and out of region.
 
 In 1983 Dave Larsen, who had previously worked on the hotshot crew
@@ -2660,14 +2619,12 @@ responsibilities. During Larsen\'s reign, 1983 through 1988, two
 significant personnel actions occurred. The first being the
 establishment of the GS-6 assistant foreman position in 1986, the
 first in the Region to do so, and secondly, in 1987, the reinstatement
-of WAE Status for the crew foreman.
-
+of WAE Status for the crew foreman. 
 Gary Sullivan performed as acting Superintendent during the bulk of
 the 1988 season.
 
 In 1989 Larry Edwards assumed the superintendent position. Under
 Edwards the crew changed with the
-
 time transforming from an Inter-regional (IR) crew to an Interagency
 Hotshot Crew (IHC). Larry brought a Region 5 influence to the
 organization, but opted for a three module configuration. His crews
@@ -2685,7 +2642,6 @@ F-550 mini-buggies having finally converted from Suburbans.
 Although crew strength has fluctuated from between 10 and 22 members
 due to fiscal considerations diversity has been a mainstay of the crew
 since its inception.
-
 Early affiliations with local tribal organizations continue today, in
 addition women crewmembers have been a part of the Helena Hotshots
 since the mid 1970's and remain an important part of crew composition.
@@ -2693,16 +2649,14 @@ The Helena still has no crew quarters and centers is operations out
 the "Shot House" a 1950's era Forest Service house and garage which
 serves as office, cache, and locker room space.
 
-The "Helena" performs project work for all Helena N.
-
-F. Ranger Districts, the BLM, and adjoining forests. In addition to
+The "Helena" performs project work for all Helena N.F. Ranger Districts, the BLM, and adjoining forests. In addition to
 having responded to fires in all FS regions, the crew has provided its
 skills and expertise in emergency medical situations, search and
 rescue operations, law enforcement assistance, fire training,
 Hurricanes Hugo, Andrew and Georges, wilderness fire management and
 prescribed burning.
 
-Opera Non Verba
+***Opera Non Verba***
 
 ## Idaho Panhandle
 
@@ -2714,46 +2668,44 @@ St. Joe IHC |
 1967-1969 | Dale Jarrell
 1970-1971 | Mike Cyrus
 1972-1973 | Dennis Johnson
-1975-1975 | Jim Preston
+1975 | Jim Preston
 1976-1979 | Dean Berger
 1980-1987 | John Myhre
-1988-1994 | Jim O\'Dell
+1988-1994 | Jim O'Dell
 1995-1998 | Lynn Bornitz
-1999-1999 | B Hadley Hawkins
+1999 | B Hadley Hawkins
 1999-2000 | Lynn Bornitz
-2000-2000 | Rory Laws
+2000 | Rory Laws
 Idaho Panhandle IHC | 
 2001-2003 | Louis Hartjes
 2004-2008 | Terry Zufelt
 2009-Present | Chris Smith
-
-**IDAHO PANHANDLE INTERAGENCY HOTSHOT CREW HISTORY 1967-PRESENT**
 
 Since 1962, four Type I hotshot crews have been established in
 northern Idaho. Today, the Idaho Panhandle Hotshot Crew, formerly the
 St. Joe Interagency Hotshot Crew (changed name in 2001 to better
 represent the whole forest), is the sole survivor. Dale Jarrell
 organized the crew in 1967 and served as crew boss until 1969. The
-crew is based at the Idaho Panhandle National Forest\'s Supervisor\'s
-Office in Coeur d\'Alene, Idaho. This forest is an administrative
-combination of the Kaniksu, Coeur d\'Alene, and St. Joe National
+crew is based at the Idaho Panhandle National Forest's Supervisor's
+Office in Coeur d'Alene, Idaho. This forest is an administrative
+combination of the Kaniksu, Coeur d'Alene, and St. Joe National
 Forests.
 
 For 30 years, the hotshot crew worked out of the Clarkia Work Center
 on the St. Joe Ranger District. In 1998, the crew moved to the Coeur
-d\'Alene Ranger District in Coeur d\'Alene. This move was in response
+d'Alene Ranger District in Coeur d'Alene. This move was in response
 to national agency direction to position the crew closer to high
 priority fuels and restoration work that was being done in the
-wildland/urban interface and within the Coeur d\'Alene Basin.
+wildland/urban interface and within the Coeur d'Alene Basin.
 
 The crew use to start critical training the first week of May. In 2002
-we made the change to start the 3^rd^ week of April. This has given us
+we made the change to start the 3rd week of April. This has given us
 many opportunities. We are now able to get our 80 hours of training
 out of the way and be able to help the forest with their spring
 burning program. We have also benefited by being able to participate
 in suppression efforts earlier in Region 3. Traditionally our season
-has ended around October 9^th^. But the crew is always prepared to run
-until the 3^rd^ week of October if there our incidents.
+has ended around October 9th. But the crew is always prepared to run
+until the 3rd week of October if there our incidents.
 
 The Idaho Panhandle Hotshots have a rich history of safety. There has
 been no fatalities sense the crew existence or permanent disabilities
@@ -2762,10 +2714,9 @@ of nine years with no lost time to personal injuries or chargeable
 vehicle accidents (not aware of what occurred prior to my tenure).
 
 Memorable incidents that stick out as part of our history is the
-Earthquake Fire that we traveled to on September 11^th^, 2001. When
+Earthquake Fire that we traveled to on September 11th, 2001. When
 the rest of the world was mourning the loss of so many American lives
 we were chasing this
-
 fire down on the Nez Pierce National Forest. Not even aware of the
 magnitude of the situation that had occurred but knowing in our hearts
 that we must stay focused and pull it together to accomplish our task.
@@ -2792,22 +2743,21 @@ to be an Interagency Hotshot Crew the answer is always the same: You
 must be a member to receive a shirt. The other logo is on the front of
 our shirt and has changed a few times. Until 2002 the logo included a
 tree with a lightening bolt hitting it.
-
 The picture above shows how it looks today.
 
 ## Lewis & Clark
 
-![](nrcc/nrcc_lewis_and_clark.png)
+2001-2005 | 2006-Present
+:-: | :-:
+![](nrcc/nrcc_lewis_and_clark_2001-2005.png) | ![](nrcc/nrcc_lewis_and_clark.png)
 
 Year(s) | Superintendent
 :- | :-
 2001-2004 | Chris Theisen
 2004-2010 | Mike Noel
-2011 | Tyler J. Anderson (Farm)
-2012-2018 | Matt Holmstrom (detail)
+2011 | Tyler J. Anderson (Farm) (detail)
+2012-2018 | Matt Holmstrom
 2019-Present | William Knudsen
-
-**Lewis & Clark Hotshots...History 2001-Present**
 
 The Lewis & Clark Interagency Hotshot Crew has a rather short history;
 being one of several IHC's developed nationwide in 2001. After a
@@ -2839,8 +2789,7 @@ From its conception the L&C IHC has operated as one of the nation's
 four *training* crews. Originally for the L&C IHC this meant having a
 compliment of 10-12 detailers, whereas currently they operate with
 only 1-3 detailers. The remainder of the crew configurations consist
-of one PFT
-
+of one PFT 
 Superintendent, one PFT Foreman (from 2001- 2004 the crew had operated
 with the two-foreman system), three 13/13 Squad Bosses (one operating
 as a Saw Boss), six 13/13 Senior Firefighters, and 10-12 seasonal
@@ -2857,7 +2806,7 @@ Year(s) | Superintendent
 1963 | Jay Penney
 1964-1973 | George Bissonette
 1974 | Neil Ramberg
-1975 | Neil Ramberg/Kevin Brown
+1975 | Neil Ramberg, Kevin Brown
 1976-1981 | Mike Cyrus
 1982 | Jerry Benson
 1983-1984 | Don Feser
@@ -2866,17 +2815,15 @@ Year(s) | Superintendent
 1987 | Steve Betlach
 1988 | Greg Power
 1989 | Margaret Doherty
-1990-2010 | Steve Karkanen
+1990-? | Steve Karkanen
 1994 | Marshal Brown (Detail)
+?-? | Steve Karkanen
 2000 | Holly Maloney (Detail)
+?-2010 | Steve Karkanen
 2010 | Tim Laroche (Detail)
 2011-2017 | Tim LaRoche
 2018 | Shawn Faiella (Detail)
 2019-Present | Shawn Faiella
-
-**Lolo Interagency Hotshots Lolo National Forest Missoula, Montana**
-
-**Background Information**
 
 The Lolo Hotshots have roots in the beginnings of modern-day fire
 suppression history. Although the crew was officially recognized as a
@@ -2918,27 +2865,22 @@ firefighters.
 
 **Significant Events**
 
-1980- The first woman was hired on the crew.
-
-1989- Margaret Doherty became the first female Hotshot Crew
+- 1980: The first woman was hired on the crew.
+- 1989: Margaret Doherty became the first female Hotshot Crew
 Superintendent in the nation.
-
-1990- ESPN documentary program "America's Wilderness" profiles crew
+- 1990: ESPN documentary program "America's Wilderness" profiles crew
 during pre- season training and while on fire assignment. The
 hour-long production was broadcast worldwide on several occasions. The
 documentary included interviews with several crewmembers and footage
 of fireline operations. It gave a sense of what life on a hotshot crew
 is like and conveyed the diversity of both the people and the work the
 crew performs.
-
-1998- CBS News 48 Hours profiles crew during Hopper Fire in Southern
+- 1998: CBS News 48 Hours profiles crew during Hopper Fire in Southern
 California and conducts follow-up interviews. Broadcast in October
 1998 (received their lowest ratings ever).
-
-2011- Steve Karkanen retired in May as the longest running Lolo IHC
+- 2011: Steve Karkanen retired in May as the longest running Lolo IHC
 Superintendent.
-
-2016 -- Firefighter Justin Beebe lost his life while battling the
+- 2016: Firefighter Justin Beebe lost his life while battling the
 Strawberry Fire, GBNP, Nevada
 
 # Northwest
