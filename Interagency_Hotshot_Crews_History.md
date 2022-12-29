@@ -27,8 +27,7 @@ moved to Kenai in 1979, on the peninsula southwest of Anchorage. The
 two crews were known as the Red and Black crews due to the red or
 black stripes on their hardhats.
 
-![](media/image4.jpeg){width="5.646873359580052in"
-height="5.626279527559055in"}Seeing the value of a dependable
+Seeing the value of a dependable 
 organized crew for fire reinforcement as well as a hiring pool for the
 primary initial attack forces (Helitack and Smokejumpers), the Alaska
 Bureau of Land Management decided to increase their Hotshot\* crew
@@ -86,13 +85,10 @@ Year(s) | Superintendent
 1985-1988 | Jon Larson 
 1989 | Steve Bumgarner
 1990-1993 | Skip Theisen
-1994 | Mike Powell
-1994 | Mike Theisen
+1994 | Mike Powell, Mike Theisen
 1995 | Skip Theisen
-1996-1998 | Mike Theisen
-1999 | Mike Theisen
-1999 | Shane McDonald
-2000 | Shane McDonald
+1996-1999 | Mike Theisen
+1999-2000 | Shane McDonald
 2001-2003 | Pat O’Brien
 2004-2007 | Jake Livingston
 2008-2013 | Chris Marabetta
@@ -105,10 +101,8 @@ Year(s) | Superintendent
 :- | :-
 1985 | David Lockwood
 1986-1988 | Jerry Soard
-1989-1991 | Dave Jandt
-1992 | Dave Jandt
-1992 | Dave Matier
-1993-1997 | Dave Matier
+1989-1992 | Dave Jandt
+1992-1997 | Dave Matier
 1998 | Shane McDonald
 1999-2007 | Dave Matier
 2008 | Cory Swisher
