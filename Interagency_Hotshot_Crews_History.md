@@ -172,13 +172,13 @@ Year(s) | Superintendent
 2022-Present | Tyler Carruth
 
 The Alta Hotshots were officially certified as an Interagency Hotshot
-Crew on June 13^th^, 2014. Earning Type 1 status followed a four-year
+Crew on June 13th, 2014. Earning Type 1 status followed a four-year
 journey consisting of peer evaluations, an embedded review with an
 ex-hotshot Superintendent and finally an extensive certification
 review. The origins of the Alta Hotshots date back to 2003 as the UFRA
 Type 2 crew. The UFRA crew was initially created as an agreement
 between Utah Valley University (UVU) and the State of Utah. The
-crew\'s intent was to provide work experience and a learning platform
+crew's intent was to provide work experience and a learning platform
 in the wildland fire environment for students participating in
 wildland fire suppression courses through UVU. In 2007 the crew gained
 the qualifications and experience necessary to move up to status as a
@@ -187,7 +187,7 @@ retention in critical overhead positions, it was decided in 2010 to
 begin the process of building UFRA into an Interagency Hotshot Crew.
 
 With the decision to build UFRA into a Hotshot Crew in 2010, the
-crew\'s focus started to swing from an internship platform for UVU
+crew's focus started to swing from an internship platform for UVU
 students to a highly reliable professional fire suppression resource.
 With this change of focus the crew reached far and wide to bring in a
 core group of firefighters to help obtain the lofty goal set forth. In
@@ -196,7 +196,7 @@ that the UFRA Hotshots didn't quite sound right. It was decided that a
 name change would be necessary, the crew voted on a few options and
 Alta won the majority. With the name change a new logo was designed.
 Much thought and consideration went into the new logo and each detail
-has significance. The mountain range on the logo represents Devil\'s
+has significance. The mountain range on the logo represents Devil's
 Castle which is a popular recreation spot near the town of Alta and
 the Wolverine on our logo represents our past relationship with Utah
 Valley University - as that is their mascot.
@@ -210,9 +210,7 @@ crew generally starts mid-May and can be expected to go until the end
 of October. Throughout the season, Alta contributes to local project
 work to support state lands as well as providing a work force to
 adjacent federal agencies. Project work consists of but is not limited
-to: fuel reduction/fire prevention in the
-
-urban interface, constructing fuel breaks and contingency lines on
+to: fuel reduction/fire prevention in the urban interface, constructing fuel breaks and contingency lines on
 state and federal lands, and prepping and burning RX units.
 
 The Alta Hotshots currently reside at the Lone Peak Conservation
@@ -235,11 +233,6 @@ Year(s) | Superintendent
 2016 | Matt Gill (detail)
 2016 | Jed Rudelbach (detail)
 2017-Present | Pamela Messal
-
-Black Mountain Interagency Hotshot Crew 1989 -- Present
-1989-2005 | 2006-Present
-:-: | :-:
-![]() | ![]()
 
 The Black Mountain Interagency Hotshot Crew was established in 1988
 through the efforts of the Toiyabe National Forest's Fire Management
@@ -320,9 +313,7 @@ Ranger District in 1961 (one of the first Hotshot crews in the Forest
 Service). The crew back then consisted of 30 men and were called the
 **"Payette Hotshots"**. The dress code back then was a long sleeved
 khaki shirt, light green jeans, logging boots, a gold aluminum hard
-hat
-
-and a red bandana around their neck. Their hand-tools only consisted
+hat and a red bandana around their neck. Their hand-tools only consisted
 of a shovel and a Pulaski. In 1971 the name Hotshots was changed to
 Inter-Regional" (IR) Crew calling them **"Payette IR"**. In 1980 the
 crew was moved off the Payette National Forest to the Boise
@@ -334,7 +325,7 @@ a jet airport. With this big move, the crew's name was changed to
 
 As the years went on, the initials "IR" took on a new meaning of
 "infrared". This new nomaclature change caused the crew name to be
-changed to the now current name of **\"Boise Hotshots\"**. In 1987 the
+changed to the now current name of **"Boise Hotshots"**. In 1987 the
 crew declared the colors of jade, red and black for their crew colors.
 In 1990 the crew took on one final move, from Boise, ID to their
 current location at the Garden Vally Work Center in Garden Valley, ID.
@@ -372,8 +363,7 @@ Year(s) | Superintendent
 2008-2012 | Chris Kirby
 2012-Present | Pila Malolo
 
-Bonneville Hotshots History 2001- Present
-The Bonneville IHC was established in 2001 to help fulfill BLM\'s
+The Bonneville IHC was established in 2001 to help fulfill BLM's
 commitment to provide national fire suppression resources. The crew is
 based in Salt Lake City Utah, Salt Lake BLM Field Office. In 2001 the
 crew ran as a IHC(T) and received its certification in the Spring of
@@ -391,8 +381,7 @@ Year(s) | Superintendent
 2003-2005 | Robert Barrett
 2006-2009 | Ken Henson
 2010-2015 | Brian Burbridge
-2016 | Dave Harmon (detail)
-2017-Present | Dave Harmon
+2016-Present | Dave Harmon (2016 detail)
 
 ***As Professional Wildland Firefighters we are dedicated to serving
 the U.S. Forest Service, our Cooperators and the Public while
@@ -468,7 +457,7 @@ Year(s) | Superintendent
 "Protecting the land and serving the people." Our vision is to
 continue to integrate within the Wildland Fire Organization
 professionally and effectively, earning respect through safety, hard
-work, proficiency and exceeding performance standards*."**
+work, proficiency and exceeding performance standards.***
 
 In 2001, in response to the wildfires of the previous year, the
 Secretaries of the Interior and Agriculture conducted a review to
@@ -486,7 +475,7 @@ with Russ Long as the inaugural Superintendent.
 The crew is located on Idaho's Boise National Forest, which it shares
 with its sister crew the Boise IHC. Split into five districts, with
 9,600 miles of perennial and intermittent streams and elevations
-ranging from 2,800 -- 9,730 ft., the Boise NF is a dynamic area to
+ranging from 2,800-9,730 ft., the Boise NF is a dynamic area to
 fight fire in. We share our Forest Service compound with a Type-2IA
 crew, a Type-3 Engine and two prevention personnel. Completed in 2004,
 our facilities include Superintendent's/Captain's offices,
@@ -545,8 +534,6 @@ Year(s) | Superintendent
 2011 | John Platt (Detailed)
 2012-Present | Roy Fetzer
 
-LOGAN INTERAGENCY HOTSHOT CREW WASATCH-CACHE NATIONAL FOREST, REGION FOUR
-![]()
 Since the creation of the Logan Forest Reserve in 1903, fire
 prevention and suppression has been an important emphasis on the Cache
 National Forest. Overgrazing and large, unchecked forest fires in the
@@ -746,7 +733,6 @@ reduction and natural resources based projects. The crew has seven
 career staff positions and typically employs fifteen to seventeen
 seasonal crew members each fire season. The crew normally has a low
 turn over rate and openings are incredibly competitive for new crew
-
 members. The crew still resides at the Lone Peak Conservation Center
 in Draper, using the same facilities as the Flame-In-Go's did with
 many new upgrades.
@@ -767,10 +753,6 @@ Year(s) | Superintendent
 2019 | Vacant
 2020-Present | Chase Maness
 
-**Ruby Mountain Interagency Hotshot Crew History, 2001 -- Present**
-![]()
-![]()
-![]()
 Ruby Mountain IHC began as a Type 1 training-crew on May 21st, 2001,
 in response to the 2000 national fire plan initiative presented by
 President Bill Clinton. This initiative allowed for 20 hand crews to
@@ -808,7 +790,7 @@ Year(s) | Superintendent
 1968-1973 | Bill Williams
 1974-1977 | Randy Doman
 1978 | Joe Bongiovi (1/2 year)
-1978-1980 | Randy Doman (1/2 year)
+1978-1980 | Randy Doman
 1981-1989 | Cole Johnson
 1990 | Mark Barbo (detail)
 1991-1995 | Andy Lang
@@ -817,8 +799,6 @@ Year(s) | Superintendent
 2007-2011 | Heath Cota
 2012-2019 | Mike Krupski
 2020-Present | Kyle West
-
-**SAWTOOTH INTERAGENCY HOTSHOT CREW SAWTOOTH NATIONAL FOREST, REGION FOUR HISTORY OF THE SAWTOOTH HOTSHOTS**
 
 In 1966 the Sawtooth National Forest established a 10-person fire crew
 that was stationed at the Featherville Brush Camp (an old CCC camp) on
@@ -932,9 +912,7 @@ In 1996, three permanent squad leader positions were established
 bringing the number of appointed positions within the crew to five,
 providing the operational and administrative consistency that
 characterizes "professional" organizations. Beginning in 1991, the
-crew
-
-began to emphasize physical fitness with new vigor. Fitness testing
+crew began to emphasize physical fitness with new vigor. Fitness testing
 and daily P.T. that included running, hiking, calisthenics and weight
 training became the standard.
 
@@ -990,16 +968,12 @@ Year(s) | Superintendent
 2003-2006 | Nate Gogna
 2006-present | Kevin Kelly
 
-[***[www.nv.blm.gov/carson/fire/sshs/sshs\_home.htm]{.underline}***](http://www.nv.blm.gov/carson/fire/sshs/sshs_home.htm)
-
 Silver State Hand Crew has been around since late 1960's mainly
 consisting of Emergency Firefighters.
 
--Organized as a Crew in 1976
-
--Hotshot Crew in 1977
-
--Interagency Hotshot Crew in 1980
+- Organized as a Crew in 1976
+- Hotshot Crew in 1977
+- Interagency Hotshot Crew in 1980
 
 Established in Carson City, NV where the crew continues to reside.
 
@@ -1011,8 +985,6 @@ Year(s) | Superintendent
 :- | :-
 2001-2020 | Randy Anderson
 2021-present | Kenny Bochniak
-
-**Established 2001**
 
 In 2000 the BLM made the decision to add four hotshot crews. The Upper
 Snake River District (now Idaho Fall District) was chosen to host one
