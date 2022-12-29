@@ -2904,8 +2904,6 @@ Year(s) | Superintendent
 2013-2020 | Kurt Ranta
 2021 | Gary Chicks
 
-Baker River Hotshots Est. 1976
-
 The Baker River Interagency Hotshot Crew is a highly trained Type 1
 wildland fire suppression crew. Since its inception in 1976, these
 hard- working professionals have spent summers battling forest fires
@@ -2926,15 +2924,13 @@ hotshot crew accomplishes a variety of project assignments such as
 prescribed burning, building and maintaining trails and performing
 building maintenance.
 
-![]()
-
 ## Entiat
 
 ![](nwcc/nwcc_entiat.png)
 
 Year(s) | Superintendent
 :- | :-
-1966-1967 |  Charles Wolf
+1966-1967 | Charles Wolf
 1968 | Ed Harlan
 1969 | Joe Marchbanks
 1970-1971 | Vern Gray
@@ -2955,8 +2951,6 @@ Year(s) | Superintendent
 2014-2015 | Matt Kennedy
 2016-2019 | Rob Poyner
 2020-Present | Dan Pickard
-
-**Crew History**
 
 The Entiat IHC began in the 1963 as a local fire suppression crew
 consisting of 25 members who called themselves the Bushmen. In 1966,
@@ -2989,7 +2983,6 @@ dispatch center manager for the Wenatchee dispatch.
 
 When the crew reached IR status in 1966, Chuck Wolf was the foreman
 that led them there. Chuck's strong leadership style served
-
 the crew well in the first few years as they began to build their
 reputation throughout the west. Later, Chuck became the FMO of the
 Entiat Ranger District and was able to keep a watchful eye on the crew
@@ -3049,31 +3042,15 @@ Rob's previous IHC experience from Smokey Bear, Winema, and Baker
 River IHC's played an instrumental role in a productive and successful
 four-year stretch ending after the 2019 season. After 18 years of
 service in the IHC community, Rob moved on to become FMO for the North
-Zone of the Mt.
-
-Baker-Snoqualmie National Forest.
+Zone of the Mt. Baker-Snoqualmie National Forest.
 
 Dan Pickard, the current superintendent of the Entiat Hotshots, has
 been with the crew since 2007.
 
 Many former superintendents and crewmembers have gone on to become
 leaders in the fire suppression, aviation, and fuels community.
-
 Many of them attribute part of their career successes to their time on
 the Bushmen and the Entiat IHC.
-
-**Additional Information**
-
-For additional information contact the Entiat Hotshot Superintendent
-at the address below:
-
-Entiat Hotshots
-
-Attn: Superintendent Entiat Ranger Station PO Box 476
-
-Entiat, WA 98822 or phone
-
-\(509) 784-1016
 
 ## La Grande
 
@@ -3130,10 +3107,6 @@ Year(s) | Superintendent
 2014-2019 | Eric Miller
 2020-Present | Brendan O'Reilly
 
-PRINEVILLE HOTSHOT HISTORY 1980 TO PRESENT
-
-![]()
-
 The brain child of John Maupin, Fire Staff on the Ochoco Nation
 Forest, the "Prineville Interagency Hotshot" crew name came into
 existence in 1980. Under the leadership of Wade Burleson, the crew
@@ -3151,7 +3124,6 @@ Station Office was located, about 2.5 miles from the Ochoco National
 Forest Supervisor's Office. There are two monuments in memory of the
 nine Prineville Hotshots who perished on the South Canyon Fire near
 Glenwood Springs, CO in 1994, one at the Prineville Hotshot base
-
 and one at Ochoco Park in Prineville. Crew offices were originally in
 two "older" wooden structures that were torn down in the late 80's and
 a doublewide trailer was brought in from the Umpqua National Forest,
@@ -3198,7 +3170,6 @@ eye wear, and gloves. Crew members still buy their own crew shirts;
 have the option to buy crew shorts, baseball caps, crew beanies,
 wind/water resistant crew jackets and hooded sweatshirts. Presently we
 also carry 12 radios, with 4 replacements in the vehicles, and more in
-
 reserve to account for ones needing repair. Each crew member is issued
 their own saw for project work.
 
@@ -3220,7 +3191,6 @@ last person, then continue with the run. The run would be followed by
 20-30 minutes of calisthenics such as push-ups, stretches and
 reportedly "thousands" of crunches. In 1983 a professional trainer was
 hired for 3 days to provide weight training instruction and advice.
-
 Currently the crew runs between 3-6 miles at various venues, often out
 in the field, especially where there are hills. Weight training is
 also performed at various venues from the compound to a local gym, to
@@ -3257,7 +3227,7 @@ Year(s) | Superintendent
 2000-2002 | Doug Johnson
 2003-2005 | Deb Blais
 2006-2011 | Mike Muehlbauer
-2012 | Chris Buhrig(detail)
+2012 | Chris Buhrig (detail)
 2013-2017 | Neil Austin
 2017 | James Pursell (detail)
 2018-2022 | Gabe Mason
@@ -3284,7 +3254,6 @@ training program. The two Assistant Superintendents are responsible
 for supervision of the crew on fire and fuels assignments, mentoring
 the crew boss trainees, and assists in instructing courses and
 coordinating classes. The two Squad
-
 Leaders mentor squad leader trainees and assist in instructing courses
 and coordinating classes. The two Lead Firefighters provide
 mentorship.
@@ -3292,7 +3261,6 @@ mentorship.
 The remainder of the crew is comprised of 16 detailers of which are
 Forest Service, BLM, USFWS, NPS, BIA and State Land Management
 Agencies.
-
 Redmond IHC has a strong desire to continue interagency training and
 collaboration into the future.
 
@@ -3301,16 +3269,14 @@ building.
 
 ## Rogue River
 
-![](nwcc/nwcc_rogue_river.png)
+Original Logo | Current Logo
+:-: | :-:
+![](nwcc/nwcc_rogue_river_2001.png) | ![](nwcc/nwcc_rogue_river.png)
 
 Year(s) | Superintendent
 :- | :-
 2001-2011 | Randy Lehman
 2012-Present | Aaron Schuh
-
-USDA Forest Service
-
-Rogue River -- Siskiyou National Forest Established 2001
 
 The Rogue River Hotshots are hosted by the Rogue River - Siskiyou
 National Forest and are located on the High Cascades Ranger District
@@ -3337,25 +3303,19 @@ cohesive unit, in which 25 individuals share the same common goals and
 values; we expect honesty, direct communication and a willingness to
 influence for the betterment of the crew.
 
-![](media/image87.png){width="2.1033333333333335in"
-height="1.9266666666666667in"}The Original Rogue River Hotshot logo
+The Original Rogue River Hotshot logo
 was designed by our first Superintendent and reflects our forest
 scenery, with the Cascade Range in the background,
-
 forested hills in the foreground and the Rogue River as the
 centerpiece. The Current Logo is was a collaborative effort from past
 and current Rogue River Hotshots. The logo is centered around Mount
 McLoughlin, the most prominent feature on the district.
 
-*Figure 1 Original logo*
-
-Link to the Rogue River IHC Website;
-[[https://w](http://www.fs.usda.gov/detail/rogue-)ww.fs.[usda.](http://www.fs.usda.gov/detail/rogue-)g[ov/detai](http://www.fs.usda.gov/detail/rogue-)l[/rogue-](http://www.fs.usda.gov/detail/rogue-)]{.underline}
-[siskiyou/fire/?cid=fseprd998715]{.underline}
-
 ## Union
 
-![](nwcc/nwcc_union.png)
+Original IR Crew Logo | Current Logo
+:-: | :-:
+![](nwcc/nwcc_union_wallowa-whitman_ir.png) | ![](nwcc/nwcc_union.png)
 
 Year(s) | Superintendent
 :- | :-
@@ -3365,9 +3325,6 @@ Year(s) | Superintendent
 2007-2016 | Jody Prummer
 2017-Present | Eric Jorgensen
 
-**Union Interagency Hotshot Crew Wallowa--Whitman National Forest,
-Region 6**
-
 Union Interagency Hotshot Crew was established in 1980 when the
 Wallowa-Whitman Inter-Regional Hotshot Crew (est.1967) was divided
 into two crews.
@@ -3375,9 +3332,6 @@ into two crews.
 The original IR crew was located at Sled Springs on the northern end
 of the forest. In 1973 the IR crew moved to Union County Airport
 located in La Grande.
-
-![](media/image89.jpeg){width="2.657011154855643in"
-height="2.1447911198600176in"}Original IR crew logo
 
 Located in the city of La Grande, Oregon; the Union Hotshots and our
 sister crew the La Grande Hotshots are the only Forest Service crews
@@ -3395,14 +3349,6 @@ Time (PFT) GS-7 Superintendent and one Seasonal GS-6 Assistant
 Superintendent. In 1987 the Assistant Superintendent was converted
 from a seasonal position to an 18-8 Permanent Seasonal Employee
 position (PSE).
-
-!\"\# %&\#\' (&\#)\#\*+,- .) )+&/%+/&\#0 \'.+\" 1 23! 4567
-5/(\#&.\*+\#\*0\#\*+8 1 23! 4569
-
-:)).)+1\*+ 5/(\#&.\*+\#\*0\#\*+8 +\"&\#\# 25; \<969 456= 5\/10
-?\#10\#&)8 1\*0 @ 25; \<A6
-
-\<A 456@ 5\#\*.B& 3.&\#C.D\"+\#&)E
 
 Since 2001 when crew went to 110-day available season with the
 national direction the crew has averaged 16 fires a year with 95 days
@@ -3477,93 +3423,51 @@ Year(s) | Superintendent
 2004-2008 | Tony Holliday Sr.
 2009-Present | Gary Sampson Jr.
 
-**THE WARM SPRINGS INTER-AGENCY HOT**
+The Warm Spring Inter-Agency Hotshot Crew was initially developed as an employment opportunity
+program through Forestry on the Warm Springs Indian Reservation in 1984. Research had shown a need for a forest improvement crew which may also develop into a firefighting unit. This prototype became the forest crew.
 
-**[shot Crew was initially developed as an employment opportunity
-program through Forestry on the Warm Springs Indian Reservation
-in]{.smallcaps}**
-
-**[1984. Research had shown a need]{.smallcaps}**
-
-**FOR A FOREST IMPROVEMENT CREW WHICH MAY ALSO DEVELOP INTO A**
-
-**[firefighting unit. This prototype]{.smallcaps}**
-
-**BECAME THE FOREST CREW.**
-
-**[It was recognized by Warm Springs Fire Management that an
+It was recognized by Warm Springs Fire Management that an
 opportunity existed to develop this crew for firefighting
-assignments.]{.smallcaps}**
+assignments. Negotiations began with the Geographical area coordination center and Warm Springs Fire
+Management to make this crew available for national wild land fire suppression. The Warm Springs
+forest crew became available as a type 2 wild land firefighting organization during their initial season of operation.
 
-**[Negotiations began with the]{.smallcaps}**
+Located in Warm Springs OR, the Warm Springs IHC crew began as a 20 person Forest Crew. This forest
+crew was initially funded thru contracts with Confederated Tribes
+of Warm Springs and neighboring agencies with an understanding that the crew will become sufficient in the near future by working on miscellaneous contract work throughout the Region. This system was successful in the development of the Warm Springs IHC.
 
-**[Geographical area coordination center and Warm Springs Fire
-Management to make this crew]{.smallcaps}**
-
-**[available for national wild land fire suppression. The Warm Springs
-forest crew became available as a type 2 wild land
-firefighting]{.smallcaps}**
-
-**ORGANIZATION DURING THEIR INITIAL SEASON OF OPERATION.**
-
-**[Located in Warm Springs OR, the]{.smallcaps}**
-
-**[Warm Springs IHC crew began as a 20 person Forest Crew. This forest
-crew was initially funded thru contracts with Confederated
-Tribes]{.smallcaps}**
-
-**[of Warm Springs and neighboring]{.smallcaps}**
-
-**AGENCIES WITH AN UNDERSTANDING THAT THE CREW WILL BECOME SELF
-SUFFICIENT IN THE NEAR FUTURE BY WORKING ON MISCELLANEOUS CONTRACT**
-
-**[work throughout the Region. This]{.smallcaps}**
-
-**[system was successful in the development of the Warm Springs
-IHC.]{.smallcaps}**
-
-**[After two successful fire seasons as a type 2 crew, and with the
-support of the Confederated Tribes of]{.smallcaps}**
-
-**[Warm Springs, the organization elected to pursue Type 1 IHC
-status.]{.smallcaps}**
-
-**[From 1986 to 1987 the Warm Springs Forest Crew operated on a two
+After two successful fire seasons as a type 2 crew, and with the
+support of the Confederated Tribes of
+Warm Springs, the organization elected to pursue Type 1 IHC
+status.
+From 1986 to 1987 the Warm Springs Forest Crew operated on a two
 year probationary period in Region 6. In March of 1988
-the]{.smallcaps}**
-
-**[Warm]{.smallcaps}**
-
-**[Springs Agency Forest Crew was recognized thru NIFC as a Type 1
+the Warm Springs Agency Forest Crew was recognized thru NIFC as a Type 1
 Inter-Agency hotshot crew, the second Bureau of Indian Affairs Hotshot
-crew in the nation.]{.smallcaps}**
+crew in the nation.
 
-**[The Warm Springs Hotshots]{.smallcaps}**
+The Warm Springs Hotshots
+historically and currently are predominantly members of the Confederated Tribes but also
+consist of married into the tribes, other Natives and non-Natives.
 
-**HISTORICALLY AND CURRENTLY ARE PREDOMINANTLY MEMBERS OF THE**
-
-**[Confederated Tribes but also]{.smallcaps}**
-
-**CONSIST OF MARRIED INTO THE TRIBE, OTHER NATIVES AND NON-NATIVES.**
-
-**[Once fire season is complete for the year, the crew is utilized
+Once fire season is complete for the year, the crew is utilized
 throughout the community of Warm Springs for various types
-of]{.smallcaps}**
-
-**PROJECTS SUCH AS TREE THINNING, SLASHING/LOPPING, HAZARD FUEL
-REDUCTION, PRESCRIBED FIRE, OTHER**
-
-**[community events consist of Cutting and distributing firewood for
-the senior citizens of Warm]{.smallcaps}**
-
-**[Springs, deliver holiday food baskets and assist with local
-community school district]{.smallcaps}**
-
-**FUNCTIONS.**
+of projects such as tree thinning, slashing/lopping, hazard fuel reduction, prescribed fire, other
+community events consist of Cutting and distributing firewood for
+the senior citizens of Warm
+Springs, deliver holiday food baskets and assist with local
+community school district FUNCTIONS.
 
 ## Winema
 
 ![](nwcc/nwcc_winema.png)
+
+Year(s) | Name | Location
+:- | :- | :-
+1962-1969 | Star I.R. Suppression Crew | Applegate RD Rogue River NF
+1970-1979 | Rogue River I.R. Suppression Crew | Prospect RD Rogue River NF
+1980-1981 | Prospect IHC | Prospect RD Rogue River NF
+1982-present | Winema IHC | Klamath RD Fre-Win NF
 
 Year(s) | Superintendent
 :- | :-
@@ -3587,13 +3491,9 @@ Year(s) | Superintendent
 2001-2002 | James Hampton
 2003 | Neil Austin
 2004-2006 | James Hampton
-2007- 2012 | Neil Austin
+2007-2012 | Neil Austin
 2013-2019 | David G. Lilly
 2020-Present | Karl Krauter
-
-**Winema Interagency Hotshot Crew**
-
-**Region 6, Fremont-Winema National Forest, Klamath Falls, Oregon**
 
 The Winema Interagency Hotshot Crew (IHC) is stationed in south
 central Oregon on the Fremont- Winema National Forest. The crew is
@@ -3611,7 +3511,6 @@ Prospect Ranger District. They remained at Union Creek through the
 After the relocation, the crew's name was changed to the Rogue River
 Interregional Fire Suppression Crew or the "Rogue River Roughriders,"
 as they were more commonly called.
-
 Their logo, currently, was a cowboy on a bucking horse.
 
 In the summer of 1979, the crew traveled with 21 people. One of the
@@ -3631,21 +3530,7 @@ logo in 1984.
 
 In 2022 Winema was selected to be one of the pilot crew under the
 national IHC modernization efforts. The crew will test a 30-person
-model
-
-that is 22 permanent and 8 seasonal employees through 2024.
-
-+----------------+------------------------------+-------------------------------+
-| **Years**    | **Name**                   | **Location**                |
-+================+==============================+===============================+
-| 1962-1969    | Star I.R. Suppression Crew | Applegate RD Rogue River NF |
-+----------------+------------------------------+-------------------------------+
-| 1970-1979    | R.R. I.R. Suppression Crew | Prospect RD Rogue River NF  |
-+----------------+------------------------------+-------------------------------+
-| 1980-1981    | Prospect IHC               | Prospect RD Rogue River NF  |
-+----------------+------------------------------+-------------------------------+
-| 1982-present | Winema IHC                 | Klamath RD Fre-Win NF       |
-+----------------+------------------------------+-------------------------------+
+model that is 22 permanent and 8 seasonal employees through 2024.
 
 **Crew Logo's and shirt designs**
 
@@ -3683,20 +3568,17 @@ Year(s) | Superintendent
 2002 | Chris Chiverton (acting)
 2003 | Alan Andrews (Detail)
 2004-2005 | Clyde Johnson
-2006-2006 | Adam Veale
+2006 | Adam Veale
 2007 | Ken Gregor (Detail)
 2008-2014 | Eric Miller
 2014 | Dean Whitney (Detail) 
 2014-Present | Jake Garate
-
-Wolf Creek Interagency Hotshot Crew
 
 The Wolf Creek Interagency Hotshot Crew was born out of the Wolf Creek
 Job Corps Center South of Glide Oregon in 1976. Job Corps was designed
 to assist young people who both need and can benefit from the wide
 range of services provided in the residential setting of a Job Corps
 Center.
-
 These services include basic education, vocational skills training,
 work experience, counseling, health care and related support services.
 There are several Job Corps Centers located around the country
@@ -3733,7 +3615,6 @@ season.
 
 Richard Aguilar was the Superintendent from the program's inception in
 1976 up until 1996. Chris
-
 Theisen became the Superintendent next and was the Supt up until 2001
 when he left to start up Lewis and Clark IHC in Region 1 under the
 National Fire Plan. In 2002 the program struggled and lost their IHC
@@ -3781,17 +3662,13 @@ Early 1960s | Don Vandenberg
 2017 | James Meisner
 2018-Present | Devin Parks
 
-From the Early 1960s to Today
-
-![](media/image95.png)The roots of the Zigzag Interagency Hotshot Crew
+The roots of the Zigzag Interagency Hotshot Crew
 stretch back to the early 1960s, when the Mt. Hood National Forest's
 Zigzag Ranger District hosted the 12-person "Zigzag Fire Suppression
 Crew." This multi-purpose line-digging crew responded to fires, but
 also helped build and maintain forest trails and recreation sites. Don
 Vandenberg, who would become the Zigzag District's AFMO in the 1970s,
-ran this crew. It
-
-was based out of the Summit Bunkhouse in Government Camp.
+ran this crew. It was based out of the Summit Bunkhouse in Government Camp.
 
 In 1975, the Zigzag District started a 20-person "Regional
 Reinforcement" crew known as "The Mt. Hood RR Crew." Supervised by Lee
@@ -3833,9 +3710,7 @@ superintendent---Paul left the crew to continue his wildland fire
 career in Colorado.
 
 In 1991, Gina Papke then took over the Zigzag Hotshot leadership
-reins, becoming the first
-
-female IHC superintendent in the nation.
+reins, becoming the first female IHC superintendent in the nation.
 
 Papke served as superintendent through the 2000 fire season, when
 Diego Mendiola---from the Mendocino IHC in California---replaced her.
