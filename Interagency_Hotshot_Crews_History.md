@@ -4094,8 +4094,6 @@ Year(s) | Superintendent
 1989-2002 | Dick Kastler
 2003-Present | Steve Little
 
-**ASHEVILLE INTERAGENCY HOTSHOT CREW HISTORICAL INFORMATION**
-
 The Asheville Interagency Hotshot Crew (IHC) is one of three IHC
 programs in the nation to offer a concentrated training curriculum and
 the combined field experience of a full fire season. The program is
@@ -4140,10 +4138,6 @@ position became permanent fulltime in November of 1999. In September
 of 2003, a permanent fulltime Forman position was added to complete
 the programs supervision organization.
 
-The following chart shows all individuals that have performed in the
-overhead positions for the Asheville Interagency Hotshot Crew from
-1989 to the present.
-
 ## Augusta
 
 ![](sacc/sacc_augusta.png)
@@ -4158,7 +4152,6 @@ Augusta Springs, Virginia, located on the Deerfield Ranger District.
 Augusta was one of two new Forest Service Hotshot Crews to be
 established in the east under the National Fire Plan completed in
 2000. The crew's season is structured around the eastern fire season.
-
 They, also, assist in prescribed burning, and are available for
 support of the western fire season, and other emergencies. Augusta
 received their type one status the summer of 2002. The crew has been
@@ -4173,7 +4166,6 @@ season; therefore, they work a different schedule than most other
 crews. Currently the crew begins work the last week of January, and
 works till the end of May. The crew then takes June and July off and
 starts back up the first of August.
-
 The second half of the season then ends around the first of December.
 Basically the crew works four months and is off for two, on for four
 and off for two. The crew is equipped with fire six-pack trucks, which
@@ -4195,24 +4187,16 @@ In summary the Augusta Hotshots have a very unique program, and work
 in a very unique area! The crew is always looking for new members, and
 new opportunities to serve the citizens of these United States.
 
-For more information contact:
-
-Oscar Montijo, Superintendent
-
-\(540) 290-0462
-
 ## Cherokee
 
-![](sacc/sacc_cherokee.png)
+2001-2014 | 2015-Present
+:-: | :-:
+![](sacc/sacc_cherokee_2001-2014.png) | ![](sacc/sacc_cherokee.png)
 
 Year(s) | Superintendent
 :- | :-
 2001-2003 | Tim Wharton
 2004-Present | Dennis Trentham
-
-**Cherokee IHC History 2001-Present**
-
-![]()
 
 In June 2001, in accordance with the National Fire Plan, the Cherokee
 Hotshots came to be. The crew is based in Unicoi, TN since the
@@ -4239,20 +4223,9 @@ at the bottom of the page. It was adopted by the crew in 2015. Dillon
 McInnis drew the design for the logo a couple years prior to 2015
 while on a detail with the crew.
 
-![](media/image113.jpeg){width="1.6393744531933507in"
-height="1.6393744531933507in"}
-
 The crew maintains the original staffing of 22 members with 18 of
 these being career/seasonal appointments to meet continuous staffing
 requirements for working a split season.
-
-**Current Crew Staffing**
-
-Superintendent -- 1
-
-Assistant Superintendent/Captain -- 2 Squad Leaders -- 2
-
-Lead Firefighters -- 2 Senior Firefighters -- 14 Crewmembers - 2
 
 ## Jackson
 
@@ -4267,15 +4240,12 @@ Year(s) | Superintendent
 2016-2018 | Fred Ashford
 2018-Present | Darren O'Loughlin
 
-**History of the Jackson Hotshots**
-
 During the summer of 1996, the Secretary of the Interior, Bruce
 Babbitt visited several wildland fires in the western U.S. During
 these visits, the Secretary noted that there was a low percentage of
 minorities represented on the overhead teams and fire crews involved
 in suppression efforts. To increase opportunities, the city of
 Jackson, MS was selected as a site for a Hotshot crew.
-
 Jackson was selected as the site to base a new crew because of its
 proximity to Historically Black Colleges and Universities from which
 to recruit individuals who may be interested in pursuing a career in
@@ -4321,9 +4291,9 @@ Year(s) | Superintendent
 2003 | Gordon Admundson (detailed)
 2004 | Lito Contreras
 2005-2007 | Bob Little
+2007-? | Jerry Hoffman (detailed)
 2009-2010 | Rick Moreno
 2012-Present | Jerry Hoffman
-2007-2012 | Jerry Hoffman (detailed)
 
 The Midewin (mi-day-win) IHC was established in April of 2001 as a
 result of the National Fire Plan.
@@ -4345,8 +4315,7 @@ the work performed in New York. The crew was temporarily based in 3
 trailers at the Midewin National Tallgrass Prairie. The crew moved
 into our current facilities in October of 2004.
 
-![](media/image116.png){width="1.2319422572178478in"
-height="1.2319356955380578in"}2004 was an extremely difficult season
+2004 was an extremely difficult season
 for the Midewin IHC. On April 24^rd^ Alan Toepke was fatally injured
 in an off-duty traffic accident while returning from a fire assignment
 in Florida. The crew stood down for 2 ½ months but was able to finish
