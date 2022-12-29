@@ -3739,10 +3739,6 @@ Year(s) | Superintendent
 2006-2007 | Chris Kirby
 2008-Present | Paul Cerda
 
-Alpine Hotshots History 1981- Present
-
-![]()
-
 The National Park Service established its Interagency Hotshot Crew
 program in May, 1981. The Alpine Hotshots being one of the three crews
 formed at that time. These crews were the first Hotshot crews to be
@@ -3769,8 +3765,7 @@ being the first crew ordered for the Yellowstone fires in 1988. The
 crew spent a week on the Falls Fire west of the south entrance of
 Yellowstone prior to the \" world\" being mobilized. The entire crew
 as well as three individuals (Jim Mattingly -- Supt., David Niemi
-
-\- Squad Boss, Bill Moe -- EMT) received national commendations for
+- Squad Boss, Bill Moe -- EMT) received national commendations for
 life saving actions performed on the Dude Fire in 1990.
 
 Because Zion could not provide permanent housing for the crew a
@@ -3779,10 +3774,9 @@ Rapid City, South Dakota for the 1992 season. The actual base of
 operations while there, was an old coal gasification plant on the
 southeast side of Rapid City. The highlights of that season included a
 trip to Voyageurs NP in Minnesota
-
 and extensive time spent in the Salmon River Breaks country of Idaho.
 
-After the ' 92 season and a number of bids from various parks to host
+After the '92 season and a number of bids from various parks to host
 the crew, a decision was made by the NPS National Office at NIFC to
 permanently place the Alpine crew at Rocky Mountain NP. This was based
 on a number of considerations, but of high significance was the park\'
@@ -3814,8 +3808,6 @@ Year(s) | Superintendent
 2014-2018 | Sean Carey
 2018-2019 | Caleb Meyer
 2019-present | Logan Blankenship
-
-***Craig Interagency Hotshot Crew 2001 -- Present***
 
 The Craig Interagency Hotshot Crew is based in Craig, CO as a part of
 Northwest District Fire and Aviation. The crew was founded in the
@@ -3855,10 +3847,6 @@ season and half of the 2019 fire season.
 
 Logan Blankenship has been the current Superintendent of Craig IHC
 since June of 2019.
-
-You can find out more information about Craig IHC at the website
-below:
-[https://[www.nifc.gov/about-us/our-partners/blm/blm-crews/craig-hotshots](http://www.nifc.gov/about-us/our-partners/blm/blm-crews/craig-hotshots)]{.underline}
 
 ## Pike
 
@@ -3903,19 +3891,14 @@ this day.
 order to comply with the national name transition.
 
 Today, it is not uncommon for the crew to spend over 100 days on
-assignment every season, traveling nationwide.
-
-![](media/image101.jpeg){width="3.5in" height="2.0in"}The Pike
+assignment every season, traveling nationwide. The Pike
 Interagency Hotshot crew has a long and successful history that we are
 proud of. To honor those who have gone before us, every year we strive
 to earn again the respect that was built for us through time. Our
-
 mission is to provide a safe, professional, organized, highly
 motivated, highly skilled, and cost effective resource for wildland
 fire, natural resource management, and all-risk incidents. We take
 pride in what we do.
-
-*Scotty's Raider's, circa 1960's*
 
 ## Roosevelt
 
@@ -3927,10 +3910,6 @@ Year(s) | Superintendent
 2003 | Todd Millen
 2003-2006 | Dave Hamrick
 2007-Present | Larry Money
-
-**Roosevelt Hotshots History 2001 to Present**
-
-![]()
 
 The Roosevelt Interagency Hotshot Crew is based in Fort Collins,
 Colorado on the Canyon Lakes Ranger District of the Arapaho-Roosevelt
@@ -3967,8 +3946,6 @@ Year(s) | Superintendent
 2008-2010 | Jim Cornelius
 2011-2017 | Jay Godson
 2018-present | Tom Allbright
-
-San Juan IHC Crew History 2002-Present
 
 The planning for a new IHC crew in southern Colorado began late in
 1997. At the time the Rio Grande and San Juan National Forests were
@@ -4014,14 +3991,6 @@ Year(s) | Superintendent
 2008-2017 | Brandon Hess
 2017- present | David Zortman
 
-Tatanka Hotshots 605-673-5965/ 605-673-1138 © 12266 Tatanka Dr.
-
-Custer, SD 57730
-
-![]()
-
-**Tatanka Hotshot Crew History**
-
 The Tatanka Hotshot Crew was formed in 1999 on the Black Hills
 National Forest in Custer, SD. Tatanka Hotshots were the 4^th^
 Interagency Hotshot Crew in R-2. After working the 1999 fire season as
@@ -4030,24 +3999,6 @@ spring of 2000. The crew was originally housed in a trustee unit on
 the grounds of an old Tuberculosis sanitarium that was converted into
 a juvenile offender facility. The crew moved into its current
 facilities in April of 2002.
-
-Tatanka Hotshots 605-673-5965/ 605-673-1138 © 12266 Tatanka Dr.
-
-Custer, SD 57730
-
-**Crew Structure**
-
-GS-9 Superintendent (PFT)
-
-GS-8 Captain (PFT) GS-8 Captain (PFT)
-
-GS-7/6 Squad Leader (PFT) GS-7/6 Squad Leader (PFT) GS-7/6 Squad
-Leader (PFT) GS-6 LEAD FF (18-8) GS-6 LEAD FF (18-8)
-
-GS-5 Senior Crewmember (13/13) GS-5 Senior Crewmember (13/13) GS-5
-Senior Crewmember (13/13) GS-5 Senior Crewmember (13/13) GS-5 Senior
-Crewmember (13/13) GS-5 Senior Crewmember (13/13) GS-5 Senior
-Crewmember (13/13) GS-5 Senior Crewmember (13/13)
 
 ## Wyoming
 
@@ -4069,8 +4020,6 @@ Year(s) | Superintendent
 2001-2004 | Jay Kurth
 2005-2007 | Scott Schuster
 2008-Present | Matthew Prentiss
-
-Bighorn IR & Wyoming Hotshot History 1967-Present
 
 In 1967, Region 2 of the Forest Service was allocated a second
 Inter-Regional (IR) Crew. The region conducted an inventory of work
