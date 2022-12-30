@@ -6427,19 +6427,13 @@ world of Fire Suppression.
 
 ## Aravaipa
 
-![](swcc/swcc_aravaipa.png)
+Crew Logo 2016-2019 | Current Crew Logo
+:-: | :-:
+![](swcc/swcc_aravaipa_2016-2019.png | ![](swcc/swcc_aravaipa.png)
 
 Year(s) | Superintendent
 :- | :-
 2016-Present | Greg Smith
-
-Established 2016**
-
-**BLM Arizona Gila District**
-
-![](media/image165.jpeg)
-
-Crew Logo 2016-2019 Current Crew Logo
 
 **Formation of The Crew**
 
@@ -6475,10 +6469,8 @@ service.
 
 With facilities and funding established it was time to start working
 on personnel.
-
 The Gila District quickly agreed to offer the job to Greg Smith (A US
 Navy Veteran) who was the
-
 current Superintendent of The Jackson Hotshots and had a long history
 of working in Region 3. Greg accepted the job and brought with him his
 two assistants from Jackson, Wade Irish and Ryan Hagenah.
@@ -6537,12 +6529,13 @@ tracks, calisthenics fields, and obstacle courses. The fort also
 buttes up against the Huachuca Mountains which provide ample running
 and hiking trails.
 
+**Superintendents**
+
 Greg started his career with the Flagstaff Hotshots in 1993. Two years
 later moved to the Globe Hotshots eventually becoming their
 superintendent in 2001. For the 2008 season Greg moved to the Tucson
 area to help convert Northwest Fire District's Type Two I.A. crew into
 a Type One Hotshot
-
 Crew. The crew achieved hotshot status in 2009, but was disbanded in
 2014 due to funding issues. Greg moved on to become the Superintendent
 of the Jackson Hotshots in 2015.
@@ -6565,8 +6558,6 @@ Year(s) | Superintendent
 2003-2005 | Nathaniel Nozie
 2005-2008 | Gary Strickland
 2009-Present | Frank "Pancho" Auza
-
-Apache-Sitgreaves National Forest, Region 3**
 
 In the late 1960's and early 1970's, the Heber Emergency Crew was a
 27-person crew located in Heber, Arizona on the Sitgreaves National
@@ -6626,7 +6617,6 @@ personal belongings and concerned phone calls to friends and family,
 the crew helped with the suppression efforts south of Show Low, AZ and
 participated in the burnout that successfully contained the fire's
 high-priority eastern flank.
-
 The Heber Hotshots changed their name to Black Mesa Hotshots in 2007.
 
 ## Blue Ridge
@@ -6643,16 +6633,11 @@ Year(s) | Superintendent
 1993-1999 | Russ Copp
 2000-2003 | Rick Miller
 2003-2007 | Ryan Peacock
-2008- 2010 | Asad Rahman
+2008-2010 | Asad Rahman
 2011 | Cory Robinson
 2012-2018 | Brian Frisby
 2019-2020 | Mark Adams
 2020-Present | Travis Fuller
-
-The History of the Blue Ridge Interagency Hotshot Crew
-
-![](media/image168.jpeg){width="2.991854768153981in"
-height="2.295832239720035in"}
 
 The Blue Ridge Hotshot Crew was established in 1973, on the Blue Ridge
 Ranger District, Coconino National Forest. The crew was transported to
@@ -6688,7 +6673,6 @@ production of the training film "Wildfire Hand tools". The issue of
 full time employment for Hotshot Superintendents was addressed at the
 Hotshot workshop held in Alamogordo, New Mexico. A new WCF 20
 passenger, turbo diesel bus, with air conditioning and
-
 reclining seats, became the form of transportation. In 1987 Rose
 Harley and Valerie Hernandez were hired as the first women on the
 crew. In 1988 the crew spent 25 days in Alaska and the Blue Ridge
@@ -6705,16 +6689,14 @@ Leaders, three Lead Crewmembers and 13 seasonal employees.
 
 Year(s) | Superintendent
 :- | :-
-1973 - 1979 | JJ Dominguez
-1980 - 1983 | Adolfo Lopez
-1984 - 1995 | Chester Romero
-1996 - 1997 | Ron Bollier
-1998 - 2001 | Stu Gore
-2002 - 2012 | Paul Delmerico
-2013 - 2015 | Rich Sack
-2016 - Present | Tim Memmer
-
-**CREW HISTORY**
+1973-1979 | JJ Dominguez
+1980-1983 | Adolfo Lopez
+1984-1995 | Chester Romero
+1996-1997 | Ron Bollier
+1998-2001 | Stu Gore
+2002-2012 | Paul Delmerico
+2013-2015 | Rich Sack
+2016-Present | Tim Memmer
 
 The Carson National Forest began researching and planning for a
 Hotshot Crew in 1970. In 1972 the National Fire Plan was introduced
@@ -6735,8 +6717,6 @@ inception. The Crew was moved to Penasco, NM where the crew resided
 for over 20 years. In 1995, the Carson Hotshots were relocated to the
 Supervisor's Office in Taos NM, where the crew presently operates.
 
-.
-
 In 1973, The Crew's organization consisted of one permanent Hotshot
 Foreman position and two temporary Squad Boss positions, with the
 remaining personnel being temporary crewmembers.
@@ -6751,7 +6731,7 @@ Firefighters.
 
 ## Flagstaff
 
-![](swcc/swcc_flagstaff.png)
+![](swcc/swcc_flagstaff1.png) ![](swcc/swcc_flagstaff2.png)
 
 Year(s) | Superintendent
 :- | :-
@@ -6763,14 +6743,11 @@ Year(s) | Superintendent
 1990-2005 | Paul Musser
 2005-Present | Bill Kuche
 
-**Established 1972**
-
 In 1971, only one hotshot crew existed in Region 3, and they were
 stationed on the Gila National Forest. In 1972, Region 3 funded two
 more crews, one on the Apache Sitgreaves National Forest and the other
 on the Coconino National forest. The Flagstaff Hotshots became that
 first crew on the
-
 Coconino, established on March 20, 1972 as the Coconino Hotshots and
 stationed at the Flagstaff Ranger District. The following year, in
 1973, the crew name became the Flagstaff Hotshots.
@@ -6794,9 +6771,7 @@ Originally, only the superintendent had a radio, the crew used two
 Homelite chainsaws---one with a bow bar and a straight 24 inch
 bar---and personal protective equipment consisted of a pair of levi
 jeans, long sleeve fire shirt, metal hardhat and goggles
-
-![](media/image171.png){width="2.2291666666666665in"
-height="1.21875in"}supplied by the government; firefighters supplied
+supplied by the government; firefighters supplied
 their own gloves and boots.
 
 The Flagstaff Hotshots have had three different logos. The first was a
@@ -6819,11 +6794,6 @@ Year(s) | Superintendent
 2003-2006 | Dan Philbin
 2006-2011 | Trenton Prins
 2012-? | Brian Quintero (Detailed)
-
-1982-Present
-
-![](media/image172.jpeg){width="1.781048775153106in"
-height="1.613332239720035in"}
 
 The Ft. Apache Hotshot Crew's home base is in Whiteriver, AZ. The
 majority of crew personnel are members of the White Mountain Apache
@@ -6888,8 +6858,6 @@ Year(s) | Superintendent
 2010-2012 | David Provencio, Jr.
 2013-Present | Julius Hostetler
 
-History (1991 to Present) ]{.underline}
-
 The Geronimo Interagency Hotshot Crew (IHC) is hosted by the San
 Carlos Apache Tribal Natural Resources Program. The San Carlos Apache
 Reservation is located in Southeastern Arizona. Geronimo IHC began to
@@ -6927,10 +6895,6 @@ Hotshot Program.
 In 1996, the San Carlos Apache Tribal Natural Resources Program began
 administering the crew under a PL93-638 contract. Michael Longknife
 assumed the Superintendent position and hired
-
-[Geronimo Interagency Hotshot Crew History (1991 to Present)
-]{.underline}
-
 new crewmembers and squad bosses. Longknife, who had previously worked
 for the Globe and Helena Hotshots, helped advance the crew to its peak
 capabilities, like an IHC should perform. It was about this time that
@@ -7013,7 +6977,6 @@ helitack or member of the IR crew, as needed.
 
 As the 1970's drew to a close, another change came to the Hotshot
 program.
-
 1977 brought another IHC program to the Forest, the Silver City IHC in
 Silver City, NM. Not wanting a semblance of favoritism, no crew would
 carry the forest name. So, in 1978 the name of the crew was changed
@@ -7021,8 +6984,6 @@ from Gila to Negrito. The Negrito name was carried for over twenty
 years before the tentacles of political correctness firmly gripped the
 crew. The beloved "Negrito" name was changed, and the original "Gila"
 name was chosen in 1999.
-
-Those who have led the crew include the following:
 
 ## Globe
 
@@ -7045,7 +7006,7 @@ Year(s) | Superintendent
 2009-2011 | Mark Babieracki (Fuels detail 2012)
 2012 | Nate Barrett (Acting)
 2013 | Mark Babieracki
-2014 | Detailed
+2014 | ? (Detailed)
 2015-2017 | Dean Whitney
 2018-Present | Drew Maxwell
 
@@ -7053,7 +7014,6 @@ The Globe hotshots started in the mid 60's; these were known as the
 "Suppression Years." During that time, the Globe Ranger Station had
 two suppression crews, respectively A and B. These crews would fight
 fire and perform forestry related work.
-
 In the early 70's they became an Inter-Regional Hotshot Crew, and in
 1974, the crew became an Interagency Hotshot Crew. In 1974 and 1975,
 there was a Crew Boss and an Assistant, with 3 Squads. The only
@@ -7077,7 +7037,7 @@ Today we carry on the same professional tradition of Region 3 IHC's,
 as they had in the past. That tradition continues and lives on with
 duty, integrity and respect.
 
-**[Background on the Superintendents:]{.underline}**
+**Background on the Superintendents:**
 
 -   Bill Scarborough was the Physical Education teacher at Globe High
     School for 25 plus years, and coached their baseball team. He passed
@@ -7148,8 +7108,8 @@ duty, integrity and respect.
 
 Year(s) | Superintendent
 :- | :-
-
-1700 Iron Springs Road, Prescott, AZ 86305
+? | Tim McElwee
+?-2013 | Eric Marsh
 
 In the spring of 1990, the City Manager of Prescott, Forest Supervisor
 of the Prescott National Forest, and Prescott Fire Department Staff
@@ -7250,7 +7210,6 @@ up they are. They're a gorgeous bunch and every time I see them, I see
 the legacies of our 19 and I always cry. To us the Granite Mountain
 Hotshots aren't just a number, they're our husbands, dads, sons,
 brothers.
-
 Although we've passed the nine-year anniversary these men are loved
 beyond measure, our memories of them never fade, their love for us and
 our love for them is eternal. We will miss them forever.
@@ -7265,8 +7224,7 @@ Superintendent of the Granite Mountain Hotshots
 
 Year(s) | Superintendent
 :- | :-
-
-Ironwood Hotshots Final Summary 2015
+? | Greg Smith
 
 2014 will be the last year for the Ironwood Hotshots, with the final
 day of the season being October 3. This crew was the culmination of
@@ -7339,27 +7297,6 @@ National Wildfire Coordination Group (NWCG). In late 2009, the crew
 received their letter of certification from the NWCG, and started 2010
 as fully certified.
 
-The crew stayed busy throughout their time on the District. Their
-record shows:
-
-+------------+-------------------------+--------------------------------+
-| **Year** | **Total \# of Fires** | **Total Days on Assignment** |
-+============+=========================+================================+
-| **2008** | **17**                | **130**                      |
-+------------+-------------------------+--------------------------------+
-| **2009** | **21**                | **113**                      |
-+------------+-------------------------+--------------------------------+
-| **2010** | **21**                | **138**                      |
-+------------+-------------------------+--------------------------------+
-| **2011** | **14**                | **144**                      |
-+------------+-------------------------+--------------------------------+
-| **2012** | **18**                | **155**                      |
-+------------+-------------------------+--------------------------------+
-| **2013** | **13**                | **123**                      |
-+------------+-------------------------+--------------------------------+
-| **2014** | **14**                | **121**                      |
-+------------+-------------------------+--------------------------------+
-
 In 2012 and 2014, the crew worked under a contract with the Tohono
 O'odham Nation, spending weeks conducting fuels mitigation work around
 the observatories on Kitt Peak. These observatories have international
@@ -7384,7 +7321,6 @@ Superintendent rig, the two crew carriers, and another pick-up used to
 tow a UTV. At times, when the crew was responding to fires in the
 southern Arizona area, they would also take a Type 6 engine with them
 to increase their capabilities.
-
 The crew carriers were originally purchased by the District in 2003 to
 replace a bus that they had been using for the crew. In 2010 and 2011
 we replaced the cab and chassis on the buggies. The crew also acquired
@@ -7427,8 +7363,7 @@ Year(s) | Superintendent
 1978-1979 | Bob Ortlund
 1980 | Fred Schoeffler
 1981-1987 | Ben Cline
-1986 | Greg Stoyer
-1986 | Jon Selby (Off forest assignments)
+1986 | Greg Stoyer, Jon Selby (Off forest assignments)
 1988-1994 | Jeff Prevéy
 1995 | Bill Matney 
 1996-1997 | Carl Simons
@@ -7437,17 +7372,8 @@ Year(s) | Superintendent
 2003-2006 | Fred Thompson
 2007 | Kevin McPhee (detail)
 2008-2009 | Andy Bernard
-2010 | Patrick Moore (detail)
-2011-Current | Patrick Moore
-2013 | Crew moved to Mesa RD, Tonto NF
-2014 | Pleasant Valley name change to Mesa IHC
+2010-? | Patrick Moore (2010 detail)
 2020 | Tyler Chesarek (detail-Moore injured)
-
-**Mesa Hotshots 5140 E Ingram Street**
-
-**Mesa, AZ 85205**
-
-**Phone 480-610-3340 Fax: 480-610-3346**
 
 ***Duty, Respect, and Integrity***
 
@@ -7467,20 +7393,9 @@ move occurred over the winter of 2012-13 and had their final season
 named Pleasant Valley. In 2014, the name was changed to reflect their
 host district to Mesa IHC.
 
-![](media/image178.jpeg){width="1.5024245406824146in"
-height="0.9875in"}
-
-**Mesa Hotshots 5140 E Ingram Street**
-
-**Mesa, AZ 85205**
-
-**Phone 480-610-3340 Fax: 480-610-3346**
-
-***Duty, Respect, and Integrity***
-
 **Some Original Logos:**
 
-![](media/image179.jpeg)
+![](swcc/swcc_mesa_pleasant_valley1.png) ![](swcc/swcc_mesa_pleasant_valley2.png)
 
 ## Mescalero
 
@@ -7488,13 +7403,14 @@ height="0.9875in"}
 
 Year(s) | Superintendent
 :- | :-
+1986 | Gary Stone (detailed)
+1987-1988 | Steve Rowe
+1988-1994 | Leo LaPaz
+1994-1998 | Gary Ahidley
+1999-2003 | Leland Pellman
+2004-2006 | Lewellyn Mendez
 
-**1987 -- Present**
-
-![](media/image181.jpeg){width="1.9721270778652669in"
-height="1.953332239720035in"}
-
-**The Mescalero Apache Type I Crew, Mescalero Apache Hotshots
+The Mescalero Apache Type I Crew, Mescalero Apache Hotshots
 originated from the Mescalero Apache Redhats. Since then the Mescalero
 Apache Tribe under the guidance of the Bureau of Indian Affairs,
 Mescalero Agency established a Type I Crew in 1986 called the
@@ -7503,9 +7419,9 @@ Supervisor of the Mescalero Hotshots. The Crew was based out of the
 Mescalero Apache Indian Reservation at the Bureau of Indian Affairs,
 Branch of Forestry/Fire Management Complex (Apache Summit). The crew
 was dispatched during the '86 fire season to California, Washington,
-Oregon, Idaho, Wyoming, New York and various places in New Mexico.**
+Oregon, Idaho, Wyoming, New York and various places in New Mexico.
 
-**After one year as a Type I crew the Mescalero Interagency Hotshot
+After one year as a Type I crew the Mescalero Interagency Hotshot
 Crew was formed under the supervision of Mr. Steve Rowe in 1987. As
 the Crew Superintendent, Mr. Rowe supervised the Crew through the end
 of the 1988 fire season whereas Mr. Leo LaPaz was then appointed Crew
@@ -7516,18 +7432,18 @@ Leland Pellman was appointed the Crew Superintendent up until the end
 of the 2003 fire season. In 2004, Mr. Lewellyn Mendez assumed the
 position of crew superintendent until the end of the 2006 fire season.
 The crew is currently in the process of selecting an IHC
-superintendent.**
+superintendent.
 
-**The crew has been deployed to many incidents throughout the United
+The crew has been deployed to many incidents throughout the United
 States ranging from the West Coast to the East Coast and all points in
 between. Not only has the crew suppressed wildland fires but have
 assisted in hurricane relief, flood control, prescribed fire, fire use
-and fuels treatment and continues to do so today.**
+and fuels treatment and continues to do so today.
 
-**The crew is employed for a six month period under the fire
+The crew is employed for a six month period under the fire
 management program during the summer months and assists the home unit
 during the off season, funded by the fuels program at the home unit
-and surrounding communities.**
+and surrounding communities.
 
 ## Mormon Lake
 
@@ -7581,18 +7497,12 @@ fire community.
 
 Year(s) | Superintendent
 :- | :-
-2001 | Joe Julian (acting)
-2002-2005 | Joe Julian
+2001-2005 | Joe Julian (2001 acting)
 2006-2007 | Manuel Martinez (acting)
-2008-2009 | Brian Drinville 
+2008-2009 | Brian Drinville
 2010 | Edward Baca (acting)
 2011-2013 | Cathleen J. Lowe
 2014-Present | Chris Brashears
-
-2001-Present
-
-![](media/image183.jpeg){width="1.6932425634295714in"
-height="1.6554166666666668in"}
 
 The MT. TAYLOR HOTSHOTS were established in 2001 after the record
 breaking fire season of 2000. The crew was considered a type 1 trainee
@@ -7666,10 +7576,8 @@ In 2003, the Navajo IHC acquired a trailer, through government
 surplus, that was intended for use by the crew as office space and a
 training facility. However, due to the poor condition that the trailer
 was in, major repairs were needed prior to occupancy.
-
 Over several years, with purchases of supplies and equipment using
 hotshot funding, the
-
 crew was able to complete all major repairs, including building a deck
 and plumbing the building. In the fall of 2007, approval was given
 from facilities management to occupy the building. Living quarters
@@ -7705,19 +7613,9 @@ upheld by the tribal members within the crew. Each symbol used within
 the emblem signifies traditional and sacred values passed on from
 previous generations.
 
-**Vann Smith, Superintendent Navajo IHC**
-
-**BIA FIRE-Navajo Region**
-
-**P.O Box 1060 MC 443**
-
-**Gallup, NM 87305**
-
-**Office (928) 729-7382**
-
 ## Payson
 
-![](swcc/swcc_payson.png)
+![](swcc/swcc_payson1.png) ![](swcc/swcc_payson2.png)
 
 Year(s) | Superintendent
 :- | :-
@@ -7726,15 +7624,13 @@ Year(s) | Superintendent
 1978-1981 | Dale Ashby
 1981-1989 | Fred Schoeffler
 1990 | Tom Pearson (detailed)
-1991-1995 | Fred Schoeffler
+?-1995 | Fred Schoeffler
 1996 | Marty Rose (detailed)
-1997-1998 | Fred Schoeffler
+?-1998 | Fred Schoeffler
 1999 | Holly Maloney
-2000-2007 | Fred Schoeffler
+?-2007 | Fred Schoeffler
 2007 | James Osborne (detailed)
 2007-present | Mike Schinstock
-
-**PAYSON HOT SHOTS**
 
 Payson Hot Shots was one of several R-3 Hot Shot Crews established in
 1972, hired mostly as AD employees. In 1973, the Crew was more
@@ -7747,7 +7643,6 @@ Tonto N.F. within the State of Arizona on the back of a Filson vest.
 In 1975, Squad Boss Billy Hardt, designed the USFS shield outline with
 flame, lightning bolt, Pulaski, and tree. In 1976, the Crew adopted
 the 'Ruger Bird' and lightning bolt as designed by Donna Chapla.
-
 Payson Hot Shots has kept both of these as their emblems as well as
 the hallmark 'Superior Skill and Daring.'
 
@@ -7822,7 +7717,6 @@ Officer on the Prescott National Forest.
 Curtis Heaton who worked his way up through the ranks became
 Superintendent in 1999 where he remained until the end of the 2001
 fire season, he then moved on to the Fish and Wildlife Service as a
-
 Wildland Urban Interface Specialist. Curtis eventually returned to the
 Prescott National Forest and became the Forest Fire Management
 Officer. In 2008, Curtis left the Prescott National Forest to become
@@ -7832,7 +7726,6 @@ Jeff Andrews who also worked his way up through the ranks became
 Superintendent in 2002. Jeff remained in the position until 2005 and
 then took the positions of Assistant Fire Management Officer and
 Dispatch Center Manager at the Prescott Fire Center.
-
 Currently, he is the Prescott National Forest Fire Management Officer.
 
 Darin Fisher took a position as a Captain in 2000 after time on the
@@ -7859,7 +7752,7 @@ Catalina |
 1980-1981| Steve Palmer
 1981-1982| George Kleindienst
 Sacramento | 
-1982-1984 |  George Kleindienst
+1982-1984 | George Kleindienst
 1984| Jerry Grim
 1985-1987| Bob Pena
 1988-1989| Ricky Smith
@@ -7900,8 +7793,8 @@ from 1983 to present.
 
 Year(s) | Superintendent
 :- | :-
-1977-1978 |  Al Lopez
-1979-1984 |  Gary Olsen
+1977-1978 | Al Lopez
+1979-1984 | Gary Olsen
 1985 | Bill Moulton
 1986-1987 | James Dean (JD) Killick
 1988-1991 | Alan Gillette
@@ -7910,7 +7803,7 @@ Year(s) | Superintendent
 1997 | Robert Morales
 1998-1999 | Charlie Martin
 2000-2006 | Richard Tingle
-2007 | Vacant
+2007 | vacant
 2008-2010 | Chris D. Tipton
 2011-Present | David M. Simpson
 
@@ -7950,11 +7843,6 @@ Year(s) | Superintendent
 2011-2015 | Pedro "Pete" Valenzuela
 2016-2021 | Marcus Cornwell
 2021-Present | Harry Justin Romero
-
-**Gila National Forest**
-
-![](media/image190.jpeg){width="1.8883366141732283in"
-height="1.890624453193351in"}
 
 The Silver City Hotshots started in 1977 on the South end of the Gila
 National Forest on the Silver City Ranger District. The Gila National
@@ -8016,8 +7904,8 @@ fire season and runs until the middle to end of September. They have
 traveled as far as Alaska, Canada, Minnesota, Florida, and North
 Carolina and all throughout the western States.
 
-![](media/image191.jpeg){width="1.6073425196850393in"
-height="1.5675in"}**Past Logo**
+**Past Logo**
+![](swcc/swcc_silver_city1.png)
 
 ## Smokey Bear
 
@@ -8031,46 +7919,41 @@ Year(s) | Superintendent
 1999-2013 | Rich Dolphin
 2013-Present | Beau Jarvis
 
-Established 1976**
-
-![](media/image192.jpeg){width="1.4247976815398076in"
-height="2.1016655730533684in"}
-
-**Prior to the establishment of the Smokey Bear Hotshot Crew the
+Prior to the establishment of the Smokey Bear Hotshot Crew the
 Smokey Bear Ranger District, Lincoln National Forest utilized three
 six-man suppression crews. They were named Ruidoso, Eagle Creek, and
 Bonito. At one point there was a Ruidoso "Hotshot" Crew, comprised of
-volunteer firefighters.**
+volunteer firefighters.
 
-**The Smokey Bear Hotshot Crew was established in March 1976. The base
+The Smokey Bear Hotshot Crew was established in March 1976. The base
 of operations for the crew was and continues to be located in Ruidoso,
 New Mexico. The first crew consisted of 27 members with 7 day coverage
 of 20 people every day. The Washington Office approved the use of the
 name "Smokey Bear" due to the close proximity to the "Gap Fire" in the
-Capitan Mountains where Smokey Bear was found.**
+Capitan Mountains where Smokey Bear was found.
 
-**In 1976, the crew used a bunkhouse rented from the University of New
+In 1976, the crew used a bunkhouse rented from the University of New
 Mexico. This also served as the crew's duty station. The duty station
 relocated to the District Office in 1977. No housing was available at
 the District Office until 1999. Crew facilities at the district were a
 shared office converted from a vehicle bay. The crew facility moved to
 a shared office in the newly constructed "fire barn" in 1988. In 2001,
 a Fire Operations building was completed with offices, cache,
-conference room and weight room for the crew.**
+conference room and weight room for the crew.
 
-**In 1976, crew transportation was a school bus. In 1977, two rental
+In 1976, crew transportation was a school bus. In 1977, two rental
 vans provided transportation with fabricated plywood storage boxes
 affixed on top for tools and gear. From 1978 until 1984 agency vans
 were used. Beginning in 1984, a Superintendent Truck and two 10 person
-Crew Carriers have been used for transport.**
+Crew Carriers have been used for transport.
 
-**Transportation to assignments in the 70s and early 80s was often
+Transportation to assignments in the 70s and early 80s was often
 accomplished by use of a contract Convair 580, Douglas DC-3, or De
 Haviland Twin Otter aircraft. The crew would depart from airports in
 Alamogordo, Roswell, Holloman AFB and Albuquerque in New Mexico and El
-Paso, Texas.**
+Paso, Texas.
 
-**Issued equipment the first year was limited to a red hard hat
+Issued equipment the first year was limited to a red hard hat
 (assigned by the Regional Office), two nomex fire shirts, a one gallon
 canteen, a cruisers vest, a snake bite kit, a web belt with two
 1-quart canteens, a canvas pack for personal gear, and an early
@@ -8082,36 +7965,36 @@ are provided a full complement of line gear and all season overnight
 gear. Each crewmember is assigned a project saw with multiple saws
 carried for Incident Assignment. Up to 15 handheld radios are used for
 assignments as well as GPS, laptops, IPads, with remote access, and a
-satellite phone.**
+satellite phone.
 
-**Work projects the first couple of years consisted primarily of a
+Work projects the first couple of years consisted primarily of a
 fuel break constructed on Grindstone Mesa, the ridge between Cedar
 Creek and Brady Canyon, and Alfred Hale Ridge. Due to limited chainsaw
 availability, much of the thinning was accomplished by Pulaski, double
 and single bit axes. Current project work includes Rx burn
 preparation, Rx burning, thinning, trail maintenance and facility
-maintenance.**
+maintenance.
 
-**In the early years, physical conditioning consisted of group
+In the early years, physical conditioning consisted of group
 exercises and 1 to 3 mile runs up Cedar Creek or at a track that was
 located were the White Mountain middle school is now. A 1/4 mile
 fitness trail was constructed in 1978 by the Hotshot crew. A longer
 fitness trail of 1.3 miles was completed in 1980 and opened for public
 use. Currently crew runs up to 5 miles and fitness hikes are part of
 the PT program. The weight room is fully equipped and used daily
-including days with extended runs or hikes.**
+including days with extended runs or hikes.
 
-**In 1976, crew organization consisted of a permanent Hotshot Foreman
+In 1976, crew organization consisted of a permanent Hotshot Foreman
 and two temporary Squad Bosses, with the remaining personnel being
 temporary crewmembers. 1988 was the first year with female crew
-members, Bequi Parsons and Cheryl Boyd.**
+members, Bequi Parsons and Cheryl Boyd.
 
-**In 1991, the Foreman position was reclassified to Superintendent and
+In 1991, the Foreman position was reclassified to Superintendent and
 a permanent Assistant position was established (13/13). In 1997, two
 permanent Squad Boss (13/13) positions were established. Currently,
 the crew has eleven appointed positions, Superintendent (PFT), Captain
 (PFT), three Squad Leaders (18/8) and six Senior Firefighters
-(13/13).**
+(13/13).
 
 ## Zuni
 
@@ -8126,10 +8009,7 @@ Year(s) | Superintendent
 2014-2018 | Todd Etsate
 2019-Present | Rickey Booqua Jr.
 
-2001-Present
-
-![](media/image193.png){width="1.0110126859142607in"
-height="0.8899179790026247in"}The Bureau of Indian Affairs (BIA), Zuni
+The Bureau of Indian Affairs (BIA), Zuni
 Agency (Agency) established the Zuni Interagency Hotshot Crew (IHC)
 Program in September 2001. The IHC is based out of west-central New
 Mexico on the Zuni Indian Reservation, Zuni, NM. Zuni is one of 19
@@ -8150,14 +8030,12 @@ Upon receiving full funding from NIFC, the Zuni IHC was identified as
 a trainee crew from September 2001 to December 2003. The IHC's very
 first assignment was led by Carl Crawford to the devastated World
 Trade Center in 2001. Mr.
-
 Crawford was the Assistant Superintendent of the Chief Mountain
 Hotshot Crew for numerous years prior to accepting the Zuni IHC
 Superintendent position.
 
 In September 2003, the Agency submitted to the Southwest Coordination
 Center and to NIFC documentation requesting for full
-
 certification of the Zuni IHC as a Type I Interagency Hotshot Crew.
 
 In December 2003, the Agency was officially notified by Kirk
@@ -8168,6 +8046,5 @@ has been available and served as a national resource ever since.
 
 On August 12, 2004, the new Agency Fire Management Building was
 completed.
-
 This accommodated the Zuni IHC with modern office space, cache,
 training facilities, indoor crew carrier space, and a conference room.
