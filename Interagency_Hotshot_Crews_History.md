@@ -739,7 +739,7 @@ many new upgrades.
 
 ## Ruby Mountain
 
-![](gbcc/gbcc_ruby_mountain.png)
+![](gbcc/gbcc_ruby_mountain1.png) ![](gbcc/gbcc_ruby_mountain2.png) ![](gbcc/gbcc_ruby_mountain3.png)
 
 Year(s) | Superintendent
 :- | :-
@@ -1959,21 +1959,21 @@ in the wolf."
 
 ## Tahoe
 
-![](oncc/oncc_tahoe.png)
+![](oncc/oncc_tahoe_hobart.png) ![](oncc/oncc_tahoe.png)
 
 Year(s) | Superintendent
 :- | :-
-Hobart Inmate Crew |
+**Hobart Inmate Crew**
 1961-1970 | Les Bagby, Lynn Orr, Chuck Welch, Orv Houghan
-Hobart Crew |
+**Hobart Crew**
 1971 | Bob Riley
 1972 | Don Huber
-Hobart Hotshots |
+**Hobart Hotshots**
 1973-1975 | John King
 1975-1976 | Kris Kristofers
 1977-1978 | Dave Fields
 1979-1985 | Rusty Witwer
-Tahoe Hotshots
+**Tahoe Hotshots**
 1986-1995 | Rusty Witwer
 1996-2012 | Rick Cowell (retired in place)
 2013-2016 | Eric Rice
@@ -2414,7 +2414,7 @@ front of the Lower Falls and installing it at their Canyon quarters.
 
 ## Bitterroot
 
-![](nrcc/nrcc_bitterroot.png)
+![](nrcc/nrcc_bitterroot1.png) ![](nrcc/nrcc_bitterroot2.png)
 
 Year(s) | Superintendent
 :- | :-
@@ -2660,7 +2660,7 @@ prescribed burning.
 
 ## Idaho Panhandle
 
-![](nrcc/nrcc_idaho_panhandle.png)
+![](nrcc/nrcc_idaho_panhandle1.png) ![](nrcc/nrcc_idaho_panhandle2.png)
 
 Year(s) | Superintendent
 :- | :-
@@ -2924,9 +2924,11 @@ hotshot crew accomplishes a variety of project assignments such as
 prescribed burning, building and maintaining trails and performing
 building maintenance.
 
+![](nwcc/nwcc_baker_river_logos.png)
+
 ## Entiat
 
-![](nwcc/nwcc_entiat.png)
+![](nwcc/nwcc_entiat_crew.png) ![](nwcc/nwcc_entiat.png)
 
 Year(s) | Superintendent
 :- | :-
@@ -3054,7 +3056,7 @@ the Bushmen and the Entiat IHC.
 
 ## La Grande
 
-![](nwcc/nwcc_la_grande.png)
+![](nwcc/nwcc_la_grande_wallowa-whitman_ir.png) ![](nwcc/nwcc_la_grande.png)
 
 Year(s) | Superintendent
 :- | :-
@@ -3899,6 +3901,10 @@ mission is to provide a safe, professional, organized, highly
 motivated, highly skilled, and cost effective resource for wildland
 fire, natural resource management, and all-risk incidents. We take
 pride in what we do.
+
+**Scotty's Raider's, circa 1960's**
+
+![](rmcc/rmcc_pike_1960s_scottys_raiders.png)
 
 ## Roosevelt
 
@@ -5156,7 +5162,7 @@ will mark 50 years from the time the Fulton Hotshots were established.
 
 ## Golden Eagles
 
-![](oscc/oscc_golden_eagles.png)
+![](oscc/oscc_golden_eagles.png) ![](oscc/oscc_golden_eagles_tribe.png)
 
 Year(s) | Superintendent
 :- | :-
@@ -5868,7 +5874,9 @@ United States.
 
 ## Mill Creek
 
-![](oscc/oscc_mill_creek.png)
+Original Logo from 70’s and 80’s | Current Crew Logo
+:-: | :-:
+![](oscc/oscc_mill_creek_1975.png) | ![](oscc/oscc_mill_creek.png)
 
 Year(s) | Superintendent
 :- | :-
@@ -6187,7 +6195,7 @@ Hotshot Crew. In 2003 Jimmie Rocha became our Superintendent.
 
 ## Sierra Hotshots
 
-![](oscc/oscc_sierra.png)
+![](oscc/oscc_sierra.png) ![](oscc/oscc_sierra_patch.png)
 
 Year(s) | Superintendent
 :- | :-
@@ -6311,7 +6319,7 @@ homestead Texas Canyon after their home state. Early maps of the area
 indicate that in 1926, the Texas Canyon Guard Station and three other
 Forest Fire Guard Stations were in service on the Saugus District of
 the Angeles National Forest. From about 1933
-- 1942 Texas Canyon hosted a Civilian Conservation Corps. Camp, which
+-1942 Texas Canyon hosted a Civilian Conservation Corps. Camp, which
 was part of the New Deal of President Franklin D. Roosevelt. In the
 1950's, the U.S. Forest Service received an Army Corps of Engineers
 contract for a stabilization and drainage project on a road under
@@ -6346,7 +6354,7 @@ served as Superintendent from 2002 to 2016.
 
 ## Valyermo
 
-![](oscc/oscc_valyermo.png)
+![](oscc/oscc_valyermo.png) ![](oscc/oscc_valyermo_crew4.png)
 
 Year(s) | Superintendent
 :- | :-
@@ -6429,7 +6437,7 @@ world of Fire Suppression.
 
 Crew Logo 2016-2019 | Current Crew Logo
 :-: | :-:
-![](swcc/swcc_aravaipa_2016-2019.png | ![](swcc/swcc_aravaipa.png)
+![](swcc/swcc_aravaipa_2016-2019.png) | ![](swcc/swcc_aravaipa.png)
 
 Year(s) | Superintendent
 :- | :-
@@ -7905,6 +7913,7 @@ traveled as far as Alaska, Canada, Minnesota, Florida, and North
 Carolina and all throughout the western States.
 
 **Past Logo**
+
 ![](swcc/swcc_silver_city1.png)
 
 ## Smokey Bear
