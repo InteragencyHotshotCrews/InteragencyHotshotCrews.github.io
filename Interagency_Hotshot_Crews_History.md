@@ -159,6 +159,68 @@ Hotshot Crews before us.
 
 Sacrifice. Service. Old School.
 
+# Eastern
+
+## Midewin
+
+![](sacc/sacc_midewin.png)
+
+Year(s) | Superintendent
+:- | :-
+2001 | Steve Little (detailed)
+2002 | Dave Martin (detailed)
+2002 | Lito Contreras (detailed)
+2002 | Michael Frederick
+2003 | Rich Stiles (detailed)
+2003 | Russell Harris (detailed)
+2003 | Gordon Admundson (detailed)
+2004 | Lito Contreras
+2005-2007 | Bob Little
+2007-? | Jerry Hoffman (detailed)
+2009-2010 | Rick Moreno
+2012-Present | Jerry Hoffman
+
+The Midewin (mi-day-win) IHC was established in April of 2001 as a
+result of the National Fire Plan.
+
+The Midewin National Tallgrass Prairie in Wilmington, IL (the crew's
+host unit) was established in 1996 and is the first national tallgrass
+prairie in the country. It is administered by the U.S. Forest Service
+and with the support of hundreds of volunteers and partner agencies,
+businesses, and organizations.
+
+The crew is the only IHC in Region 9 of the US Forest Service.
+
+The first employees arrived in July of 2001 and the crew was
+operational by early August. Due to the late start, the crew was only
+on two assignments in 2001, the Rex Creek wildfire in Washington and
+the World Trade Center Relief Effort in New York City. The Midewin IHC
+received the Forest Service Chief's award for emergency assistance for
+the work performed in New York. The crew was temporarily based in 3
+trailers at the Midewin National Tallgrass Prairie. The crew moved
+into our current facilities in October of 2004.
+
+2004 was an extremely difficult season
+for the Midewin IHC. On April 24^rd^ Alan Toepke was fatally injured
+in an off-duty traffic accident while returning from a fire assignment
+in Florida. The crew stood down for 2 ½ months but was able to finish
+the season strong with several good assignments in July through
+September. During the stand down the majority of the crew traveled to
+the Superior National Forest for a 30 day detail for initial attack
+and fuels management projects. At the time of the accident the crew
+was pursuing its certification as a fully qualified IHC.
+
+The crew was certified as a fully qualified Interagency Hotshot Crew
+on July 30^th^, 2006 while assigned to the Cavity Lake fire on the
+Superior National Forest.
+
+The crew is typically operational from early March till early
+September. Generally, the crew begins the season by supporting initial
+attack efforts and prescribed fire east of the Mississippi River
+before heading west. The crew has been able to establish a reputation
+of being a hard working crew that spends most of the time away from
+the host unit.
+
 # Great Basin
 
 ## Alta
@@ -4281,66 +4343,6 @@ the crew consistent of temporary employees from GS-3 to GS-6. Outside
 of the scheduled fire season which runs from March through September,
 the career staff supports inter-agency partners in implanting
 prescribed fires and other land management projects.
-
-## Midewin
-
-![](sacc/sacc_midewin.png)
-
-Year(s) | Superintendent
-:- | :-
-2001 | Steve Little (detailed)
-2002 | Dave Martin (detailed)
-2002 | Lito Contreras (detailed)
-2002 | Michael Frederick
-2003 | Rich Stiles (detailed)
-2003 | Russell Harris (detailed)
-2003 | Gordon Admundson (detailed)
-2004 | Lito Contreras
-2005-2007 | Bob Little
-2007-? | Jerry Hoffman (detailed)
-2009-2010 | Rick Moreno
-2012-Present | Jerry Hoffman
-
-The Midewin (mi-day-win) IHC was established in April of 2001 as a
-result of the National Fire Plan.
-
-The Midewin National Tallgrass Prairie in Wilmington, IL (the crew's
-host unit) was established in 1996 and is the first national tallgrass
-prairie in the country. It is administered by the U.S. Forest Service
-and with the support of hundreds of volunteers and partner agencies,
-businesses, and organizations.
-
-The crew is the only IHC in Region 9 of the US Forest Service.
-
-The first employees arrived in July of 2001 and the crew was
-operational by early August. Due to the late start, the crew was only
-on two assignments in 2001, the Rex Creek wildfire in Washington and
-the World Trade Center Relief Effort in New York City. The Midewin IHC
-received the Forest Service Chief's award for emergency assistance for
-the work performed in New York. The crew was temporarily based in 3
-trailers at the Midewin National Tallgrass Prairie. The crew moved
-into our current facilities in October of 2004.
-
-2004 was an extremely difficult season
-for the Midewin IHC. On April 24^rd^ Alan Toepke was fatally injured
-in an off-duty traffic accident while returning from a fire assignment
-in Florida. The crew stood down for 2 ½ months but was able to finish
-the season strong with several good assignments in July through
-September. During the stand down the majority of the crew traveled to
-the Superior National Forest for a 30 day detail for initial attack
-and fuels management projects. At the time of the accident the crew
-was pursuing its certification as a fully qualified IHC.
-
-The crew was certified as a fully qualified Interagency Hotshot Crew
-on July 30^th^, 2006 while assigned to the Cavity Lake fire on the
-Superior National Forest.
-
-The crew is typically operational from early March till early
-September. Generally, the crew begins the season by supporting initial
-attack efforts and prescribed fire east of the Mississippi River
-before heading west. The crew has been able to establish a reputation
-of being a hard working crew that spends most of the time away from
-the host unit.
 
 # Operations Southern California
 
