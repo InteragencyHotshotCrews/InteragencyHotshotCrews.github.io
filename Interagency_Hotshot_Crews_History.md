@@ -1,16 +1,9 @@
- **HOTSHOT CREW**
+# HOTSHOT CREW HISTORY IN AMERICA
 
-**HISTORY IN AMERICA**
-
-![](media/image1.jpeg){width="4.803778433945757in"
-height="4.113333333333333in"}
+![](shico.png)
 
 **PRODUCED BY THE NATIONAL INTERAGENCY HOTSHOT CREW STEERING
-COMMITTEE**
-
-August 2022
-
-![](media/image2.png)
+COMMITTEE, August 2022**
 
 # Alaska 
 
