@@ -159,11 +159,11 @@ Hotshot Crews before us.
 
 Sacrifice. Service. Old School.
 
-# Eastern
+# Eastern Area
 
 ## Midewin
 
-![](sacc/sacc_midewin.png)
+![](eacc/eacc_midewin.png)
 
 Year(s) | Superintendent
 :- | :-
@@ -1060,1285 +1060,6 @@ in regards to fuels projects and providing experienced personnel in
 leadership roles. Kenney Bochniak, an original crewmember from 2001,
 and Paul Davis are the current crew foreman. In December 2014 the crew
 moved into a new operations building on BLM land in Pocatello.
-
-# Operations Northern California    
-
-## American River
-
-![](oncc/oncc_american_river.png)
-
-Year(s) | Superintendent
-:- | :-
-2005-2008 | Charlotte Wild Jordan 
-2008-2016 | Adam Leyba
-2016-Present | Matt Radtke
-
-The American River Hotshot are based on the Tahoe National Forests
-American River Ranger District. The American River Ranger District was
-formerly the Foresthill Ranger District. The American River Hotshots
-received Hotshot certification in 2005. Before 2005 the American
-River/Foresthill Ranger District had some form of a crew from 10 man
-brush disposal crews to Type 2 and Type 2IA crews since the 60s. The
-goal of the American River Hotshots is to uphold the standards and
-traditions of the Hotshot Community.
-
-## Beckwourth
-
-![](oncc/oncc_beckwourth.png)
-
-Year(s) | Superintendent
-:- | :-
-2017‐Present | Mike Wintch
-
-Prior to the 2001 MEL funding build‐up, the crew existed as two fuel
-modules. One was based at the Beckwourth Ranger District office in
-Blairsden and the other on the east side of the District at the
-Laufman Work Center. In 2003 the crews were combined and became Plumas
-Crew 1, Type 2 I.A. crew and the following year named the Beckwourth
-Handcrew after the district it serves. From 2004 until 2006 overhead
-positions remained unfilled keeping the crew staffed as a Type 2 I.A.
-crew. 2006 was the first year the crew's overhead was staffed at Type
-1 IHC standards and on the boards as an IHC training crew. In May of
-2007 the Beckwourth Handcrew obtained Hotshot certification and lasted
-until the winter of 2007/2008, when the majority of the Overhead
-promoted or moved on and the crew was down staffed to a Type 2 I.A.
-crew.
-
-The Beckwourth Handcrew in 2016 once again filled all of the overhead
-positions as required by the SIHCO and began planning for
-certification pending an imbedded review, for the 2017 fire season. On
-September 22, 2017 the Beckwourth Handcrew re‐obtained Type 1 IHC
-status.
-
-## Diamond Mountain
-
-![](oncc/oncc_diamond_mountain.png)
-
-Year(s) | Superintendent
-:- | :-
-1992 | Mike Bowles
-1993-2001 | Kurt LaRue
-2001-2005 | Ed Merrill
-2006-2008 | Steve Shaw 
-2009-Present | Dan Varney
-
-The Diamond Mountain Interagency Hotshot Crew were born in the spring
-1992 under the guise of increasing the Bureau of Land Management's
-commitment to contribute resources to the national fire suppression.
-The crew was the second BLM hotshot crew in California and the fifth
-crew in the nation. The Diamond Mountain Range west of Susanville, CA
-lends to its name to the crew as its rocky crest provide a constant
-visual reminder and keeps a watchful eye upon the high desert.
-
-The original 1992 crew spawned from Crew 3221, the Initial Attack
-Dawgs, a 10-person initial attack crew that worked in and around
-Susanville in 1990 and 1991. Mike Minton was offered a JATC position
-in the spring of 1992 and became the first official of the "soon to
-be" hotshot crew. An unlikely cast of characters joined Minton for the
-1992 season including Mike Bowles, who was hires as the first
-superintendent, and Kevin Chambers who was selected as the foreman.
-The Northern California Regional Fire Staff in Susanville supervised
-the 1992 crew. The 1992 crew season saw many growing pains as the
-aspired to become a well-respected crew in a region well known for its
-hotshot crews. The crew responded to twenty incidents in a busy '92
-fire season including the 68,000-acre Fountain Fire in Shasta County.
-Extra curricular events during the Cleveland Fire in late September
-led to a change in supervision for the crew for the 1993 season
-
-Kurt LaRue was hired as new Superintendent in the fall of 1992 and
-reported soon thereafter, with supervision of the crew being shifted
-to the present-day Eagle Lake Field Office in Susanville. Kurt brought
-many years of experience to his new crew after a long stint with the
-Stanislaus, Horseshoe and Fulton Hotshots. Kurt retained Chambers as
-foremen and added Ken Henson as a second. A new image was forged along
-with many new faces for the 1993 season, many of which became
-mainstays within the crew and contributed much to the present day
-success and reputation of the crew including Keith Barker, Robert
-Holt, and Edward Merrill. 1993 also saw rise to 'MO', the PT hill
-still utilized by the crew to this day. The crew completed a
-successful 1993 fire season and built a formable foundation by which
-to continue into the future. Twenty years later, the crew continues to
-deliver a quality product and achieve success following the ideals and
-beliefs of our earlier years.
-
-Minton designed the first crew logo, and like much of the 1992 crew
-only lasted one season. A new logo and a new crew color were ready for
-the 1993 season, but failed to meet the approval of the new
-superintendent. 9914 finally saw a logo very much similar to the logo
-of today. Minton was again responsible for this logo and it was
-printed upon dark charcoal shirts, which also remain in 2007. The logo was modified in 1995 wit the adding of the
-"old English" script. The last modification to the Diamond Mountain
-logo was made in 1999 by adding "Malum Necessarium".
-
-The original crew utilized a make shift station in the BLM yard until
-they finally found a home in 1995 and moved into the old Caltrans
-building on Main Street in Susanville. It was a suitable facility and
-the crew called it home until 2003 when Caltrans decided to put the
-building up for sale, thus ending one of the greatest lease deals in
-history at \$200.00 a month. After a tiresome search, Superintendent
-Merrill finally secured a new home south of Susanville near the
-airport in the Turner Complex. The new facility offered a few upgrades
-with indoor plumbing and heating and actual office space. 2004 again
-saw the crew move supervision, moving back to working under the fire
-staff of NORCAL BLM. The crew moved their new home new and current
-home, The Hidden Valley Fire Facility, lying within the shadow of
-'MO', in August 2009.
-
-Crew transportation was originally compromised of a mismatched fleet
-of GSA vehicles that finally left for good in1995 season. Borrowed,
-green, Forest Service crew hauls found their way to Susanville from
-the Tahoe and Stanislaus for the 1994 season. The crew quietly
-converted them to BLM vehicles by applying our trademark, magnetic
-logo to the doors. The crew took delivery of their new yellow crew
-hauls in 1996 and continually modified them until they were replaced
-in 2003 by shiny new buggies. The old buggies were unique with their
-ergonomically designed windows, rear suicide door, and cleverly
-mounted exhaust. The exhaust won acclaim from the ground support
-personnel across the west as the crew attempted to demob incidents.
-This year we lost Jake Garate; he accepted the superintendent position
-of the Wolf Creek IHC. Garrett Dunn is the crew Foreman since April of
-2015.
-
-## Eldorado
-
-![](oncc/oncc_eldorado.png)
-
-Year(s) | Superintendent
-:- | :-
-1981 | Milt Clark
-1982-1988 | Barry Callenberger
-1989-1995 | Greg Keller
-1996-2010 | Mike Beckett
-2010-2015 | Will Harris
-2016-2019 | Aaron Humphrey
-2019-present | Ben Strahan
-
-On May 19, 1981, Lynn Biddison, director of Aviation and Fire
-Management initiated the Eldorado Hotshots. Up until 1976, all four
-districts on the Eldorado National Forest maintained a ten- person
-fire suppression crew. In 1977 the Amador District gave up their crew,
-which in turn was absorbed by the Placerville District. The two hand
-crews were combined to form a single 20- person crew. They shared
-common transportation and days off. The crew was known as the Sly Park
-Fire Suppression Crew. During the winter of 1980, the Eldorado
-National Forest proposed to Region Five to change this crew into a
-Type 1-fire crew; on May 19, 1981, the crew became the Eldorado
-Hotshot Crew, to be stationed at Sly Park on the Placerville Ranger
-District. The Hotshots designed and constructed their own facility,
-including men's and women's barracks, laundry facility, office and
-workshop.
-
-The first Superintendent was Milt Clark. He was detailed into the
-position during this first fire season. During the fall of 1981, the
-Palomar Hotshots became victim to a reduction in the workforce. Their
-displaced Superintendent, Barry Callenberger, found a home on the
-Eldorado Hotshots for the 1982 fire season and stayed with the crew
-until 1988.
-
-In the winter of 1989, Greg Keller, who had been the foreman from 1981
-to 1988, became the next Superintendent. He held the position until
-1995, when he decided to move on to greener pastures in Idaho as a
-Battalion Chief.
-
-The winter of 1995 brought on a change of leadership as Mike Beckett
-became Superintendent. After details in the 2009 and 2010 fire season
-as Division Chief, Mike officially became the South Division Chief of
-the El Dorado National Forest in July 2010.
-
-In the winter of 2010, Will Harris, who had been Captain from 2004 to
-2010, accepted the Superintendent job in November. Will had previously
-detailed into the Superintendent position during the 2009 and 2010
-fire seasons.
-
-Fire season 2015 started with Will detailed as Battalion 61 finishing
-as Division 6. Aaron Humphrey detailed as Superintendent. That fall
-Will moved on from 15 years with the crew accepting the Georgetown
-Division Chief position. New leadership was ushered in by Aaron
-Humphrey accepting the Superintendent position in December 2015.
-
-In 2019 after serving 20 years on the Eldorado Hotshots, Aaron
-Humphrey left the crew and Forest Service, to pursue a life outside
-the agency. It was at this time that Ben Strahan took over the crew,
-and he is currently the Superintendent of the Eldorado Hotshots.
-
-## Elk Mountain
-
-![](oncc/oncc_elk_mountain.png)
-
-Year(s) | Superintendent
-:- | :-
-2003-2004 | Grant Montgomery
-2005 | Jon Teutrine
-2006-2007 | Bret Murphy
-2008-2010 | Richard Tingle
-2011 | Donovan Lee
-2012-2014 | Cheveyo Munk
-2015 | Kyle Betty (detail)
-2016-Present | Reymundo Reyes
-
-The ***Elk Mountain Hotshots*** is hosted by the Upper Lake Ranger
-District on the Mendocino National Forest in Upper Lake, California.
-The crew was established in 2002 under the MEL build up in Region
-Five. The crew was originally known as Mendo 49. In 2003 the name Elk
-Mountain Handcrew was established after a local mountain. While on
-forest the crew's official name is Crew 4.
-
-**In June 2009 a regional certification team came and certified the
-Crew becoming Elk Mountain Hotshots.**
-
-## Feather River
-
-![](oncc/oncc_feather_river.png)
-
-Year(s) | Superintendent
-:- | :-
-2003-Present | Robert Daniels
-
-The Feather River hotshots were established April, 2003. In 2001 the
-Plumas National Forest got the funding for two additional twenty
-person Type 1 Crews, and seeing the need for a Type 1 crew on the west
-side of the forest the decision was made to place one of these crews
-on the Feather River Ranger District. The year prior the funding was
-for a 10 person fire crew this crew was called Crew 3 and was put into
-service May of 2001 but due to overhead turnover this crew was
-disbanded.
-
-The Feather River Hotshots operated as a Type 2 Handcrew for the first
-two years until August, 2005 when they officially got there Hotshot
-status. The Hotshot Certification team consisted of: Deputy Fire Chief
-and Team leader-Don Will from the Tahoe National Forest, Division
-Chief Scott Brockman from the Mendocino National forest, and Division
-Chief Mike Cherry from the Tahoe National Forest. Upon Completion of
-the Certification Don Will presented the crew with a railroad spike he
-removed from a tree during the field portion of the certification. He
-presented this spike to the crew to represent the old saying "Driving
-the Spike". After this we implemented the Spike in our crew emblem to
-remind us to "always drive the Spike". Our Crew Emblem also represents
-the Feather River which our district is named after.
-
-The first 3 years the Crew transportation consisted of 3 six pack
-pick-up trucks and one holdover ½ ton pick-up truck as a supt. Rig.
-During this period there was sufficient funding for supplies but new
-buggies and superintendent rig were ordered late so these were still a
-year or two out. Management on the district played a critical role in
-keeping the crew when there was talk about two 10-persen crews on the
-forest in lieu of.
-
-## Klamath
-
-![](oncc/oncc_klamath.png)
-
-Year(s) | Superintendent
-:- | :-
-2001-2019 | Johnny Clem
-2017 | Andy Zink  (Detailed)
-2018 | Kevin Smyth (Detailed)
-2019-Present | Andrew Zink
-
-The Klamath Hotshots were established as part of the National Fire
-Plan in response to the devastating fires of 2000. The maximum
-efficiency level (MEL) for the Klamath National Forest called for the
-addition of an Interagency Hotshot Crew and the Oak Knoll Work Center
-was selected as the host site. Johnny Clem was selected as the
-superintendent of the Klamath IHC, and was able to gain certification
-as an IHC in August of the crew's first year. Transportation for the
-crew was originally "six packs" provided by the forest. Mid-way
-through the first year the crew took delivery of two new International
-crew hauls.
-
-In, 2003, the crew was able to complete the construction of two new
-bunkhouses with rooms for up to 18 personnel.
-
-In 2009, the overhead moved out of the barn, which had served as the
-crew's office since its inception and into a modular office space with
-room for training. Until this time all classes facilitated by the crew
-were held in the local Klamath River Community Hall. And the next year
-in 2010, two new crew hauls and a new superintendent vehicle were
-delivered to the base. Those vehicles continue to log numerous miles
-responding to emergency incidents around the nation today.
-
-The crew continued to expand with the opening of a new KIHC office on
-the Oak Knoll compound in 2013. It provides more space for gear
-storage, and additionally a squad room that hosts the Squad leaders
-and Senior Firefighters to work and have non-formal meetings. The new
-building delivers a comfortable work environment year-round as the
-training room facilitates not only the Crew but the District, and
-forest staff. Along with the new office there is a saw shop, welding
-and tool room built to accommodate the growing needs of the crew.
-
-In 2019, the crew saw the end of an era with long time, and original,
-superintendent Johnny Clem accepting the position of Deputy District
-Ranger for KNF Happy Camp/Oak Knoll. However, the tradition continues
-to be carried on with the hiring of Andrew Zink as the new
-superintendent. Andy, better known as "Butters," originally begin with the crew in 2002,
-moving up through the ranks as Apprentice, Senior, Squad Boss, and
-Captain over his career. Adding to the depth of the overhead the crew
-has welcomed Isaac Flattley as Captain to counterpart Kevin Smyth.
-
-For physical training the crew can often be found hiking its PT hill
-behind the Oak Knoll Work Center. Red Line, the Repeater and The Wall
-are a few of the more memorable spots that can be found along the way.
-A few new hikes have been added since the crew's first year, but the
-original route up the hill is still in use to this day. A fully
-equipped workout facility in a reclaimed building on the compound,
-pull-up bars and volleyball court are available to the crew for
-additional physical training.
-
-## Lassen
-
-![]()
-
-Year(s) | Superintendent
-:- | :-
-1974-1977 | Don Wallace
-1977-1978 | Joe Carvello
-1980-2002 | Jim Jimenez (retired in place)
-1997 | Stan Kubota (detailed)
-2003-2006 | John Bristow
-2007 | Mike Sherman (detailed)
-2008 | Allen Schultze (detailed)
-2009-2014 | Fred Brewster
-2015-Present | Allen Schultze
-
-The Lassen Hotshots were formed in the summer of 1974. The crew was
-placed at Bogard Work Center on the Eagle Lake Ranger District of the
-Lassen National Forest. Don Wallace was named the first superintendent
-of the Lassen Hotshots. Don ran the crew until 1977, at which time Joe
-Carvelo took over. Due to a budget crisis in 1978, the crew, along
-with numerous others, was shut down. This was known as "Black Friday"
-in the hotshot world. Due to a very active fire season in 1979, and
-the lack of appropriate resources to deal with the many fires, the
-decision was made to bring back several of the disbanded crews.
-
-So in April of 1980, the Lassen Hotshots came back to life under the
-leadership of Jim "Jaime" Jimenez. Lassen was one of the first crews
-to travel to Alaska in the 1980's, and along with the El Dorado
-Hotshots, the first to fight fire internationally in Canada.
-Also, Lassen has hosted numerous international firefighters from
-Chile, India and Australia.
-
-For twenty-two years Jaime served as the Lassen Hotshot
-Superintendent, training captains, squad leaders, and countless
-crewmembers. Many of these hotshots returned to honor Jaime in the
-spring of 2003, along with friends, family and several other hotshot
-superintendents for his retirement party. Throughout his long and
-prolific career Jaime exemplified the hotshot work ethic of never
-quitting, always challenging himself and those around him, and by
-putting honesty, duty and integrity above all else.
-
-In that tradition, John Bristow was chosen as the next Superintendent
-prior to the 2003 fire season. John service as superintendent lasted
-until the spring of 2007 when detailing to the Fire Management Officer
-position for the Almanor Ranger District, and going on to accept the
-position in the spring of 2008.
-
-In the spring of 2009, Fred Brewster was selected as the next
-Superintendent. Fred's dedication and service as superintendent saw
-the crew thru six seasons of hard work, tradition, and many fun and
-exciting shifts to the end of the 2014 fire season. With Fred's long
-respected career as a California Hotshot behind him, Fred will
-continue to be a prolific leader as an Air Attack out of the Chester
-Air Base.
-
-With the beginning of 2015, we find Allen Schultze as the new
-Superintendent to carry the Lassen Hotshot tradition into the future.
-
-The Lassen Hotshots are proud to be a part of the California Hotshot
-community. We continually strive for excellence and to uphold our
-interagency hotshot crew values.
-
-## Mad River
-
-![](oncc/oncc_mad_river.png)
-
-Year(s) | Superintendent
-:- | :-
-2001-2002 | Tim Diaz
-2002-2003 | George Mason
-2003-2009 | Ernie Weber
-2009 | Don Perez
-2010 | Ernie Villa
-2011-Present | Tad Hair 
-
-The Mad River Handcrew has been proudly serving the U.S. Forest
-Service since it was established in 2001 on the Mad River Ranger
-District, of the Six Rivers National Forest as a type II training
-Hotshot crew. The crew reached its long time goals and achieved its
-IHC status in May of 2013. Tenacity and perseverance are the two words
-that best describe the character of the crew. The crew will uphold the
-tradition of being professional wildland firefighters and will
-diligently support the overall mission of the United States Forest
-Service while, protecting life, property and our natural resources.
-
-The crew overhead structure consists of seven career positions, one
-GS-462-09 Superintendent with two GS-462-08 Captains, two GS-462-07
-Squad Leaders , four GS- 462-05 Lead Firefighters, and up to thirteen
-employees; comprised of temporary seasonal, detailers, and
-apprentices.
-
-## Mendocino
-
-![](oncc/oncc_mendocino.png)
-
-Year(s) | Superintendent
-:- | :-
-1974-1977 | Bob Moore
-1978 | Rusty Witwer
-1980-1986 | Jerry Barney
-1987-1988 | Larry Edwards
-1988-1994 | Don Will
-1995-2000 | Bill Pierce
-2001-2006 | Daren Dalrymple
-2007-2015 | Jon Tishner
-2015-2019 | Chris Markey
-2020-Present | Ernest Ceccon
-
-Like several other IHC's the Mendocino Hotshots were established in
-1974 under the direction of Superintendent Bob Moore. During the first
-year the crew was split into two locations on the same district. Ten
-people were in Alder Springs and ten were located approximately forty
-miles away, in Stonyford, due to facility constraints. In 1975 all
-members were brought together and placed in Alder Springs, where they
-remained through the 1986 season.
-
-During the twelve years at Alder Springs the crew had two other men
-lead them. In 1978 Rusty Witwer took over as Superintendent for the
-1978-79 seasons until he left to become the Hobart Hotshot
-Superintendent. During the remaining six seasons of the Alder Springs
-era the crew was led by Superintendent Jerry Barney (1980-1986).
-
-In 1987 the crew was moved back to the base of the Coast Range in
-Stonyford, California. With the change in locations came a change in
-Superintendents. Larry Edwards was hired as Superintendent and
-remained in that position for the 1987 and part of the 1988 season.
-
-Don Will took over as Superintendent during the 1988 season. Don took
-the crew through the remainder of its first 20 years. Don was the
-Superintendent for a total of six seasons and left the crew after the
-1994 season.
-
-Bill Pierce was hired as the Superintendent in 1995. With this change
-in Superintendents came changes in the crew logo and crew colors. The
-Mendocino color went from blue to black in 1996. Bill remained
-superintendent thru the 2000 fire season.
-
-In 2001, due to lack of qualified supervision, the hotshot crew status
-was temporarily removed. Rich Rushforth was then detailed into the
-Superintendent position to keep the crew on and fighting fire. The
-traditional Mendocino Hotshot logo and colors of Navy blue were then
-brought back, and it remains that way today.
-
-Daren Dalrymple was hired as the Superintendent in October of 2001.
-Additional qualified, permanent overhead was hired before the 2002
-season and the Interagency Hotshot crew status was regained with a lot
-of hard work and pride during the 2002 fire season.
-
-Jon Tishner was hired behind Daren Dalrymple in 2007. He was the
-Superintendent for 8 seasons and instilled great work ethic and
-integrity upon the crew. Jon served as the IHC Co-chair and helped
-incorporate the Rattlesnake Staff ride as part of the Advanced
-Wildland Fire Apprentice Program curriculum.
-
-Chris Markey detailed as the Superintendent for the 2015 season when
-Jon accepted an Air Attack position and Chris became the formal
-Superintendent January of 2016.
-
-Ernest Ceccon detailed into the position for the second half of the
-2019 fire season and was hired into the permanent position in 2020.
-
-## Modoc
-
-![](oncc/oncc_modoc.png)
-
-Year(s) | Superintendent
-:- | :-
-2001 | John Ryan
-2002-2006 | Greg Keller
-2007-? | Bob Beebe
-2010 | Terry Walters
-2011 | unstaffed
-2012-present | Willie Almand
-
-The Modoc Interagency Hotshot Crew came into existence after the
-conclusion of the 2000 fire season. At that time, it was decided by
-wildland fire managers and the United States Congress to fund national
-suppression efforts at the "Most Efficient Level" or MEL.
-
-In 2001 the Modoc Interagency Hotshot Crew started operations on the
-Modoc National Forest, working out of the old Canby Ranger Station.
-The old Canby Ranger District has now been absorbed into the Devils
-Garden Ranger District. The crew has taken over the entire compound
-with adequate space for office facilities, barracks, warehouse,
-workshop, storage, training and a physical fitness workout room.
-
-The crew works directly for the forest fire staff. Direct supervision
-comes from Forest Fire Management Officer, and second level
-supervision comes from Kimberly Anderson, Forest Supervisor.
-
-The original crew structure consisted of John Ryan, Superintendent,
-Bob Beebe and Joe Johnston, Foreman. The crew was outfitted with the
-minimum compliment of tools, vehicles and equipment. The crew was
-assigned as a Type I (T) crew for the season, pending crew
-certification.
-
-In 2002, Greg Keller was brought in as Superintendent to run the crew.
-The crew Foreman continued with Bob Beebe and Joe Johnston. The crew
-had a productive fire season and accomplished filling out the
-remaining task books required for certification. The one remaining
-item to be covered was individual training experience. The crew
-members were afforded priority status for training slots for the
-winter training session held at the Northern California Service Center
-in Redding, Ca.
-
-All training and task book qualifications were complete and a
-certification review was requested for May of 2003. The crew
-certification took place on May 28 and 29. The certification team was
-headed up by Safety First Officer, Joe Millar and consisted of Mike
-Beckett, Superintendent Eldorado Hotshots, and Dave Bostic, Division
-Chief Modoc N.F.
-
-The crew was recognized as the Modoc Interagency Hotshot Crew on May
-29th 2003.
-
-The season of 2006 was the last year Greg Keller was the
-Superintendent of the crew, retiring from the Forest Service. In 2007
-Bob Beebe was hired as the Superintendent for the crew. For the season
-of 2010 Terry Walters was placed in the position of Superintendent.
-The crew was unstaffed for the season of 2011. The crew was again
-staffed for the 2012 season with Willie Almand being hired as the
-Superintendent.
-
-The crew logo, flying goose, is derived from the area\'s world famous
-water fowl hunting and nesting habitat.
-
-The crew "phrase", Pervado Tolerantia nos Benfacta was derived from
-the south polar explorer, Sir Ernest Shackelton. His family coat of
-arms, declared "Through Endurance we Conquer". For our purposes, we
-changed it to "Through Endurance we Succeed or Benefit". The small
-world part of this business became apparent with this crew logo. While
-working on the Aspen Fire on the Coronado N.F. in Arizona, a safety
-officer asked what the phrase meant. After explaining the Sir Ernest
-Shackelton part, he stated that he had in fact heard of Shackelton,
-and that his son was dating Shackelton's great granddaughter.
-
-The crew consists of 9 full time positions, one Superintendent, two
-Foreman, two squad leaders and four senior firefighters.
-
-## Plumas
-
-![](oncc/oncc_plumas.png)
-
-Year(s) | Superintendent
-:- | :-
-1974 | Charlie Earhart, Jim Hogg
-1974-1975 | Dan Swearingen
-1976-1978 | Jim Hogg
-1979 | unstaffed
-1980-1988 | Tom Hatcher
-1988 | Dave Ross
-1988-1999 | Kent Swartzlander
-2000-2014 | Jack Sevelson
-2015-present | Mike Sherman
-
-The Plumas National Forest staffed its first nationally recognized
-Hotshot Crew in July of 1974 and for two seasons would have it split
-into two separate 10-person modules; one each on the Greenville and
-Quincy Ranger Districts. These two modules would come together, upon
-receipt of a resource request, to form the Plumas Interagency Hotshot
-Crew.
-
-For most of its first season **Charlie Earhart** would act as
-Superintendent and supervise the Greenville half of the crew while
-**Jim Hogg** supervised the Quincy module. It wasn't until near the
-end of that first season that **Dan Swearingen** would officially be
-hired to fill the Superintendent position and he would remain as such
-until the end of 1975. Jim Hogg was his Foreman.
-
-In 1976 Hogg took over for Swearingen and brought the entire crew
-together at the Quincy Work Center location (now the Mt. Hough Ranger
-District Office), where they are stationed to this day. Jim was with
-the crew from 1976 until 1978 with **J.D. Killick** as his assistant.
-In late August of 1978, the crew, along with several other Hotshot
-Crews throughout the Region, lost their national funding. Plumas was
-able to remain together to finish out the season, operating out of
-local dollars, but many crews were not so lucky.
-
-The budget crisis that began the previous season carried over through
-the next fiscal year and in 1979 the crew was left unfunded and
-unstaffed. All equipment remained on the shelf and Jim Hogg moved on
-to other positions on the Forest and would not return to the Hotshot
-organization. Killick would leave for Region 3 and eventually retire
-from a Southwest Hotshot Crew.
-
-With the return of funding in 1980, **Tom Hatcher** became
-Superintendent with **Dave Ross** as his Foreman. Later that same year
-a second Foreman position was created and **Larry Vogan** would be
-hired to fill it. Tom was Supt. through 1987 and in March of 1988
-promoted into a Fuels ADFMO position, leaving the crew under Dave
-Ross, who acted as Superintendent until July of that year. Tom retired
-in 2006 after working his way up to Assistant Director of Fire and
-Aviation for Region 5 in Northern California.
-
-In July of 1988 **Kent Swartzlander** was named to Superintendent
-behind Hatcher with Dave Ross remaining as Foreman. Larry Vogan then
-moved on to the Lassen NF and his position would remain vacant until
-1989 when **Jon Lee** was hired to fill it. Kent would
-hold the Superintendent position for 12 seasons, from 1988 until 1999,
-during which time the organization was expanded to include two
-permanent Squad Leaders and eventually a single permanent Senior
-Firefighter. In 1999 Swartzlander left for the District Fuels AFMO
-position and would retire in 2010 as Forest FMO of the Six Rivers NF
-and Incident Commander of a Type 2 IMT.
-
-In the year 2000 **Jack Sevelson** came back to the crew to replace
-Kent as Superintendent, with Jon Lee and Dave Ross remaining in what
-were now being referred to as the "Captain" positions.
-
-A season later, in 2001, Jon Lee moved to Cedar City, UT as
-Superintendent of the new Dixie Hotshots. Dave Ross retired in 2003
-after 22 years as a Plumas Hotshot.
-
-**Pete Duncan** filled the Captain 13A position behind Jon Lee and is
-now the National Saw Program Manager for the USFS. He was replaced in
-quick succession by **Ryan Bauer (**who is now the Forest Fuels
-Officer -- Division 5) and then **Mike Sherman**.
-
-**Fred Brewster** replaced Dave Ross as Captain 13B and with 15 years
-on the crew, would move on to become Superintendent of the Lassen IHC.
-**Joel Schilling** would promote from Fred's Squad Leader to Captain
-in 2009.
-
-Having started on the crew in 1980, Sevelson would retire at the end
-of the 2014 season. In his fifteen seasons as Supt.13 Jack oversaw
-many changes within the Plumas Hotshots organization; from the
-expansion of its permanent workforce to include three more Senior
-Firefighters, to a seemingly endless shuffle of folks to keep all
-those permanent positions filled.
-
-2015 started the latest era with **Mike Sherman**, after 18 seasons
-with the crew, being promoted to Superintendent.
-
-In 2016, **Joe McGinn**, after seven years with the Plumas Hotshots
-accepted a promotion, becoming Captain 13B.
-
-## Redding
-
-![](oncc/oncc_redding.png)
-
-Year(s) | Superintendent
-:- | :-
-1967-1986 | Charlie "No Slack" Caldwell
-1986-2002 | Craig "Lanky" Lechleiter
-2002-2010 | Robert Holt
-2010-present | Dan Mallia
-
-The Redding Interagency Hotshot Crew was the first hotshot crew in the
-nation to offer a concentrated fire management training detail
-opportunity. By detailing potential fire management personnel to a
-crew of this nature at an early stage in their careers, they were able
-to gain a mass of experience and training that might take years to
-receive at their home unit.
-
-The program was initially developed in 1967 and functioned as one of
-the Pacific Southwest Region\'s three Interregional Suppression Crews
-along with the Del Rosa IR Crew and the El Cariso IR Crew. It remained
-an interregional crew until 1980, when at that time the interregional
-concept was abolished nationwide and all category one crews were
-reclassified as \"Interagency Hotshot Crews\" (IHC). The crew\'s
-training and career development concept was much the same in 1967 as
-it is today, but through the years it was modified to its current
-concept and mission.
-
-Throughout the four-year period from 1967-1971, the crew functioned as
-a detail training opportunity. The crew organization consisted of one
-permanent full-time GS 462-7 and 19 detailers, two being recruited
-primarily to function in the hotshot captain positions.
-
-The primary target audiences at that time were Foresters in need of
-crew and large fire experience. The formalized training curriculum
-during that period offered the detailer a variety of fire suppression
-and fire management subjects geared towards preparing the individual
-at the Sector Boss level.
-
-By 1971, the pool of available Foresters fell short of the desired
-level to justify the continuance of the program under its original
-concept. In 1972, the crew converted to the conventional hotshot crew
-concept. From 1972 to 1973, seasonal crewmembers were hired. Training
-was accomplished only to the extent to meet agency requirements for
-Category 1 Hotshot Crews. The crew performed conventional project work
-on the Shasta Trinity N.F. during the periods when not assigned fire
-duties.
-
-Following the 1973 fire season, the detail concept was re-implemented
-in 1974. The original emphasis on Foresters as the primary target
-audience was relaxed and the Forestry Technician began to fill a large
-majority of the 17 allocated positions. During this new era the
-overhead structure consisted of a GS-462-7 Superintendent and 2
-GS-462-6 Captains. Classroom and field training continued to emphasize
-a fire suppression curriculum but also included supervision subjects
-as well.
-
-During the winter of 1977, the Superintendent and one Captain position
-were reclassified as \"Fire and Training Specialists\". The
-reclassification increased the grade structure of the crew
-superintendent to a GS-462-9, and one Captain to a GS-462-7. The
-second Captain remained a GS-462-6.
-
-Throughout the period from 1981 through 1986, foresters filled a small
-percentage of the crew positions. Fire Management Officers expressed
-the need to re-emphasize the participation of foresters who were
-interested in a career in fire management and who had demonstrated a
-potential to become future large fire managers.
-
-Early in 1985, a steering committee was formed to assist the Redding
-Hotshot unit with modifying the program to include training in Timber
-Sale Planning, Prescribed Fire Management and Fire Prevention. In
-1991, the curriculum was updated again to better meet the needs of
-fire managers and the incoming crewmembers. The adjustment in the
-academic curriculum deleted the training in Fire Prevention and
-Principles of Prescribed Fire Management. In their place Fuels
-Management and Ecosystem Planning, S-230 Crew Boss, S-234 Firing Boss
-and S-260 Fire Business Management were added.
-
-In 1992, resulting from budget restrictions, the Redding crew was
-abolished. The crew returned in 1993, but without the training
-function. As in 1972-73, the crew functioned as a conventional hotshot
-crew for the Shasta Trinity National Forest, hiring a mix of
-career-conditional and temporary employees. In 1994, at the request of
-fire management in the region, the training program was reestablished,
-concentrating on Forestry Technicians in need of large crew and large
-fire experience.
-
-In 1995, the overhead structure changed again to consists of one
-GS-462-9 Superintendent with two GS-462-7 Captains. In 1997, a
-national reclassification changed the grade structure of the crew
-Captains to GS-462-8. After the re-classification the overhead
-structure consisted of one GS-462-9 Superintendent, two GS-462-8
-Captains, and two GS-462-6 Squad Leaders.
-
-In 2003, the Redding IHC training focus from Fire Program Management
-to Small-Unit Leadership Development. The program was developed by
-Robert Holt (former Redding IHC Superintendent), Patrick Lookabaugh
-(former Redding IHC Captain), Greg Power (former R5 Regional Training
-Officer), and Jim Cook (former National Training Projects
-Coordinator), and is based on successful military, corporate, and fire
-service leadership development models.
-
-The basic tenet of the program is: decisions made in historic fireline
-fatalities and near misses occurred at the small unit (squad/crew)
-level, not at the upper management level. Therefore, developing
-leadership skills and increasing decision-making abilities at the
-small unit level should be the foundation of all operational fire
-training.
-
-In 2006 the "detail" was dropped, and the program became a "training
-opportunity". Realizing that full time squad leaders were no longer
-essential during the fireline aspect of the training opportunity; the
-permanent squad leader positions were abolished. The overhead decided
-that the crewmembers would benefit more by working directly for the
-captains.
-
-In 2012 and 2018, the Redding IHC overhead and Regional Office Fire
-and Aviation reassessed the need and benefit from having squad leader
-positions added to the overhead structure, so the overhead structure
-now consists of one GS-462-09 Superintendent, two GS-462-08 Captains
-and two GS-462-07 Squad Leaders.
-
-In 2021, two GS-462-05 Senior Firefighter positions were added to the
-organizational chart to be in line with the Standards for Interagency
-Hotshot Crew Operations Guide (SIHCO) of 7 permanent employees. In
-2022, two GS-06 Lead Firefighter positions were added to the
-organizational chart per Washington Office direction for all USFS
-IHC's nationally.
-
-If fully staffed, crew will consist of all the overhead above (Nine
-permanent positions) and sixteen detailers to fill out the 25
-personnel.
-
-## Salmon River
-
-![](oncc/oncc_salmon_river.png)
-
-Year(s) | Superintendent
-:- | :-
-2001-2009 | James "Jimmy" Allen
-2010-2019 | William "Big Bill" Robinson
-2020-Present | Kelsey Lofdahl
-
-The Salmon River Hotshots are a federal Interagency
-Hotshot Crew (IHC) that was established in 2001 as a Type 2IA crew on
-the Klamath NF. Salmon River was part of the Most Efficient Level
-(MEL) Build-Up in response to the 2000 National Fire Plan, under the
-leaderships of Jimmy Allen, Grant Montgomery, Bill Robinson and Jon
-Jones.
-
-In 2003, with Jimmy Allen as Superintendent, Salmon River began its
-inaugural season attaining Hotshot status later that June. In February
-2010, the crew saw the end of an era as Superintendent Jimmy Allen
-retired from the agency allowing Bill Robinson to take the reins that
-season. Bill originally came to the crew in 2001 as a Squad Leader and
-then to Captain in 2002. In 2020, Bill Robinson moved on as ADFMO
-making way for Kelsey Lofdahl as the crews 3rd Superintendent.
-
-The crew is stationed in Sawyers Bar, CA and if you've been there you
-know and feel how remote this small defunct mining and logging town
-is. The history of this crew, like the history of the town, is
-somewhat lost in that deep river canyon. We know the people, we know
-their names, we know a few stories, but like then the people are gone,
-yet everyone leaves a ring in our tree. Amongst them and us there is
-shared virtues of friendship, resilience, and sacrifice. These tenants
-and much more lead to the work ethic and determination needed to
-achieve and maintain our type 1 status.
-
-The permanent workforce works hard to be the backbone of this crew,
-and the temps, as they come and go, are the arms and legs. We are not
-whole without each other. The coming and going of unique people makes
-every season an adventure in unity. No two years are alike. Once
-everyone comes together, we shape the present and future, exhibiting
-coordinated efficiency and purpose.
-
-Amongst our uniqueness however there is one thing that sets us apart,
-our PT hill. It is but a spur ridge of a dominant peak but deserves
-its own place in hell. The hill was there long before us, but we
-claimed it as our challenge. We accept its call both alone and
-together and, like it, stand proud to be here. Although Salmon River
-IHC is relatively new in terms of Hotshot legacies, the program
-continues to strive to become an essential part of the National
-Interagency Hotshot program.
-
-## Shasta Lake
-
-![](oncc/oncc_shasta_lake.png)
-
-Year(s) | Superintendent
-:- | :-
-2006-2010 | Jeff Michels
-2011 | Jerry Spence (Detail)
-2012-2015 | Donovan Lee
-2016 | Anthony Herbert (Detail)
-2016-2018 | Charles Barber
-2019 | Currently vacant
-2020 | Ron Graves/Joe Bogdan (Details)
-2021-Present | Joe Bogdan
-
-The Shasta Lake Hotshots were established in 2006 on the
-Shasta-Trinity National Forest in Lakehead California by crew
-superintendent Jeff Michels. Shasta Lake IHC became from the
-previously known Shasta Lake Hand Crew that was started on the
-Shasta-Trinity National Forest in 2001. In the year of 2006 Shasta
-Lake began the evaluation process for their IHC status. After months
-of hard work and dedication the crew gained their Type-1 status and
-was able to go out as an official IHC for their last assignment of the
-2006 fire season. Since then Crew-5 has remained in Lakehead,
-California and continue to uphold the dedication and values of those
-that came before them.
-
-**Most Efficient Level:**
-
-During the year of 2000, the Nation was struck with a devastating fire
-season that totaled 64,129 fires, and over 3 million acres burned
-nationally. In reaction to this the President instructed the
-Department of Agriculture and Interior to construct a plan to directly
-address the current and rapidly increasing fire seasons. With minimal
-resources and finances, and a notable amount of current employees not
-being trained to their highest potential the National Fire Plan was
-developed in August of 2000. The National Fire Plan allowed forests
-with high fire probability, potential and an ever encroaching wild
-land urban interface to acquire more resources and finances to train
-and develop their employees known as the MEL (Most Efficient Level)
-build up. The Shasta-Trinity National Forest took advantage of this
-adding the Shasta Lake Hand Crew to its resource ranks.
-
-**Crew Mission:**
-
-The primary mission of Shasta Lake IHC is to provide a Type-1 hotshot
-crew that is safe, organized, mobile and highly skilled for all phases
-of wildland fire suppression and reinforcement during natural disaster
-incident operations. The Shasta Lake organization is a dynamic
-organization and will not become stagnant. Shasta Lake strives to
-remain an energetic program with continued support, and will continue
-to learn, improve their skills, refine tactics, and increase
-situational awareness.
-
-**Operating in all Aspects:**
-
-Integrating and being a valuable asset to the public has always been
-important to the Shasta Lake Hotshots. Shasta Lake frequently takes
-part in prescribed burns, hazardous fuel removal, and fire breaks
-around the community of Lakehead and other parts of the Shasta-Trinity
-National Forest. On average the Shasta-Trinity NF burns around 10,000
-acres a year with Shasta Lake IHC being involved in many aspects of
-ICS chain of command.
-
-Shasta Lake IHC also recognizes the importance of public interaction
-and education. Frequenting community events and staying involved in
-programs that help inform and educate the public on the importance
-fire safety and preparedness.
-
-## Smith River
-
-![](oncc/oncc_smith_river.png)
-
-Year(s) | Superintendent
-:- | :-
-2001-2002 | Rick Young 
-2003-2004 | Sunbear Vierra
-2005-2006 | Scott Kizzar
-2006-2012 | Glen Tingley
-2013-2015 | Tim Memmer
-2016- | Douglas Denlinger
-
-Smith River IHC began with the MEL build up in 2001 as SRF-NRA-Crew-1.
-This ten person IA and Fuels Crew was located just inland from
-Crescent City California in the small town of Gasquet. For several
-years Crew-1 performed at this level and was very productive both at
-station and out on fires. It was determined in 2005 to expand the crew
-to 20 person type 2 IA capability with the end state of becoming an
-IHC. Several key individuals with prior IHC experience were brought in
-to insure the crew would be striving for standards commensurate with
-the SIHCO. Over the next few years the men and women of the Smith
-River Hand crew focused on work hardening, training and building
-cohesiveness in hopes of joining the elite IHC community. On June 5th
-of 2009 this goal became a reality. Over the brief span of Crew-1's
-existence, many great leaders have emerged. Although most have moved
-on, the NRA continues to be an excellent place to attract new talent.
-A special thanks is owed to the early oversight from the quality
-firefighters and leaders that laid the foundation to build upon. These
-days, the Smith River Hotshot crew is striving to become known for its
-hard work ethic and reliability.
-
-We value diversity of culture as well as thought and try to recruit
-from all over the country to ensure that. The overhead structure
-brings experience from many IHCs from several regions. That
-perspective is an aspect that we feel should remain a part of this
-crew's identity. We strive to be humble and let our line production
-speak for itself.
-
-Our motto is a quote from Rudyard Kipling,
-
-"The strength of the wolf is in the pack, the strength of the pack is
-in the wolf."
-
-## Tahoe
-
-![](oncc/oncc_tahoe_hobart.png) ![](oncc/oncc_tahoe.png)
-
-Year(s) | Superintendent
-:- | :-
-**Hobart Inmate Crew**
-1961-1970 | Les Bagby, Lynn Orr, Chuck Welch, Orv Houghan
-**Hobart Crew**
-1971 | Bob Riley
-1972 | Don Huber
-**Hobart Hotshots**
-1973-1975 | John King
-1975-1976 | Kris Kristofers
-1977-1978 | Dave Fields
-1979-1985 | Rusty Witwer
-**Tahoe Hotshots**
-1986-1995 | Rusty Witwer
-1996-2012 | Rick Cowell (retired in place)
-2013-2016 | Eric Rice
-2017-Present | Daniel Guerrero
-
-The Hobart Work Center, located outside of Truckee CA., was created in
-the 1930's as part of the CCC effort after the Great Depression. In
-1961 the Hobart Mills inmate crew, CC-51, was established. Volunteers
-from the State Penal system took on wildland suppression duties under
-the supervision of US Forest Service firefighters.
-
-After the inmate camp was disbanded in 1970, the project of organizing
-and assembling a fire crew to work out of Hobart Mills was tasked to
-Foreman Bob Riley in 1971. With cooperation from the BIA and the
-Truckee Ranger District of the Tahoe NF, a 32-man crew was assembled.
-The ranks were mostly comprised of Indian students from the Stewart
-Indian School in Stewart, NV. Alternately known as the Hobart
-Southwest Indian Conservation Camp, the Truckee Fire Crew, and the
-Hobart Crew, TNF engine foremen and Tank truck operators provided
-supervision and leadership during this time.
-
-The crew makeup of the early 1970's included over ten different Native
-American Tribes. Beyond adjusting to Forest Service policy and "white
-society", crewmen faced challenges presented by cultural differences
-and language barriers. From the beginning, the Hobart crews from the
-1970's demonstrated their intentions with accomplishments and
-successes in the woods and on the fireline.
-
-The crew acquired Hotshot status in 1973, becoming the second such
-recognized crew in North Zone. The Hobart Braves crew emblem was
-transformed to reflect the achievement. Designed by the Indian crews
-of the past, the Hobart shield remains unchanged to this day.
-
-In 1981 Celia Howe broke the gender barrier, becoming Hobart's first
-female hotshot.
-
-In the mid-1980's the logging industry was booming, creating an
-abundance of project work on the west side of the Forest. Tree
-planting, Slashing, and Burning funded the crew in between fire
-assignments. So, after a couple years of travelling across the crest,
-Hobart pulled up stakes and moved camp and duty station to the
-Bullards' Bar Work Center on the Yuba River Ranger District. This move
-occurred in 1984, but the crew was not renamed the Tahoe Hotshots
-until 1986.
-
-Following the busy season of 1994, Superintendent Rusty Witwer
-traveled to Washington D.C. to receive the Group Honor Award for
-Excellence from Secretary of Agriculture Dan Glickman, for
-outstanding heroic action and maintenance of safety standards.
-
-The Tahoe Hotshots, wearing the crest and colors of our past, continue
-to bring a safe, skilled, and productive resource to the fireline or
-the project.
-
-## Tallac
-
-![](oncc/oncc_tallac.png)
-
-Year(s) | Superintendent
-:- | :-
-2001-2003 | Steve Burns
-2004 | Mike Ierien
-2005-2008 | Steve Franke
-2009-2015 | Aaron Grove
-2016-Present | Kyle Betty
-
-The Tallac Hand Crew was established in 2001 as part of a nationwide
-buildup of resources to establish a maximum efficiency level of
-preparedness as directed by the National Fire Plan. The original
-intent of the crew was to perform fuels management projects meeting
-resource management objectives and to be available for wildland fire
-responses.
-
-Steve Burns was the initial Crew superintendent of the Tallac Hand
-Crew. Steve initiated the program from the ground up, building the
-foundation for the future success of the program. Steve hired the
-crew, secured all the necessary supplies and workspace at the Meyers
-Work Center, where the crew still resides today. The crew was up and
-running by June 2001. Steve remained in the superintendent position
-until 2003 when he moved to a Battalion Chief position, eventually
-becoming Chief 1 of the Lake Tahoe Basin Management Unit.
-
-In 2004, Mike Ierien moved from captain to superintendent and led the
-crew for that season. Mike moved on in 2005.
-
-In 2005, Steve Franke became the superintendent of the crew, coming
-from the Redding Smokejumpers, with Aaron Grove as the captain. In
-2006, the crew moved to a two-captain system, bringing on John Chester
-to fill the role as the second captain. In 2008, Aaron left the crew
-and moved on to be an engine captain. Bill Sanders replaced him as
-captain. Steve Franke led the crew through the 2009 season moving on
-in late 2009 to lead Crew 4, the Tahoe Basin Fuels crew.
-
-In 2010, Aaron Grove returned to the crew to become the new
-superintendent with John Chester and Bill Sanders remaining as
-captains. Over the next four years the crew evolved through
-leadership, extensive training, recruitment, hard work and dedication.
-This evolution paid off in 2014, allowing the crew to complete the
-Type 1 crew certification process and achieving the goal of becoming
-the Tallac Hotshots, thus becoming the first Interagency Hotshot Crew
-from Lake Tahoe.
-
-Aaron Grove left the superintendent position in 2015, moving on to
-become the training officer on the Plumas National Forest. Bill
-Sanders also left in 2015 to become a prevention officer on the Lake
-Tahoe Basin.
-
-In 2016, Kyle Betty was hired from the Lassen Hotshots to become the
-new superintendent. Charlie Jones was hired into the captain position,
-coming from the Plumas Hotshots.
-
-In the Fall of 2019 John Chester, a long-time captain on the crew
-moved on to the Division Chief position on the Lake Tahoe Basin. Elsa
-Gaule a long-time crewmember and squad leader on the crew was promoted
-into the Captain position.
-
-The Tallac Hotshots continue to provide a valued resource by
-responding to fires and all risk incidents throughout the Lake Tahoe
-Basin and the Nation. We are proud to uphold the tradition and legacy
-of the hotshot community.
-
-## Trinity
-
-![](oncc/oncc_trinity.png)
-
-Year(s) | Superintendent
-:- | :-
-2005-? | Justin Jeude
-2009 | Stew Richter (Detailed)
-?-2015 | Justin Jeude
-2016-2017 | Aaron Utterback
-2018 | Ron Graves (Detailed), Richie Reposa (Detailed)
-2019-2020 | Richie Reposa
-2021-Present | Tristan Dias
-
-Following the devastating 2000 fire season wildland fire managers and
-United States Congress realized that there was not an adequate level
-of suppression resources to deal with the increase in fire activity
-nationwide. As a result, it was decided to increase and fund national
-suppression resources at the most efficient level. This became known
-as the MEL Build up.
-
-The South Fork Hand crew (Crew 1) was established in 2001 under the
-national fire plan and stationed out of the Hayfork Ranger Station in
-Hayfork, Ca. Larry Helsley was the Superintendent. The South Fork Crew
-was stationed in Hayfork from 2001- 2005; during that time the crew
-was a type two initial attack hand crew.
-
-In 2006 Justin Jeude, who started his Hotshot career on Diamond
-Mountain Hotshots, was promoted from Captain on the crew to
-Superintendent. He had the crew identifier changed to Crew 11 and the
-name changed to Trinity, a historical tribute to the days when The
-Shasta and Trinity were separate National Forests. He also had the
-crew relocated to Harrison Gulch ranger station, which was built in
-the 1930's by Civilian Conservation Corps. It's Located on the Yolla
-Bolla Ranger District in beautiful Platina California, where they
-still are today. They share the station with two type three engines
-and a water tender. The crew was given their own facilities with
-adequate space to accommodate the needs of a twenty person Hotshot
-crew.
-
-In 2006 Doug Powell, whom had been the squad leader on the crew came
-back from a detail to the California Smoke jumpers and accepted the
-Captains position on the crew Doug and John Chester who had worked his
-way up through the ranks were the two captains. In 2007 John left and
-went to Tallac Hotshots as a captain and Kris Kochar, an ex-Diamond
-Mountain and Mendocino Hotshot, was promoted from Squad Leader to
-Captain. Justin and his permanent staff began to build and improve the
-crew's foundation through hard work, perseverance and an all-around
-good attitude with the goal to bring the crew to Type One status
-(Hotshots)
-
-In 2007 the crew was put in front of a USFS Region 5 Safety First
-Hotshot Crew Certification Team lead by Jerry McGowan. The crew
-performed an intensive two day evaluation and on July 8, 2007 were
-certified as Regional Hotshots. The Trinity Hotshots were the
-fourteenth Hotshot crew to be certified in Northern California.
-
-2009 found Doug Powel and Kris Kochar moving on, and Justin
-temporarily promoting into a Battalion Chief detail. Doug went on to
-become a Forest Service LEO and later a California Smokejumper. Kris
-moved on to the private sector to pursue bigger passions. Aaron Utterback transferred
-over as the permanent Crew Captain from the local Helicopter crew,
-506, and Dylan Reeves from the California Smokejumpers detailed in as
-the other Captain. Stew Richter detailed in as the crew
-superintendent. Justin Jeude came back to the crew after his Battalion
-Chief detail and continued to fill his role as Superintendent.
-
-In 2010 Brad Schuette from the California Smokejumpers filled in as a
-detailed captain. Robert Reeves, a local engine Captain, accepted the
-permanent captain's position on the crew in the winter of 2010 and
-Justin, Rob, and Aaron ran the crew for the next three years. In the
-winter of 2013 Aaron Utterback took a Battalion Chief position on the
-forest and, Richie Reposa, who came from the Klamath Hotshots in 2009
-to take over the squad boss position, detailed into the Captains spot.
-He permanently accepted the job in 2014.
-
-After 10 years as the crews Superintendent, Justin stepped down from
-his duties in the winter of 2015 and moved on to work at the Redding
-Airtanker Base. Aaron Utterback came back to the crew in 2016 as the
-Superintendent. Later that same year, Robert Reeves vacated the
-position and went into the private sector. Ron Graves, who started on
-the crew in 2007 and worked his way up through the ranks, detailed in
-to the Captains spot behind Robert. He later took the job permanently
-in 2016.
-
-After 2 years as the Superintendent, Aaron left the crew to pursue a
-career with Calfire as a Crew captain. In the summer of 2018, Richie
-Reposa and Ron Graves Split 120 day details and filled the
-Superintendents position.
-
-Tristan Dias, who came to the crew in 2014 from The Lassen Hotshots as
-a squad leader, detailed into the Captains position.
-
-In 2019 Richie Reposa accepted the Superintendents position for the
-crew. Tristan Dias accepted the Captains position, Ron Graves left the
-crew to accept a Captains position on the forests other Hotshot crew
-(Shasta Lake Hotshots) and John Castaneda, a squad leader from Tallac
-Hotshots, detailed in to the Captains position behind him.
-
-Trinity Interagency Hotshots are a young crew and have an unwavering
-dedication to upholding the long standing traditions and high
-standards of the IHC program through hard work, perseverance, and an
-all-around good attitude. We adhere to the core values of Duty,
-Respect, Integrity, and Discipline.
-
-## Ukonom
-
-![](oncc/oncc_ukonom.png)
-
-Year(s) | Superintendent
-:- | :-
-2003-2006 | John W. Gibbons
-2007-2010 | John P. Cataldo
-2011-2016 | Keith R. Smith
-2017 | Nathan Nelms
-2018-Present | Joel J. Berg
-
-Prior to the National Fire Plan in 2000, the Six Rivers National
-Forest's crew history had been comprised only of various BD (Brush
-Disposal) and 10-person Initial Attack crews. As part of what became
-known as the MEL (Most Efficient Level) build-up, the Six Rivers N.F.
-Fire Chief John Wendt and Deputy Forest Fire Chief Kent Swartzlander
-decided to replace the 4 districts' existing 10-person IA crews with
-Hotshot Crews.
-
-In April of 2003, Six Rivers Crew 2 was formed on the Orleans/Ukonom
-Ranger District of the Six Rivers N.F. as a Type 2 IA crew with the
-goal of becoming the first certified Hotshot Crew in the History of
-the Six Rivers National Forest. Under the leadership of John W.
-Gibbons, a veteran of 30+ fire seasons, Crew 2 set upon this mission
-with great vigor and enthusiasm. The crew was stationed on the Orleans
-District of the Six Rivers, and worked out of the Oak Bottom Fire
-Station in Somes Bar on the Ukonom Ranger District of the Klamath N.
-F. which is administered by the Six Rivers N.F.
-
-The first couple of years of the crew's development had their share of
-highs and lows. The crew was able to reach Type 1 status in July of
-2004, but fell short on their first attempt at Hotshot certification
-that August. To complicate matters, the crew lost one of their
-founding Squad Bosses, Robert Shufelt, to a serious back injury.
-However, the crew never lost sight of their goals, persevered through
-these setbacks, and began to establish a solid reputation within the
-firefighting community.
-
-In 2005 the decision was made to adopt the name of the Ukonom district
-and the crew became known as the Ukonom Handcrew. The "Coyote that
-steals the fire", a prominent character in local Karuk tribal lore,
-was incorporated into the crew logo. In 2006, Supt. Gibbons was forced
-by retirement law to leave the federal service with 33 years of
-firefighting experience. Captain John Cataldo was then promoted to
-Superintendent, and Squad Boss Keith Smith was promoted to Captain,
-and the process of building towards Hotshot status was continued.
-
-In May of 2008, a USFS Region 5 Safety First Hotshot Crew
-Certification Team comprised of Team Leader Don Will, Salmon River IHC
-Superintendent Jimmy Allen, and subject-matter-expert Ed Merrill
-performed an intensive 2-day evaluation of the Ukonom Handcrew. On May
-22, 2008 the Ukonom Hotshots were certified as the 1st Hotshot Crew in
-the history of the Six Rivers National Forest, the 15th in Northern
-California, the 41st in Region 5, and the 105th Hotshot Crew in the
-Nation.
-
-In April of 2010, after 8 years of confusion and debate within the
-USFS Region 5 Hotshot community as to whether the Hotshot crews that
-were certified within the region as part of the MEL build-up were to
-be considered Interagency or Regional Hotshot Crews, the Washington
-Office issued a directive that all Hotshot crews in Region 5 are to be
-identified as Interagency Hotshot Crews.
-Ukonom IHC is dedicated to earning that designation every day through
-hard work and strict adherence to the IHC core values of Safety, Duty,
-Respect, Integrity, and Professionalism.
-
-In April of 2017, after long discussions between Forest fire
-management and the overhead from the Ukonom Hotshots, the decision was
-made to move the crew from the Oak Bottom station on the Orleans
-Ranger District to the Salyer guard station on the Lower Trinity
-Ranger District.
-
-The Ukonom Interagency Hotshot Crew prides itself on having an
-exceptional work ethic that dates back to the early days of Hotshot
-crews, and are always willing to put in the extra chain of line, and
-be first ones up and the last ones off the hill each day.
 
 # Northern Rockies
 
@@ -3787,562 +2508,1284 @@ become its fifth superintendent in four decades.
 While the world might change, the Zigzag Interagency Hotshot Crew
 remains constant: same location, same traditions, and always tough!
 
-# Rocky Mountain
+# Operations Northern California    
 
-## Alpine
+## American River
 
-![](rmcc/rmcc_alpine.png)
-
-Year(s) | Superintendent
-:- | :-
-1981-1984 | Jon Larson
-1984-1987 | John Comery
-1987 | Paul Borcherding
-1988-1997 | Jim " JP" Mattingly
-1997-2006 | David Niemi
-2006-2007 | Chris Kirby
-2008-Present | Paul Cerda
-
-The National Park Service established its Interagency Hotshot Crew
-program in May, 1981. The Alpine Hotshots being one of the three crews
-formed at that time. These crews were the first Hotshot crews to be
-funded by any Department of the Interior agency. The three crews were
-known as Arrowhead 1, 2, and 3. In 1982, the names of the crews were
-changed to Alpine IHC, Arrowhead IHC, and Bison IHC. These names were
-derived from the National Park Service emblem. In 1985 budget
-constraints eliminated Bison IHC from the program.
-
-From 1981 until 1988, Alpine IHC was administered from the NPS office
-at the National Interagency Fire Center (NIFC). The crew was assigned
-to several different duty stations during this time period, including
-Cumberland Island, Malibu (Camp 8), Grand Canyon, Yellowstone, Crater
-Lake, and Mount Rainier National Parks only to name a few. The crew
-would move during the season from one location to the next sometimes
-to two or more locations during a season. While at Crater Lake the
-crew was based out of the old Rogue River Hotshot base.
-
-From 1988 to 1991 the crew was stationed at Zion National Park, Utah,
-although they never lived there. Their base of operations during 1988
-was Brianhead Ski area and a small motel in Parowan, UT from 1989 -
-1991. The crew saw plenty of action while stationed there including
-being the first crew ordered for the Yellowstone fires in 1988. The
-crew spent a week on the Falls Fire west of the south entrance of
-Yellowstone prior to the \" world\" being mobilized. The entire crew
-as well as three individuals (Jim Mattingly -- Supt., David Niemi
-- Squad Boss, Bill Moe -- EMT) received national commendations for
-life saving actions performed on the Dude Fire in 1990.
-
-Because Zion could not provide permanent housing for the crew a
-decision was made to move the crew to Wind Cave National Park, near
-Rapid City, South Dakota for the 1992 season. The actual base of
-operations while there, was an old coal gasification plant on the
-southeast side of Rapid City. The highlights of that season included a
-trip to Voyageurs NP in Minnesota
-and extensive time spent in the Salmon River Breaks country of Idaho.
-
-After the '92 season and a number of bids from various parks to host
-the crew, a decision was made by the NPS National Office at NIFC to
-permanently place the Alpine crew at Rocky Mountain NP. This was based
-on a number of considerations, but of high significance was the park\'
-s offer to construct new dormitory facilities for a permanent base of
-operations.
-
-The crew spent its first season living and working out of the historic
-" Blister Rust" dorm at Rocky Mountain National Park. Interestingly
-enough in the past while the crew was stationed at Yellowstone NP, its
-base of operations was that park' s version of the " Blister Rust"
-dorm.
-
-Construction was completed on the new dorm/work center facility in the
-spring of 1994 and the crew has called it home ever since. The
-majority of our fire assignments have been away from the vicinity of
-Rocky Mountain NP except during the summer of 2002 Colorado
-experienced a record fire year.
-
-## Craig
-
-![](rmcc/rmcc_craig.png)
+![](oncc/oncc_american_river.png)
 
 Year(s) | Superintendent
 :- | :-
-2001-2003 | Stuart Gore
-2004 | Shawn Telford (detail)
-2004 | Miles Ellis (detail)
-2005-2013 | Shawn Telford
-2014-2018 | Sean Carey
-2018-2019 | Caleb Meyer
-2019-present | Logan Blankenship
+2005-2008 | Charlotte Wild Jordan 
+2008-2016 | Adam Leyba
+2016-Present | Matt Radtke
 
-The Craig Interagency Hotshot Crew is based in Craig, CO as a part of
-Northwest District Fire and Aviation. The crew was founded in the
-spring of 2001, along with numerous other hotshot crews, because of
-the National Fire Plan.
+The American River Hotshot are based on the Tahoe National Forests
+American River Ranger District. The American River Ranger District was
+formerly the Foresthill Ranger District. The American River Hotshots
+received Hotshot certification in 2005. Before 2005 the American
+River/Foresthill Ranger District had some form of a crew from 10 man
+brush disposal crews to Type 2 and Type 2IA crews since the 60s. The
+goal of the American River Hotshots is to uphold the standards and
+traditions of the Hotshot Community.
 
-Throughout most of 2001 and 2002, the crew spent most of its time
-suppressing fires around Colorado because of a prolonged drought.
-During the mid-2000's, the crew contributed their diverse expertise to
-fires across the western United States, as well as traveling to the
-southeast to assist in all-risk incidents such as Hurricane Katrina
-relief. In addition to national assignments, the crew often spends
-several weeks per season assisting the local district in handling the
-significant initial attack load experienced within the dispatch area.
+## Beckwourth
 
-Through most of its operational years, the crew was based in the old
-BLM engine station on the west end of Craig. At the start of the 2012
-season, the crew was able to move into its newly constructed station
-across from the main Little Snake Field Office, complete with
-state-of-the-art training and workout facilities, bunkhouse, welding
-shop, three large vehicle bays, and separate saw shop.
-
-The Craig leadership structure has been run consistently under the
-1-2-2 system, with a few exceptions over the last two decades. The
-first Superintendent was Stuart Gore, who ran the crew until 2003. The
-two Foremen at the time, Shawn Telford and Miles Ellis, split the
-Superintendent detail in 2004, carrying the crew through the fire
-season. Telford formally took the position in early 2005 and remained
-the Superintendent through 2013. He retired in April of 2014.
-
-Sean Carey detailed as the Superintendent during the fire season of
-2014 and official accepted the job in December of 2014. Sean ran the
-crew for three more fire seasons before detailing to the local
-district as the FOS during the 2018 season. Caleb Meyer detailed
-behind Sean into the Superintendent position for all of the 2018
-season and half of the 2019 fire season.
-
-Logan Blankenship has been the current Superintendent of Craig IHC
-since June of 2019.
-
-## Pike
-
-![](rmcc/rmcc_pike.png)
+![](oncc/oncc_beckwourth.png)
 
 Year(s) | Superintendent
 :- | :-
-1962-1973 | Glenn Scott
-1974-1977 | Chris Brandy
-1978 | Bruce Haflich
-1979 | Bill Frede
-1980-1981 | Chris Brandy
-1982 | Brett Acres
-1983-1984 | Dan Robinson
-1985 |Gasper Blea
-1986-1991 | Tim Foley
-1992 | Paul Gleason, Matt Valdez
-1993-1997 | Tim Foley
-1998-2005 | Shane Greer
-2006 | Shane Greer, Alissa Roeder
-2007-2011 | Alissa Roeder
-2012-2013 | Kevin Neiman
-2014-2018 | Tom Allbright
-2019-Present | David Smallman
+2017‐Present | Mike Wintch
 
-The Pike Interagency Hotshot Crew began in 1962 as the Roosevelt
-Inter-Regional Fire Suppression Crew (IR Crew). Affectionately known
-as "Scotty's Raider's" for first Superintendent Glenn Scott, they
-traveled to 5 fires for a total of 27 days on assignment.
+Prior to the 2001 MEL funding build‐up, the crew existed as two fuel
+modules. One was based at the Beckwourth Ranger District office in
+Blairsden and the other on the east side of the District at the
+Laufman Work Center. In 2003 the crews were combined and became Plumas
+Crew 1, Type 2 I.A. crew and the following year named the Beckwourth
+Handcrew after the district it serves. From 2004 until 2006 overhead
+positions remained unfilled keeping the crew staffed as a Type 2 I.A.
+crew. 2006 was the first year the crew's overhead was staffed at Type
+1 IHC standards and on the boards as an IHC training crew. In May of
+2007 the Beckwourth Handcrew obtained Hotshot certification and lasted
+until the winter of 2007/2008, when the majority of the Overhead
+promoted or moved on and the crew was down staffed to a Type 2 I.A.
+crew.
 
-1971 - the crew was moved to the Pike National Forest Supervisor's
-Office, and was renamed the Pike IR Crew.
+The Beckwourth Handcrew in 2016 once again filled all of the overhead
+positions as required by the SIHCO and began planning for
+certification pending an imbedded review, for the 2017 fire season. On
+September 22, 2017 the Beckwourth Handcrew re‐obtained Type 1 IHC
+status.
 
-1973 - the crew again moved, this time to the Pikes Peak Ranger
-District and was stationed in Woodland Park, CO.
+## Diamond Mountain
 
-1979 - the Monument Nursery (now the Monument Fire Center- MFC) became
-the duty station for the Pike IR Crew. The Pike IHC is based at MFC to
-this day.
-
-1980 - brought a name change, to the Pike Interagency Hotshot Crew in
-order to comply with the national name transition.
-
-Today, it is not uncommon for the crew to spend over 100 days on
-assignment every season, traveling nationwide. The Pike
-Interagency Hotshot crew has a long and successful history that we are
-proud of. To honor those who have gone before us, every year we strive
-to earn again the respect that was built for us through time. Our
-mission is to provide a safe, professional, organized, highly
-motivated, highly skilled, and cost effective resource for wildland
-fire, natural resource management, and all-risk incidents. We take
-pride in what we do.
-
-**Scotty's Raider's, circa 1960's**
-
-![](rmcc/rmcc_pike_1960s_scottys_raiders.png)
-
-## Roosevelt
-
-![](rmcc/rmcc_roosevelt.png)
+![](oncc/oncc_diamond_mountain.png)
 
 Year(s) | Superintendent
 :- | :-
-2001-2002 | Kelly Jones (Mellot)
-2003 | Todd Millen
-2003-2006 | Dave Hamrick
-2007-Present | Larry Money
+1992 | Mike Bowles
+1993-2001 | Kurt LaRue
+2001-2005 | Ed Merrill
+2006-2008 | Steve Shaw 
+2009-Present | Dan Varney
 
-The Roosevelt Interagency Hotshot Crew is based in Fort Collins,
-Colorado on the Canyon Lakes Ranger District of the Arapaho-Roosevelt
-National Forest. The Crew was established in 2001 as part of what
-seemed at the time to be an exceedingly vast expansion of the IHC
-program following the high-profile 2000 fire season.
+The Diamond Mountain Interagency Hotshot Crew were born in the spring
+1992 under the guise of increasing the Bureau of Land Management's
+commitment to contribute resources to the national fire suppression.
+The crew was the second BLM hotshot crew in California and the fifth
+crew in the nation. The Diamond Mountain Range west of Susanville, CA
+lends to its name to the crew as its rocky crest provide a constant
+visual reminder and keeps a watchful eye upon the high desert.
 
-Lacking facilities, crew carriers and many of the other standard
-Hotshot accoutrements, the crew spent its first season based out of
-the Poudre Fire Authority's training warehouse and drove to incidents
-in a small convoy of pickups and SUV's.
+The original 1992 crew spawned from Crew 3221, the Initial Attack
+Dawgs, a 10-person initial attack crew that worked in and around
+Susanville in 1990 and 1991. Mike Minton was offered a JATC position
+in the spring of 1992 and became the first official of the "soon to
+be" hotshot crew. An unlikely cast of characters joined Minton for the
+1992 season including Mike Bowles, who was hires as the first
+superintendent, and Kevin Chambers who was selected as the foreman.
+The Northern California Regional Fire Staff in Susanville supervised
+the 1992 crew. The 1992 crew season saw many growing pains as the
+aspired to become a well-respected crew in a region well known for its
+hotshot crews. The crew responded to twenty incidents in a busy '92
+fire season including the 68,000-acre Fountain Fire in Shasta County.
+Extra curricular events during the Cleveland Fire in late September
+led to a change in supervision for the crew for the 1993 season
 
-The crew spent 2001 as a training crew and in 2002 was certified as an
-Interagency Hotshot Crew.
+Kurt LaRue was hired as new Superintendent in the fall of 1992 and
+reported soon thereafter, with supervision of the crew being shifted
+to the present-day Eagle Lake Field Office in Susanville. Kurt brought
+many years of experience to his new crew after a long stint with the
+Stanislaus, Horseshoe and Fulton Hotshots. Kurt retained Chambers as
+foremen and added Ken Henson as a second. A new image was forged along
+with many new faces for the 1993 season, many of which became
+mainstays within the crew and contributed much to the present day
+success and reputation of the crew including Keith Barker, Robert
+Holt, and Edward Merrill. 1993 also saw rise to 'MO', the PT hill
+still utilized by the crew to this day. The crew completed a
+successful 1993 fire season and built a formable foundation by which
+to continue into the future. Twenty years later, the crew continues to
+deliver a quality product and achieve success following the ideals and
+beliefs of our earlier years.
 
-Also in 2002, crew carriers were acquired and the crew moved into its
-current home at the Forest Service Administrative site in north Fort
-Collins. The facility, with offices, barracks, weight room, cache,
-engine bays and a training room also houses the Canyon Lakes Ranger
-District's fire and fuels personnel which helps emphasize the crew's
-affiliation with its home district.
+Minton designed the first crew logo, and like much of the 1992 crew
+only lasted one season. A new logo and a new crew color were ready for
+the 1993 season, but failed to meet the approval of the new
+superintendent. 9914 finally saw a logo very much similar to the logo
+of today. Minton was again responsible for this logo and it was
+printed upon dark charcoal shirts, which also remain in 2007. The logo was modified in 1995 wit the adding of the
+"old English" script. The last modification to the Diamond Mountain
+logo was made in 1999 by adding "Malum Necessarium".
 
-While the crew spends much of the summer away on assignment, when at
-home the Hotshots help meet the district's needs by doing a variety of
-project work and assisting with prescribed fire.
+The original crew utilized a make shift station in the BLM yard until
+they finally found a home in 1995 and moved into the old Caltrans
+building on Main Street in Susanville. It was a suitable facility and
+the crew called it home until 2003 when Caltrans decided to put the
+building up for sale, thus ending one of the greatest lease deals in
+history at \$200.00 a month. After a tiresome search, Superintendent
+Merrill finally secured a new home south of Susanville near the
+airport in the Turner Complex. The new facility offered a few upgrades
+with indoor plumbing and heating and actual office space. 2004 again
+saw the crew move supervision, moving back to working under the fire
+staff of NORCAL BLM. The crew moved their new home new and current
+home, The Hidden Valley Fire Facility, lying within the shadow of
+'MO', in August 2009.
 
-## San Juan
+Crew transportation was originally compromised of a mismatched fleet
+of GSA vehicles that finally left for good in1995 season. Borrowed,
+green, Forest Service crew hauls found their way to Susanville from
+the Tahoe and Stanislaus for the 1994 season. The crew quietly
+converted them to BLM vehicles by applying our trademark, magnetic
+logo to the doors. The crew took delivery of their new yellow crew
+hauls in 1996 and continually modified them until they were replaced
+in 2003 by shiny new buggies. The old buggies were unique with their
+ergonomically designed windows, rear suicide door, and cleverly
+mounted exhaust. The exhaust won acclaim from the ground support
+personnel across the west as the crew attempted to demob incidents.
+This year we lost Jake Garate; he accepted the superintendent position
+of the Wolf Creek IHC. Garrett Dunn is the crew Foreman since April of
+2015.
 
-![](rmcc/rmcc_san_juan.png)
+## Eldorado
 
-Year(s) | Superintendent
-:- | :-
-2002-2007 | Shawna Legarza
-2008-2010 | Jim Cornelius
-2011-2017 | Jay Godson
-2018-present | Tom Allbright
-
-The planning for a new IHC crew in southern Colorado began late in
-1997. At the time the Rio Grande and San Juan National Forests were
-being considered as likely locations. The decision was made to base
-the crew in Durango and name the crew after the host forest.
-
-The crew was first organized in May 2002 to begin training at the
-Engineer Guard Station located near Durango Mountain Resort. The first
-six weeks the crew trained while the Missionary Ridge fire was burning
-within view. The Engineer Guard Station was home to the crew during
-the 2002 and 2003 seasons. The move to the old Ft. Lewis college
-campus south of Hesperus occurred in the spring of 2004, and the crew
-remained there until 2007. The final move from Hesperus to the Public
-Lands Center/ San Juan NF Supervisors Office occurred late fall of
-2007. This is where the crew is currently located.
-
-Transportation for the crew the first two seasons was Ford Excursions
-which were hand-me-downs from Roosevelt IHC. New International crew
-carriers arrived for the 2004 season and are expected to be replaced
-before the 2014 season. Additionally, the crew travels with a
-Superintendents truck, a chase vehicle, and an ATV/UTV.
-
-San Juan IHC is organized using the 1-1-3 system for Hotshot crews.
-This means 1 Superintendent, 1 Assistant Superintendent, and 3 squad
-bosses. Additionally, four positions are slotted for permanent
-seasonal senior firefighters. The remainder of the crew is composed of
-seasonal employees.
-
-Project work for the crew has varied throughout the years. We have
-taken on the normal fuels reduction work as well as unique assignments
-working for the engineering programs rebuilding/ removing bridges,
-mine reclamation, range projects that have included fence
-building/removal, and weed inventory.
-
-## Tatanka
-
-![](rmcc/rmcc_tatanka.png)
-
-Year(s) | Superintendent
-:- | :-
-1999-2001 | Geoff Bell
-2001-2008 | Pat Laeng
-2008-2017 | Brandon Hess
-2017- present | David Zortman
-
-The Tatanka Hotshot Crew was formed in 1999 on the Black Hills
-National Forest in Custer, SD. Tatanka Hotshots were the 4^th^
-Interagency Hotshot Crew in R-2. After working the 1999 fire season as
-a Type 2 IA training crew, Type 1 certification was gained in the
-spring of 2000. The crew was originally housed in a trustee unit on
-the grounds of an old Tuberculosis sanitarium that was converted into
-a juvenile offender facility. The crew moved into its current
-facilities in April of 2002.
-
-## Wyoming
-
-![](rmcc/rmcc_wyoming.png)
+![](oncc/oncc_eldorado.png)
 
 Year(s) | Superintendent
 :- | :-
-1967-1969 | Sig Palm
-1970-1972 | Jim Shell
-1973 | Carl "Tut" Anderson
-1974 | Dennis Eckardt
-1975 | Terry Wood
-1976 | Tom Able
-1977-1979 | Steve Nichols
-1980-1983 | Jeff Johnson
-1984-1996 | Mark Rogers
-1997 | Chris Church (detail)
-1998-2000 | Kevin Pfister
-2001-2004 | Jay Kurth
-2005-2007 | Scott Schuster
-2008-Present | Matthew Prentiss
+1981 | Milt Clark
+1982-1988 | Barry Callenberger
+1989-1995 | Greg Keller
+1996-2010 | Mike Beckett
+2010-2015 | Will Harris
+2016-2019 | Aaron Humphrey
+2019-present | Ben Strahan
 
-In 1967, Region 2 of the Forest Service was allocated a second
-Inter-Regional (IR) Crew. The region conducted an inventory of work
-projects and identified potential work stations within an hour of a
-major airport that could host the new crew. The end result was the
-selection of the Bighorn National Forest's Paintrock Ranger District
-in Greybull, WY as the home of the Bighorn IR Crew. Some 40 years
-later, the crew still resides in the same buildings and remains the
-only hotshot crew in Wyoming.
+On May 19, 1981, Lynn Biddison, director of Aviation and Fire
+Management initiated the Eldorado Hotshots. Up until 1976, all four
+districts on the Eldorado National Forest maintained a ten- person
+fire suppression crew. In 1977 the Amador District gave up their crew,
+which in turn was absorbed by the Placerville District. The two hand
+crews were combined to form a single 20- person crew. They shared
+common transportation and days off. The crew was known as the Sly Park
+Fire Suppression Crew. During the winter of 1980, the Eldorado
+National Forest proposed to Region Five to change this crew into a
+Type 1-fire crew; on May 19, 1981, the crew became the Eldorado
+Hotshot Crew, to be stationed at Sly Park on the Placerville Ranger
+District. The Hotshots designed and constructed their own facility,
+including men's and women's barracks, laundry facility, office and
+workshop.
 
-During the late sixties, the standard size of an Inter-Regional Crew
-was 32 members with a Crew Foreman, four Squad Leaders and seven or
-eight firefighters on each squad. By 1970, the crew size was down to
-27 members in order to reduce the number of people that had to remain
-behind, as most travel was done by DC-3 or C-46 which had a maximum
-capacity of 24. The current crew size of 20 was established in 1975.
+The first Superintendent was Milt Clark. He was detailed into the
+position during this first fire season. During the fall of 1981, the
+Palomar Hotshots became victim to a reduction in the workforce. Their
+displaced Superintendent, Barry Callenberger, found a home on the
+Eldorado Hotshots for the 1982 fire season and stayed with the crew
+until 1988.
 
-Hair length could not exceed two inches and facial hair was prohibited
-in the late sixties and early seventies. Sleeping quarters were
-fashioned out of the carpenter shop which consisted of a garage with a
-large metal building attached. Inside were excess metal military
-bunks, metal military lockers that acted as screens between some of
-the bunks and limited bathroom facilities.
+In the winter of 1989, Greg Keller, who had been the foreman from 1981
+to 1988, became the next Superintendent. He held the position until
+1995, when he decided to move on to greener pastures in Idaho as a
+Battalion Chief.
 
-The early 1980's brought significant change as the first woman joined
-the crew in 1981 and in 1982 the Bighorn IR crew became the Wyoming
-Hotshots. During the 1984 Summer Olympics in Los Angeles, the Wyoming
-Hotshots were one of several hotshot crews on detail to Southern
-California. Olympic and city officials requested additional crews in
-an effort to prevent large wildfires that could worsen air quality.
+The winter of 1995 brought on a change of leadership as Mike Beckett
+became Superintendent. After details in the 2009 and 2010 fire season
+as Division Chief, Mike officially became the South Division Chief of
+the El Dorado National Forest in July 2010.
 
-A primitive kitchen and one unisex bathroom were tolerated throughout
-the 1970's and 1980's. Handcrafted "rooms" multiplied until in 1996 a
-major remodel brought individual rooms and separate men's and women's
-bathrooms. Then and now, the barracks sits right next to the railroad
-switching yard which provides nightly enjoyment. The locomotives rev
-up their engines and build up speed and then stop to release some of
-the cars. The stopping of the locomotive creates a chain of bangs as
-each car smashed into the next one.
+In the winter of 2010, Will Harris, who had been Captain from 2004 to
+2010, accepted the Superintendent job in November. Will had previously
+detailed into the Superintendent position during the 2009 and 2010
+fire seasons.
 
-The only fire shelter deployment in crew history occurred in June of
-1988 on the Brewer Fire, Custer National Forest, Montana. Severe
-drought, record low fuel moistures, erratic and strong winds, extreme
-temperatures and very low humidities led to extreme fire behavior
-conditions. The fire went from a surface fire to a running crown fire
-while the crew was flanking the fire my building fireline. The crew
-ultimately deployed shelters in a nearby meadow and four firefighters
-ultimately sustained burn injuries.
+Fire season 2015 started with Will detailed as Battalion 61 finishing
+as Division 6. Aaron Humphrey detailed as Superintendent. That fall
+Will moved on from 15 years with the crew accepting the Georgetown
+Division Chief position. New leadership was ushered in by Aaron
+Humphrey accepting the Superintendent position in December 2015.
 
-The 1990's experienced the major barracks remodel, a wealth of time on
-assignment in Craig, Colorado and the second half of Mark Rogers'
-tenure as Superintendent. Rogers was by far the longest serving
-Superintendent in crew history at 13 years.
+In 2019 after serving 20 years on the Eldorado Hotshots, Aaron
+Humphrey left the crew and Forest Service, to pursue a life outside
+the agency. It was at this time that Ben Strahan took over the crew,
+and he is currently the Superintendent of the Eldorado Hotshots.
 
-The modern era is marked by a gradual increase in permanent staff in
-order to keep pace with national standards, longer fire seasons and an
-increased involvement in all-risk assignments. Like all other crews,
-the Wyoming Hotshots have experienced busier and busier fire seasons.
-The number of days on assignment has more than tripled from the 25
-to30 days spent on fires in 1967 and 1968. Other memorable recent
-events include the only trip to Alaska in crew history (2004) and back
-to back hurricane relief assignments in 2005 and 2006.
+## Elk Mountain
 
-# Southern
-
-## Asheville
-
-![](sacc/sacc_asheville.png)
+![](oncc/oncc_elk_mountain.png)
 
 Year(s) | Superintendent
 :- | :-
-1989-2002 | Dick Kastler
-2003-Present | Steve Little
+2003-2004 | Grant Montgomery
+2005 | Jon Teutrine
+2006-2007 | Bret Murphy
+2008-2010 | Richard Tingle
+2011 | Donovan Lee
+2012-2014 | Cheveyo Munk
+2015 | Kyle Betty (detail)
+2016-Present | Reymundo Reyes
 
-The Asheville Interagency Hotshot Crew (IHC) is one of three IHC
-programs in the nation to offer a concentrated training curriculum and
-the combined field experience of a full fire season. The program is
-designed to help develop future fireline supervisors and fire
-managers. Asheville selects 17 candidates with career status as
-detailers to the program for one season. The designated classroom
-training provides individuals with basic requirements towards the
-single resource Crew Boss qualifications. On fire assignments through
-out the detail, each candidate is provided the opportunity to perform
-in fire leadership positions.
+The ***Elk Mountain Hotshots*** is hosted by the Upper Lake Ranger
+District on the Mendocino National Forest in Upper Lake, California.
+The crew was established in 2002 under the MEL build up in Region
+Five. The crew was originally known as Mendo 49. In 2003 the name Elk
+Mountain Handcrew was established after a local mountain. While on
+forest the crew's official name is Crew 4.
 
-From initiation in 1989 to 2001, Asheville IHC was typically the only
-Type I IHC available during the Southern Region spring fire season. In
-2001, two additional Forest Service IHC programs were initiated in the
-Southern Area. With the limited numbers of such resources during this
-period, the Asheville crew is continually requested for wildfire and
-prescribed fire assignments. These assignments ensure practical
-experience and knowledge gained from performing on the fireline.
+**In June 2009 a regional certification team came and certified the
+Crew becoming Elk Mountain Hotshots.**
 
-The National Forests in North Carolina are the host administrative
-unit for the Asheville IHC. The hotshot's base of operation was first
-located in Hendersonville, NC at the Kanuga Camp and Conference
-Center, from 1989 to 1995. The program moved to the YMCA Blue Ridge
-Assembly in Black Mountain, NC in 1996 and continues to use this
-facility. Both locations have provided excellent training, barracks
-and dining facilities conducive to the intense classroom and physical
-training schedule maintained by the crew.
+## Feather River
 
-The Asheville Hotshot crew has provided its leadership training
-opportunity for seventeen years. A total of 322 individuals have
-successfully completed the Asheville IHC program. The majority of
-these people continue to serve in fire supervision positions across
-the country. Many are working as fire program managers at the forest
-level and higher.
-
-Initially the only fulltime position with the program was the
-Superintendent. From 1989 to 1995, two Foreman positions were filled
-with detailers each season. In 1996, an Assistant Superintendent,
-13/13 permanent seasonal position was added to help with increasing
-operational needs and responsibilities. The Assistant Superintendent
-position became permanent fulltime in November of 1999. In September
-of 2003, a permanent fulltime Forman position was added to complete
-the programs supervision organization.
-
-## Augusta
-
-![](sacc/sacc_augusta.png)
+![](oncc/oncc_feather_river.png)
 
 Year(s) | Superintendent
 :- | :-
-? | Oscar Montijo
+2003-Present | Robert Daniels
 
-In June of 2001, the Augusta Hotshots were established on the George
-Washington and Jefferson National Forests. The crew is stationed at
-Augusta Springs, Virginia, located on the Deerfield Ranger District.
-Augusta was one of two new Forest Service Hotshot Crews to be
-established in the east under the National Fire Plan completed in
-2000. The crew's season is structured around the eastern fire season.
-They, also, assist in prescribed burning, and are available for
-support of the western fire season, and other emergencies. Augusta
-received their type one status the summer of 2002. The crew has been
-involved with numerous wildfires and prescribed fires in 11 states,
-and in every fuel type. In addition, the crew spent two weeks in
-support of FEMA in New York City during the World Trade Center
-Disaster and in Williamsburg, VA, to assist with cleanup after
-Hurricane Isabel.
+The Feather River hotshots were established April, 2003. In 2001 the
+Plumas National Forest got the funding for two additional twenty
+person Type 1 Crews, and seeing the need for a Type 1 crew on the west
+side of the forest the decision was made to place one of these crews
+on the Feather River Ranger District. The year prior the funding was
+for a 10 person fire crew this crew was called Crew 3 and was put into
+service May of 2001 but due to overhead turnover this crew was
+disbanded.
 
-The Augusta Hotshot's season is structured around the Eastern fire
-season; therefore, they work a different schedule than most other
-crews. Currently the crew begins work the last week of January, and
-works till the end of May. The crew then takes June and July off and
-starts back up the first of August.
-The second half of the season then ends around the first of December.
-Basically the crew works four months and is off for two, on for four
-and off for two. The crew is equipped with fire six-pack trucks, which
-allows them to break into small modules for support of eastern fuel
-types.
+The Feather River Hotshots operated as a Type 2 Handcrew for the first
+two years until August, 2005 when they officially got there Hotshot
+status. The Hotshot Certification team consisted of: Deputy Fire Chief
+and Team leader-Don Will from the Tahoe National Forest, Division
+Chief Scott Brockman from the Mendocino National forest, and Division
+Chief Mike Cherry from the Tahoe National Forest. Upon Completion of
+the Certification Don Will presented the crew with a railroad spike he
+removed from a tree during the field portion of the certification. He
+presented this spike to the crew to represent the old saying "Driving
+the Spike". After this we implemented the Spike in our crew emblem to
+remind us to "always drive the Spike". Our Crew Emblem also represents
+the Feather River which our district is named after.
 
-The crew's base, located in Augusta Springs, is adjacent to a Forest
-Youth Camp. Construction of crew facilities has been under way at the
-same location since the spring of 2002. Currently there are two modern
-barracks with all amenities, housing six persons each. Completion of
-the crew headquarters is planned for spring of 2004.The base sets
-below Great North Mountain, which is part of The Allegheny Mountains
-that stretch from Virginia into West Virginia. Just east of the base
-lies Virginia's Shenandoah Valley. Most of the area is covered in a
-mixture hardwood forests and farmland. The area is equally beautiful
-as it is historic.
+The first 3 years the Crew transportation consisted of 3 six pack
+pick-up trucks and one holdover ½ ton pick-up truck as a supt. Rig.
+During this period there was sufficient funding for supplies but new
+buggies and superintendent rig were ordered late so these were still a
+year or two out. Management on the district played a critical role in
+keeping the crew when there was talk about two 10-persen crews on the
+forest in lieu of.
 
-In summary the Augusta Hotshots have a very unique program, and work
-in a very unique area! The crew is always looking for new members, and
-new opportunities to serve the citizens of these United States.
+## Klamath
 
-## Cherokee
-
-2001-2014 | 2015-Present
-:-: | :-:
-![](sacc/sacc_cherokee_2001-2014.png) | ![](sacc/sacc_cherokee.png)
+![](oncc/oncc_klamath.png)
 
 Year(s) | Superintendent
 :- | :-
-2001-2003 | Tim Wharton
-2004-Present | Dennis Trentham
+2001-2019 | Johnny Clem
+2017 | Andy Zink  (Detailed)
+2018 | Kevin Smyth (Detailed)
+2019-Present | Andrew Zink
 
-In June 2001, in accordance with the National Fire Plan, the Cherokee
-Hotshots came to be. The crew is based in Unicoi, TN since the
-beginning. The crew was named after the host National Forest
-(Cherokee). The crew logo as seen above has been with the crew since
-2001 until 2015. It outlines the Volunteer State of Tennessee (in
-gold) and the host National Forest (Cherokee) in green with the gold
-star indicating the location of the crew on the north end of the
-Cherokee National Forest. There has never been a crew name change or
-change in the IHC base location. Tim Wharton was hired as the first
-Superintendent. To date (2009) there is one individual that has been a
-member of the crew from day one.
+The Klamath Hotshots were established as part of the National Fire
+Plan in response to the devastating fires of 2000. The maximum
+efficiency level (MEL) for the Klamath National Forest called for the
+addition of an Interagency Hotshot Crew and the Oak Knoll Work Center
+was selected as the host site. Johnny Clem was selected as the
+superintendent of the Klamath IHC, and was able to gain certification
+as an IHC in August of the crew's first year. Transportation for the
+crew was originally "six packs" provided by the forest. Mid-way
+through the first year the crew took delivery of two new International
+crew hauls.
 
-The crew was considered to be in a trainee status for the first five
-fire seasons. In July 2006 the crew was able to obtain national
-certification as an Interagency Hotshot Crew.
+In, 2003, the crew was able to complete the construction of two new
+bunkhouses with rooms for up to 18 personnel.
 
-The program has a new administrative site that was completed in 2007
-and has had crew quarters for 18 personnel since 2002.
+In 2009, the overhead moved out of the barn, which had served as the
+crew's office since its inception and into a modular office space with
+room for training. Until this time all classes facilitated by the crew
+were held in the local Klamath River Community Hall. And the next year
+in 2010, two new crew hauls and a new superintendent vehicle were
+delivered to the base. Those vehicles continue to log numerous miles
+responding to emergency incidents around the nation today.
 
-There have been 2 logos used by the crew since the crew's inception in
-2001. The current logo being used by our organization is what you see
-at the bottom of the page. It was adopted by the crew in 2015. Dillon
-McInnis drew the design for the logo a couple years prior to 2015
-while on a detail with the crew.
+The crew continued to expand with the opening of a new KIHC office on
+the Oak Knoll compound in 2013. It provides more space for gear
+storage, and additionally a squad room that hosts the Squad leaders
+and Senior Firefighters to work and have non-formal meetings. The new
+building delivers a comfortable work environment year-round as the
+training room facilitates not only the Crew but the District, and
+forest staff. Along with the new office there is a saw shop, welding
+and tool room built to accommodate the growing needs of the crew.
 
-The crew maintains the original staffing of 22 members with 18 of
-these being career/seasonal appointments to meet continuous staffing
-requirements for working a split season.
+In 2019, the crew saw the end of an era with long time, and original,
+superintendent Johnny Clem accepting the position of Deputy District
+Ranger for KNF Happy Camp/Oak Knoll. However, the tradition continues
+to be carried on with the hiring of Andrew Zink as the new
+superintendent. Andy, better known as "Butters," originally begin with the crew in 2002,
+moving up through the ranks as Apprentice, Senior, Squad Boss, and
+Captain over his career. Adding to the depth of the overhead the crew
+has welcomed Isaac Flattley as Captain to counterpart Kevin Smyth.
 
-## Jackson
+For physical training the crew can often be found hiking its PT hill
+behind the Oak Knoll Work Center. Red Line, the Repeater and The Wall
+are a few of the more memorable spots that can be found along the way.
+A few new hikes have been added since the crew's first year, but the
+original route up the hill is still in use to this day. A fully
+equipped workout facility in a reclaimed building on the compound,
+pull-up bars and volleyball court are available to the crew for
+additional physical training.
 
-![](sacc/sacc_jackson.png)
+## Lassen
+
+![]()
 
 Year(s) | Superintendent
 :- | :-
-1997-1998 | Jerry Soard
-1999-2013 | Lamar Liddell
-2014 | Fred Ashford (detail)
-2015 | Greg Smith
-2016-2018 | Fred Ashford
-2018-Present | Darren O'Loughlin
+1974-1977 | Don Wallace
+1977-1978 | Joe Carvello
+1980-2002 | Jim Jimenez (retired in place)
+1997 | Stan Kubota (detailed)
+2003-2006 | John Bristow
+2007 | Mike Sherman (detailed)
+2008 | Allen Schultze (detailed)
+2009-2014 | Fred Brewster
+2015-Present | Allen Schultze
 
-During the summer of 1996, the Secretary of the Interior, Bruce
-Babbitt visited several wildland fires in the western U.S. During
-these visits, the Secretary noted that there was a low percentage of
-minorities represented on the overhead teams and fire crews involved
-in suppression efforts. To increase opportunities, the city of
-Jackson, MS was selected as a site for a Hotshot crew.
-Jackson was selected as the site to base a new crew because of its
-proximity to Historically Black Colleges and Universities from which
-to recruit individuals who may be interested in pursuing a career in
-fire management.
+The Lassen Hotshots were formed in the summer of 1974. The crew was
+placed at Bogard Work Center on the Eagle Lake Ranger District of the
+Lassen National Forest. Don Wallace was named the first superintendent
+of the Lassen Hotshots. Don ran the crew until 1977, at which time Joe
+Carvelo took over. Due to a budget crisis in 1978, the crew, along
+with numerous others, was shut down. This was known as "Black Friday"
+in the hotshot world. Due to a very active fire season in 1979, and
+the lack of appropriate resources to deal with the many fires, the
+decision was made to bring back several of the disbanded crews.
 
-In early 1997 the Bureau of Land Management announced the
-establishment of a new Type I \"Hotshot\" wildland fire fighting crew
-in Jackson, Mississippi. While fire suppression was the primary
-function for the Hotshot crew, it was also envisioned that its members
-would be able to gain experience in prescribed fire in the southern
-states and bring that expertise to western projects. The formation of
-the Jackson IHC was supported by the Historically Black Colleges and
-Universities as well as the International Association of Black
-Professional Firefighters Foundation (IABPFF). In addition to
-increasing opportunities for African Americans, the program is also
-committed to providing opportunities for other population that are
-underrepresented within the fire community.
+So in April of 1980, the Lassen Hotshots came back to life under the
+leadership of Jim "Jaime" Jimenez. Lassen was one of the first crews
+to travel to Alaska in the 1980's, and along with the El Dorado
+Hotshots, the first to fight fire internationally in Canada.
+Also, Lassen has hosted numerous international firefighters from
+Chile, India and Australia.
 
-The Jackson Hotshots are the only BLM crew based east of the
-Mississippi River and their main goal is to protect life, property and
-resources threatened by wildland fires. In addition to wildland fires,
-the crew often supports prescribed fires and All-Risk assignments. The
-crew consistent of a career staff of one Superintendent, one Assistant
-Superintendent, three Squad Leaders, three Lead Firefighters, and two
-Senior Firefighters specifically held for Veterans. The remainder of
-the crew consistent of temporary employees from GS-3 to GS-6. Outside
-of the scheduled fire season which runs from March through September,
-the career staff supports inter-agency partners in implanting
-prescribed fires and other land management projects.
+For twenty-two years Jaime served as the Lassen Hotshot
+Superintendent, training captains, squad leaders, and countless
+crewmembers. Many of these hotshots returned to honor Jaime in the
+spring of 2003, along with friends, family and several other hotshot
+superintendents for his retirement party. Throughout his long and
+prolific career Jaime exemplified the hotshot work ethic of never
+quitting, always challenging himself and those around him, and by
+putting honesty, duty and integrity above all else.
+
+In that tradition, John Bristow was chosen as the next Superintendent
+prior to the 2003 fire season. John service as superintendent lasted
+until the spring of 2007 when detailing to the Fire Management Officer
+position for the Almanor Ranger District, and going on to accept the
+position in the spring of 2008.
+
+In the spring of 2009, Fred Brewster was selected as the next
+Superintendent. Fred's dedication and service as superintendent saw
+the crew thru six seasons of hard work, tradition, and many fun and
+exciting shifts to the end of the 2014 fire season. With Fred's long
+respected career as a California Hotshot behind him, Fred will
+continue to be a prolific leader as an Air Attack out of the Chester
+Air Base.
+
+With the beginning of 2015, we find Allen Schultze as the new
+Superintendent to carry the Lassen Hotshot tradition into the future.
+
+The Lassen Hotshots are proud to be a part of the California Hotshot
+community. We continually strive for excellence and to uphold our
+interagency hotshot crew values.
+
+## Mad River
+
+![](oncc/oncc_mad_river.png)
+
+Year(s) | Superintendent
+:- | :-
+2001-2002 | Tim Diaz
+2002-2003 | George Mason
+2003-2009 | Ernie Weber
+2009 | Don Perez
+2010 | Ernie Villa
+2011-Present | Tad Hair 
+
+The Mad River Handcrew has been proudly serving the U.S. Forest
+Service since it was established in 2001 on the Mad River Ranger
+District, of the Six Rivers National Forest as a type II training
+Hotshot crew. The crew reached its long time goals and achieved its
+IHC status in May of 2013. Tenacity and perseverance are the two words
+that best describe the character of the crew. The crew will uphold the
+tradition of being professional wildland firefighters and will
+diligently support the overall mission of the United States Forest
+Service while, protecting life, property and our natural resources.
+
+The crew overhead structure consists of seven career positions, one
+GS-462-09 Superintendent with two GS-462-08 Captains, two GS-462-07
+Squad Leaders , four GS- 462-05 Lead Firefighters, and up to thirteen
+employees; comprised of temporary seasonal, detailers, and
+apprentices.
+
+## Mendocino
+
+![](oncc/oncc_mendocino.png)
+
+Year(s) | Superintendent
+:- | :-
+1974-1977 | Bob Moore
+1978 | Rusty Witwer
+1980-1986 | Jerry Barney
+1987-1988 | Larry Edwards
+1988-1994 | Don Will
+1995-2000 | Bill Pierce
+2001-2006 | Daren Dalrymple
+2007-2015 | Jon Tishner
+2015-2019 | Chris Markey
+2020-Present | Ernest Ceccon
+
+Like several other IHC's the Mendocino Hotshots were established in
+1974 under the direction of Superintendent Bob Moore. During the first
+year the crew was split into two locations on the same district. Ten
+people were in Alder Springs and ten were located approximately forty
+miles away, in Stonyford, due to facility constraints. In 1975 all
+members were brought together and placed in Alder Springs, where they
+remained through the 1986 season.
+
+During the twelve years at Alder Springs the crew had two other men
+lead them. In 1978 Rusty Witwer took over as Superintendent for the
+1978-79 seasons until he left to become the Hobart Hotshot
+Superintendent. During the remaining six seasons of the Alder Springs
+era the crew was led by Superintendent Jerry Barney (1980-1986).
+
+In 1987 the crew was moved back to the base of the Coast Range in
+Stonyford, California. With the change in locations came a change in
+Superintendents. Larry Edwards was hired as Superintendent and
+remained in that position for the 1987 and part of the 1988 season.
+
+Don Will took over as Superintendent during the 1988 season. Don took
+the crew through the remainder of its first 20 years. Don was the
+Superintendent for a total of six seasons and left the crew after the
+1994 season.
+
+Bill Pierce was hired as the Superintendent in 1995. With this change
+in Superintendents came changes in the crew logo and crew colors. The
+Mendocino color went from blue to black in 1996. Bill remained
+superintendent thru the 2000 fire season.
+
+In 2001, due to lack of qualified supervision, the hotshot crew status
+was temporarily removed. Rich Rushforth was then detailed into the
+Superintendent position to keep the crew on and fighting fire. The
+traditional Mendocino Hotshot logo and colors of Navy blue were then
+brought back, and it remains that way today.
+
+Daren Dalrymple was hired as the Superintendent in October of 2001.
+Additional qualified, permanent overhead was hired before the 2002
+season and the Interagency Hotshot crew status was regained with a lot
+of hard work and pride during the 2002 fire season.
+
+Jon Tishner was hired behind Daren Dalrymple in 2007. He was the
+Superintendent for 8 seasons and instilled great work ethic and
+integrity upon the crew. Jon served as the IHC Co-chair and helped
+incorporate the Rattlesnake Staff ride as part of the Advanced
+Wildland Fire Apprentice Program curriculum.
+
+Chris Markey detailed as the Superintendent for the 2015 season when
+Jon accepted an Air Attack position and Chris became the formal
+Superintendent January of 2016.
+
+Ernest Ceccon detailed into the position for the second half of the
+2019 fire season and was hired into the permanent position in 2020.
+
+## Modoc
+
+![](oncc/oncc_modoc.png)
+
+Year(s) | Superintendent
+:- | :-
+2001 | John Ryan
+2002-2006 | Greg Keller
+2007-? | Bob Beebe
+2010 | Terry Walters
+2011 | unstaffed
+2012-present | Willie Almand
+
+The Modoc Interagency Hotshot Crew came into existence after the
+conclusion of the 2000 fire season. At that time, it was decided by
+wildland fire managers and the United States Congress to fund national
+suppression efforts at the "Most Efficient Level" or MEL.
+
+In 2001 the Modoc Interagency Hotshot Crew started operations on the
+Modoc National Forest, working out of the old Canby Ranger Station.
+The old Canby Ranger District has now been absorbed into the Devils
+Garden Ranger District. The crew has taken over the entire compound
+with adequate space for office facilities, barracks, warehouse,
+workshop, storage, training and a physical fitness workout room.
+
+The crew works directly for the forest fire staff. Direct supervision
+comes from Forest Fire Management Officer, and second level
+supervision comes from Kimberly Anderson, Forest Supervisor.
+
+The original crew structure consisted of John Ryan, Superintendent,
+Bob Beebe and Joe Johnston, Foreman. The crew was outfitted with the
+minimum compliment of tools, vehicles and equipment. The crew was
+assigned as a Type I (T) crew for the season, pending crew
+certification.
+
+In 2002, Greg Keller was brought in as Superintendent to run the crew.
+The crew Foreman continued with Bob Beebe and Joe Johnston. The crew
+had a productive fire season and accomplished filling out the
+remaining task books required for certification. The one remaining
+item to be covered was individual training experience. The crew
+members were afforded priority status for training slots for the
+winter training session held at the Northern California Service Center
+in Redding, Ca.
+
+All training and task book qualifications were complete and a
+certification review was requested for May of 2003. The crew
+certification took place on May 28 and 29. The certification team was
+headed up by Safety First Officer, Joe Millar and consisted of Mike
+Beckett, Superintendent Eldorado Hotshots, and Dave Bostic, Division
+Chief Modoc N.F.
+
+The crew was recognized as the Modoc Interagency Hotshot Crew on May
+29th 2003.
+
+The season of 2006 was the last year Greg Keller was the
+Superintendent of the crew, retiring from the Forest Service. In 2007
+Bob Beebe was hired as the Superintendent for the crew. For the season
+of 2010 Terry Walters was placed in the position of Superintendent.
+The crew was unstaffed for the season of 2011. The crew was again
+staffed for the 2012 season with Willie Almand being hired as the
+Superintendent.
+
+The crew logo, flying goose, is derived from the area\'s world famous
+water fowl hunting and nesting habitat.
+
+The crew "phrase", Pervado Tolerantia nos Benfacta was derived from
+the south polar explorer, Sir Ernest Shackelton. His family coat of
+arms, declared "Through Endurance we Conquer". For our purposes, we
+changed it to "Through Endurance we Succeed or Benefit". The small
+world part of this business became apparent with this crew logo. While
+working on the Aspen Fire on the Coronado N.F. in Arizona, a safety
+officer asked what the phrase meant. After explaining the Sir Ernest
+Shackelton part, he stated that he had in fact heard of Shackelton,
+and that his son was dating Shackelton's great granddaughter.
+
+The crew consists of 9 full time positions, one Superintendent, two
+Foreman, two squad leaders and four senior firefighters.
+
+## Plumas
+
+![](oncc/oncc_plumas.png)
+
+Year(s) | Superintendent
+:- | :-
+1974 | Charlie Earhart, Jim Hogg
+1974-1975 | Dan Swearingen
+1976-1978 | Jim Hogg
+1979 | unstaffed
+1980-1988 | Tom Hatcher
+1988 | Dave Ross
+1988-1999 | Kent Swartzlander
+2000-2014 | Jack Sevelson
+2015-present | Mike Sherman
+
+The Plumas National Forest staffed its first nationally recognized
+Hotshot Crew in July of 1974 and for two seasons would have it split
+into two separate 10-person modules; one each on the Greenville and
+Quincy Ranger Districts. These two modules would come together, upon
+receipt of a resource request, to form the Plumas Interagency Hotshot
+Crew.
+
+For most of its first season **Charlie Earhart** would act as
+Superintendent and supervise the Greenville half of the crew while
+**Jim Hogg** supervised the Quincy module. It wasn't until near the
+end of that first season that **Dan Swearingen** would officially be
+hired to fill the Superintendent position and he would remain as such
+until the end of 1975. Jim Hogg was his Foreman.
+
+In 1976 Hogg took over for Swearingen and brought the entire crew
+together at the Quincy Work Center location (now the Mt. Hough Ranger
+District Office), where they are stationed to this day. Jim was with
+the crew from 1976 until 1978 with **J.D. Killick** as his assistant.
+In late August of 1978, the crew, along with several other Hotshot
+Crews throughout the Region, lost their national funding. Plumas was
+able to remain together to finish out the season, operating out of
+local dollars, but many crews were not so lucky.
+
+The budget crisis that began the previous season carried over through
+the next fiscal year and in 1979 the crew was left unfunded and
+unstaffed. All equipment remained on the shelf and Jim Hogg moved on
+to other positions on the Forest and would not return to the Hotshot
+organization. Killick would leave for Region 3 and eventually retire
+from a Southwest Hotshot Crew.
+
+With the return of funding in 1980, **Tom Hatcher** became
+Superintendent with **Dave Ross** as his Foreman. Later that same year
+a second Foreman position was created and **Larry Vogan** would be
+hired to fill it. Tom was Supt. through 1987 and in March of 1988
+promoted into a Fuels ADFMO position, leaving the crew under Dave
+Ross, who acted as Superintendent until July of that year. Tom retired
+in 2006 after working his way up to Assistant Director of Fire and
+Aviation for Region 5 in Northern California.
+
+In July of 1988 **Kent Swartzlander** was named to Superintendent
+behind Hatcher with Dave Ross remaining as Foreman. Larry Vogan then
+moved on to the Lassen NF and his position would remain vacant until
+1989 when **Jon Lee** was hired to fill it. Kent would
+hold the Superintendent position for 12 seasons, from 1988 until 1999,
+during which time the organization was expanded to include two
+permanent Squad Leaders and eventually a single permanent Senior
+Firefighter. In 1999 Swartzlander left for the District Fuels AFMO
+position and would retire in 2010 as Forest FMO of the Six Rivers NF
+and Incident Commander of a Type 2 IMT.
+
+In the year 2000 **Jack Sevelson** came back to the crew to replace
+Kent as Superintendent, with Jon Lee and Dave Ross remaining in what
+were now being referred to as the "Captain" positions.
+
+A season later, in 2001, Jon Lee moved to Cedar City, UT as
+Superintendent of the new Dixie Hotshots. Dave Ross retired in 2003
+after 22 years as a Plumas Hotshot.
+
+**Pete Duncan** filled the Captain 13A position behind Jon Lee and is
+now the National Saw Program Manager for the USFS. He was replaced in
+quick succession by **Ryan Bauer (**who is now the Forest Fuels
+Officer -- Division 5) and then **Mike Sherman**.
+
+**Fred Brewster** replaced Dave Ross as Captain 13B and with 15 years
+on the crew, would move on to become Superintendent of the Lassen IHC.
+**Joel Schilling** would promote from Fred's Squad Leader to Captain
+in 2009.
+
+Having started on the crew in 1980, Sevelson would retire at the end
+of the 2014 season. In his fifteen seasons as Supt.13 Jack oversaw
+many changes within the Plumas Hotshots organization; from the
+expansion of its permanent workforce to include three more Senior
+Firefighters, to a seemingly endless shuffle of folks to keep all
+those permanent positions filled.
+
+2015 started the latest era with **Mike Sherman**, after 18 seasons
+with the crew, being promoted to Superintendent.
+
+In 2016, **Joe McGinn**, after seven years with the Plumas Hotshots
+accepted a promotion, becoming Captain 13B.
+
+## Redding
+
+![](oncc/oncc_redding.png)
+
+Year(s) | Superintendent
+:- | :-
+1967-1986 | Charlie "No Slack" Caldwell
+1986-2002 | Craig "Lanky" Lechleiter
+2002-2010 | Robert Holt
+2010-present | Dan Mallia
+
+The Redding Interagency Hotshot Crew was the first hotshot crew in the
+nation to offer a concentrated fire management training detail
+opportunity. By detailing potential fire management personnel to a
+crew of this nature at an early stage in their careers, they were able
+to gain a mass of experience and training that might take years to
+receive at their home unit.
+
+The program was initially developed in 1967 and functioned as one of
+the Pacific Southwest Region\'s three Interregional Suppression Crews
+along with the Del Rosa IR Crew and the El Cariso IR Crew. It remained
+an interregional crew until 1980, when at that time the interregional
+concept was abolished nationwide and all category one crews were
+reclassified as \"Interagency Hotshot Crews\" (IHC). The crew\'s
+training and career development concept was much the same in 1967 as
+it is today, but through the years it was modified to its current
+concept and mission.
+
+Throughout the four-year period from 1967-1971, the crew functioned as
+a detail training opportunity. The crew organization consisted of one
+permanent full-time GS 462-7 and 19 detailers, two being recruited
+primarily to function in the hotshot captain positions.
+
+The primary target audiences at that time were Foresters in need of
+crew and large fire experience. The formalized training curriculum
+during that period offered the detailer a variety of fire suppression
+and fire management subjects geared towards preparing the individual
+at the Sector Boss level.
+
+By 1971, the pool of available Foresters fell short of the desired
+level to justify the continuance of the program under its original
+concept. In 1972, the crew converted to the conventional hotshot crew
+concept. From 1972 to 1973, seasonal crewmembers were hired. Training
+was accomplished only to the extent to meet agency requirements for
+Category 1 Hotshot Crews. The crew performed conventional project work
+on the Shasta Trinity N.F. during the periods when not assigned fire
+duties.
+
+Following the 1973 fire season, the detail concept was re-implemented
+in 1974. The original emphasis on Foresters as the primary target
+audience was relaxed and the Forestry Technician began to fill a large
+majority of the 17 allocated positions. During this new era the
+overhead structure consisted of a GS-462-7 Superintendent and 2
+GS-462-6 Captains. Classroom and field training continued to emphasize
+a fire suppression curriculum but also included supervision subjects
+as well.
+
+During the winter of 1977, the Superintendent and one Captain position
+were reclassified as \"Fire and Training Specialists\". The
+reclassification increased the grade structure of the crew
+superintendent to a GS-462-9, and one Captain to a GS-462-7. The
+second Captain remained a GS-462-6.
+
+Throughout the period from 1981 through 1986, foresters filled a small
+percentage of the crew positions. Fire Management Officers expressed
+the need to re-emphasize the participation of foresters who were
+interested in a career in fire management and who had demonstrated a
+potential to become future large fire managers.
+
+Early in 1985, a steering committee was formed to assist the Redding
+Hotshot unit with modifying the program to include training in Timber
+Sale Planning, Prescribed Fire Management and Fire Prevention. In
+1991, the curriculum was updated again to better meet the needs of
+fire managers and the incoming crewmembers. The adjustment in the
+academic curriculum deleted the training in Fire Prevention and
+Principles of Prescribed Fire Management. In their place Fuels
+Management and Ecosystem Planning, S-230 Crew Boss, S-234 Firing Boss
+and S-260 Fire Business Management were added.
+
+In 1992, resulting from budget restrictions, the Redding crew was
+abolished. The crew returned in 1993, but without the training
+function. As in 1972-73, the crew functioned as a conventional hotshot
+crew for the Shasta Trinity National Forest, hiring a mix of
+career-conditional and temporary employees. In 1994, at the request of
+fire management in the region, the training program was reestablished,
+concentrating on Forestry Technicians in need of large crew and large
+fire experience.
+
+In 1995, the overhead structure changed again to consists of one
+GS-462-9 Superintendent with two GS-462-7 Captains. In 1997, a
+national reclassification changed the grade structure of the crew
+Captains to GS-462-8. After the re-classification the overhead
+structure consisted of one GS-462-9 Superintendent, two GS-462-8
+Captains, and two GS-462-6 Squad Leaders.
+
+In 2003, the Redding IHC training focus from Fire Program Management
+to Small-Unit Leadership Development. The program was developed by
+Robert Holt (former Redding IHC Superintendent), Patrick Lookabaugh
+(former Redding IHC Captain), Greg Power (former R5 Regional Training
+Officer), and Jim Cook (former National Training Projects
+Coordinator), and is based on successful military, corporate, and fire
+service leadership development models.
+
+The basic tenet of the program is: decisions made in historic fireline
+fatalities and near misses occurred at the small unit (squad/crew)
+level, not at the upper management level. Therefore, developing
+leadership skills and increasing decision-making abilities at the
+small unit level should be the foundation of all operational fire
+training.
+
+In 2006 the "detail" was dropped, and the program became a "training
+opportunity". Realizing that full time squad leaders were no longer
+essential during the fireline aspect of the training opportunity; the
+permanent squad leader positions were abolished. The overhead decided
+that the crewmembers would benefit more by working directly for the
+captains.
+
+In 2012 and 2018, the Redding IHC overhead and Regional Office Fire
+and Aviation reassessed the need and benefit from having squad leader
+positions added to the overhead structure, so the overhead structure
+now consists of one GS-462-09 Superintendent, two GS-462-08 Captains
+and two GS-462-07 Squad Leaders.
+
+In 2021, two GS-462-05 Senior Firefighter positions were added to the
+organizational chart to be in line with the Standards for Interagency
+Hotshot Crew Operations Guide (SIHCO) of 7 permanent employees. In
+2022, two GS-06 Lead Firefighter positions were added to the
+organizational chart per Washington Office direction for all USFS
+IHC's nationally.
+
+If fully staffed, crew will consist of all the overhead above (Nine
+permanent positions) and sixteen detailers to fill out the 25
+personnel.
+
+## Salmon River
+
+![](oncc/oncc_salmon_river.png)
+
+Year(s) | Superintendent
+:- | :-
+2001-2009 | James "Jimmy" Allen
+2010-2019 | William "Big Bill" Robinson
+2020-Present | Kelsey Lofdahl
+
+The Salmon River Hotshots are a federal Interagency
+Hotshot Crew (IHC) that was established in 2001 as a Type 2IA crew on
+the Klamath NF. Salmon River was part of the Most Efficient Level
+(MEL) Build-Up in response to the 2000 National Fire Plan, under the
+leaderships of Jimmy Allen, Grant Montgomery, Bill Robinson and Jon
+Jones.
+
+In 2003, with Jimmy Allen as Superintendent, Salmon River began its
+inaugural season attaining Hotshot status later that June. In February
+2010, the crew saw the end of an era as Superintendent Jimmy Allen
+retired from the agency allowing Bill Robinson to take the reins that
+season. Bill originally came to the crew in 2001 as a Squad Leader and
+then to Captain in 2002. In 2020, Bill Robinson moved on as ADFMO
+making way for Kelsey Lofdahl as the crews 3rd Superintendent.
+
+The crew is stationed in Sawyers Bar, CA and if you've been there you
+know and feel how remote this small defunct mining and logging town
+is. The history of this crew, like the history of the town, is
+somewhat lost in that deep river canyon. We know the people, we know
+their names, we know a few stories, but like then the people are gone,
+yet everyone leaves a ring in our tree. Amongst them and us there is
+shared virtues of friendship, resilience, and sacrifice. These tenants
+and much more lead to the work ethic and determination needed to
+achieve and maintain our type 1 status.
+
+The permanent workforce works hard to be the backbone of this crew,
+and the temps, as they come and go, are the arms and legs. We are not
+whole without each other. The coming and going of unique people makes
+every season an adventure in unity. No two years are alike. Once
+everyone comes together, we shape the present and future, exhibiting
+coordinated efficiency and purpose.
+
+Amongst our uniqueness however there is one thing that sets us apart,
+our PT hill. It is but a spur ridge of a dominant peak but deserves
+its own place in hell. The hill was there long before us, but we
+claimed it as our challenge. We accept its call both alone and
+together and, like it, stand proud to be here. Although Salmon River
+IHC is relatively new in terms of Hotshot legacies, the program
+continues to strive to become an essential part of the National
+Interagency Hotshot program.
+
+## Shasta Lake
+
+![](oncc/oncc_shasta_lake.png)
+
+Year(s) | Superintendent
+:- | :-
+2006-2010 | Jeff Michels
+2011 | Jerry Spence (Detail)
+2012-2015 | Donovan Lee
+2016 | Anthony Herbert (Detail)
+2016-2018 | Charles Barber
+2019 | Currently vacant
+2020 | Ron Graves/Joe Bogdan (Details)
+2021-Present | Joe Bogdan
+
+The Shasta Lake Hotshots were established in 2006 on the
+Shasta-Trinity National Forest in Lakehead California by crew
+superintendent Jeff Michels. Shasta Lake IHC became from the
+previously known Shasta Lake Hand Crew that was started on the
+Shasta-Trinity National Forest in 2001. In the year of 2006 Shasta
+Lake began the evaluation process for their IHC status. After months
+of hard work and dedication the crew gained their Type-1 status and
+was able to go out as an official IHC for their last assignment of the
+2006 fire season. Since then Crew-5 has remained in Lakehead,
+California and continue to uphold the dedication and values of those
+that came before them.
+
+**Most Efficient Level:**
+
+During the year of 2000, the Nation was struck with a devastating fire
+season that totaled 64,129 fires, and over 3 million acres burned
+nationally. In reaction to this the President instructed the
+Department of Agriculture and Interior to construct a plan to directly
+address the current and rapidly increasing fire seasons. With minimal
+resources and finances, and a notable amount of current employees not
+being trained to their highest potential the National Fire Plan was
+developed in August of 2000. The National Fire Plan allowed forests
+with high fire probability, potential and an ever encroaching wild
+land urban interface to acquire more resources and finances to train
+and develop their employees known as the MEL (Most Efficient Level)
+build up. The Shasta-Trinity National Forest took advantage of this
+adding the Shasta Lake Hand Crew to its resource ranks.
+
+**Crew Mission:**
+
+The primary mission of Shasta Lake IHC is to provide a Type-1 hotshot
+crew that is safe, organized, mobile and highly skilled for all phases
+of wildland fire suppression and reinforcement during natural disaster
+incident operations. The Shasta Lake organization is a dynamic
+organization and will not become stagnant. Shasta Lake strives to
+remain an energetic program with continued support, and will continue
+to learn, improve their skills, refine tactics, and increase
+situational awareness.
+
+**Operating in all Aspects:**
+
+Integrating and being a valuable asset to the public has always been
+important to the Shasta Lake Hotshots. Shasta Lake frequently takes
+part in prescribed burns, hazardous fuel removal, and fire breaks
+around the community of Lakehead and other parts of the Shasta-Trinity
+National Forest. On average the Shasta-Trinity NF burns around 10,000
+acres a year with Shasta Lake IHC being involved in many aspects of
+ICS chain of command.
+
+Shasta Lake IHC also recognizes the importance of public interaction
+and education. Frequenting community events and staying involved in
+programs that help inform and educate the public on the importance
+fire safety and preparedness.
+
+## Smith River
+
+![](oncc/oncc_smith_river.png)
+
+Year(s) | Superintendent
+:- | :-
+2001-2002 | Rick Young 
+2003-2004 | Sunbear Vierra
+2005-2006 | Scott Kizzar
+2006-2012 | Glen Tingley
+2013-2015 | Tim Memmer
+2016- | Douglas Denlinger
+
+Smith River IHC began with the MEL build up in 2001 as SRF-NRA-Crew-1.
+This ten person IA and Fuels Crew was located just inland from
+Crescent City California in the small town of Gasquet. For several
+years Crew-1 performed at this level and was very productive both at
+station and out on fires. It was determined in 2005 to expand the crew
+to 20 person type 2 IA capability with the end state of becoming an
+IHC. Several key individuals with prior IHC experience were brought in
+to insure the crew would be striving for standards commensurate with
+the SIHCO. Over the next few years the men and women of the Smith
+River Hand crew focused on work hardening, training and building
+cohesiveness in hopes of joining the elite IHC community. On June 5th
+of 2009 this goal became a reality. Over the brief span of Crew-1's
+existence, many great leaders have emerged. Although most have moved
+on, the NRA continues to be an excellent place to attract new talent.
+A special thanks is owed to the early oversight from the quality
+firefighters and leaders that laid the foundation to build upon. These
+days, the Smith River Hotshot crew is striving to become known for its
+hard work ethic and reliability.
+
+We value diversity of culture as well as thought and try to recruit
+from all over the country to ensure that. The overhead structure
+brings experience from many IHCs from several regions. That
+perspective is an aspect that we feel should remain a part of this
+crew's identity. We strive to be humble and let our line production
+speak for itself.
+
+Our motto is a quote from Rudyard Kipling,
+
+"The strength of the wolf is in the pack, the strength of the pack is
+in the wolf."
+
+## Tahoe
+
+![](oncc/oncc_tahoe_hobart.png) ![](oncc/oncc_tahoe.png)
+
+Year(s) | Superintendent
+:- | :-
+**Hobart Inmate Crew**
+1961-1970 | Les Bagby, Lynn Orr, Chuck Welch, Orv Houghan
+**Hobart Crew**
+1971 | Bob Riley
+1972 | Don Huber
+**Hobart Hotshots**
+1973-1975 | John King
+1975-1976 | Kris Kristofers
+1977-1978 | Dave Fields
+1979-1985 | Rusty Witwer
+**Tahoe Hotshots**
+1986-1995 | Rusty Witwer
+1996-2012 | Rick Cowell (retired in place)
+2013-2016 | Eric Rice
+2017-Present | Daniel Guerrero
+
+The Hobart Work Center, located outside of Truckee CA., was created in
+the 1930's as part of the CCC effort after the Great Depression. In
+1961 the Hobart Mills inmate crew, CC-51, was established. Volunteers
+from the State Penal system took on wildland suppression duties under
+the supervision of US Forest Service firefighters.
+
+After the inmate camp was disbanded in 1970, the project of organizing
+and assembling a fire crew to work out of Hobart Mills was tasked to
+Foreman Bob Riley in 1971. With cooperation from the BIA and the
+Truckee Ranger District of the Tahoe NF, a 32-man crew was assembled.
+The ranks were mostly comprised of Indian students from the Stewart
+Indian School in Stewart, NV. Alternately known as the Hobart
+Southwest Indian Conservation Camp, the Truckee Fire Crew, and the
+Hobart Crew, TNF engine foremen and Tank truck operators provided
+supervision and leadership during this time.
+
+The crew makeup of the early 1970's included over ten different Native
+American Tribes. Beyond adjusting to Forest Service policy and "white
+society", crewmen faced challenges presented by cultural differences
+and language barriers. From the beginning, the Hobart crews from the
+1970's demonstrated their intentions with accomplishments and
+successes in the woods and on the fireline.
+
+The crew acquired Hotshot status in 1973, becoming the second such
+recognized crew in North Zone. The Hobart Braves crew emblem was
+transformed to reflect the achievement. Designed by the Indian crews
+of the past, the Hobart shield remains unchanged to this day.
+
+In 1981 Celia Howe broke the gender barrier, becoming Hobart's first
+female hotshot.
+
+In the mid-1980's the logging industry was booming, creating an
+abundance of project work on the west side of the Forest. Tree
+planting, Slashing, and Burning funded the crew in between fire
+assignments. So, after a couple years of travelling across the crest,
+Hobart pulled up stakes and moved camp and duty station to the
+Bullards' Bar Work Center on the Yuba River Ranger District. This move
+occurred in 1984, but the crew was not renamed the Tahoe Hotshots
+until 1986.
+
+Following the busy season of 1994, Superintendent Rusty Witwer
+traveled to Washington D.C. to receive the Group Honor Award for
+Excellence from Secretary of Agriculture Dan Glickman, for
+outstanding heroic action and maintenance of safety standards.
+
+The Tahoe Hotshots, wearing the crest and colors of our past, continue
+to bring a safe, skilled, and productive resource to the fireline or
+the project.
+
+## Tallac
+
+![](oncc/oncc_tallac.png)
+
+Year(s) | Superintendent
+:- | :-
+2001-2003 | Steve Burns
+2004 | Mike Ierien
+2005-2008 | Steve Franke
+2009-2015 | Aaron Grove
+2016-Present | Kyle Betty
+
+The Tallac Hand Crew was established in 2001 as part of a nationwide
+buildup of resources to establish a maximum efficiency level of
+preparedness as directed by the National Fire Plan. The original
+intent of the crew was to perform fuels management projects meeting
+resource management objectives and to be available for wildland fire
+responses.
+
+Steve Burns was the initial Crew superintendent of the Tallac Hand
+Crew. Steve initiated the program from the ground up, building the
+foundation for the future success of the program. Steve hired the
+crew, secured all the necessary supplies and workspace at the Meyers
+Work Center, where the crew still resides today. The crew was up and
+running by June 2001. Steve remained in the superintendent position
+until 2003 when he moved to a Battalion Chief position, eventually
+becoming Chief 1 of the Lake Tahoe Basin Management Unit.
+
+In 2004, Mike Ierien moved from captain to superintendent and led the
+crew for that season. Mike moved on in 2005.
+
+In 2005, Steve Franke became the superintendent of the crew, coming
+from the Redding Smokejumpers, with Aaron Grove as the captain. In
+2006, the crew moved to a two-captain system, bringing on John Chester
+to fill the role as the second captain. In 2008, Aaron left the crew
+and moved on to be an engine captain. Bill Sanders replaced him as
+captain. Steve Franke led the crew through the 2009 season moving on
+in late 2009 to lead Crew 4, the Tahoe Basin Fuels crew.
+
+In 2010, Aaron Grove returned to the crew to become the new
+superintendent with John Chester and Bill Sanders remaining as
+captains. Over the next four years the crew evolved through
+leadership, extensive training, recruitment, hard work and dedication.
+This evolution paid off in 2014, allowing the crew to complete the
+Type 1 crew certification process and achieving the goal of becoming
+the Tallac Hotshots, thus becoming the first Interagency Hotshot Crew
+from Lake Tahoe.
+
+Aaron Grove left the superintendent position in 2015, moving on to
+become the training officer on the Plumas National Forest. Bill
+Sanders also left in 2015 to become a prevention officer on the Lake
+Tahoe Basin.
+
+In 2016, Kyle Betty was hired from the Lassen Hotshots to become the
+new superintendent. Charlie Jones was hired into the captain position,
+coming from the Plumas Hotshots.
+
+In the Fall of 2019 John Chester, a long-time captain on the crew
+moved on to the Division Chief position on the Lake Tahoe Basin. Elsa
+Gaule a long-time crewmember and squad leader on the crew was promoted
+into the Captain position.
+
+The Tallac Hotshots continue to provide a valued resource by
+responding to fires and all risk incidents throughout the Lake Tahoe
+Basin and the Nation. We are proud to uphold the tradition and legacy
+of the hotshot community.
+
+## Trinity
+
+![](oncc/oncc_trinity.png)
+
+Year(s) | Superintendent
+:- | :-
+2005-? | Justin Jeude
+2009 | Stew Richter (Detailed)
+?-2015 | Justin Jeude
+2016-2017 | Aaron Utterback
+2018 | Ron Graves (Detailed), Richie Reposa (Detailed)
+2019-2020 | Richie Reposa
+2021-Present | Tristan Dias
+
+Following the devastating 2000 fire season wildland fire managers and
+United States Congress realized that there was not an adequate level
+of suppression resources to deal with the increase in fire activity
+nationwide. As a result, it was decided to increase and fund national
+suppression resources at the most efficient level. This became known
+as the MEL Build up.
+
+The South Fork Hand crew (Crew 1) was established in 2001 under the
+national fire plan and stationed out of the Hayfork Ranger Station in
+Hayfork, Ca. Larry Helsley was the Superintendent. The South Fork Crew
+was stationed in Hayfork from 2001- 2005; during that time the crew
+was a type two initial attack hand crew.
+
+In 2006 Justin Jeude, who started his Hotshot career on Diamond
+Mountain Hotshots, was promoted from Captain on the crew to
+Superintendent. He had the crew identifier changed to Crew 11 and the
+name changed to Trinity, a historical tribute to the days when The
+Shasta and Trinity were separate National Forests. He also had the
+crew relocated to Harrison Gulch ranger station, which was built in
+the 1930's by Civilian Conservation Corps. It's Located on the Yolla
+Bolla Ranger District in beautiful Platina California, where they
+still are today. They share the station with two type three engines
+and a water tender. The crew was given their own facilities with
+adequate space to accommodate the needs of a twenty person Hotshot
+crew.
+
+In 2006 Doug Powell, whom had been the squad leader on the crew came
+back from a detail to the California Smoke jumpers and accepted the
+Captains position on the crew Doug and John Chester who had worked his
+way up through the ranks were the two captains. In 2007 John left and
+went to Tallac Hotshots as a captain and Kris Kochar, an ex-Diamond
+Mountain and Mendocino Hotshot, was promoted from Squad Leader to
+Captain. Justin and his permanent staff began to build and improve the
+crew's foundation through hard work, perseverance and an all-around
+good attitude with the goal to bring the crew to Type One status
+(Hotshots)
+
+In 2007 the crew was put in front of a USFS Region 5 Safety First
+Hotshot Crew Certification Team lead by Jerry McGowan. The crew
+performed an intensive two day evaluation and on July 8, 2007 were
+certified as Regional Hotshots. The Trinity Hotshots were the
+fourteenth Hotshot crew to be certified in Northern California.
+
+2009 found Doug Powel and Kris Kochar moving on, and Justin
+temporarily promoting into a Battalion Chief detail. Doug went on to
+become a Forest Service LEO and later a California Smokejumper. Kris
+moved on to the private sector to pursue bigger passions. Aaron Utterback transferred
+over as the permanent Crew Captain from the local Helicopter crew,
+506, and Dylan Reeves from the California Smokejumpers detailed in as
+the other Captain. Stew Richter detailed in as the crew
+superintendent. Justin Jeude came back to the crew after his Battalion
+Chief detail and continued to fill his role as Superintendent.
+
+In 2010 Brad Schuette from the California Smokejumpers filled in as a
+detailed captain. Robert Reeves, a local engine Captain, accepted the
+permanent captain's position on the crew in the winter of 2010 and
+Justin, Rob, and Aaron ran the crew for the next three years. In the
+winter of 2013 Aaron Utterback took a Battalion Chief position on the
+forest and, Richie Reposa, who came from the Klamath Hotshots in 2009
+to take over the squad boss position, detailed into the Captains spot.
+He permanently accepted the job in 2014.
+
+After 10 years as the crews Superintendent, Justin stepped down from
+his duties in the winter of 2015 and moved on to work at the Redding
+Airtanker Base. Aaron Utterback came back to the crew in 2016 as the
+Superintendent. Later that same year, Robert Reeves vacated the
+position and went into the private sector. Ron Graves, who started on
+the crew in 2007 and worked his way up through the ranks, detailed in
+to the Captains spot behind Robert. He later took the job permanently
+in 2016.
+
+After 2 years as the Superintendent, Aaron left the crew to pursue a
+career with Calfire as a Crew captain. In the summer of 2018, Richie
+Reposa and Ron Graves Split 120 day details and filled the
+Superintendents position.
+
+Tristan Dias, who came to the crew in 2014 from The Lassen Hotshots as
+a squad leader, detailed into the Captains position.
+
+In 2019 Richie Reposa accepted the Superintendents position for the
+crew. Tristan Dias accepted the Captains position, Ron Graves left the
+crew to accept a Captains position on the forests other Hotshot crew
+(Shasta Lake Hotshots) and John Castaneda, a squad leader from Tallac
+Hotshots, detailed in to the Captains position behind him.
+
+Trinity Interagency Hotshots are a young crew and have an unwavering
+dedication to upholding the long standing traditions and high
+standards of the IHC program through hard work, perseverance, and an
+all-around good attitude. We adhere to the core values of Duty,
+Respect, Integrity, and Discipline.
+
+## Ukonom
+
+![](oncc/oncc_ukonom.png)
+
+Year(s) | Superintendent
+:- | :-
+2003-2006 | John W. Gibbons
+2007-2010 | John P. Cataldo
+2011-2016 | Keith R. Smith
+2017 | Nathan Nelms
+2018-Present | Joel J. Berg
+
+Prior to the National Fire Plan in 2000, the Six Rivers National
+Forest's crew history had been comprised only of various BD (Brush
+Disposal) and 10-person Initial Attack crews. As part of what became
+known as the MEL (Most Efficient Level) build-up, the Six Rivers N.F.
+Fire Chief John Wendt and Deputy Forest Fire Chief Kent Swartzlander
+decided to replace the 4 districts' existing 10-person IA crews with
+Hotshot Crews.
+
+In April of 2003, Six Rivers Crew 2 was formed on the Orleans/Ukonom
+Ranger District of the Six Rivers N.F. as a Type 2 IA crew with the
+goal of becoming the first certified Hotshot Crew in the History of
+the Six Rivers National Forest. Under the leadership of John W.
+Gibbons, a veteran of 30+ fire seasons, Crew 2 set upon this mission
+with great vigor and enthusiasm. The crew was stationed on the Orleans
+District of the Six Rivers, and worked out of the Oak Bottom Fire
+Station in Somes Bar on the Ukonom Ranger District of the Klamath N.
+F. which is administered by the Six Rivers N.F.
+
+The first couple of years of the crew's development had their share of
+highs and lows. The crew was able to reach Type 1 status in July of
+2004, but fell short on their first attempt at Hotshot certification
+that August. To complicate matters, the crew lost one of their
+founding Squad Bosses, Robert Shufelt, to a serious back injury.
+However, the crew never lost sight of their goals, persevered through
+these setbacks, and began to establish a solid reputation within the
+firefighting community.
+
+In 2005 the decision was made to adopt the name of the Ukonom district
+and the crew became known as the Ukonom Handcrew. The "Coyote that
+steals the fire", a prominent character in local Karuk tribal lore,
+was incorporated into the crew logo. In 2006, Supt. Gibbons was forced
+by retirement law to leave the federal service with 33 years of
+firefighting experience. Captain John Cataldo was then promoted to
+Superintendent, and Squad Boss Keith Smith was promoted to Captain,
+and the process of building towards Hotshot status was continued.
+
+In May of 2008, a USFS Region 5 Safety First Hotshot Crew
+Certification Team comprised of Team Leader Don Will, Salmon River IHC
+Superintendent Jimmy Allen, and subject-matter-expert Ed Merrill
+performed an intensive 2-day evaluation of the Ukonom Handcrew. On May
+22, 2008 the Ukonom Hotshots were certified as the 1st Hotshot Crew in
+the history of the Six Rivers National Forest, the 15th in Northern
+California, the 41st in Region 5, and the 105th Hotshot Crew in the
+Nation.
+
+In April of 2010, after 8 years of confusion and debate within the
+USFS Region 5 Hotshot community as to whether the Hotshot crews that
+were certified within the region as part of the MEL build-up were to
+be considered Interagency or Regional Hotshot Crews, the Washington
+Office issued a directive that all Hotshot crews in Region 5 are to be
+identified as Interagency Hotshot Crews.
+Ukonom IHC is dedicated to earning that designation every day through
+hard work and strict adherence to the IHC core values of Safety, Duty,
+Respect, Integrity, and Professionalism.
+
+In April of 2017, after long discussions between Forest fire
+management and the overhead from the Ukonom Hotshots, the decision was
+made to move the crew from the Oak Bottom station on the Orleans
+Ranger District to the Salyer guard station on the Lower Trinity
+Ranger District.
+
+The Ukonom Interagency Hotshot Crew prides itself on having an
+exceptional work ethic that dates back to the early days of Hotshot
+crews, and are always willing to put in the extra chain of line, and
+be first ones up and the last ones off the hill each day.
 
 # Operations Southern California
 
@@ -6432,6 +5875,563 @@ Mexico, Chile, Venezuela, Argentina, and Nicaragua. It is rewarding to
 pass on important training and safety information about Prescribe Fire
 as well as Fire Suppression Tactics and Strategies in the changing
 world of Fire Suppression.
+
+# Rocky Mountain
+
+## Alpine
+
+![](rmcc/rmcc_alpine.png)
+
+Year(s) | Superintendent
+:- | :-
+1981-1984 | Jon Larson
+1984-1987 | John Comery
+1987 | Paul Borcherding
+1988-1997 | Jim " JP" Mattingly
+1997-2006 | David Niemi
+2006-2007 | Chris Kirby
+2008-Present | Paul Cerda
+
+The National Park Service established its Interagency Hotshot Crew
+program in May, 1981. The Alpine Hotshots being one of the three crews
+formed at that time. These crews were the first Hotshot crews to be
+funded by any Department of the Interior agency. The three crews were
+known as Arrowhead 1, 2, and 3. In 1982, the names of the crews were
+changed to Alpine IHC, Arrowhead IHC, and Bison IHC. These names were
+derived from the National Park Service emblem. In 1985 budget
+constraints eliminated Bison IHC from the program.
+
+From 1981 until 1988, Alpine IHC was administered from the NPS office
+at the National Interagency Fire Center (NIFC). The crew was assigned
+to several different duty stations during this time period, including
+Cumberland Island, Malibu (Camp 8), Grand Canyon, Yellowstone, Crater
+Lake, and Mount Rainier National Parks only to name a few. The crew
+would move during the season from one location to the next sometimes
+to two or more locations during a season. While at Crater Lake the
+crew was based out of the old Rogue River Hotshot base.
+
+From 1988 to 1991 the crew was stationed at Zion National Park, Utah,
+although they never lived there. Their base of operations during 1988
+was Brianhead Ski area and a small motel in Parowan, UT from 1989 -
+1991. The crew saw plenty of action while stationed there including
+being the first crew ordered for the Yellowstone fires in 1988. The
+crew spent a week on the Falls Fire west of the south entrance of
+Yellowstone prior to the \" world\" being mobilized. The entire crew
+as well as three individuals (Jim Mattingly -- Supt., David Niemi
+- Squad Boss, Bill Moe -- EMT) received national commendations for
+life saving actions performed on the Dude Fire in 1990.
+
+Because Zion could not provide permanent housing for the crew a
+decision was made to move the crew to Wind Cave National Park, near
+Rapid City, South Dakota for the 1992 season. The actual base of
+operations while there, was an old coal gasification plant on the
+southeast side of Rapid City. The highlights of that season included a
+trip to Voyageurs NP in Minnesota
+and extensive time spent in the Salmon River Breaks country of Idaho.
+
+After the '92 season and a number of bids from various parks to host
+the crew, a decision was made by the NPS National Office at NIFC to
+permanently place the Alpine crew at Rocky Mountain NP. This was based
+on a number of considerations, but of high significance was the park\'
+s offer to construct new dormitory facilities for a permanent base of
+operations.
+
+The crew spent its first season living and working out of the historic
+" Blister Rust" dorm at Rocky Mountain National Park. Interestingly
+enough in the past while the crew was stationed at Yellowstone NP, its
+base of operations was that park' s version of the " Blister Rust"
+dorm.
+
+Construction was completed on the new dorm/work center facility in the
+spring of 1994 and the crew has called it home ever since. The
+majority of our fire assignments have been away from the vicinity of
+Rocky Mountain NP except during the summer of 2002 Colorado
+experienced a record fire year.
+
+## Craig
+
+![](rmcc/rmcc_craig.png)
+
+Year(s) | Superintendent
+:- | :-
+2001-2003 | Stuart Gore
+2004 | Shawn Telford (detail)
+2004 | Miles Ellis (detail)
+2005-2013 | Shawn Telford
+2014-2018 | Sean Carey
+2018-2019 | Caleb Meyer
+2019-present | Logan Blankenship
+
+The Craig Interagency Hotshot Crew is based in Craig, CO as a part of
+Northwest District Fire and Aviation. The crew was founded in the
+spring of 2001, along with numerous other hotshot crews, because of
+the National Fire Plan.
+
+Throughout most of 2001 and 2002, the crew spent most of its time
+suppressing fires around Colorado because of a prolonged drought.
+During the mid-2000's, the crew contributed their diverse expertise to
+fires across the western United States, as well as traveling to the
+southeast to assist in all-risk incidents such as Hurricane Katrina
+relief. In addition to national assignments, the crew often spends
+several weeks per season assisting the local district in handling the
+significant initial attack load experienced within the dispatch area.
+
+Through most of its operational years, the crew was based in the old
+BLM engine station on the west end of Craig. At the start of the 2012
+season, the crew was able to move into its newly constructed station
+across from the main Little Snake Field Office, complete with
+state-of-the-art training and workout facilities, bunkhouse, welding
+shop, three large vehicle bays, and separate saw shop.
+
+The Craig leadership structure has been run consistently under the
+1-2-2 system, with a few exceptions over the last two decades. The
+first Superintendent was Stuart Gore, who ran the crew until 2003. The
+two Foremen at the time, Shawn Telford and Miles Ellis, split the
+Superintendent detail in 2004, carrying the crew through the fire
+season. Telford formally took the position in early 2005 and remained
+the Superintendent through 2013. He retired in April of 2014.
+
+Sean Carey detailed as the Superintendent during the fire season of
+2014 and official accepted the job in December of 2014. Sean ran the
+crew for three more fire seasons before detailing to the local
+district as the FOS during the 2018 season. Caleb Meyer detailed
+behind Sean into the Superintendent position for all of the 2018
+season and half of the 2019 fire season.
+
+Logan Blankenship has been the current Superintendent of Craig IHC
+since June of 2019.
+
+## Pike
+
+![](rmcc/rmcc_pike.png)
+
+Year(s) | Superintendent
+:- | :-
+1962-1973 | Glenn Scott
+1974-1977 | Chris Brandy
+1978 | Bruce Haflich
+1979 | Bill Frede
+1980-1981 | Chris Brandy
+1982 | Brett Acres
+1983-1984 | Dan Robinson
+1985 |Gasper Blea
+1986-1991 | Tim Foley
+1992 | Paul Gleason, Matt Valdez
+1993-1997 | Tim Foley
+1998-2005 | Shane Greer
+2006 | Shane Greer, Alissa Roeder
+2007-2011 | Alissa Roeder
+2012-2013 | Kevin Neiman
+2014-2018 | Tom Allbright
+2019-Present | David Smallman
+
+The Pike Interagency Hotshot Crew began in 1962 as the Roosevelt
+Inter-Regional Fire Suppression Crew (IR Crew). Affectionately known
+as "Scotty's Raider's" for first Superintendent Glenn Scott, they
+traveled to 5 fires for a total of 27 days on assignment.
+
+1971 - the crew was moved to the Pike National Forest Supervisor's
+Office, and was renamed the Pike IR Crew.
+
+1973 - the crew again moved, this time to the Pikes Peak Ranger
+District and was stationed in Woodland Park, CO.
+
+1979 - the Monument Nursery (now the Monument Fire Center- MFC) became
+the duty station for the Pike IR Crew. The Pike IHC is based at MFC to
+this day.
+
+1980 - brought a name change, to the Pike Interagency Hotshot Crew in
+order to comply with the national name transition.
+
+Today, it is not uncommon for the crew to spend over 100 days on
+assignment every season, traveling nationwide. The Pike
+Interagency Hotshot crew has a long and successful history that we are
+proud of. To honor those who have gone before us, every year we strive
+to earn again the respect that was built for us through time. Our
+mission is to provide a safe, professional, organized, highly
+motivated, highly skilled, and cost effective resource for wildland
+fire, natural resource management, and all-risk incidents. We take
+pride in what we do.
+
+**Scotty's Raider's, circa 1960's**
+
+![](rmcc/rmcc_pike_1960s_scottys_raiders.png)
+
+## Roosevelt
+
+![](rmcc/rmcc_roosevelt.png)
+
+Year(s) | Superintendent
+:- | :-
+2001-2002 | Kelly Jones (Mellot)
+2003 | Todd Millen
+2003-2006 | Dave Hamrick
+2007-Present | Larry Money
+
+The Roosevelt Interagency Hotshot Crew is based in Fort Collins,
+Colorado on the Canyon Lakes Ranger District of the Arapaho-Roosevelt
+National Forest. The Crew was established in 2001 as part of what
+seemed at the time to be an exceedingly vast expansion of the IHC
+program following the high-profile 2000 fire season.
+
+Lacking facilities, crew carriers and many of the other standard
+Hotshot accoutrements, the crew spent its first season based out of
+the Poudre Fire Authority's training warehouse and drove to incidents
+in a small convoy of pickups and SUV's.
+
+The crew spent 2001 as a training crew and in 2002 was certified as an
+Interagency Hotshot Crew.
+
+Also in 2002, crew carriers were acquired and the crew moved into its
+current home at the Forest Service Administrative site in north Fort
+Collins. The facility, with offices, barracks, weight room, cache,
+engine bays and a training room also houses the Canyon Lakes Ranger
+District's fire and fuels personnel which helps emphasize the crew's
+affiliation with its home district.
+
+While the crew spends much of the summer away on assignment, when at
+home the Hotshots help meet the district's needs by doing a variety of
+project work and assisting with prescribed fire.
+
+## San Juan
+
+![](rmcc/rmcc_san_juan.png)
+
+Year(s) | Superintendent
+:- | :-
+2002-2007 | Shawna Legarza
+2008-2010 | Jim Cornelius
+2011-2017 | Jay Godson
+2018-present | Tom Allbright
+
+The planning for a new IHC crew in southern Colorado began late in
+1997. At the time the Rio Grande and San Juan National Forests were
+being considered as likely locations. The decision was made to base
+the crew in Durango and name the crew after the host forest.
+
+The crew was first organized in May 2002 to begin training at the
+Engineer Guard Station located near Durango Mountain Resort. The first
+six weeks the crew trained while the Missionary Ridge fire was burning
+within view. The Engineer Guard Station was home to the crew during
+the 2002 and 2003 seasons. The move to the old Ft. Lewis college
+campus south of Hesperus occurred in the spring of 2004, and the crew
+remained there until 2007. The final move from Hesperus to the Public
+Lands Center/ San Juan NF Supervisors Office occurred late fall of
+2007. This is where the crew is currently located.
+
+Transportation for the crew the first two seasons was Ford Excursions
+which were hand-me-downs from Roosevelt IHC. New International crew
+carriers arrived for the 2004 season and are expected to be replaced
+before the 2014 season. Additionally, the crew travels with a
+Superintendents truck, a chase vehicle, and an ATV/UTV.
+
+San Juan IHC is organized using the 1-1-3 system for Hotshot crews.
+This means 1 Superintendent, 1 Assistant Superintendent, and 3 squad
+bosses. Additionally, four positions are slotted for permanent
+seasonal senior firefighters. The remainder of the crew is composed of
+seasonal employees.
+
+Project work for the crew has varied throughout the years. We have
+taken on the normal fuels reduction work as well as unique assignments
+working for the engineering programs rebuilding/ removing bridges,
+mine reclamation, range projects that have included fence
+building/removal, and weed inventory.
+
+## Tatanka
+
+![](rmcc/rmcc_tatanka.png)
+
+Year(s) | Superintendent
+:- | :-
+1999-2001 | Geoff Bell
+2001-2008 | Pat Laeng
+2008-2017 | Brandon Hess
+2017- present | David Zortman
+
+The Tatanka Hotshot Crew was formed in 1999 on the Black Hills
+National Forest in Custer, SD. Tatanka Hotshots were the 4^th^
+Interagency Hotshot Crew in R-2. After working the 1999 fire season as
+a Type 2 IA training crew, Type 1 certification was gained in the
+spring of 2000. The crew was originally housed in a trustee unit on
+the grounds of an old Tuberculosis sanitarium that was converted into
+a juvenile offender facility. The crew moved into its current
+facilities in April of 2002.
+
+## Wyoming
+
+![](rmcc/rmcc_wyoming.png)
+
+Year(s) | Superintendent
+:- | :-
+1967-1969 | Sig Palm
+1970-1972 | Jim Shell
+1973 | Carl "Tut" Anderson
+1974 | Dennis Eckardt
+1975 | Terry Wood
+1976 | Tom Able
+1977-1979 | Steve Nichols
+1980-1983 | Jeff Johnson
+1984-1996 | Mark Rogers
+1997 | Chris Church (detail)
+1998-2000 | Kevin Pfister
+2001-2004 | Jay Kurth
+2005-2007 | Scott Schuster
+2008-Present | Matthew Prentiss
+
+In 1967, Region 2 of the Forest Service was allocated a second
+Inter-Regional (IR) Crew. The region conducted an inventory of work
+projects and identified potential work stations within an hour of a
+major airport that could host the new crew. The end result was the
+selection of the Bighorn National Forest's Paintrock Ranger District
+in Greybull, WY as the home of the Bighorn IR Crew. Some 40 years
+later, the crew still resides in the same buildings and remains the
+only hotshot crew in Wyoming.
+
+During the late sixties, the standard size of an Inter-Regional Crew
+was 32 members with a Crew Foreman, four Squad Leaders and seven or
+eight firefighters on each squad. By 1970, the crew size was down to
+27 members in order to reduce the number of people that had to remain
+behind, as most travel was done by DC-3 or C-46 which had a maximum
+capacity of 24. The current crew size of 20 was established in 1975.
+
+Hair length could not exceed two inches and facial hair was prohibited
+in the late sixties and early seventies. Sleeping quarters were
+fashioned out of the carpenter shop which consisted of a garage with a
+large metal building attached. Inside were excess metal military
+bunks, metal military lockers that acted as screens between some of
+the bunks and limited bathroom facilities.
+
+The early 1980's brought significant change as the first woman joined
+the crew in 1981 and in 1982 the Bighorn IR crew became the Wyoming
+Hotshots. During the 1984 Summer Olympics in Los Angeles, the Wyoming
+Hotshots were one of several hotshot crews on detail to Southern
+California. Olympic and city officials requested additional crews in
+an effort to prevent large wildfires that could worsen air quality.
+
+A primitive kitchen and one unisex bathroom were tolerated throughout
+the 1970's and 1980's. Handcrafted "rooms" multiplied until in 1996 a
+major remodel brought individual rooms and separate men's and women's
+bathrooms. Then and now, the barracks sits right next to the railroad
+switching yard which provides nightly enjoyment. The locomotives rev
+up their engines and build up speed and then stop to release some of
+the cars. The stopping of the locomotive creates a chain of bangs as
+each car smashed into the next one.
+
+The only fire shelter deployment in crew history occurred in June of
+1988 on the Brewer Fire, Custer National Forest, Montana. Severe
+drought, record low fuel moistures, erratic and strong winds, extreme
+temperatures and very low humidities led to extreme fire behavior
+conditions. The fire went from a surface fire to a running crown fire
+while the crew was flanking the fire my building fireline. The crew
+ultimately deployed shelters in a nearby meadow and four firefighters
+ultimately sustained burn injuries.
+
+The 1990's experienced the major barracks remodel, a wealth of time on
+assignment in Craig, Colorado and the second half of Mark Rogers'
+tenure as Superintendent. Rogers was by far the longest serving
+Superintendent in crew history at 13 years.
+
+The modern era is marked by a gradual increase in permanent staff in
+order to keep pace with national standards, longer fire seasons and an
+increased involvement in all-risk assignments. Like all other crews,
+the Wyoming Hotshots have experienced busier and busier fire seasons.
+The number of days on assignment has more than tripled from the 25
+to30 days spent on fires in 1967 and 1968. Other memorable recent
+events include the only trip to Alaska in crew history (2004) and back
+to back hurricane relief assignments in 2005 and 2006.
+
+# Southern Area
+
+## Asheville
+
+![](sacc/sacc_asheville.png)
+
+Year(s) | Superintendent
+:- | :-
+1989-2002 | Dick Kastler
+2003-Present | Steve Little
+
+The Asheville Interagency Hotshot Crew (IHC) is one of three IHC
+programs in the nation to offer a concentrated training curriculum and
+the combined field experience of a full fire season. The program is
+designed to help develop future fireline supervisors and fire
+managers. Asheville selects 17 candidates with career status as
+detailers to the program for one season. The designated classroom
+training provides individuals with basic requirements towards the
+single resource Crew Boss qualifications. On fire assignments through
+out the detail, each candidate is provided the opportunity to perform
+in fire leadership positions.
+
+From initiation in 1989 to 2001, Asheville IHC was typically the only
+Type I IHC available during the Southern Region spring fire season. In
+2001, two additional Forest Service IHC programs were initiated in the
+Southern Area. With the limited numbers of such resources during this
+period, the Asheville crew is continually requested for wildfire and
+prescribed fire assignments. These assignments ensure practical
+experience and knowledge gained from performing on the fireline.
+
+The National Forests in North Carolina are the host administrative
+unit for the Asheville IHC. The hotshot's base of operation was first
+located in Hendersonville, NC at the Kanuga Camp and Conference
+Center, from 1989 to 1995. The program moved to the YMCA Blue Ridge
+Assembly in Black Mountain, NC in 1996 and continues to use this
+facility. Both locations have provided excellent training, barracks
+and dining facilities conducive to the intense classroom and physical
+training schedule maintained by the crew.
+
+The Asheville Hotshot crew has provided its leadership training
+opportunity for seventeen years. A total of 322 individuals have
+successfully completed the Asheville IHC program. The majority of
+these people continue to serve in fire supervision positions across
+the country. Many are working as fire program managers at the forest
+level and higher.
+
+Initially the only fulltime position with the program was the
+Superintendent. From 1989 to 1995, two Foreman positions were filled
+with detailers each season. In 1996, an Assistant Superintendent,
+13/13 permanent seasonal position was added to help with increasing
+operational needs and responsibilities. The Assistant Superintendent
+position became permanent fulltime in November of 1999. In September
+of 2003, a permanent fulltime Forman position was added to complete
+the programs supervision organization.
+
+## Augusta
+
+![](sacc/sacc_augusta.png)
+
+Year(s) | Superintendent
+:- | :-
+? | Oscar Montijo
+
+In June of 2001, the Augusta Hotshots were established on the George
+Washington and Jefferson National Forests. The crew is stationed at
+Augusta Springs, Virginia, located on the Deerfield Ranger District.
+Augusta was one of two new Forest Service Hotshot Crews to be
+established in the east under the National Fire Plan completed in
+2000. The crew's season is structured around the eastern fire season.
+They, also, assist in prescribed burning, and are available for
+support of the western fire season, and other emergencies. Augusta
+received their type one status the summer of 2002. The crew has been
+involved with numerous wildfires and prescribed fires in 11 states,
+and in every fuel type. In addition, the crew spent two weeks in
+support of FEMA in New York City during the World Trade Center
+Disaster and in Williamsburg, VA, to assist with cleanup after
+Hurricane Isabel.
+
+The Augusta Hotshot's season is structured around the Eastern fire
+season; therefore, they work a different schedule than most other
+crews. Currently the crew begins work the last week of January, and
+works till the end of May. The crew then takes June and July off and
+starts back up the first of August.
+The second half of the season then ends around the first of December.
+Basically the crew works four months and is off for two, on for four
+and off for two. The crew is equipped with fire six-pack trucks, which
+allows them to break into small modules for support of eastern fuel
+types.
+
+The crew's base, located in Augusta Springs, is adjacent to a Forest
+Youth Camp. Construction of crew facilities has been under way at the
+same location since the spring of 2002. Currently there are two modern
+barracks with all amenities, housing six persons each. Completion of
+the crew headquarters is planned for spring of 2004.The base sets
+below Great North Mountain, which is part of The Allegheny Mountains
+that stretch from Virginia into West Virginia. Just east of the base
+lies Virginia's Shenandoah Valley. Most of the area is covered in a
+mixture hardwood forests and farmland. The area is equally beautiful
+as it is historic.
+
+In summary the Augusta Hotshots have a very unique program, and work
+in a very unique area! The crew is always looking for new members, and
+new opportunities to serve the citizens of these United States.
+
+## Cherokee
+
+2001-2014 | 2015-Present
+:-: | :-:
+![](sacc/sacc_cherokee_2001-2014.png) | ![](sacc/sacc_cherokee.png)
+
+Year(s) | Superintendent
+:- | :-
+2001-2003 | Tim Wharton
+2004-Present | Dennis Trentham
+
+In June 2001, in accordance with the National Fire Plan, the Cherokee
+Hotshots came to be. The crew is based in Unicoi, TN since the
+beginning. The crew was named after the host National Forest
+(Cherokee). The crew logo as seen above has been with the crew since
+2001 until 2015. It outlines the Volunteer State of Tennessee (in
+gold) and the host National Forest (Cherokee) in green with the gold
+star indicating the location of the crew on the north end of the
+Cherokee National Forest. There has never been a crew name change or
+change in the IHC base location. Tim Wharton was hired as the first
+Superintendent. To date (2009) there is one individual that has been a
+member of the crew from day one.
+
+The crew was considered to be in a trainee status for the first five
+fire seasons. In July 2006 the crew was able to obtain national
+certification as an Interagency Hotshot Crew.
+
+The program has a new administrative site that was completed in 2007
+and has had crew quarters for 18 personnel since 2002.
+
+There have been 2 logos used by the crew since the crew's inception in
+2001. The current logo being used by our organization is what you see
+at the bottom of the page. It was adopted by the crew in 2015. Dillon
+McInnis drew the design for the logo a couple years prior to 2015
+while on a detail with the crew.
+
+The crew maintains the original staffing of 22 members with 18 of
+these being career/seasonal appointments to meet continuous staffing
+requirements for working a split season.
+
+## Jackson
+
+![](sacc/sacc_jackson.png)
+
+Year(s) | Superintendent
+:- | :-
+1997-1998 | Jerry Soard
+1999-2013 | Lamar Liddell
+2014 | Fred Ashford (detail)
+2015 | Greg Smith
+2016-2018 | Fred Ashford
+2018-Present | Darren O'Loughlin
+
+During the summer of 1996, the Secretary of the Interior, Bruce
+Babbitt visited several wildland fires in the western U.S. During
+these visits, the Secretary noted that there was a low percentage of
+minorities represented on the overhead teams and fire crews involved
+in suppression efforts. To increase opportunities, the city of
+Jackson, MS was selected as a site for a Hotshot crew.
+Jackson was selected as the site to base a new crew because of its
+proximity to Historically Black Colleges and Universities from which
+to recruit individuals who may be interested in pursuing a career in
+fire management.
+
+In early 1997 the Bureau of Land Management announced the
+establishment of a new Type I \"Hotshot\" wildland fire fighting crew
+in Jackson, Mississippi. While fire suppression was the primary
+function for the Hotshot crew, it was also envisioned that its members
+would be able to gain experience in prescribed fire in the southern
+states and bring that expertise to western projects. The formation of
+the Jackson IHC was supported by the Historically Black Colleges and
+Universities as well as the International Association of Black
+Professional Firefighters Foundation (IABPFF). In addition to
+increasing opportunities for African Americans, the program is also
+committed to providing opportunities for other population that are
+underrepresented within the fire community.
+
+The Jackson Hotshots are the only BLM crew based east of the
+Mississippi River and their main goal is to protect life, property and
+resources threatened by wildland fires. In addition to wildland fires,
+the crew often supports prescribed fires and All-Risk assignments. The
+crew consistent of a career staff of one Superintendent, one Assistant
+Superintendent, three Squad Leaders, three Lead Firefighters, and two
+Senior Firefighters specifically held for Veterans. The remainder of
+the crew consistent of temporary employees from GS-3 to GS-6. Outside
+of the scheduled fire season which runs from March through September,
+the career staff supports inter-agency partners in implanting
+prescribed fires and other land management projects.
 
 # Southwest
 
