@@ -4336,7 +4336,7 @@ before heading west. The crew has been able to establish a reputation
 of being a hard working crew that spends most of the time away from
 the host unit.
 
-# Southern California
+# Operations Southern California
 
 ## Arrowhead
 
@@ -4355,34 +4355,6 @@ Year(s) | Superintendent
 2020 | Jeremy Loyd (Detail)
 2021- | Joe Suarez
 
-+-------------+-------------+-------------+-------------+-------------+
-| AGENCY:   | HOME      | ESTABLISH | CONTACT   | WEBSITE:  |
-| USDI      | UNIT:     | ED:         |             |             |
-|             | Sequoia   | 1981      |             |             |
-+=============+=============+=============+=============+=============+
-| National  | & Kings   |             | INFORMATI | [arrowhea |
-| Park      | Canyon    |             | ON:         | dhotshots.o |
-| Service   |             |             |             | rg]{.underl |
-|             |             |             |             | ine}        |
-+-------------+-------------+-------------+-------------+-------------+
-|             | National  |             | Arrowhead |             |
-|             | Parks     |             | Hotshots  |             |
-+-------------+-------------+-------------+-------------+-------------+
-|             |             |             | PO Box    |             |
-|             |             |             | 925       |             |
-+-------------+-------------+-------------+-------------+-------------+
-|             |             |             | Kings     |             |
-|             |             |             | Canyon    |             |
-|             |             |             | National  |             |
-+-------------+-------------+-------------+-------------+-------------+
-|             |             |             | Park, CA  |             |
-|             |             |             | 93633     |             |
-+-------------+-------------+-------------+-------------+-------------+
-
-**ARROWHEAD INTERAGENCY HOTSHOT CREW**
-
-**SEQUOIA AND KINGS CANYON NATIONAL PARKS**
-
 The National Park Service established its Interagency Hotshot Crew
 program in May of 1981, the Arrowhead Hotshot crew being one of the
 three crews formed at that time. These three crews were the first
@@ -4394,28 +4366,20 @@ having three Hotshot Crews running around with basically the same name
 caused quite a bit of confusion. In 1981 the three crews were in the
 following parks:
 
-+-----------------+------------------------+----------------------+
-| **Crew Name** | **Location**         | **Superintendent** |
-+=================+========================+======================+
-| Arrowhead 1   | Grand Canyon         | Jon Larson         |
-+-----------------+------------------------+----------------------+
-| Arrowhead 2   | Sequoia-Kings Canyon | Jim Cook           |
-+-----------------+------------------------+----------------------+
-| Arrowhead 3   | Yellowstone          | J. W. Allandorf    |
-+-----------------+------------------------+----------------------+
+Crew Name | Location | Superintendent
+:- | :- | :-
+Arrowhead 1 | Grand Canyon | Jon Larson
+Arrowhead 2 | Sequoia-Kings Canyon | Jim Cook
+Arrowhead 3 | Yellowstone | J. W. Allandorf
 
 In 1982, the names of the three crews were changed. The new crew names
 were derived from the National Park Service emblem:
 
-+-----------------+------------------------------+----------------------+
-| **1981 Name** | **1982 Name**              | **Superintendent** |
-+=================+==============================+======================+
-| Arrowhead 1   | Alpine IHC                 | Jon Larson         |
-+-----------------+------------------------------+----------------------+
-| Arrowhead 2   | Arrowhead IHC              | Jim Cook           |
-+-----------------+------------------------------+----------------------+
-| Arrowhead 3   | Bison IHC (Disbanded 1984) | Ken Eckstien       |
-+-----------------+------------------------------+----------------------+
+1981 Name | 1982 Name | Superintendent
+:- | :- | :-
+Arrowhead 1 | Alpine IHC | Jon Larson
+Arrowhead 2 | Arrowhead IHC | Jim Cook
+Arrowhead 3 | Bison IHC (Disbanded 1984) | Ken Eckstien
 
 Sequoia & Kings Canyon National Parks has been the home unit for the
 Arrowhead Hotshots since the crew's inception. The crew's work center
@@ -4435,17 +4399,6 @@ Year(s) | Superintendent
 2007-2019 | Mike Hickey
 2020-Present | Phil Hernandez
 
-######## [Arroyo Grande IHC, Los Padres National Forest,]{.underline} [Established 2007]{.underline}
-
-[460 Hi Mountain Road]{.underline} [Arroyo Grande Ca,
-93420]{.underline} [805-481-4391]{.underline}
-
-[Superintendent- Phil Hernandez]{.underline}
-
-![]()
-
-[Crew History]{.underline}
-
 The Arroyo Grande Hotshots and Arroyo Grande Flight Crew (527) are
 based near Lopez Lake, 12 miles east of the town of Arroyo Grande, Ca.
 meaning "big ravine" in latin. Initially, the AG Flight Crew was
@@ -4463,7 +4416,6 @@ assigned. The remaining 29 personnel was given an option to choose
 between the helicopter module or be assigned to the newly created
 Arroyo Grande Type 2 initial attack crew. A majority of overhead and
 crewman from
-
 the Type I helicopter program chose to be part of the crew's
 inauguration. Arroyo Grande Crew-3 carried the Type 2 I/A status for
 2007 and into early fire season 2008. While assigned to the Indians
@@ -4493,29 +4445,13 @@ Year(s) | Superintendent
 2000-2013 | Mike Alarid
 2013-Present | Brian Anderson
 
-Bear Divide Hotshots Agency: USDA
-Forest Service Home Unit: Angeles National Forest**
-
-**[Contact Information]{.underline}:**
-
-**Bear Divide Hotshots**
-
-**21501 N Sand Canyon Road Santa Clarita, California 91387
-818-362-1216**
-
-**Superintendent: Brian Anderson**
-
-![](media/image40.jpeg){width="1.840505249343832in"
-height="0.42083333333333334in"}
-
-**Established 1975**
-
 The Crew started in the build up years of the early 1970\'s. It was
 started in 1974 as a 10-person flight crew in conjunction with a
 10-person flight crew on the Valyermo district. In 1975 it was made a
 20-person crew and the first superintendent was Mike Dougherty.
 
 Bear Divide was one of 6 hotshot crews on the Angeles National Forest.
+
 Mike\'s tenure as superintendent was 1975-1979.
 
 The Bear Divide Station was built in the late 1960\'s and was
@@ -4542,7 +4478,6 @@ superintendent.
 The station is located on the now called Los Angeles River Ranger
 District on the Angeles National Forest or what used to be the Tujunga
 District. Bear Divide is
-
 nestled on the Santa Clara Divide separating Santa Clarita and the LA
 Basin. Its location is prime for initial attack throughout the fire
 season.
@@ -4575,7 +4510,6 @@ Integrity, and Respect.
 The primary mission of the Big Bear Hotshots is to provide a safe,
 well organized, mobile and highly skilled hand crew for all phases of
 wildland fire suppression
-
 and reinforcement during natural disaster incident operations. We will
 actively support the hazardous fuels management program and other
 project assignments as required.
@@ -4594,32 +4528,6 @@ Tennis, Tours, and the Alpine Zoo. Even though the Big Bear Hotshots
 are usually committed to assignments, the crew more then often is
 enjoying all the National Forest and local communities have to offer.
 
-**Big Bear IHC Hotshot of the Year Awards**
-
-**2005** - No Selection **2006** - Tyson Murphy **2007** - Seth
-Mitchell **2008** - Cody Zetlmaier **2009** - Uriel Ortega **2010** -
-Jordan Cope **2011** - Erin Whitmer **2012** - Eli Morales **2013** -
-Scott Norbryhn **2014** - James Blair **2015** -- Kevin Valdiviez
-**2016**- Angel Garcia **2017** - Zachary Resnick **2018** - Cody
-Johnstone **2019** - Michael Rodriguez & Jimmy Butler
-
-**2020** - Charley Morton **2021** -- Derek Barnett
-
-**Big Bear IHC Rookie of the Year Awards**
-
-**2005** - Samantha Gardner
-
-**2006** - Tom Dillon/ Martin Chick
-
-**2007** - Boston **2008** - Brooks Gary **2009** - No Selection
-**2010** - No Selection **2011** - Scott Norbryhn **2012** - Paul
-Topoleski **2013** - No Selection **2014** - No Selection **2015** -
-Zach Resnick/ James Johnstone
-
-**2016** - Erik Evans **2017** - Cody Johnstone **2018** - Michael
-Rodriguez **2019** - Omar Garcia **2020** -- Derek Barnett **2021** -
-Brian Alex
-
 ## Boundary Peak
 
 ![](oscc/oscc_boundary_peak.png)
@@ -4629,10 +4537,6 @@ Year(s) | Superintendent
 2001-2004 | Tim Keller
 2004-2005 | Jeff Lucas (Detail)
 2005-Present | Ron Riise
-
-Hotshots 2001-Present
-
-![]()
 
 The Boundary Peak Hotshots, based in Bishop, was started in 2001 as a
 10 person fuels crew with the primary goal of completing fuels
@@ -4659,7 +4563,6 @@ fires for about 700 hours of overtime. The crew still had the original
 three vehicles with the addition of another crew cab truck and a 10
 passenger van (some were white and some were green). The crew received
 the Supt. truck and CCV's that are currently in use in 2003.
-
 In 2005 the crew moved its offices once again into the old Forest
 Radio shop, which offered more room for offices, ready room, training
 room and cache.
@@ -4678,8 +4581,6 @@ Year(s) | Superintendent
 2002-2007 | Steve Griffin
 2007-2016 | Adam Sanders
 2016-Present | James Robertson
-
-Established 2002
 
 In June of 1990, a ten person fuels crew was established, on the
 Greenhorn Ranger District, of the Sequoia National Forest, located at
@@ -4702,14 +4603,13 @@ crew while building an initial program. In the fall of 2003 the crew
 received its Type 1 status from the forest. In the spring of 2005
 Steve Griffin requested that the crew would be considered a Type 2
 Crew on the forest due to lack of qualified over head.
-
 The crew remained a Type 2 crew until October of 2006, when the crew
 went through the Hotshot Certification Review. Since the review the
 crew has been known as the Breckenridge Hotshots.
 
 ## Chilao
 
-![]()
+![](oscc/oscc_chilao1.png) ![](oscc/oscc_chilao2.png)
 
 Year(s) | Superintendent
 :- | :-
@@ -4724,19 +4624,9 @@ Year(s) | Superintendent
 1959 | Jack Lane
 1960-1961 | Ralph Johnston
 1962-1968 | Pete Trujillo
-1969-1974 | Dick O' Conner
+1969-1974 | Dick O'Conner
 1975-1980 | Gary Raybould
-1981-1984 | Jim Ogilve (crew was cut at the end of the 1984 fire
-season)
-
-**Agency: USDA Forest Service Home Unit: Angeles National Forest**
-
-**Established 1949**
-
-**Disbanded 1984**
-
-![](media/image38.jpeg){width="1.833982939632546in"
-height="0.4166666666666667in"}
+1981-1984 | Jim Ogilve (crew was cut at the end of the 1984 fire season)
 
 1949 -- first year of the Hotshot crew. Superintendent was Don
 Biedebach with a brand new crew camp at Chilao.
@@ -4804,9 +4694,8 @@ crew size was a holdover from the C.C.C. days when their stake side
 trucks had bench seats that ran across the bed of the truck. The
 Hotshot crews had changed this to padded tool box seats along each
 side of the bed of the stake side truck and across the front. This new
-set up did not provide seating for more than 12-14 people per truck.*
-
-*The main reason though for reducing crew size to 20 people was to be
+set up did not provide seating for more than 12-14 people per truck.
+The main reason though for reducing crew size to 20 people was to be
 able to put the crew and their gear on a Forest Service DC-3 or C-54.
 In those days the crews seldom flew to a fire, but it was starting to
 happen and the crew and their gear had to fit on the airplane.*
@@ -4837,10 +4726,7 @@ Year(s) | Superintendent
 2005 | Mike Fralicks *detail*
 2005-2006 | Ken Henson
 2006-2019 | Charles Berner
-2019 | Matthew Dunlap *detail*
-2020-present | Matthew Dunlap
-
-*[Crane Valley IHC History]{.underline}*
+2019-present | Matthew Dunlap (*2019 detail*)
 
 In 2001, as part of the "M.E.L." build-up, Crane Valley IHC (then
 known as Crane Valley Crew 1) came into existence. The crew's humble
@@ -4886,11 +4772,10 @@ fire suppression tactics, but also the origins of the tactics as well
 as the history of wildland fire and all of the lessons learned
 throughout. Chuck remained in the Supt. Position from 2006 until early
 2019 when he retired from the agency.
-
 Matthew Dunlap detailed into the Supt. position during the 2019 fire
 season and eventually accepted the job effective in early 2020.
 
-*[Crew Name & Logo]{.underline}*
+***Crew Name & Logo***
 
 The Crane Valley name was derived from the area now known as Bass
 Lake. Before the first dam was built in 1901 to create hydroelectric
@@ -4926,11 +4811,7 @@ Year(s) | Superintendent
 2008-2014 | Steve Robles
 2015-2016 | Alex Liau
 2017-2021 | Scott Gorman
-2022-Present | Ronald Gregor
-
-U.S. Forest Service Angeles National Forest
-
-Established 1953
+2022- | Ronald Gregor
 
 The Dalton Hot Shot Crew was established in September of 1953 on the
 Angeles National Forest. The crew, like Big Dalton and Little Dalton
@@ -4945,7 +4826,7 @@ Mexico. Charles (Chuck) Culver was the crew foreman.
 Dalton's first logo was the Zuni Knife Wing in their honor and worn
 for a short time.
 
-![](media/image129.png){width="1.8429232283464567in" height="1.36in"}
+![](oscc/oscc_dalton_zuni_knife_wing.png)
 
 From 1954 to1958, the crew was stationed at the Civilian Conservation
 Corp (CCC) camp on the east side of Glendora Mountain Road and south
@@ -4968,8 +4849,7 @@ National Forests.
 The crew changed its logo to the "Ram Shield" which became the Baldy
 District logo. Which is what the crew currently wears on our helmets.
 
-![](media/image130.jpeg){width="1.3219575678040245in"
-height="1.3691666666666666in"}
+![](oscc/oscc_dalton_ram_shield.png)
 
 In 1964, the crew was moved back to the CCC camp at Dalton Canyon
 because it was thought that the travel time from Tanbark to fires was
@@ -5011,7 +4891,6 @@ In 1976, the crew expanded to two vehicles with enclosed crew bodies,
 chair-type seats, tool compartments that could be accessed from the
 outside, and personal gear storage on the roof of the crew
 compartment. The crew Superintendent drove a pick-up truck.
-
 Dalton had this style of crew carrier "crumby" until 2000.
 
 In 2001 Dalton received International diesel turbo crew carriers and
@@ -5021,8 +4900,7 @@ crew carrier in 2021.
 On this year 2001 the crew went with a logo drawn by a crewmember in
 the 70's and is now used on the crew's apparel.
 
-![](media/image128.jpeg){width="1.4560411198600176in"
-height="1.4560411198600176in"}
+![](oscc/oscc_dalton.png)
 
 Throughout Dalton Hot Shot history, there is a positive value that has
 been passed on from crew to crew, a tradition of self worth,
@@ -5050,15 +4928,11 @@ Our Core Values- The more accountable we are to ourselves, the less
 accountable we have to be to everyone else. When you hold yourself
 accountable, when you hold your crew accountable, everyone benefits.
 
-▸ Family
-
-▸ Duty
-
-▸ Respect
-
-▸ Integrity
-
-▸ Teamwork
+- Family
+- Duty
+- Respect
+- Integrity
+- Teamwork
 
 ## Del Rosa
 
@@ -5080,25 +4954,10 @@ Year(s) | Superintendent
 1978-1997 | Ron Regan (retired in place)
 1997-1998 | Scott Wagner (detailed in 97-became the Supt in 1998)
 1999-2004  Jeff Koenig (detailed in 99-became the Supt in 2000)
-2004 | Frank Esposito Detailed in 2004
+2004 | Frank Esposito (Detailed)
 2005-2013 | Jim Tomaselli
 2013-2018 | Neil Gamboa
 2018-Present | David Borero
-
-**Agency: USDA Forest Service**
-
-**Home Unit: San Bernardino NF, Cajon RD Contact Information:**
-
-**Superintendent: Dave Borero Del Rosa Hotshots**
-
-**Front Country Ranger District 4121 Quail Canyon**
-
-**San Bernardino, CA 92404 909-383-5567**
-
-**Established 1946**
-
-![](media/image40.jpeg){width="1.8399037620297463in"
-height="0.4166666666666667in"}
 
 In 1945 the C.C.C. Civilian Conservation Corps were stationed at the
 Del Rosa work center, at this camp were many crews working at various
@@ -5129,9 +4988,6 @@ used for transportation to out of region assignments, as well as a 250
 gal. pumper that they staffed out of the Del Rosa work center for
 initial attack on forest.
 
-The following are those that have served as Superintendents of the Del
-Rosa Hotshots since its beginning in 1946.
-
 ***Additional information sent to us from Jerry Horine:***
 
 Toby Ortega was also supt. Between Gerry Ewart and Bob Robbins in the
@@ -5144,9 +5000,9 @@ professional actor was used as the crew boss.
 I have many old pictures of the crew during the 60s if anyone is
 interested. 928-718-1826
 
-**[Jerry Horine]{.underline}**, Retired
+Jerry Horine, Retired
 
-####### Duty Respect Integrity
+***Duty Respect Integrity*** 
 
 ## El Cariso
 
@@ -5154,15 +5010,21 @@ interested. 928-718-1826
 
 Year(s) | Superintendent
 :- | :-
-
-**Agency: USDA Forest Service**
-
-**Home Unit: Cleveland National Forest Trabuco Ranger District**
-
-**Established 1958**
-
-![](media/image38.jpeg){width="1.8339818460192476in"
-height="0.4166666666666667in"}
+1958-1959 | Danny Street
+1960 | Glen Kay
+1961-1962 | Doug Campbell
+? | Marv Stout
+? | Gordon King
+? | Steve Gallegos
+? | Ron Campbell
+? | Richard Aguillar
+? | Greg Davis
+? | Mike Smith
+? | Hal Mortier
+? | Ralph Chavez
+? | Allen Johnson
+? | Don Feser
+? | Jay Bertek
 
 The Cleveland National Forest had its first Hotshot Crew in the late
 1950's. This crew was mobile and represented the entire forest. In
@@ -5208,7 +5070,6 @@ the El Cariso Engine Station on the Ortega Highway. Buildings included
 Quonset Huts, pit toilets, and a combination crew kitchen/training
 hall. In the early 1970\'s the crew was relocated to the Los Pinos
 Forestry Camp,
-
 Approximately 3 miles north and west of the original site. Here the
 crew shared the facility with Orange County youth offenders. A final
 move has put the crew in their current location. The El Cariso Hotshot
@@ -5243,26 +5104,14 @@ most memorable times of their life.
 Year(s) | Superintendent
 :- | :-
 1970 | Ed Masonheimer (June-August)
-1970-1982 | William A. Sandborg, Jr. (August)-1982**
+1970-1982 | William A. Sandborg, Jr.
 1982 | David R. Provencio, Jr. (Detail)
 1983-1988 | James Smith
 1989-1994 | Dan Kleinman
-1995-1996 | Shelby Charley (Detail)**
-1997 Luis Orozco (Detail)
+1995-1996 | Shelby Charley (Detail)
+1997 | Luis Orozco (Detail)
 1998-2013 | Ron Bollier
-2013 | Josh Acosta (Detail)
-2014-Present | Josh Acosta
-
-**Fulton Hotshots Agency: US Forest Service PO Box 343**
-
-**Glennville, CA 93226 Home Unit: Sequoia National Forest**
-
-**Office: 661-536-8311**
-
-**FAX: 661-536-8532 Established 1969**
-
-![](media/image40.jpeg){width="1.8182425634295714in"
-height="0.42083333333333334in"}
+2013-Present | Josh Acosta (Detail 2013)
 
 The Fulton Hotshot Crew was started on the Greenhorn Ranger District,
 of the Sequoia National Forest as a 6-person suppression crew that
@@ -5316,21 +5165,6 @@ Year(s) | Superintendent
 2012-2014 | Byron Alcantara
 2014-2019 | Rick "Mad" Madrigal 
 2019-Present | Robert Villegas
-
-**Agency: USDI Bureau of Indian Affairs**
-
-**Pacific Region**
-
-**Home Unit: Sycuan Fire Department**
-
-**Sycuan Indian Reservation**
-
-**Established 2000**
-
-![](media/image38.jpeg){width="1.8340496500437444in"
-height="0.4166666666666667in"}
-
-***ABOUT THE GOLDEN EAGLES HOTSHOTS:***
 
 The Sycuan Fire Department / BIA ***GOLDEN EAGLES HOTSHOTS*** is one
 of seven BIA NIFC funded crews in the United States. The crew is the
@@ -5427,7 +5261,7 @@ Year(s) | Superintendent
 :- | :-
 Crew 4 Supervisors | 
 1988 | Mike Lanier
-1989 | Ron Garcia (Buck Meadows) Steve Nestor (Cherry Lake)
+1989 | Ron Garcia (Buck Meadows), Steve Nestor (Cherry Lake)
 1990-1994 | Ron Garcia
 1995 | Mike Lanier
 1996-2000 | Sam Cousins
@@ -5455,36 +5289,17 @@ a fully qualified Type 1 Hotshot Crew. Certification was gained in
 
 Year(s) | Superintendent
 :- | :-
-1974-1989? | Ben Charley
+1974-1989 | Ben Charley
 1989-2006 | Robert Bennett
 2007-? | Joe Gonzales 
 2017-? | Dustin Hallam
 2020-? | Candice Kutrosky
 
-**Horseshoe Meadow Hotshots**
-
-**Agency: USDA Forest Service**
-
-**Home Unit: Sequoia NF, Hume Lake District Contact Information:**
-
-**Superintendent: Candice Kutrosky Horseshoe Meadow Hotshots Pinehurst
-Work Center**
-
-**53921 Hwy 245**
-
-**Miramonte, CA 93641**
-
-**559-336-2651**
-
-**Ryan Ross-- Captain 3B Vacant-Captain 3A**
-
-***Established 1974***
-
-*The "Horseshoe Meadow Crew" has been proudly serving the U.S. Forest
+The "Horseshoe Meadow Crew" has been proudly serving the U.S. Forest
 Service since it was established in 1974 on the Hume Lake Ranger
-District of the Sequoia National Forest.*
+District of the Sequoia National Forest.
 
-*Ben Charley was the first Superintendent of the crew. The crew was
+Ben Charley was the first Superintendent of the crew. The crew was
 stationed at Horseshoe Meadow KV (Knudsen-Vanderbilt) camp. Originally
 there were 25 crewmembers, this allowed for seven day a week staffing.
 In the late 70's due to budget short falls, manpower programs such as
@@ -5492,9 +5307,9 @@ California Indian Manpower Consortium and Young Adult Conservation
 Crops were used through Native American programs to hire crewmembers.
 The philosophy behind this was to create diversity and develop a
 young, strong, workforce. It also provided the District and Forest
-with a multiple-use resource.*
+with a multiple-use resource.
 
-*In 1980, the crew earned Hotshot status through a reputation of hard
+In 1980, the crew earned Hotshot status through a reputation of hard
 work and safe firefighting becoming the Horseshoe Meadow Interagency
 Hotshots. Ben Charley retired in 1989, but his famous line of "only
 two more chains, we're almost tied in!" Is still spoken as a
@@ -5502,20 +5317,22 @@ motivation tool on Horseshoe to this day. Robert Bennett took over
 leading Horseshoe as Supt. in August of 1989 and lead the crew until
 he retired in October of 2006. "Horseshoe Bob" continued the tradition
 that Ben started in the early 70's and provided the Forest Service
-with a highly respected and hard-working Interagency Hotshot crew.*
+with a highly respected and hard-working Interagency Hotshot crew.
 
-*In May of 2007 Joe Gonzales was hired to lead Horseshoe as the
+In May of 2007 Joe Gonzales was hired to lead Horseshoe as the
 Superintendent. His contributions during his 10 year stint upheld the
 standards of preserving the legacy, prestige and tradition established
-before him.*
+before him.
 
-*In June 2017, Dustin Hallam was hired to lead Horseshoe as the
+In June 2017, Dustin Hallam was hired to lead Horseshoe as the
 Superintendent. In June 2020, Candice Kutrosky accepted the Horseshoe
-Meadow Superintendent position.*
+Meadow Superintendent position.
 
 ## Inyo
 
-![](oscc/oscc_inyo.png)
+1974-1978 | 2008-2011 | 2014-Present
+:-: | :-: | :-:
+![](oscc/oscc_inyo_1974-1978.png) | ![](oscc/oscc_inyo_2008-2011.png) | ![](oscc/oscc_inyo.png)
 
 Year(s) | Superintendent
 :- | :-
@@ -5526,12 +5343,7 @@ Year(s) | Superintendent
 2012 | Candace Kutrosky
 2013-2015 | Glen Tingley
 2016-2018 | Lance Rosen
-2019-Pres | Joel Schilling
-
-1974 - 1978 2008 - 2011 2014 - present
-
-![](media/image141.jpeg){width="1.825812554680665in"
-height="0.3541666666666667in"}
+2019-Present | Joel Schilling
 
 The Inyo Hotshot Crew was founded in the spring of 1974 and was based
 at the Mammoth Ranger District, Inyo National Forest. Originally, the
@@ -5584,7 +5396,6 @@ funding to re-establish a handcrew. Initially two separate 10 person
 modules were formed; Inyo Crew 3, stationed on the White Mountain
 Ranger District in Bishop, CA and Inyo Crew 2 stationed in Mammoth
 Lakes.
-
 These modules had a primary mission of fuels reduction projects across
 the Forest as well as Bishop Field Office BLM lands with fire
 suppression being a collateral duty. That first year the two crews
@@ -5634,15 +5445,12 @@ Year(s) | Superintendent
 2001-2009 | Ron Napoles
 2010-present | Leif Mathiesen
 
-est. 1983
-
 Much of the credit for the formation of the Kern Valley Interagency
 Hotshot Crew lies with former Bakersfield District FMO Rick
 Haffenfeld. In the early eighties, Rick often had
-
 trouble getting resources to his fires, especially hotshot crews. Rick
 viewed having a hotshot crew on the district as a solution, and after
-obtaining support [from State FMO P](mailto:lmathiesen@blm.gov)at
+obtaining support from State FMO Pat
 Kidder and Bakersfield District Manager Bob Reihner, he started the
 process of putting together a crew. He began with the selection of a
 Superintendent. Rick's quest to find the right [person for the job
@@ -5728,21 +5536,10 @@ improved and refined to meet new challenges.
 
 Year(s) | Superintendent
 :- | :-
-2001-006 | Ron Garcia
+2001-2006 | Ron Garcia
 2007-2013 | Isaac Naylor
 2013-2021 | Joaquin Marquez
 2021-Present | Kelly Haines
-
-Crew Logo Belt Buckle
-
-Kings River Hotshots
-
-**Agency: USDA, U.S. Forest Service Home Unit: Sierra National Forest
-District: High Sierra Ranger District**
-
-Crew History
-
-2001 to Present
 
 The Kings River Hotshots was organized on the Sierra National Forest
 in 2001, but was first recognized as SNF Crew 2, a type 2 crew prior
@@ -5792,25 +5589,7 @@ miscellaneous district personnel.
 
 Year(s) | Superintendent
 :- | :-
-
-**Laguna Hotshots**
-
-**Agency: USDA Forest Service**
-
-**Home Unit: Cleveland National Forest Descanso Ranger District**
-
-**Contact Information: Laguna Hotshots**
-
-**P. O. Box 418**
-
-**Descanso, CA 91916 Superintendent: Jim Huston 619.445.5032**
-
-[**jhuston\@fs.fed.us**](mailto:jhuston@fs.fed.us)
-
-![](media/image38.jpeg){width="1.8339807524059493in"
-height="0.4166666666666667in"}
-
-**Established 1974**
+? | Jim Huston
 
 The Laguna Hotshot name was first used in the 1950\'s when the
 Descanso Ranger District financed a forest crew and based them at Camp
@@ -5841,7 +5620,7 @@ Hotshots still carry on the crew colors and traditions.
 
 ## Little Tujunga
 
-![]()
+![](oscc/oscc_little_tujunga.png)
 
 Year(s) | Superintendent
 :- | :-
@@ -5852,17 +5631,6 @@ Year(s) | Superintendent
 2012-2014 | Alexander Liau
 2014-2018 | Oscar Vargas
 2018-Present | Joseph "JB" Button
-
-**Agency: USDA Forest Service Home Unit: Angeles National Forest**
-
-**Established 1970**
-
-**Disbanded 1980**
-
-**Re-Established 2007**
-
-![](media/image40.jpeg){width="1.8399037620297463in"
-height="0.4166666666666667in"}
 
 THIS IS THE HISTORY OF THE EARLY YEARS OF THE LITTLE TUJUNGA HOT SHOTS
 OF THE TUJUNGA RANGER DISTRICT ANGELES NATIONAL FOREST
@@ -5910,7 +5678,6 @@ wind blown Bear Fire on the San Bernardino N.F.
 On February 9, 1971 at 6:01 AM the 6.6 magnitude Sylmar earthquake
 occurred. Even though the epicenter was in Iron Canyon north of Bear
 Divide and shook the District violently
-
 the damage was the greatest at the Little Tujunga station with minor
 to moderate damage occurring to the other facilities on the District.
 The Hot Shot facility was severely damaged, the engine crews barracks
@@ -6013,7 +5780,6 @@ forest fire assignments with the Hot Shot crew until the end of the
 
 In 1974 Walt Sniegowski became the GS-7 Little Tujunga Hot Shot
 superintendent.
-
 Gary Glotfelty became the GS-6 Engine foreman at Little Tujunga in
 1972 and in September of 1975 Rod Wrench was promoted to the newly
 upgraded GS-9 Assistant District Fire Management Officer and in
@@ -6046,21 +5812,6 @@ Year(s) | Superintendent
 2009-2016 | Steve Molacek
 2017-Present | Matt Aoki
 
-**Agency: USDA Forest Service Home Unit: Los Padres National Forest**
-
-**Contact Information**
-
-**Los Padres Hot Shots 3505 Paradise Road**
-
-**Santa Barbara, California 93105 805.967.3481**
-
-**Superintendent: Matt Aoki**
-
-![](media/image40.jpeg){width="1.829374453193351in"
-height="0.42083333333333334in"}
-
-**Established 1948**
-
 The Los Padres Hot Shot Crew was established in 1948 as an initial
 attack and follow up crew for the Los Padres National Forest, which
 stretches from Monterey, California to Los Angeles, California. In
@@ -6090,7 +5841,6 @@ the addition of two other crews on the Forest (Monterey Hotshots &
 Ozena Hotshots both now disbanded). In 1974 the Ojai Hotshots were
 added to the Forest, which are now also disbanded. Due to no other
 hotshot
-
 crews remaining on the Forest, the crew name was changed back to the
 Los Padres Hotshots in 1994. In 1965 the crew strength was cut to
 twenty with five-day coverage to allow crews Inter- Regional
@@ -6127,40 +5877,18 @@ Year(s) | Superintendent
 2002-2012 | Pete Coy
 2012-Present | John Ellison
 
-Agency: Forest Service
-
-Home Unit: Front Country Ranger District
-
-San Bernardino NF Contact Information:
-
-Superintendent 4: John Ellison 909-382-2903
-
-<john.ellison@usda.gov
-
-Captain 4-1: Lincoln Peters 909-382-2902 <lincoln.peters@usda.gov
-
-Captain 4-2 Emanuel Torres 909-382-2904 <emanuel.torres@usda.gov
-
-Mill Creek Hotshots 34701 Mill Creek Road Mentone, CA 92359
-
-Website:
-[www.millcreekhotshots.com](http://www.millcreekhotshots.com/)
-
-**Crew History**
-
-**The Mill Creek Hotshots are a 20 person California Hotshot Crew. The
+The Mill Creek Hotshots are a 20 person California Hotshot Crew. The
 crew has a history that dates back to 1975. At that time the crew was
 established at the Mill Creek Ranger Station on the San Gorgonio
 Ranger District of the San Bernardino National Forest. The Mill Creek
-Hotshots started up in 1975 under**
-
-**Superintendent Mike Goldenbee. George Motschall became the next
+Hotshots started up in 1975 under
+Superintendent Mike Goldenbee. George Motschall became the next
 Superintendent in 1981 and he ran the crew for the next two years.
 Mill Creek became the victims of budget cuts and disappeared at the
 end of the 1982 fire season along with several Southern California
-Hotshot Crews from the Cleveland and Angeles National Forests.**
+Hotshot Crews from the Cleveland and Angeles National Forests.
 
-**The Mill Creek Hotshots were resurrected in 2002 as part of a
+The Mill Creek Hotshots were resurrected in 2002 as part of a
 dramatic buildup of fire suppression resources in California with
 increases of the federal fire management budget. Pete Coy was hired as
 Superintendent and guided the Crew in attaining their Hotshot status
@@ -6170,14 +5898,7 @@ at the Mill Creek Visitor Center on the (now) Front Country District
 and still uses the same facilities as the original Mill Creek Hotshots
 three decades prior. The crew continues to serve in the tradition of
 the Mill Creek Hotshots of years past and the California Hotshot
-Community.**
-
-***[Original Logo from 70's and 80's]{.underline}***
-
-![](media/image149.jpeg){width="2.049943132108486in"
-height="1.9761450131233596in"}
-
-![](media/image150.jpeg){width="2.231933508311461in" height="2.25in"}
+Community.
 
 ## Oak Grove
 
@@ -6194,19 +5915,8 @@ Year(s) | Superintendent
 1965-1967 | Marty Barrows
 1967-1971 | Larry Boggs
 1971 | Mal Ellison (Aug-Oct)
-1971-1972 | Chet Cash (Oct-May, acting)
-1972-1973 | Chet Cash
+1971-1973 | Chet Cash (acting Oct 1971-May 1972)
 1974-1978 | Steve Arney
-
-**Agency: USDA Forest Service Home Unit: Angeles National Forest
-Arroyo Seco Ranger District**
-
-![](media/image38.jpeg){width="1.8339840332458444in"
-height="0.4166666666666667in"}
-
-**Established 1950**
-
-**Disbanded 1978**
 
 The Oak Grove facility was started as a Civilian Conservation Corps
 camp (CCC), Company 903, Forest Number-133, May 16, 1933. The land
@@ -6228,7 +5938,6 @@ secured seven small military surplus, four person-sleeping quarters.
 These units were made of plywood, painted military green, and were
 used for some or all of the crewmembers. These types of structures
 were often called "flappers" due to a
-
 hinged plywood window cover, that when shut, always seemed to "flap"
 in the wind.
 
@@ -6306,23 +6015,11 @@ Year(s) | Superintendent
 1980-1981 | Ish Messer
 1982 | Bob Becker
 
-**Agency: USDA Forest Service**
-
-**Home Unit: Los Padres National Forest**
-
-![](media/image152.png){width="1.8309667541557306in"
-height="0.4166666666666667in"}
-
-**Established 1974**
-
-**Disbanded 1982**
-
 The Ojai Hotshots were established in 1974 as a result of
 recommendations from the 1972 Region 5 Base Fire Plan. This gave the
 Los Padres NF a Hotshot crew on the south- ern end of the Forest and
 Region 5 another Hotshot crew with quick access to the adjoin- ing
 Angeles NF and South Zone.
-
 The crew logo is that of a California Condor, an endangered and
 protected bird who's historical range encompassed much of the Ojai
 Ranger District.
@@ -6338,11 +6035,9 @@ HS and a Superintendents pickup truck.
 
 In 1976 Craig Lecheither replaced John Szalay as foreman and he and
 Raley worked to- gether for 2 fire seasons.
-
 In the fall of 1977 Raley and Ish Messer swapped positions, with Raley
 moving to the Rose Valley Helitack Crew and Messer becoming the Ojai
 HS foreman.
-
 More overhead changes occurred in 1978 as Lechleiter took a position
 with the Redding HS in June and Mike Freed was hired as a Squad Leader
 in a career position.
@@ -6369,7 +6064,6 @@ disbanded Rose Valley Helishot crew and was joined later in the season
 by Lloyd Howry. Mike Freed also departed, moving on to a District
 fuels posi- tion working for Burnett. A larger bus, from the disbanded
 Helishot crew, also arrived in 1980.
-
 1981 saw overhead stability continuing with Messer as Superintendent,
 Becker and Howry foreman. A barracks trailer was placed on site at
 Casitas providing additional bunk space for 3.
@@ -6397,66 +6091,52 @@ Year(s) | Superintendent
 2002-2006 | Wes Ruise
 2007-present | Stan Hill
 
-Palomar Hots Hots
-
-1 97 5 - 19 81, 19 87 - 1 989 , 2 002 - Present
-
-The Palomar Hotshots were organized in 1975. The f i rst
-Superintendent was Gary Glotfelty, and the f i rst foreman was George
+The Palomar Hotshots were organized in 1975. The first
+Superintendent was Gary Glotfelty, and the first foreman was George
 Mangle. The crew was made up of career
-
 conditional positions. Some of whom later became Superintendents of
 other crews, Bob Bennett and Dennis Baldridge. The Crew was based at
 the US Naval Survival Camp in Warner Springs, California. It was the
-only Hotshot base to have i ts own store and
-
-enlisted man' s club ( bar). To be stationed at a Navy installation
+only Hotshot base to have its own store and
+enlisted man's club (bar). To be stationed at a Navy installation
 meant that we also had to follow Navy regulations and protocols. We
 did get a chance to learn about survival in the wilderness since the
-base specialized in t raining Navy f l iers to survive after a crash,
+base specialized in training Navy fliers to survive after a crash,
 or
-
-after being shot down in enemy t erritory. The crew lasted until 1978
-when i t fell in the "great hotshot massacre" at the end of the
+after being shot down in enemy territory. The crew lasted until 1978
+when it fell in the "great hotshot massacre" at the end of the
 season.
 
 In 1979 the crew came back as a district hand crew with Barry
 Callenberger as the
-
 Superintendent and Charlie Brown as the foreman. The crew was
 stationed at the Henshaw YACC camp, on the Palomar District of the
 Cleveland National Forest. In 1980 the crew
-
-regained i ts Hotshot status and a second foreman, Tim Swedberg, as
+regained its Hotshot status and a second foreman, Tim Swedberg, as
 well as a new office at the Oak Grove Engine Station. Then in the fall
 of 1981 the crew was cut again after
-
-just two seasons. For several years through the 1980 ' s the crew was
+just two seasons. For several years through the 1980's the crew was
 organized as a district crew with Dennis Baldridge as the
 Superintendent. After Dennis became the
-
-Superintendent of the Laguna Hotshots, the Palomar crew fell on hard t
-imes and faded away. Once again in 2002 the National Fire Plan
-resurrected the Palomar Hotshots. The crew started this t ime as a
+Superintendent of the Laguna Hotshots, the Palomar crew fell on hard
+times and faded away. Once again in 2002 the National Fire Plan
+resurrected the Palomar Hotshots. The crew started this time as a
 Type 2 IA crew and was certified as a Regional Hotshot crew on July
-22, 2005.At that t ime the superintendent was Wes Ruise Jr. with Jacob
+22, 2005. At that time the superintendent was Wes Ruise Jr. with Jacob
 Gipson
-
 and Stan Hill as the crew foremen. Wes was on the Palomar Hotshot crew
 in 1980 and 1981.
 
-Throughout the crew' s history i t did participate during a t ime when
+Throughout the crew's history it did participate during a time when
 there were some of the largest wildfires throughout the west. Such as
-the Panorama, Marble Cone, Mine f i re,
-
+the Panorama, Marble Cone, Mine fire,
 Cedar, and more. The current version of the Palomar Hotshots reside in
 a converted Forest Service 9 - bay building at the Oak Grove Fire
 station. Many well respected
-
-members of the f i re community have been on the Palomar Hotshots at
+members of the fire community have been on the Palomar Hotshots at
 one time during their careers, here are some; Carlton Joseph, Dennis
 Baldridge, Bob Bennett, George Corley, Ted Visser, Dale Donahue, Dave
-Kerr, J im Talbot, Kenny Yarger, and Robert Sanders to name a few.
+Kerr, Jim Talbot, Kenny Yarger, and Robert Sanders to name a few.
 
 Those of us that are here now are charged with carrying on the Palomar
 Hotshot name for all of those who came before.
@@ -6472,21 +6152,6 @@ Year(s) | Superintendent
 1998-2002 | John Smith
 2003-? | Jimmie Rocha
 
-**Agency: Kern County FD Home Unit: Lake Isabella**
-
-**Contact Information:**
-
-**Superintendent: Jimmie Rocha Rio Bravo Hotshots**
-
-**4500 Lake Isabella Blvd. Lake Isabella, CA**
-
-**760-379-2042**
-
-![](media/image38.jpeg){width="1.8339785651793525in"
-height="0.4166666666666667in"}
-
-**Established 1989**
-
 Located in the mountains south of Lake Isabella California, the Rio
 Bravo Hotshots was started by the Kern County Fire Dept and Grant
 Young in 1989. Since then it has grown to be the only county federally
@@ -6497,7 +6162,6 @@ ten-person initial attack crew. The county funded three IA crews
 around the county. The crews were made up of ten seasonal
 firefighters, and a extra help firefighter and a crew leader, usually
 a fire department engineer.
-
 These crews worked an eight day on and four day off cycle and were
 made up of college students needing summer employment.
 
@@ -6528,20 +6192,14 @@ Hotshot Crew. In 2003 Jimmie Rocha became our Superintendent.
 Year(s) | Superintendent
 :- | :-
 1976-1979 | Steve Raddatz
-1980-1989 | John Szalay
-1987 and 1995 | Mike Freed (Detail)
-1990-1997 | Steve Slate
+1980-? | John Szalay
+1987 | Mike Freed (Detail)
+?-1989 | John Szalay
+1990-? | Steve Slate
+1995 | Mike Freed (Detail)
+?-1997 | Steve Slate
 1998-2014 | Ken Jordan (retired in place)
 2014-Present | Alan Roby
-
-**Agency: USDA National Forest Service Home Unit: Sierra National
-Forest**
-
-![](media/image38.jpeg){width="1.8346478565179352in"
-height="0.4166666666666667in"}
-
-![](media/image156.jpeg){width="2.875in"
-height="1.9083333333333334in"}**Established 1976**
 
 The Sierra Hotshots have been an organized crew on the Sierra National
 Forest since 1976.
@@ -6569,8 +6227,7 @@ Year(s) | Superintendent
 2001-2004 | Robert Sanders
 2004-Present | Jack Medina
 
-![](media/image157.jpeg){width="5.760265748031496in"
-height="5.481353893263342in"}The Springville Hotshots were established
+The Springville Hotshots were established
 in the spring of 2001 as part of the Most Efficient Level (MEL)
 build-up, as a Type II hand-crew. The crew, designated as Crew 9, is
 based out of Springville, CA on Hwy 190 about twenty miles east of
@@ -6604,28 +6261,7 @@ Year(s) | Superintendent
 2006-2007 | Felix Berbina 
 2007-Present | Shawn Baker
 
-**Agency: USDA Forest Service**
-
-**Home Unit: Stanislaus National Forest Mi-Wok Ranger District**
-
-**Contact Information:**
-
-**Stanislaus Hotshots 19777 Greenley Road**
-
-**Sonora, CA 95370**
-
-**Phone: 209-532-3935**
-
-**FAX: 209-532-2932**
-
-**Superintendent: Shawn Baker**
-
 **Motto: Semestris Heros**
-
-![](media/image152.png){width="1.8315791776027996in"
-height="0.4166666666666667in"}
-
-**Established 1974**
 
 In 1974 the Stanislaus Hotshot Crew was established under the
 direction of Charlie Gripp. The crew was based at Long Barn Elementary
@@ -6646,37 +6282,6 @@ Firefighter 2, Firefighter 1, and Single Resource Supervisors. We also
 spend time maintaining our skills cutting and maintaining fuel breaks
 throughout the district. We are also involved in Fire Use fires on the
 Forest.
-
-**Physical Training:**.
-
-Hiking, various cardio exercise, Upper body strength , Stretching.
-Nothing replaces time on the hill.
-
-**Crew Structure:**
-
-1 GS-09, Superintendent, PFT
-
-2 GS-08, Captains, PFT
-
-2 GS-07, Squad Leaders, PFT
-
-3 GS-05, Senior Firefighters, PFT
-
-10 GS-03/04/05, Temporary Firefighters 2 Apprentice
-
-**Location Description:**
-
-The Stanislaus National Forest is located in Central California in the
-Foothills of the Sierra Nevada Mountain Range. Elevations range from
-2,000 feet to above 11,500 feet. Temperatures range from the 40's in
-the winter time to 100+ during the summer. There are several different
-fuel types: lower elevations are grass and oak woodlands and
-transition into chaparral, with higher elevations dominated by
-ponderosa pines and mixed conifers.
-
-**Living Arrangements:**
-
-We have limited barracks available.
 
 ## Texas Canyon
 
@@ -6706,8 +6311,7 @@ homestead Texas Canyon after their home state. Early maps of the area
 indicate that in 1926, the Texas Canyon Guard Station and three other
 Forest Fire Guard Stations were in service on the Saugus District of
 the Angeles National Forest. From about 1933
-
-\- 1942 Texas Canyon hosted a Civilian Conservation Corps. Camp, which
+- 1942 Texas Canyon hosted a Civilian Conservation Corps. Camp, which
 was part of the New Deal of President Franklin D. Roosevelt. In the
 1950's, the U.S. Forest Service received an Army Corps of Engineers
 contract for a stabilization and drainage project on a road under
@@ -6753,17 +6357,6 @@ Year(s) | Superintendent
 2018-2021 | Matt Ramstead
 2022-Present | Simeon "half" Hagens
 
-Agency: USDA Forest Service
-
-Home Unit: Angeles National Forest Service Established: 2002
-
-Contact Info: Valyermo IHC
-
-(Mail) P.O. Box 15 Valyermo, Ca. 93563
-
-(Physical Address) 29835 Valyermo Rd, Valyermo, CA. 93563 (661)
-944-2188 ext.229
-
 Valyermo IHC is stationed at the Mojave Work Center on the eastside of
 the Santa Clara Mojave River Ranger District. Valyermo is in the
 desert foothills of the Antelope Valley but is minutes away from the
@@ -6796,27 +6389,9 @@ hard work while maintaining safety as a priority.
 
 Year(s) | Superintendent
 :- | :-
-
-**Agency: USDA Forest Service**
-
-**Home Unit: San Jacinto Ranger District San Bernardino NF**
-
-**Contact Information: Superintendent: Jesse Estrada**
-
-**Captains: Brett Pascale & Howard Deets**
-
-**Vista Grande Hotshots PO Box 518**
-
-**Idyllwild, CA 92549**
-
-**Station: 951.849.5750**
-
-**FAX: 951.922.2482**
-
-![](media/image152.png){width="1.8315791776027996in"
-height="0.4166666666666667in"}
-
-**Established 1974**
+1974-? | Kirby More
+1994-? | Art Torrez
+2005-present | Jesse Estrada
 
 In 1974, Region 5 Fire Management added a second Hotshot crew on the
 San Bernardino National Forest. The location chosen was Vista Grande
