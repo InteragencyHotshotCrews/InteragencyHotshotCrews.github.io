@@ -1148,7 +1148,9 @@ Superintendent in December of 2006.
 
 ## Bison
 
-![](nrcc/nrcc_bison1.png) ![](nrcc/nrcc_bison2.png)
+![](nrcc/nrcc_bison1.png)
+
+![](nrcc/nrcc_bison2.png)
 
 Year(s) | Superintendent
 :- | :-
@@ -1849,7 +1851,9 @@ the Bushmen and the Entiat IHC.
 
 ## La Grande
 
-![](nwcc/nwcc_la_grande_wallowa-whitman_ir.png) ![](nwcc/nwcc_la_grande.png)
+![](nwcc/nwcc_la_grande_wallowa-whitman_ir.png)
+
+![](nwcc/nwcc_la_grande.png)
 
 Year(s) | Superintendent
 :- | :-
@@ -6439,9 +6443,13 @@ prescribed fires and other land management projects.
 
 ## Aravaipa
 
-Crew Logo 2016-2019 | Current Crew Logo
-:-: | :-:
-![](swcc/swcc_aravaipa_2016-2019.png) | ![](swcc/swcc_aravaipa.png)
+**Crew Logo 2016-2019**
+
+![](swcc/swcc_aravaipa_2016-2019.png)
+
+ **Current Crew Logo**
+ 
+ ![](swcc/swcc_aravaipa.png)
 
 Year(s) | Superintendent
 :- | :-
