@@ -586,18 +586,18 @@ District, Forest, Regional and National levels.
 
 Year(s) | Superintendent
 :- | :-
-**Logan USU Forestry Crew**
+**Logan USU Forestry Crew** |
 1973-1974 | Dee Sessions
 1975 | Bob Clancy
-**Logan I.R. Crew**
+**Logan I.R. Crew** |
 1976 | Bob Clancy
 1977 | Mike Jenkins
 1978 | Dan Fritz
-**Wasatch Hotshots (Kamas Ranger District)**
+**Wasatch Hotshots (Kamas Ranger District)** |
 1980-1984 | J.D. Killick
-**Logan Interagency Hotshot Crew (Training Crew - Type II)**
+**Logan Interagency Hotshot Crew (Training Crew - Type II)** |
 1988-1989 | Scott Bushman
-**Logan Interagency Hotshot Crew**
+**Logan Interagency Hotshot Crew** |
 1990-1998 | Scott Bushman
 1999 | Nathan Lancaster (Detailed)
 2000-2001 | Scott Bushman
@@ -756,11 +756,11 @@ fellow Hotshot crews, overhead teams and fire managers.
 
 Year(s) | Superintendent
 :- | :-
-**Flame-in-go Hotshots**
+**Flame-in-go Hotshots** |
 1991-1994 | Tracy Dunford
 1995-1999 | Gary Peck
 2000-2001 | Scott Bovey
-**Lone Peak Hotshots**
+**Lone Peak Hotshots** |
 2001-2004 | Scott Bovey
 2005 | Joel Butcher
 2006-2009 | Mathew Armantrout
@@ -1459,7 +1459,7 @@ prescribed burning.
 
 Year(s) | Superintendent
 :- | :-
-**St. Joe IHC** 
+**St. Joe IHC** |
 1967-1969 | Dale Jarrell
 1970-1971 | Mike Cyrus
 1972-1973 | Dennis Johnson
@@ -1471,7 +1471,7 @@ Year(s) | Superintendent
 1999 | B Hadley Hawkins
 1999-2000 | Lynn Bornitz
 2000 | Rory Laws
-**Idaho Panhandle IHC**
+**Idaho Panhandle IHC** |
 2001-2003 | Louis Hartjes
 2004-2008 | Terry Zufelt
 2009-Present | Chris Smith
@@ -2256,7 +2256,7 @@ community school district FUNCTIONS.
 ## Winema
 
 ![](nwcc/nwcc_winema.png)
-s
+
 Year(s) | Name | Location
 :- | :- | :-
 1962-1969 | Star I.R. Suppression Crew | Applegate RD Rogue River NF
@@ -3479,17 +3479,17 @@ speak for itself.
 
 Year(s) | Superintendent
 :- | :-
-**Hobart Inmate Crew**
+**Hobart Inmate Crew** |
 1961-1970 | Les Bagby, Lynn Orr, Chuck Welch, Orv Houghan
-**Hobart Crew**
+**Hobart Crew** |
 1971 | Bob Riley
 1972 | Don Huber
-**Hobart Hotshots**
+**Hobart Hotshots** |
 1973-1975 | John King
 1975-1976 | Kris Kristofers
 1977-1978 | Dave Fields
 1979-1985 | Rusty Witwer
-**Tahoe Hotshots**
+**Tahoe Hotshots** |
 1986-1995 | Rusty Witwer
 1996-2012 | Rick Cowell (retired in place)
 2013-2016 | Eric Rice
@@ -4717,14 +4717,14 @@ same month.
 
 Year(s) | Superintendent
 :- | :-
-**Crew 4 Supervisors**
+**Crew 4 Supervisors** |
 1988 | Mike Lanier
 1989 | Ron Garcia (Buck Meadows), Steve Nestor (Cherry Lake)
 1990-1994 | Ron Garcia
 1995 | Mike Lanier
 1996-2000 | Sam Cousins
 2000-2002 | Mike Lanier
-**Groveland Hotshot Superintendents**
+**Groveland Hotshot Superintendents** |
 2003-2010 | Mike Lanier (retired in place)
 2011-Present | Pat Laeng
 
@@ -7754,7 +7754,7 @@ elite, professional, and outstanding crew of Wildland Firefighters.
 
 Year(s) | Superintendent
 :- | :-
-**Catalina Superintendents** 
+**Catalina Superintendents** |
 1973-1974 | Greg Greenhoe
 1974 | Andy Traverse
 1975 | Steve Gunzel
@@ -7762,7 +7762,7 @@ Year(s) | Superintendent
 1978-1980| Scott Parsons
 1980-1981| Steve Palmer
 1981-1982| George Kleindienst
-**Sacramento Superintendents**
+**Sacramento Superintendents** |
 1982-1984 | George Kleindienst
 1984| Jerry Grim
 1985-1987| Bob Pena
