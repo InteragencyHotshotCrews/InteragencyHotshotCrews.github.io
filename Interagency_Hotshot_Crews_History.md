@@ -1,15 +1,39 @@
 # HOTSHOT CREW HISTORY IN AMERICA
 
+**APPROVED AND SUPPORTED BY THE NATIONAL HOTSHOT CREW STEERING COMMITTEE, December 2022**
+
 ![](ihc_sihco.png)
 
-**APPROVED AND SUPPORTED BY THE NATIONAL HOTSHOT CREW STEERING COMMITTEE, August 2022**
+![](map_national.gif)
+
+## Table of Contents
+
+[Alaska](#alaska)
+
+[Eastern Area](#eastern-area)
+
+[Great Basin](#great-basin)
+
+[Northern Rockies](#northern-rockies)
+
+[Northwest](#northwest)
+
+[Operations Northern California](#operations-northern-california)
+
+[Operations Southern California](#operations-southern-california)
+
+[Rocky Mountain](#rocky-mountain)
+
+[Southern Area](#southern-area)
+
+[Southwest](#southwest)
 
 # Alaska 
 
 ![](aicc/aicc_afs_hotshots.png)
 
 The first **Alaska Bureau of Land Management** seasonal fire crew was
-started by Anchorage District in 1974. Named the Anchorage Hotshots\*,
+started by Anchorage District in 1974. Named the Anchorage Hotshots*,
 crew size was set at sixteen members to meet the carrying capacity of
 the Twin Otter airplane (due to lack of roads, crew transport
 primarily consisted of fixed and rotor wing aircraft). The crew was
@@ -22,8 +46,8 @@ black stripes on their hardhats.
 Seeing the value of a dependable 
 organized crew for fire reinforcement as well as a hiring pool for the
 primary initial attack forces (Helitack and Smokejumpers), the Alaska
-Bureau of Land Management decided to increase their Hotshot\* crew
-program. From 1981 to 1982, Alaska BLM stationed Hotshot\* crews in
+Bureau of Land Management decided to increase their Hotshot* crew
+program. From 1981 to 1982, Alaska BLM stationed Hotshot* crews in
 Kenai, McGrath (located on the Kuskokwim River in Southwest Alaska),
 Tanacross (located on the Alaska Highway near the border of Canada's
 Yukon Territory), and Fairbanks (Interior Alaska).
@@ -32,17 +56,17 @@ The **Alaska Fire Service** was established in 1982, which shifted
 wildfire management responsibilities from the BLM Districts and
 provided firefighting services to all Federal, Native, and some State
 of Alaska lands north of the Alaska Range. By this time there were
-only two seasonal BLM fire crews (Hotshot\* crew \#1 & \#2), both
+only two seasonal BLM fire crews (Hotshot* crew #1 & #2), both
 based at Ft. Wainwright, an Army base located on the outskirts of
 Fairbanks Alaska. When in Fairbanks, the crews lived in military
 barracks and ate meals at the BLM mess hall. During the fire season,
 the crews were often temporarily relocated to bush station.
 
 In 1985, the decision was made to convert the Alaska Fire Service
-Hotshot\* crews to Interagency Type 1 status. Efforts were made to
+Hotshot* crews to Interagency Type 1 status. Efforts were made to
 develop stability in the Hotshot program and ensure that the Alaska
 Fire Service Hotshots met all agency and interagency goals and
-standards. At that time, Fairbanks Hotshot\* Crews \#1 & \#2 were
+standards. At that time, Fairbanks Hotshot* Crews #1 & #2 were
 renamed **Chena IHC** and **Midnight Sun IHC.**
 
 The Alaska fire season normally starts and ends earlier than in the
@@ -189,7 +213,7 @@ trailers at the Midewin National Tallgrass Prairie. The crew moved
 into our current facilities in October of 2004.
 
 2004 was an extremely difficult season
-for the Midewin IHC. On April 24^rd^ Alan Toepke was fatally injured
+for the Midewin IHC. On April 24rd Alan Toepke was fatally injured
 in an off-duty traffic accident while returning from a fire assignment
 in Florida. The crew stood down for 2 ½ months but was able to finish
 the season strong with several good assignments in July through
@@ -199,7 +223,7 @@ and fuels management projects. At the time of the accident the crew
 was pursuing its certification as a fully qualified IHC.
 
 The crew was certified as a fully qualified Interagency Hotshot Crew
-on July 30^th^, 2006 while assigned to the Cavity Lake fire on the
+on July 30th, 2006 while assigned to the Cavity Lake fire on the
 Superior National Forest.
 
 The crew is typically operational from early March till early
@@ -1360,7 +1384,7 @@ beginnings in 1971, organized initially as a 10-person camp/slash crew
 under the supervision of Mike Collins; AD hires were used to bulk the
 crew numbers up to 20. By July of 1971 the crew was being dispatched
 as a suppression unit, with the crew arriving at the incident under
-the \"IR\" designation. This did not endear the Helena crew to the
+the "IR" designation. This did not endear the Helena crew to the
 other legitimate IR crews and made for interesting chowtime
 conversation. Crew strength numbers fluctuated, but early crew
 composition included many Native Americans as well as Vietnam era
@@ -1387,8 +1411,8 @@ IR crews. During Cole's tenure - 1980 through 1982 - the crew
 continued to respond to a number of fires within and out of region.
 
 In 1983 Dave Larsen, who had previously worked on the hotshot crew
-with Larry Cole and Mike Peila, took over \"Foreman\"
-responsibilities. During Larsen\'s reign, 1983 through 1988, two
+with Larry Cole and Mike Peila, took over "Foreman"
+responsibilities. During Larsen's reign, 1983 through 1988, two
 significant personnel actions occurred. The first being the
 establishment of the GS-6 assistant foreman position in 1986, the
 first in the Region to do so, and secondly, in 1987, the reinstatement
@@ -2009,11 +2033,11 @@ Center. They were the first interregional fire suppression crew
 established by the Forest Service in the Pacific Northwest Region, in
 August of 1960. This crew functioned as a regular Type I hotshot crew,
 with temporary crewmembers, from 1960 through 1980. In 1981 the crew
-was converted to a developmental training detail crew. California\'s
+was converted to a developmental training detail crew. California's
 Redding Hotshot Crew was the first to use developmental detail
 training for permanent employees assigned to an IHC - it was
 established in 1967. The number of applicants though, far exceeded the
-slots. The program\'s popularity - along with a 1977 fire fatality of
+slots. The program's popularity - along with a 1977 fire fatality of
 an AFMO on the Okanogan N.F. in WA State supported the establishment
 of a detail crew in the Pacific Northwest.
 
@@ -2153,7 +2177,7 @@ the availability of recruiting from the National SRV Program for
 diversity and trained firefighters. Rick Roach was the first
 Superintendent. Rick hired and trained the Hotshot Crew the first
 season and the crew was available for its first fire assignment June
-14^th^, 1997.
+14th, 1997.
 
 Rick supervised the crew from 1997 to 2002 and in 2003 Bart Yeager was
 hired as the Superintendent. The crew was in a training status for the
@@ -2322,7 +2346,7 @@ model that is 22 permanent and 8 seasonal employees through 2024.
 -   1991-2000 Taz with "tornado" legs on blue shirt.
 
 -   2001 shirts changed to integrate all previous logos to comemorate
-    the 40^th^ anniversary.
+    the 40th anniversary.
 
 -   2006 shirts changed to written logo stating "Winema Hotshots R-6".
 
@@ -2493,7 +2517,7 @@ become its fifth superintendent in four decades.
 While the world might change, the Zigzag Interagency Hotshot Crew
 remains constant: same location, same traditions, and always tough!
 
-# Operations Northern California    
+# Operations Northern California
 
 ## American River
 
@@ -2607,7 +2631,7 @@ they finally found a home in 1995 and moved into the old Caltrans
 building on Main Street in Susanville. It was a suitable facility and
 the crew called it home until 2003 when Caltrans decided to put the
 building up for sale, thus ending one of the greatest lease deals in
-history at \$200.00 a month. After a tiresome search, Superintendent
+history at $200.00 a month. After a tiresome search, Superintendent
 Merrill finally secured a new home south of Susanville near the
 airport in the Turner Complex. The new facility offered a few upgrades
 with indoor plumbing and heating and actual office space. 2004 again
@@ -3040,7 +3064,7 @@ The crew was unstaffed for the season of 2011. The crew was again
 staffed for the 2012 season with Willie Almand being hired as the
 Superintendent.
 
-The crew logo, flying goose, is derived from the area\'s world famous
+The crew logo, flying goose, is derived from the area's world famous
 water fowl hunting and nesting habitat.
 
 The crew "phrase", Pervado Tolerantia nos Benfacta was derived from
@@ -3172,11 +3196,11 @@ to gain a mass of experience and training that might take years to
 receive at their home unit.
 
 The program was initially developed in 1967 and functioned as one of
-the Pacific Southwest Region\'s three Interregional Suppression Crews
+the Pacific Southwest Region's three Interregional Suppression Crews
 along with the Del Rosa IR Crew and the El Cariso IR Crew. It remained
 an interregional crew until 1980, when at that time the interregional
 concept was abolished nationwide and all category one crews were
-reclassified as \"Interagency Hotshot Crews\" (IHC). The crew\'s
+reclassified as "Interagency Hotshot Crews" (IHC). The crew's
 training and career development concept was much the same in 1967 as
 it is today, but through the years it was modified to its current
 concept and mission.
@@ -3211,7 +3235,7 @@ a fire suppression curriculum but also included supervision subjects
 as well.
 
 During the winter of 1977, the Superintendent and one Captain position
-were reclassified as \"Fire and Training Specialists\". The
+were reclassified as "Fire and Training Specialists". The
 reclassification increased the grade structure of the crew
 superintendent to a GS-462-9, and one Captain to a GS-462-7. The
 second Captain remained a GS-462-6.
@@ -3879,19 +3903,19 @@ Year(s) | Superintendent
 2000-2013 | Mike Alarid
 2013-Present | Brian Anderson
 
-The Crew started in the build up years of the early 1970\'s. It was
+The Crew started in the build up years of the early 1970's. It was
 started in 1974 as a 10-person flight crew in conjunction with a
 10-person flight crew on the Valyermo district. In 1975 it was made a
 20-person crew and the first superintendent was Mike Dougherty.
 
 Bear Divide was one of 6 hotshot crews on the Angeles National Forest.
 
-Mike\'s tenure as superintendent was 1975-1979.
+Mike's tenure as superintendent was 1975-1979.
 
-The Bear Divide Station was built in the late 1960\'s and was
+The Bear Divide Station was built in the late 1960's and was
 constructed with a 12 person barracks, kitchen and 4 bay garages. In
 1975 the barracks was added on to house a total of 25 personnel.
-During the early 1970\'s the station also was home to two, 7-person
+During the early 1970's the station also was home to two, 7-person
 engine modules. One engine module was cut in 1976.
 
 In 1980 Bear Divide got a new superintendent, Richard McCombs, who
@@ -3900,7 +3924,7 @@ stayed in the job until 1982.
 In 1982 David Conklin became superintendent and stayed in the job
 until 1999.
 
-In the mid 1980\'s the Station was added on to again to make a large
+In the mid 1980's the Station was added on to again to make a large
 weight room/training room, storage room and to add additional
 restrooms/showers.
 
@@ -3948,7 +3972,7 @@ and reinforcement during natural disaster incident operations. We will
 actively support the hazardous fuels management program and other
 project assignments as required.
 
-**ABOUT BIG BEAR\...**
+**ABOUT BIG BEAR...**
 
 Big Bear Hotshots are happy to call Big Bear California home, although
 the actual compound is located across the lake at the Big Bear Ranger
@@ -4099,7 +4123,7 @@ Ralph Jehl, and Tommy Brumfield.
 
 1952 -- this year was the beginning of a yearlong Hotshot crew at
 Chilao using San Quentin prisoners from the prison at Chino. The
-Forest Service paid the State of California prison authority \$1.00
+Forest Service paid the State of California prison authority $1.00
 per day for each prisoner. The crew was a total of 30 inmates. In
 addition, there was an inmate kitchen crew at Chilao. The Forest
 Service had the responsibility of the inmates when we were out of camp
@@ -4291,7 +4315,7 @@ excessive. However, the facilities at Dalton CCC camp were
 deteriorated and too unstable to house the crew, so the crew moved
 back to Tanbark in 1965. This is where "Dalton Camp" gets its name.
 The contract for the Dalton Barracks (across Dig Dalton Canyon Road
-from the CCC site) was awarded March 13, 1969, at a cost of \$182,000.
+from the CCC site) was awarded March 13, 1969, at a cost of $182,000.
 At 7,000 square feet, the new barracks would comfortably accommodate
 up to twenty people. The Dalton Hot Shots moved into the new facility
 in 1970. The barracks contained a crew lounge, training facility, hot
@@ -4339,7 +4363,7 @@ the 70's and is now used on the crew's apparel.
 Throughout Dalton Hot Shot history, there is a positive value that has
 been passed on from crew to crew, a tradition of self worth,
 integrity, and the endeavor for excellence. It is this reward that is
-Dalton\'s most valued piece of history, and it is those individuals
+Dalton's most valued piece of history, and it is those individuals
 who have had the responsibility to lead, that have carried on this
 valuable tradition.
 
@@ -4482,7 +4506,7 @@ season. In 1961 El Cariso became the first, and one of only two
 Interregional Hotshot Crews. The other crew was Del Rosa on the San
 Bernardino National Forest. A C-46 airplane was kept on call at
 Ontario Airport to transport the two crews upstate or out of region.
-Campbell\'s successor was Marv Stout and Gordon King followed him.
+Campbell's successor was Marv Stout and Gordon King followed him.
 
 Gordon King was Superintendent at the time of the tragic Loop Fire in
 which 12 members of the El Cariso Hotshots perished. This fire
@@ -4495,14 +4519,14 @@ Bertek.
 
 Crew size has varied over the years. In the early years through about
 1970, the crew consisted of two fifteen-person squads, two foremen, an
-Assistant Superintendent, and the Superintendent. Today\'s crew
+Assistant Superintendent, and the Superintendent. Today's crew
 make-up is seventeen firefighters, two Captains (Foremen), and the
 Superintendent.
 
 The El Cariso Hot Shots were originally housed across the road from
 the El Cariso Engine Station on the Ortega Highway. Buildings included
 Quonset Huts, pit toilets, and a combination crew kitchen/training
-hall. In the early 1970\'s the crew was relocated to the Los Pinos
+hall. In the early 1970's the crew was relocated to the Los Pinos
 Forestry Camp,
 Approximately 3 miles north and west of the original site. Here the
 crew shared the facility with Orange County youth offenders. A final
@@ -4518,7 +4542,7 @@ shirts, hats, belt buckles, decals, and even body extremities in the
 form of tattoos.
 
 The El Cariso Interregional Hotshot Crew is one of about (65) elite
-firefighting crews in the nation. Throughout the crew\'s almost 40
+firefighting crews in the nation. Throughout the crew's almost 40
 years, El Cariso has established quite a fire history. They have
 fought fires in every western state multiple times and have also
 traveled to the Southeast. They have participated in the suppression
@@ -4856,7 +4880,7 @@ offices, ready room, training room and cache. By 2008 the crew was
 finally able to maintain all the necessary permanent positions with
 the required qualifications.
 
-On August 11^th^, 2008, after seven years of growth, improvement and
+On August 11th, 2008, after seven years of growth, improvement and
 hard work, the crew succeeded in becoming officially recognized as
 Type 1 and chose to hold onto its name as the **Boundary Peak
 Hotshots**.
@@ -5025,7 +5049,7 @@ Year(s) | Superintendent
 :- | :-
 ? | Jim Huston
 
-The Laguna Hotshot name was first used in the 1950\'s when the
+The Laguna Hotshot name was first used in the 1950's when the
 Descanso Ranger District financed a forest crew and based them at Camp
 Ole on Mount Laguna. Camp Ole was previously a CCC camp and had
 facilities for housing the crew and was close to areas of work. The
@@ -5094,13 +5118,13 @@ compartment was soon acquired and used that fire season. The
 superintendent had a half ton Chevrolet pickup. Both vehicles were
 equipped with red light and siren.
 
-The crew's first fire was the Kashmere Fire on July 1^st^. It was a
+The crew's first fire was the Kashmere Fire on July 1st. It was a
 class C fire off the Soledad Road near Action in L.A. County
-jurisdiction. On July 5^th^ the crew's first off forest fire
+jurisdiction. On July 5th the crew's first off forest fire
 assignment was the Skinner Ridge Fire, a class E, in the Little Sur of
 the Los Padres N. F. The crew fought 20 fires in 1970. The five forest
 Hot Shot crews were rotated for off forest assignments. The 1970 fire
-season concluded on November 13^th^ with the 70,000 acre Santa Ana
+season concluded on November 13th with the 70,000 acre Santa Ana
 wind blown Bear Fire on the San Bernardino N.F.
 
 On February 9, 1971 at 6:01 AM the 6.6 magnitude Sylmar earthquake
@@ -5150,9 +5174,9 @@ where Hugh Masterson had lived, would be repaired at a later date and
 used as an interpretative and fire prevention office. This building is
 now part of the District office.
 
-The bids to rebuild came in \$121,000 over the engineers estimate due
+The bids to rebuild came in $121,000 over the engineers estimate due
 to the cost of repairing the water and sewer system. Engineering and
-the District felt Forest Service personnel could do this for \$85,000.
+the District felt Forest Service personnel could do this for $85,000.
 Rod Wrench was placed in charge of repairing the utility system and he
 and Gary Glotfelty started the job in 1972 utilizing a closed circuit
 television system to locate damage in the sewer system and special
@@ -5163,7 +5187,7 @@ storage tank above the station and plumbed it into the old system.
 A well in Merek Creek was installed and plumbed to a pump house that
 is located in front of the district office. The work was completed
 eight months later in 1973. Rod and Gary both received a Special
-Achievement award from the Forest for saving \$50,000 and a job well
+Achievement award from the Forest for saving $50,000 and a job well
 done. District Fire Management Officer Cal Yarbrough was also very
 instrumental in the success of this project.
 
@@ -5355,7 +5379,7 @@ The Oak Grove facility was started as a Civilian Conservation Corps
 camp (CCC), Company 903, Forest Number-133, May 16, 1933. The land
 belonged to the city of Pasadena and the Forest Service, Angeles
 National Forest, entered into a long- term lease agreement with the
-city for \$1, to extend for 99 years.
+city for $1, to extend for 99 years.
 
 Originally, the CCC camp buildings were all constructed of wood. The
 buildings were used as an office, barracks, and for storage space.
@@ -5434,7 +5458,7 @@ would also reduce the funding needed for the repair caused by large
 wildfires. During the mid 70's, flood control funding for the Hotshot
 crews stopped, putting additional pressure on the regional fire
 budget. In the years the Los Angeles River Flood Prevention Act funded
-the fire crews, the allocation of funds was approximately \$1,300,000
+the fire crews, the allocation of funds was approximately $1,300,000
 each year, for a number of years, and helped construct needed
 facilities.
 
@@ -5706,7 +5730,7 @@ the Mi-Wok District Warehouse. In 1991, the crew found a more suitable
 facility in Sonora, where we presently reside.
 
 The crew averages 20-25 fires per season. Employment dates are usually
-from May 1^st^ through November 15^th^. Crew assignments are primarily
+from May 1st through November 15th. Crew assignments are primarily
 throughout the Western United States with extended tours away from the
 duty station.
 
@@ -5896,7 +5920,7 @@ was Brianhead Ski area and a small motel in Parowan, UT from 1989 -
 1991. The crew saw plenty of action while stationed there including
 being the first crew ordered for the Yellowstone fires in 1988. The
 crew spent a week on the Falls Fire west of the south entrance of
-Yellowstone prior to the \" world\" being mobilized. The entire crew
+Yellowstone prior to the "world" being mobilized. The entire crew
 as well as three individuals (Jim Mattingly-Supt., David Niemi-Squad Boss, Bill Moe-EMT) received national commendations for
 life saving actions performed on the Dude Fire in 1990.
 
@@ -5911,7 +5935,7 @@ and extensive time spent in the Salmon River Breaks country of Idaho.
 After the '92 season and a number of bids from various parks to host
 the crew, a decision was made by the NPS National Office at NIFC to
 permanently place the Alpine crew at Rocky Mountain NP. This was based
-on a number of considerations, but of high significance was the park\'
+on a number of considerations, but of high significance was the park'
 s offer to construct new dormitory facilities for a permanent base of
 operations.
 
@@ -6127,7 +6151,7 @@ Year(s) | Superintendent
 2017- present | David Zortman
 
 The Tatanka Hotshot Crew was formed in 1999 on the Black Hills
-National Forest in Custer, SD. Tatanka Hotshots were the 4^th^
+National Forest in Custer, SD. Tatanka Hotshots were the 4th
 Interagency Hotshot Crew in R-2. After working the 1999 fire season as
 a Type 2 IA training crew, Type 1 certification was gained in the
 spring of 2000. The crew was originally housed in a trustee unit on
@@ -6387,7 +6411,7 @@ to recruit individuals who may be interested in pursuing a career in
 fire management.
 
 In early 1997 the Bureau of Land Management announced the
-establishment of a new Type I \"Hotshot\" wildland fire fighting crew
+establishment of a new Type I "Hotshot" wildland fire fighting crew
 in Jackson, Mississippi. While fire suppression was the primary
 function for the Hotshot crew, it was also envisioned that its members
 would be able to gain experience in prescribed fire in the southern
@@ -6588,7 +6612,7 @@ In 1990, the Dude fire struck close to home as the fire, originally on
 the neighboring Tonto National Forest, raced up the Mogollon Rim and
 onto the western part of the Apache- Sitgreaves. An assignment in
 Nevada's giant sage in 1999 resulted in Heber's only burn related
-injuries. Four members of the Heber IHC received 1^st^ and 2^nd^
+injuries. Four members of the Heber IHC received 1st and 2nd
 degree burns to the hands and face as they were retreating to a safety
 zone. The crewmembers, who had forgotten to wear their gloves and
 shrouds, received burns from holding on to tools and saws as they
@@ -6814,7 +6838,7 @@ efforts that stopped the Rodeo-Chediski fire from jumping its
 containment lines that would have done great damage to the communities
 of Show Low and Pinetop, AZ. They were co-grand Marshall's along with
 Rick Lupe at the Annual White Apache Tribal parade. They recently
-celebrated their 25^th^ anniversary as a hotshot crew.
+celebrated their 25th anniversary as a hotshot crew.
 
 From 1992 to 2002 the crew Superintendent was the late Rick Lupe.
 Through his leadership the crew continued the tradition of being a
@@ -6850,7 +6874,7 @@ The Geronimo Interagency Hotshot Crew (IHC) is hosted by the San
 Carlos Apache Tribal Natural Resources Program. The San Carlos Apache
 Reservation is located in Southeastern Arizona. Geronimo IHC began to
 be established as a regular Type 2 Initial Attack Crew in 1987, known
-as the San Carlos \#10. The crew was originally formed from Engine,
+as the San Carlos #10. The crew was originally formed from Engine,
 Helitack, and Type 2 SWFF crew personnel. The late Walt Six Killer was
 the Fire Management Officer (FMO) at the time, and wanted to see a
 hotshot crew established in San Carlos, AZ. The crew worked to become
