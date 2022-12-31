@@ -2,8 +2,7 @@
 
 ![](ihc_sihco.png)
 
-**PRODUCED BY THE NATIONAL INTERAGENCY HOTSHOT CREW STEERING
-COMMITTEE, August 2022**
+**APPROVED AND SUPPORTED BY THE NATIONAL HOTSHOT CREW STEERING COMMITTEE, August 2022**
 
 # Alaska 
 
@@ -126,6 +125,8 @@ Year(s) | Superintendent
 2016 | Jon Glover
 2017-Present | Kris Baumgartner
 
+***Sacrifice. Service. Old School.***
+
 Pioneer Peak IHC is a State of Alaska DNR crew stationed in Palmer
 Alaska. The crew started in the 1980's as a call up emergency
 firefighting crew and were known as the Mat Su Ridge Runners.
@@ -150,8 +151,6 @@ ourselves in operating with an old-school work ethic that encompasses
 the raw toughness and strong mental attitude established by the
 Hotshot Crews before us.
 
-Sacrifice. Service. Old School.
-
 # Eastern Area
 
 ## Midewin
@@ -161,12 +160,8 @@ Sacrifice. Service. Old School.
 Year(s) | Superintendent
 :- | :-
 2001 | Steve Little (detailed)
-2002 | Dave Martin (detailed)
-2002 | Lito Contreras (detailed)
-2002 | Michael Frederick
-2003 | Rich Stiles (detailed)
-2003 | Russell Harris (detailed)
-2003 | Gordon Admundson (detailed)
+2002 | Dave Martin (detailed), Lito Contreras (detailed), Michael Frederick
+2003 | Rich Stiles (detailed), Russell Harris (detailed), Gordon Admundson (detailed)
 2004 | Lito Contreras
 2005-2007 | Bob Little
 2007-? | Jerry Hoffman (detailed)
@@ -805,7 +800,7 @@ Year(s) | Superintendent
 2014-2016 | Craig Cunningham
 2016 | Troy Thomas
 2017-2018 | Jerry Drazinski
-2019 | Vacant
+2019 | vacant
 2020-Present | Chase Maness
 
 Ruby Mountain IHC began as a Type 1 training-crew on May 21st, 2001,
@@ -1066,6 +1061,9 @@ Year(s) | Superintendent
 2006 | Earl Old Chief
 2006-present | Wilbur Nagel
 
+***The strength of the crew is in the individual, and the strength of
+the individual is in the crew***
+
 In 2000, the Chippewa-Cree Tribal Business Committee and Natural
 Resources Department drafted up a proposal for an Inter-Agency Hotshot
 Crew to be based out of the Rocky Boy's Indian Reservation. A formal written request
@@ -1124,14 +1122,9 @@ structure has reverted back to the traditional three squad
 configuration. Juan Gamble was selected as the new Assistant
 Superintendent in December of 2006.
 
-*"The strength of the crew is in the individual, and the strength of
-the individual is in the crew"*
-
-**-Bear Paw IHC Mission Statement**
-
 ## Bison
 
-![](nrcc/nrcc_bison.png)
+![](nrcc/nrcc_bison1.png) ![](nrcc/nrcc_bison2.png)
 
 Year(s) | Superintendent
 :- | :-
@@ -1212,7 +1205,7 @@ Year(s) | Superintendent
 2007 | Matt Gibson*
 2008-present | Jay Wood
 
-\* denotes Detailed
+\* denotes Detailed Superintendents
 
 The Bitterroot Interagency Hotshot Crew was established in 1963.
 Initially called the Bitterroot (Hotshot) Interregional Fire
@@ -1260,6 +1253,8 @@ Year(s) | Superintendent
 1997 | Steve Murray
 1998-Present | Lyle St. Goddard
 
+***PRESERVING THE PAST WHILE BUILDING THE FUTURE***
+
 The Chief Mountain Interagency Hotshot crew is based out of Browning,
 MT on the Blackfeet Reservation. The Chief Mountain crew name was
 acquired by Glen Still Smoking a former Superintendent. Glen came
@@ -1293,8 +1288,6 @@ reportable vehicle accidents by the US Forest Service and Northern
 Rockies Coordinating Group. The Chief Mountain Interagency Hotshot
 Crew has been recognized by several film production companies and
 currently has 2 documentary films completed.
-
-***"PRESERVING THE PAST WHILE BUILDING THE FUTURE"***
 
 ## Flathead
 
@@ -1338,6 +1331,8 @@ beginnings. The current superintendent, crew, and many former members
 were in attendance including former superintendents Bruce McAtee, Paul
 Linse, Don Rees, and Harvey Carr.
 
+![](nrcc/nrcc_flathead_19660610.png)
+
 ## Helena
 
 ![](nrcc/nrcc_helena.png)
@@ -1354,6 +1349,8 @@ Year(s) | Superintendent
 2002-2005 | Rocky Gilbert
 2006 | Kenny Spint (detail)
 2007-present | Fred Thompson
+
+***Opera Non Verba***
 
 2009 marks 38 years of existence of an organized fire suppression crew
 on the Helena NF.
@@ -1432,15 +1429,13 @@ rescue operations, law enforcement assistance, fire training,
 Hurricanes Hugo, Andrew and Georges, wilderness fire management and
 prescribed burning.
 
-***Opera Non Verba***
-
 ## Idaho Panhandle
 
 ![](nrcc/nrcc_idaho_panhandle1.png) ![](nrcc/nrcc_idaho_panhandle2.png)
 
 Year(s) | Superintendent
 :- | :-
-St. Joe IHC | 
+**St. Joe IHC** 
 1967-1969 | Dale Jarrell
 1970-1971 | Mike Cyrus
 1972-1973 | Dennis Johnson
@@ -1452,7 +1447,7 @@ St. Joe IHC |
 1999 | B Hadley Hawkins
 1999-2000 | Lynn Bornitz
 2000 | Rory Laws
-Idaho Panhandle IHC | 
+**Idaho Panhandle IHC**
 2001-2003 | Louis Hartjes
 2004-2008 | Terry Zufelt
 2009-Present | Chris Smith
@@ -1596,10 +1591,8 @@ Year(s) | Superintendent
 ?-? | Steve Karkanen
 2000 | Holly Maloney (Detail)
 ?-2010 | Steve Karkanen
-2010 | Tim Laroche (Detail)
-2011-2017 | Tim LaRoche
-2018 | Shawn Faiella (Detail)
-2019-Present | Shawn Faiella
+2010-2017 | Tim Laroche (2010 Detail)
+2018-Present | Shawn Faiella (2018 Detail)
 
 The Lolo Hotshots have roots in the beginnings of modern-day fire
 suppression history. Although the crew was officially recognized as a
@@ -2192,7 +2185,7 @@ Florida, and Canada.)
 
 ## Warm Springs
 
-![](nwcc/nwcc_warm_springs.png)
+![](nwcc/nwcc_warm_springs.png) ![](nwcc/nwcc_warm_springs_tribe.png)
 
 Year(s) | Superintendent
 :- | :-
@@ -2239,7 +2232,7 @@ community school district FUNCTIONS.
 ## Winema
 
 ![](nwcc/nwcc_winema.png)
-
+s
 Year(s) | Name | Location
 :- | :- | :-
 1962-1969 | Star I.R. Suppression Crew | Applegate RD Rogue River NF
@@ -2436,8 +2429,7 @@ Early 1960s | Don Vandenberg
 1979-1990 | Paul Gleason
 1991-2000 | Gina Papke
 2001-2016 | Diego Mendiola
-2017 | Tomas Rivero
-2017 | James Meisner
+2017 | Tomas Rivero, James Meisner
 2018-Present | Devin Parks
 
 The roots of the Zigzag Interagency Hotshot Crew
@@ -3428,6 +3420,9 @@ Year(s) | Superintendent
 2013-2015 | Tim Memmer
 2016- | Douglas Denlinger
 
+***"The strength of the wolf is in the pack, the strength of the pack is
+in the wolf." (Rudyard Kipling)***
+
 Smith River IHC began with the MEL build up in 2001 as SRF-NRA-Crew-1.
 This ten person IA and Fuels Crew was located just inland from
 Crescent City California in the small town of Gasquet. For several
@@ -3453,11 +3448,6 @@ brings experience from many IHCs from several regions. That
 perspective is an aspect that we feel should remain a part of this
 crew's identity. We strive to be humble and let our line production
 speak for itself.
-
-Our motto is a quote from Rudyard Kipling,
-
-"The strength of the wolf is in the pack, the strength of the pack is
-in the wolf."
 
 ## Tahoe
 
@@ -3607,7 +3597,7 @@ Year(s) | Superintendent
 2009 | Stew Richter (Detailed)
 ?-2015 | Justin Jeude
 2016-2017 | Aaron Utterback
-2018 | Ron Graves (Detailed), Richie Reposa (Detailed)
+2018 | Richie Reposa (Detailed), Ron Graves (Detailed)
 2019-2020 | Richie Reposa
 2021-Present | Tristan Dias
 
@@ -4397,11 +4387,13 @@ Year(s) | Superintendent
 1976-1977 | Gary Lange
 1978-1997 | Ron Regan (retired in place)
 1997-1998 | Scott Wagner (detailed in 97-became the Supt in 1998)
-1999-2004  Jeff Koenig (detailed in 99-became the Supt in 2000)
+1999-2004 | Jeff Koenig (detailed in 99-became the Supt in 2000)
 2004 | Frank Esposito (Detailed)
 2005-2013 | Jim Tomaselli
 2013-2018 | Neil Gamboa
 2018-Present | David Borero
+
+***Duty Respect Integrity*** 
 
 In 1945 the C.C.C. Civilian Conservation Corps were stationed at the
 Del Rosa work center, at this camp were many crews working at various
@@ -4445,8 +4437,6 @@ I have many old pictures of the crew during the 60s if anyone is
 interested. 928-718-1826
 
 Jerry Horine, Retired
-
-***Duty Respect Integrity*** 
 
 ## El Cariso
 
@@ -4610,6 +4600,8 @@ Year(s) | Superintendent
 2014-2019 | Rick "Mad" Madrigal 
 2019-Present | Robert Villegas
 
+***"PRESERVING THE LAND AND THE PEOPLE"***
+
 The Sycuan Fire Department / BIA ***GOLDEN EAGLES HOTSHOTS*** is one
 of seven BIA NIFC funded crews in the United States. The crew is the
 only BIA crew in the state of California assigned to the Pacific
@@ -4695,22 +4687,20 @@ EAGLES*** as a fully qualified Interagency Hotshot Crew. The BIA,
 National Interagency Fire Center concurred with the certification that
 same month.
 
-***"PRESERVING THE LAND AND THE PEOPLE"***
-
 ## Groveland
 
 ![](oscc/oscc_groveland.png)
 
 Year(s) | Superintendent
 :- | :-
-Crew 4 Supervisors | 
+**Crew 4 Supervisors**
 1988 | Mike Lanier
 1989 | Ron Garcia (Buck Meadows), Steve Nestor (Cherry Lake)
 1990-1994 | Ron Garcia
 1995 | Mike Lanier
 1996-2000 | Sam Cousins
 2000-2002 | Mike Lanier
-Groveland Hotshot Superintendents |
+**Groveland Hotshot Superintendents**
 2003-2010 | Mike Lanier (retired in place)
 2011-Present | Pat Laeng
 
@@ -5027,7 +5017,7 @@ and Clovis approximately 40 miles. The work center is shared with
 Sierra Helitack 520, Engine 41, Prevention units along with
 miscellaneous district personnel.
 
-##Laguna
+## Laguna
 
 ![](oscc/oscc_laguna.png)
 
@@ -5075,12 +5065,6 @@ Year(s) | Superintendent
 2012-2014 | Alexander Liau
 2014-2018 | Oscar Vargas
 2018-Present | Joseph "JB" Button
-
-THIS IS THE HISTORY OF THE EARLY YEARS OF THE LITTLE TUJUNGA HOT SHOTS
-OF THE TUJUNGA RANGER DISTRICT ANGELES NATIONAL FOREST
-
-BY ROD WRENCH RETIRED DIVISION CHIEF, SAN JACINTO R.D., SAN BERNARDINO
-N.F.
 
 Following the devastating flood of 1934 the Flood Control Act of 1936
 was enacted by the
@@ -5237,6 +5221,9 @@ Center. In 2007 they were reestablished. The Little Tujunga Hotshot
 crew is now well reestablished in its original Hotshot Base at Little
 Tujunga station that was built for the crew in the 1970's and is no
 longer co-located with the training center
+
+***BY ROD WRENCH RETIRED DIVISION CHIEF, SAN JACINTO R.D., SAN BERNARDINO
+N.F.***
 
 ## Los Padres
 
@@ -5707,7 +5694,7 @@ Year(s) | Superintendent
 2006-2007 | Felix Berbina 
 2007-Present | Shawn Baker
 
-**Motto: Semestris Heros**
+***Semestris Heros***
 
 In 1974 the Stanislaus Hotshot Crew was established under the
 direction of Charlie Gripp. The crew was based at Long Barn Elementary
@@ -5910,8 +5897,7 @@ was Brianhead Ski area and a small motel in Parowan, UT from 1989 -
 being the first crew ordered for the Yellowstone fires in 1988. The
 crew spent a week on the Falls Fire west of the south entrance of
 Yellowstone prior to the \" world\" being mobilized. The entire crew
-as well as three individuals (Jim Mattingly -- Supt., David Niemi
-- Squad Boss, Bill Moe -- EMT) received national commendations for
+as well as three individuals (Jim Mattingly-Supt., David Niemi-Squad Boss, Bill Moe-EMT) received national commendations for
 life saving actions performed on the Dude Fire in 1990.
 
 Because Zion could not provide permanent housing for the crew a
@@ -5948,8 +5934,7 @@ experienced a record fire year.
 Year(s) | Superintendent
 :- | :-
 2001-2003 | Stuart Gore
-2004 | Shawn Telford (detail)
-2004 | Miles Ellis (detail)
+2004 | Shawn Telford (detail), Miles Ellis (detail)
 2005-2013 | Shawn Telford
 2014-2018 | Sean Carey
 2018-2019 | Caleb Meyer
@@ -6932,7 +6917,7 @@ Guide.
 
 ## Gila
 
-![](swcc/swcc_gila.png
+![](swcc/swcc_gila.png)
 
 Year(s) | Superintendent
 :- | :-
@@ -7114,6 +7099,8 @@ Year(s) | Superintendent
 ? | Tim McElwee
 ?-2013 | Eric Marsh
 
+***Esse Quam Videri (To be, rather than to seem)***
+
 In the spring of 1990, the City Manager of Prescott, Forest Supervisor
 of the Prescott National Forest, and Prescott Fire Department Staff
 met to discuss the potential for a devastating wildfire that could
@@ -7189,10 +7176,6 @@ certification as an Interagency Hotshot Crew. A short "ceremony"
 ensued where the't' that stood for trainee on the back of the
 Superintendent's truck was scraped off, finally reading Granite
 Mountain IHC.
-
-*"Esse Quam Videri"*
-
-*"To be, rather than to seem"*
 
 In 2008 Crew 7, the fire and fuels contract crew hosted by Prescott
 Fire Department became officially certified as the Granite Mountain
@@ -7365,7 +7348,7 @@ Year(s) | Superintendent
 1977 | Robert Jones
 1978-1979 | Bob Ortlund
 1980 | Fred Schoeffler
-1981-1987 | Ben Cline
+1981-1987? | Ben Cline
 1986 | Greg Stoyer, Jon Selby (Off forest assignments)
 1988-1994 | Jeff Prevéy
 1995 | Bill Matney 
@@ -7377,6 +7360,7 @@ Year(s) | Superintendent
 2008-2009 | Andy Bernard
 2010-? | Patrick Moore (2010 detail)
 2020 | Tyler Chesarek (detail-Moore injured)
+2020-Current | Patrick Moore
 
 ***Duty, Respect, and Integrity***
 
@@ -7746,7 +7730,7 @@ elite, professional, and outstanding crew of Wildland Firefighters.
 
 Year(s) | Superintendent
 :- | :-
-Catalina | 
+**Catalina Superintendents** 
 1973-1974 | Greg Greenhoe
 1974 | Andy Traverse
 1975 | Steve Gunzel
@@ -7754,7 +7738,7 @@ Catalina |
 1978-1980| Scott Parsons
 1980-1981| Steve Palmer
 1981-1982| George Kleindienst
-Sacramento | 
+**Sacramento Superintendents**
 1982-1984 | George Kleindienst
 1984| Jerry Grim
 1985-1987| Bob Pena
