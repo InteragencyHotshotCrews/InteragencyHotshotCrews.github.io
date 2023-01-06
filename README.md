@@ -1,4 +1,4 @@
-# [Interagency Hotshot Crews History](https://github.com/InteragencyHotshotCrews/History/blob/main/Interagency_Hotshot_Crews_History.md)
+# [Interagency Hotshot Crews History](https://github.com/InteragencyHotshotCrews/History/blob/main/Interagency_Hotshot_Crews_History.md) ![GitHub release (by tag)](https://img.shields.io/github/downloads/InteragencyHotshotCrews/InteragencyHotshotCrews.github.io/v2022/total?style=social)
 
 Welcome to the *new* home of the Interagency Hotshot Crews History. Please update your links to this *authoritative* source.
 
