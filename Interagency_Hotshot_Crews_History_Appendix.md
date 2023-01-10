@@ -2,6 +2,19 @@
 
 ## The Hotshot Women
 
+***[This document contains many of the notable women in the
+Hotshot]{.underline} [community and is a continued work-in-progress by
+way of discovery]{.underline} [and individual input. We are very aware
+there are many other]{.underline} [notable women that were some of the
+first Hotshots of their time, so,]{.underline} [we could use your help
+with more discovery, photos and their]{.underline}
+[career(s).]{.underline}***
+
+***[Respectfully,]{.underline}***
+
+David Provencio,
+[[mso\_1977\@me.com]{.underline}](mailto:mso_1977@me.com)
+
 **1976** - **Sue Husari** - first woman hotshot - Lassen Hotshots in
 Region 5 Regional Fire Management Officer, Pacific West Region NPS
 Acting Associate Regional Director Communications, NPS
@@ -138,19 +151,6 @@ later. I think it was more pressure from management. The Civil Rights
 Act really put pressure on the agencies to hire minorities - women,
 Hispanics, African Americans, etc, which began around 1971. I have
 found that documented."*
-
-***[This document contains many of the notable women in the
-Hotshot]{.underline} [community and is a continued work-in-progress by
-way of discovery]{.underline} [and individual input. We are very aware
-there are many other]{.underline} [notable women that were some of the
-first Hotshots of their time, so,]{.underline} [we could use your help
-with more discovery, photos and their]{.underline}
-[career(s).]{.underline}***
-
-***[Respectfully,]{.underline}***
-
-David Provencio,
-[[mso\_1977\@me.com]{.underline}](mailto:mso_1977@me.com)
 
 ## Historical Articles
 
