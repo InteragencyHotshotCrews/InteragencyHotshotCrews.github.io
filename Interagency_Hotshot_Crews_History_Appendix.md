@@ -15,6 +15,19 @@ with more discovery, photos and their]{.underline}
 David Provencio,
 [[mso\_1977\@me.com]{.underline}](mailto:mso_1977@me.com)
 
+**[Note from Carol Henson, Bear Divide Captain who will soon have a
+book published for all to]{.underline} [read about the women in the
+Fire Service:]{.underline}**
+
+*"I did a lot of research and didn\'t come across anything that
+mentions a requirement hiring of women, especially around 1978. Of
+course, the Bernardi case that created the consent decree in Region 5
+started around 1979, but it didn\'t affect hiring until many years
+later. I think it was more pressure from management. The Civil Rights
+Act really put pressure on the agencies to hire minorities - women,
+Hispanics, African Americans, etc, which began around 1971. I have
+found that documented."*
+
 **1976** - **Sue Husari** - first woman hotshot - Lassen Hotshots in
 Region 5 Regional Fire Management Officer, Pacific West Region NPS
 Acting Associate Regional Director Communications, NPS
@@ -138,19 +151,6 @@ Heli-tack. Heli-tack Supervisor (1989-1995)
 height="2.898020559930009in"}
 
 **Laurie Perrett (researching) Bequi Livingston (researching)**
-
-**[Note from Carol Henson, Bear Divide Captain who will soon have a
-book published for all to]{.underline} [read about the women in the
-Fire Service:]{.underline}**
-
-*"I did a lot of research and didn\'t come across anything that
-mentions a requirement hiring of women, especially around 1978. Of
-course, the Bernardi case that created the consent decree in Region 5
-started around 1979, but it didn\'t affect hiring until many years
-later. I think it was more pressure from management. The Civil Rights
-Act really put pressure on the agencies to hire minorities - women,
-Hispanics, African Americans, etc, which began around 1971. I have
-found that documented."*
 
 ## Historical Articles
 
